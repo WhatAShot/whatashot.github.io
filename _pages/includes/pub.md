@@ -90,11 +90,8 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 - **GLOM insights**: In the idea of <span style="color:SeaGreen">GLOM</span>, modeling object whole requires position auto-encoding and representation learning of object parts. An ECG view illustrates partial ECG waves of whole heartbeat signal. It is a degeneration problem of GLOM, because the *position* for recording one ECG view (object part) is is well defined and relatively simple, while in a standard GLOM problem the definite positional relations between object parts and whole are complex and not given. In this degeneration problem, the proposed model Nef-Net generalizes well on dealing with the part-whole position relation and part-whole representation relation.
 </div>
-<div class='paper-box' markdown="1">
-[Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf)\\
-**Jintai Chen**$$^+$$, Xiangshang Zheng$$^+$$, Hongyun Yu$$^+$$, Danny Z. Chen, Jian Wu$$^*$$
 
-[\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama)
+[Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf), **Jintai Chen**$$^+$$, Xiangshang Zheng$$^+$$, Hongyun Yu$$^+$$, Danny Z. Chen, Jian Wu$$^*$$, **International Joint Conference on Artificial Intelligence**, 2021,  [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama)
 
 - **Academic Impact**: It is the first to provide the concept of *Electrocardio panorama*, which allows visualizing the ECG signals from any viewpoints. Thus, our work benefits (i) Panoramic observations of heartbeat signals; (ii) Transformation among different ECG recording systems; (iii) Waveform-aligned Mixup on ECG signals for data augmentation; (iv) New multi-view ECG signal synthesis from scratch.
 - **New Data Annotations**: We provided ECG wave segmentation annotations for Tianchi ECG dataset and PTB dataset.
