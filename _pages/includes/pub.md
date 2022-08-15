@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# 📄 Publications 
 ## 🎙 Speech Synthesis
 
 
