@@ -35,6 +35,10 @@
 
 - [ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf), **Jintai Chen**$$^+$$, Kuanlun Liao$$^+$$, Kun Wei, Haochao Ying, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
 
+- [Doctor imitator: A graph-based bone age assessment framework using hand radiographs](https://arxiv.org/pdf/2102.05424.pdf) **Jintai Chen**$$^+$$, Bohan Yu$$^+$$, Biwen Lei$$^+$$, Ruiwei Feng, Danny Z. Chen, and Jian Wu$$^*$$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020
+
+- Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation Yixuan Wu, Bo Zheng, **Jintai Chen**, Danny Z Chen, Jian Wu$$^*$$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2022
+
 - [D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation](https://arxiv.org/pdf/2201.00462.pdf), Yixuan Wu, Kuanlun Liao, **Jintai Chen**, Danny Z Chen, Jinhong Wang, Honghao Gao$$^*$$, Jian Wu$$^*$$.
 
 - [A Corresponding Region Fusion Framework for Multi-modal Cervical Lesion Detection](https://ieeexplore.ieee.org/abstract/document/9784879), Tingting Chen, Wenhao Zheng, Heping Hu, Chunhua Luo, **Jintai Chen**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Honghao Gao, Jian Wu$$^*$$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2022, [\[**Code**\]](https://github.com/alwaysbyx/ecg_processing)
