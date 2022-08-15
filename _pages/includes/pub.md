@@ -10,7 +10,7 @@
 <div markdown="1">
 [Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf), **Jintai Chen**$$^+$$, Xiangshang Zheng$$^+$$, Hongyun Yu$$^+$$, Danny Z. Chen, Jian Wu$$^*$$, **International Joint Conference on Artificial Intelligence (IJCAI)**, 2021, [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama)
 
-- **Academic Impact**: It is the first to provide the concept of *Electrocardio panorama*, which allows visualizing the ECG signals from any viewpoints. Thus, our work benefits (i) Panoramic observations of heartbeat signals; (ii) Transformation among different ECG recording systems; (iii) Waveform-aligned Mixup on ECG signals for data augmentation; (iv) New multi-view ECG signal synthesis from scratch. <span style="color:red">(PS: this paper got 7, 9, 10 of 10 in the review)</span>
+- **Academic Impact**: It is the first to provide the concept of *Electrocardio panorama*, which allows visualizing the ECG signals from any viewpoints. Thus, our work benefits (i) Panoramic observations of heartbeat signals; (ii) Transformation among different ECG recording systems; (iii) Waveform-aligned Mixup on ECG signals for data augmentation; (iv) New multi-view ECG signal synthesis from scratch. <span style="color:red">(PS: this paper got scores 7, 9, 10 of 10 in the review)</span>
 </div>
 </div>
 
