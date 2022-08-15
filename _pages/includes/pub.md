@@ -85,7 +85,6 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021</div><img src='images/EP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf)\\
 **Jintai Chen**$$^+$$, Xiangshang Zheng$$^+$$, Hongyun Yu$$^+$$, Danny Z. Chen, Jian Wu$$^*$$
   
@@ -96,7 +95,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - **Exposure**: Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/nUOQjLzE7LPCizVAZJtA6Q), [澎湃](https://www.thepaper.cn/newsDetail_forward_13432066), [AI研习社](https://www.yanxishe.com/reportDetail/27449).
 </div>
 <div><strong><span style="color:SeaGreen">GLOM insights</span></strong>
-Modeling object whole requires position auto-encoding and representation learning of object parts. An ECG view illustrates partial ECG waves of whole heartbeat signal. It is a degeneration problem of GLOM, because the *position* for recording one ECG view (object part) is is well defined and relatively simple, while in a standard GLOM problem the definite positional relations between object parts and whole are complex and not given. In this degeneration problem, the proposed model Nef-Net generalizes well on dealing with the part-whole position relation and part-whole representation relation.
+: Modeling object whole requires position auto-encoding and representation learning of object parts. An ECG view illustrates partial ECG waves of whole heartbeat signal. It is a degeneration problem of GLOM, because the *position* for recording one ECG view (object part) is is well defined and relatively simple, while in a standard GLOM problem the definite positional relations between object parts and whole are complex and not given. In this degeneration problem, the proposed model Nef-Net generalizes well on dealing with the part-whole position relation and part-whole representation relation.
 </div>
 </div>
   
