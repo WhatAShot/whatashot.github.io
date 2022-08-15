@@ -47,7 +47,7 @@
 
 - [A semi-supervised deep convolutional framework for signet ring cell detection](https://www.sciencedirect.com/science/article/pii/S0925231221000941), Haochao Ying, Qingyu Song, **Jintai Chen**, Tingting Liang, Jingjing Gu, Fuzhen Zhuang, Danny Z Chen, Jian Wu$$^*$$, **Neurocomputing**, 2021, [\[**Code**\]](https://github.com/ooooverflow/DigestPath2019)
 
-- [Interactive few-shot learning: Limited supervision, better medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9358206), Ruiwei Feng, Xiangshang Zheng, Tianxiang Gao, **Jintai Chen**, Wenzhe Wang, Danny Z Chen, Jian Wu$$^*$$, **IEEE Transactions on Medical Imaging (TMI)**, 2021, [\[**Code**\]](https://github.com/ooooverflow/DigestPath2019)
+- [Interactive few-shot learning: Limited supervision, better medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9358206), Ruiwei Feng, Xiangshang Zheng, Tianxiang Gao, **Jintai Chen**, Wenzhe Wang, Danny Z Chen, Jian Wu$$^*$$, **IEEE Transactions on Medical Imaging (TMI)**, 2021
 
 - [A transfer learning based super-resolution microscopy for biopsy slice images: the joint methods perspective](https://ieeexplore.ieee.org/abstract/document/9082112) **Jintai Chen**, Haochao Ying, Xuechen Liu, Jingjing Gu, Ruiwei Feng, Tingting Chen, Honghao Gao, Jian Wu$$^*$$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2020
 
