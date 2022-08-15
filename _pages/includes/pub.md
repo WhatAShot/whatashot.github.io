@@ -97,6 +97,8 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 <div class='paper-box-text' markdown="1">
 Modeling object whole requires position auto-encoding and representation learning of object parts. An ECG view illustrates partial ECG waves of whole heartbeat signal. It is a degeneration problem of GLOM, because the *position* for recording one ECG view (object part) is is well defined and relatively simple, while in a standard GLOM problem the definite positional relations between object parts and whole are complex and not given. In this degeneration problem, the proposed model Nef-Net generalizes well on dealing with the part-whole position relation and part-whole representation relation.
 </div>
+</div>
+ 
 
 - [ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf), **Jintai Chen**$$^+$$, Kuanlun Liao$$^+$$, Kun Wei, Haochao Ying, Danny Z Chen, Jian Wu, **International Conference on Machine Learning**, 2022
 
