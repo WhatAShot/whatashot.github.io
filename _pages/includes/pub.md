@@ -82,9 +82,8 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, Di He, Tao Qin, Zhou Zhao, Tie-Yan Liu, **ICLR 2019**
 
 
-## 🎼 Music Generation 
-- [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, Wei Ye, Shikun Zhang, Tao Qin, **AAAI 2021**
-- [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, Tao Qin, Zhou Zhao, Tie-Yan Liu, **ACM-MM 2020** <span style="color:red">(Oral)</span> \| [**Project**](https://speechresearch.github.io/popmag/)
+## AI for Medicine
+- [A Corresponding Region Fusion Framework for Multi-modal Cervical Lesion Detection](https://ieeexplore.ieee.org/abstract/document/9784879), Tingting Chen, Wenhao Zheng, Heping Hu, Chunhua Luo, **Jintai Chen**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Honghao Gao, Jian Wu^\dag, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, 2022
 
 ## 🧑‍🎨 Generative Model
 - [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao, **ICLR 2022** \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
