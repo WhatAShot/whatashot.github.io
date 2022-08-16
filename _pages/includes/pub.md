@@ -2,7 +2,6 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021</div><img src='images/EP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 - **New Data Annotations**: We provided ECG wave segmentation annotations for Tianchi ECG dataset and PTB dataset.
 - **Exposure**: Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/nUOQjLzE7LPCizVAZJtA6Q), [专知](https://www.zhuanzhi.ai/document/2641de7df0eabfe36f40fd30fa33d848), [澎湃](https://www.thepaper.cn/newsDetail_forward_13432066), [AI研习社](https://www.yanxishe.com/reportDetail/27449).
 - **<span style="color:SeaGreen">GLOM insights</span>**: In the idea of <span style="color:SeaGreen">GLOM</span>, modeling object whole presents a general approach for position auto-encoding and representation learning of object parts. An ECG view illustrates partial ECG waves of whole heartbeat signal. It is a degeneration problem of GLOM, because the *position* for recording one ECG view (object part) is is well defined and relatively simple, while in a standard GLOM problem the definite positional relations between object parts and whole are complex and not given. In this degeneration problem, the proposed model Nef-Net generalizes well on learning the part-whole position relation and representation relation.
@@ -10,7 +9,7 @@
 <div markdown="1">
 [Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf)[<span style="color:SeaGreen">GLOM</span>, <span style="color:#FC6A03;">DD (Sparse Recon.)</span>, <span style="color:#D70761;">M-AI</span>], **Jintai Chen**$$^+$$, Xiangshang Zheng$$^+$$, Hongyun Yu$$^+$$, Danny Z. Chen, Jian Wu$$^*$$, **International Joint Conference on Artificial Intelligence (IJCAI)**, 2021, [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama)
 
-- **Academic Impact**: It is the first to provide the concept of *Electrocardio panorama*, which allows visualizing the ECG signals from any viewpoints. Thus, our work benefits (i) Panoramic observations of heartbeat signals; (ii) Transformation among different ECG recording systems; (iii) Waveform-aligned Mixup on ECG signals for data augmentation; (iv) New multi-view ECG signal synthesis from scratch. <span style="color:red">(PS: this paper got scores 7, 9, 10 of 10 in the double-blind review)</span>
+- **Academic Impact**: It is the first work that raises the concept of *Electrocardio panorama*, which allows visualizing heartbeat signals (ECG signals) from any viewpoints. Thus, our work benefits (i) Panoramic observations of heartbeat signals; (ii) Transformation among different ECG recording systems; (iii) Waveform-aligned Mixup on ECG signals for data augmentation; (iv) New multi-view ECG signal synthesis from scratch (v) Corrupted ECG view reconstruction. <span style="color:red">(PS: this paper got scores 7, 9, 10 of 10 in the double-blind review)</span>
 </div>
 </div>
 
