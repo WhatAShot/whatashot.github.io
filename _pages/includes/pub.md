@@ -35,7 +35,7 @@
 <div class='paper-box-text' markdown="1">
 
 - This work provides a FCN backbone with a kind of new efficient location-aware graph convolution for 3D detection in point cloud, and predicts the 3D object centers by voting from hierarchical feature levels. It is also observed that our method is more sensitive than the official manual annotations.
-- **<span style="color:SeaGreen">Insights of GLOM</span>**: Point cloud is a natural scenario to explore part-whole relation modeling. The point-wise MLP (in PointNet++) for point features agglomeration neglected the detailed location information, and we quantize the location information by only **one** scalar feature in the proposed graph convolution and obtain the performance gain over 1% mAP.
+- **<span style="color:SeaGreen">Insights of GLOM</span>**: Point cloud is a natural scenario to explore part-whole relation modeling. The point-wise MLP (in PointNet++) for point features agglomeration neglected the detailed location information, and we quantize the location information using only **one** scalar feature in the proposed graph convolution and obtain the performance gain over 1% mAP.
 </div>
 <div markdown="1">
  [A hierarchical graph network for 3D object detection on point clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf)[<span style="color:SeaGreen">GLOM</span>, <span style="color:#8866FF;">CV (Detection)</span>, <span style="color:#FC6A03;">DD (Point clouds)</span>], **Jintai Chen**, Biwen Lei, Qingyu Song, Haochao Ying, Danny Z Chen, Jian Wu, **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2020
@@ -44,7 +44,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/AAAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[DANETs: Deep Abstract Networks for Tabular Data Classification and Regression](https://ojs.aaai.org/index.php/AAAI/article/view/20309/20068)[<span style="color:SeaGreen">GLOM</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#FC6A03;">DD (tabular learning)</span>], **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Z Chen, Jian Wu, **AAAI**, 2022, [\[**Code**\]]https://github.com/WhatAShot/DANet
+[DANETs: Deep Abstract Networks for Tabular Data Classification and Regression](https://ojs.aaai.org/index.php/AAAI/article/view/20309/20068)[<span style="color:SeaGreen">GLOM</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#FC6A03;">DD (tabular learning)</span>], **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Z Chen, Jian Wu, **AAAI**, 2022, [\[**Code**\]](https://github.com/WhatAShot/DANet)
 
 - This work raises a principle "group & abstract" for tabular learning, and explore the impacts of model depth for tabular data processing.
 - **<span style="color:SeaGreen">Insights of GLOM</span>**: tabular data is natively discrete, and we explore the semantic aggregation path from part to whole by designing an optimizable object part searching approach.
