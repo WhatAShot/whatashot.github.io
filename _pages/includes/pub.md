@@ -28,7 +28,7 @@
 - **<span style="color:SeaGreen">Insights of GLOM</span>**: Point cloud is a natural scenario to explore part-whole relation modeling. The point-wise MLP (in PointNet++) for point features agglomeration neglected the detailed location information, and we quantize the location information in only **one** scalar feature space and obtain the performance gain over 1\% mAP.
 </div>
 <div markdown="1">
- [A hierarchical graph network for 3D object detection on point clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf)[<span style="color:SeaGreen">GLOM</span>, <span style="color:#8866FF;">CV (Detection)</span>, <span style="color:#FC6A03;">DD (Point clouds)</span>], Jintai Chen, Biwen Lei, Qingyu Song, Haochao Ying, Danny Z Chen, Jian Wu, **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2020
+ [A hierarchical graph network for 3D object detection on point clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf)[<span style="color:SeaGreen">GLOM</span>, <span style="color:#8866FF;">CV (Detection)</span>, <span style="color:#FC6A03;">DD (Point clouds)</span>], **Jintai Chen**, Biwen Lei, Qingyu Song, Haochao Ying, Danny Z Chen, Jian Wu, **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2020
 </div>
 </div>
 
