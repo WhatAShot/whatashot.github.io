@@ -27,7 +27,7 @@
 <div class='paper-box-text' markdown="1">
 [ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf)[<span style="color:SeaGreen">GLOM</span>, <span style="color:RoyalBlue">DLA-D (GAN)</span>, <span style="color:#FC6A03;">DD (Sparse Recon.)</span>, <span style="color:#D70761;">M-AI</span>], **Jintai Chen**$$^+$$, Kuanlun Liao$$^+$$, Kun Wei, Haochao Ying, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
 
-- This work is the follow-up of Nef-Net and presents the same <span style="color:SeaGreen">GLOM insight</span>, and is the first GAN to synthesize multi-view ECG signals by primarily synthesizing the stereo ECG representation.
+- This work is the follow-up of Nef-Net and follows the same <span style="color:SeaGreen">GLOM insight</span>, and is the first GAN to synthesize multi-view ECG signals by primarily synthesizing the stereo ECG representation.
 </div>
 </div>
 
