@@ -42,6 +42,15 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/AAAI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[DANETs: Deep Abstract Networks for Tabular Data Classification and Regression](https://arxiv.org/pdf/2112.02962.pdf)[<span style="color:SeaGreen">GLOM</span>, <span style="color:RoyalBlue">DLA-D (GAN)</span>, <span style="color:#FC6A03;">DD (Sparse Recon.)</span>], **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Z Chen, Jian Wu, **AAAI Conference on Artificial Intelligence (AAAI)**, 2022
+
+- **Academic Impact**: This work proposes a principle "group & abstract" for tabular learning, and explore the impacts of model depth for tabular data processing.
+- **<span style="color:SeaGreen">Insights of GLOM</span>**: tabular data is natively discrete, and we explore the semantic aggregation path from part to whole by designing an optimizable object part searching approach.
+</div>
+</div>
+
 - [Doctor imitator: A graph-based bone age assessment framework using hand radiographs](https://arxiv.org/pdf/2102.05424.pdf)[<span style="color:SeaGreen">GLOM</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#8866FF;">CV</span>, <span style="color:#FC6A03;">DD (GNN)</span>, <span style="color:#D70761;">M-AI</span>], **Jintai Chen**$$^+$$, Bohan Yu$$^+$$, Biwen Lei$$^+$$, Ruiwei Feng, Danny Z. Chen, and Jian Wu$$^*$$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020
 
 - Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation[<span style="color:#8866FF;">CV (Segmentation)</span>, <span style="color:#D70761;">M-AI</span>], Yixuan Wu, Bo Zheng, **Jintai Chen**, Danny Z Chen, Jian Wu$$^*$$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2022
