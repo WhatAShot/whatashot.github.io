@@ -1,10 +1,18 @@
 # 📄 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022</div><img src='images/ME-GAN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A hierarchical graph network for 3D object detection on point clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf)[<span style="color:#8866FF;">CV (Detection)</span>, <span style="color:#FC6A03;">DD (Point clouds)</span>], Jintai Chen, Biwen Lei, Qingyu Song, Haochao Ying, Danny Z Chen, Jian Wu, **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2020
+
+- This work provided a new backbone for 3D detection in point cloud.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021</div><img src='images/EP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **New Data Annotations**: We provided ECG wave segmentation annotations for Tianchi ECG dataset and PTB dataset.
 - **Exposure**: Our work is promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/nUOQjLzE7LPCizVAZJtA6Q), [专知](https://www.zhuanzhi.ai/document/2641de7df0eabfe36f40fd30fa33d848), [澎湃](https://www.thepaper.cn/newsDetail_forward_13432066), [AI研习社](https://www.yanxishe.com/reportDetail/27449).
-- **<span style="color:SeaGreen">GLOM insights</span>**: The consensus view of <span style="color:SeaGreen">GLOM</span> considers to represent object whole by encoding positions and representations of object parts in a general approach. In our case, an ECG view represents partial ECG waves of whole heartbeat signal. It is a simple situation for GLOM, because the *position* for recording one ECG view (object part) is pre-given and fixed, while in a more complex situation the positional relations between object parts and whole are ambiguous. In the simple setting, the proposed model generalizes well on learning whole heartbeat from sparse ECG signals. The pre-given and clear ECG viewpoints (i.e., positions) is the fundament of success in part-whole relation generalization, and we will keep on exploring the flexible positional encoding approach.
+- **<span style="color:SeaGreen">GLOM insights</span>**: The consensus view of GLOM considers to represent object whole by encoding locations and representations of object parts in a general approach. In our case, an ECG view represents partial ECG waves of whole heartbeat signal. It is a simple situation for GLOM, because the *location* for recording one ECG view (object part) is pre-given and fixed, while in a more complex situation the location relations between object parts and whole are ambiguous. In the simple setting, the proposed model, a less pure version of GLOM, generalizes well on learning whole heartbeat from sparse ECG signals. The pre-given and clear ECG viewpoints (i.e., locations) is the fundament of success in part-whole relation generalization, and more complicated location is still open. But for the relations of one single ECG view and the whole heartbeat signal, the locations of detailed waves are complicated and well captured by the model.
 </div>
 <div markdown="1">
 [Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf)[<span style="color:SeaGreen">GLOM</span>, <span style="color:#FC6A03;">DD (Sparse Recon.)</span>, <span style="color:#D70761;">M-AI</span>], **Jintai Chen**$$^+$$, Xiangshang Zheng$$^+$$, Hongyun Yu$$^+$$, Danny Z. Chen, Jian Wu$$^*$$, **International Joint Conference on Artificial Intelligence (IJCAI)**, 2021, [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama)
