@@ -13,13 +13,13 @@ main:
     url: "/#-educations"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#-educations"
 
   - title: "Teaching"
-    url: "/#-teaching"
+    url: "/#-educations"
   
   - title: "Reviews"
-    url: "/#-reviews"
+    url: "/#-educations"
   
   - title: "Visiting"
-    url: "/#-visiting"
+    url: "/#-educations"
