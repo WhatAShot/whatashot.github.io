@@ -6,7 +6,7 @@
 <div markdown="1">
 [A Receptor Skeleton for Capsule Neural Networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf)[<span style="color:SeaGreen">GLOM</span>, <span style="color:#8866FF;">CV</span>], **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$$^*$$, **International Conference on Machine Learning (ICML)**, 2020
 
-- Motivated by how neuron cells work and collaborate, the proposed new capsule structure is equipped with a transmitter and several optimizable receptors, and a capsule works like a neuron cell (i.e., transmitters compress a capsule feauture and send the compressed feature to the higher level, and receptors of higher-level capsules semantically match the "right" object parts). The novel skeleton oragnizes the new capsules to execute agglomerative hierachical clustering for capsule features like a nervous system, without iteractive process.
+- Motivated by how neuron cells work and collaborate, the proposed new capsule structure is equipped with a transmitter and several optimizable receptors, and a capsule works like a neuron cell (i.e., transmitters compress a capsule feauture and send the compressed feature to the higher level, and receptors of higher-level capsules semantically match the "right" object parts). The novel skeleton oragnizes all capsules jointly, like a nervous system, to execute an agglomerative hierachical clustering, without iteractive process.
 </div>
 </div>
 
