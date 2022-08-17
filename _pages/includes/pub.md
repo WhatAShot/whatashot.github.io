@@ -25,8 +25,7 @@
 <div class='paper-box-text' markdown="1">
 [A hierarchical graph network for 3D object detection on point clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf)[<span style="color:#8866FF;">CV (Detection)</span>, <span style="color:#FC6A03;">DD (Point clouds)</span>], Jintai Chen, Biwen Lei, Qingyu Song, Haochao Ying, Danny Z Chen, Jian Wu, **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2020
 
-- This work provides the FCN backbone with a new efficient GCN for 3D detection in point cloud, and predicts the 3D object centers by voting from hierarchical feature maps.
-- It is observed that our method is more sensitive than the official manual annotations.
+- This work provides the FCN backbone with a new efficient GCN for 3D detection in point cloud, and predicts the 3D object centers by voting from hierarchical feature maps. It is also observed that our method is more sensitive than the official manual annotations.
 </div>
 </div>
 
