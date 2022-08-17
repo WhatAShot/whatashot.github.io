@@ -6,7 +6,7 @@
 # 💬 Invited Talks
 - *2022.06*, Tabular Data Processing, UberAI internal talk
 
-# :man_teacher: Teaching Experience
+# 🏫 Teaching
 - *Fall 2022*, Frontiers of Medical Artificial Intelligence (lesson preparation, teaching assistant)
 
 # 🔎 Reviews:
