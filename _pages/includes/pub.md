@@ -1,13 +1,12 @@
 # 📄 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/ICML21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- **Exposure**: Our work is promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/nUOQjLzE7LPCizVAZJtA6Q), [专知](https://www.zhuanzhi.ai/document/2641de7df0eabfe36f40fd30fa33d848), [澎湃](https://www.thepaper.cn/newsDetail_forward_13432066), [AI研习社](https://www.yanxishe.com/reportDetail/27449).
-- **<span style="color:SeaGreen">Insights of GLOM</span>**: The consensus view of GLOM considers to represent object whole by encoding locations and representations of object parts in a general approach. In our case, an ECG view represents partial ECG waves of whole heartbeat signal. It is a simple situation for GLOM, because the *location* for recording one ECG view (object part) is pre-given and fixed, while in a more complex situation the location relations between object parts and whole are ambiguous. In the simple setting, the proposed model, a less pure version of GLOM, generalizes well on learning whole heartbeat from sparse ECG signals. The pre-given and clear ECG viewpoints (i.e., locations) is the fundament of success in part-whole relation generalization, and more complicated location is still open. But, consider waveforms on one ECG view and the whole heartbeat, the locations of detailed waveforms are complicated and well quantized by our model.
+- **<span style="color:SeaGreen">Insights of GLOM</span>**:
 </div>
 <div markdown="1">
 [A Receptor Skeleton for Capsule Neural Networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf)[<span style="color:SeaGreen">GLOM</span>, <span style="color:#8866FF;">CV</span>], **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$$^*$$, **International Conference on Machine Learning (ICML)**, 2020
 
-- **Academic Impact**: Motivated by how neuron cells work and collaborate, the proposed new capsule and skeleton framework executes an capsule feature clustering without iteractive process, which is efficient and obtains good performances.
+- Motivated by how neuron cells work and collaborate, the proposed new capsule structure is equipped with a transmitter and several receptors, which works like a neuron cell. The novel skeleton oragnizes the new capsules to execute agglomerative hierachical clustering for capsule features like a nervous system, without iteractive process.
 </div>
 </div>
 
