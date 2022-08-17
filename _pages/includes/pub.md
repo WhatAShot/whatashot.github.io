@@ -23,11 +23,11 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[A hierarchical graph network for 3D object detection on point clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf)[<span style="color:#8866FF;">CV (Detection)</span>, <span style="color:#FC6A03;">DD (Point clouds)</span>], Jintai Chen, Biwen Lei, Qingyu Song, Haochao Ying, Danny Z Chen, Jian Wu, **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2020
 
 - This work provides the FCN backbone with a new efficient location-aware GCN for 3D detection in point cloud, and predicts the 3D object centers by voting from hierarchical feature levels. It is also observed that our method is more sensitive than the official manual annotations.
 - **<span style="color:SeaGreen">Insights of GLOM</span>**: Point cloud is a natural scenario to explore part-whole relation modeling. The point-wise MLP (in PointNet++) for point features agglomeration neglected the detailed location information, and we use only **one** scalar feature space to compute the relative location relation and obtain the performance gain.
 </div>
+ [A hierarchical graph network for 3D object detection on point clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf)[<span style="color:#8866FF;">CV (Detection)</span>, <span style="color:#FC6A03;">DD (Point clouds)</span>], Jintai Chen, Biwen Lei, Qingyu Song, Haochao Ying, Danny Z Chen, Jian Wu, **Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2020
 </div>
 
 - [Doctor imitator: A graph-based bone age assessment framework using hand radiographs](https://arxiv.org/pdf/2102.05424.pdf)[<span style="color:SeaGreen">GLOM</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#8866FF;">CV</span>, <span style="color:#FC6A03;">DD (GNN)</span>, <span style="color:#D70761;">M-AI</span>], **Jintai Chen**$$^+$$, Bohan Yu$$^+$$, Biwen Lei$$^+$$, Ruiwei Feng, Danny Z. Chen, and Jian Wu$$^*$$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020
