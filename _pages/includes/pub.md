@@ -27,7 +27,7 @@
 <div class='paper-box-text' markdown="1">
 [ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf)[<span style="color:SeaGreen">GLOM</span>, <span style="color:RoyalBlue">DLA-D (GAN)</span>, <span style="color:#FC6A03;">DD (Sparse Recon.)</span>, <span style="color:#D70761;">M-AI</span>], **Jintai Chen**$$^+$$, Kuanlun Liao$$^+$$, Kun Wei, Haochao Ying, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
 
-- **Academic Impact**: This work is the follow-up of Nef-Net and presents the same <span style="color:SeaGreen">GLOM insight</span>, and is the first GAN to synthesize multi-view ECG signals by primarily synthesizing the stereo ECG representation.
+- This work is the follow-up of Nef-Net and presents the same <span style="color:SeaGreen">GLOM insight</span>, and is the first GAN to synthesize multi-view ECG signals by primarily synthesizing the stereo ECG representation.
 </div>
 </div>
 
@@ -46,7 +46,7 @@
 <div class='paper-box-text' markdown="1">
 [DANETs: Deep Abstract Networks for Tabular Data Classification and Regression](https://ojs.aaai.org/index.php/AAAI/article/view/20309/20068)[<span style="color:SeaGreen">GLOM</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#FC6A03;">DD (tabular learning)</span>], **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Z Chen, Jian Wu, **AAAI Conference on Artificial Intelligence (AAAI)**, 2022
 
-- **Academic Impact**: This work proposes a principle "group & abstract" for tabular learning, and explore the impacts of model depth for tabular data processing.
+- This work raises a principle "group & abstract" for tabular learning, and explore the impacts of model depth for tabular data processing.
 - **<span style="color:SeaGreen">Insights of GLOM</span>**: tabular data is natively discrete, and we explore the semantic aggregation path from part to whole by designing an optimizable object part searching approach.
 </div>
 </div>
