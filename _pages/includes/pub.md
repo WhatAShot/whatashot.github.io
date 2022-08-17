@@ -34,7 +34,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- This work provides the FCN backbone with a new efficient location-aware GCN for 3D detection in point cloud, and predicts the 3D object centers by voting from hierarchical feature levels. It is also observed that our method is more sensitive than the official manual annotations.
+- This work provides a FCN backbone with a new efficient location-aware GCN for 3D detection in point cloud, and predicts the 3D object centers by voting from hierarchical feature levels. It is also observed that our method is more sensitive than the official manual annotations.
 - **<span style="color:SeaGreen">Insights of GLOM</span>**: Point cloud is a natural scenario to explore part-whole relation modeling. The point-wise MLP (in PointNet++) for point features agglomeration neglected the detailed location information, and we quantize the location information in only **one** scalar feature space and obtain the performance gain over 1% mAP.
 </div>
 <div markdown="1">
