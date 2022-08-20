@@ -20,5 +20,5 @@ redirect_from:
 
 <div align="center">
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">This homepage is visted by <span style="color:purple"><font style="font-size:35px"><span id="busuanzi_value_site_pv"></font></span></span> </span>times</span>
+<span id="busuanzi_container_site_pv">This homepage is visted by <font color="purple" size="30"><span id="busuanzi_value_site_pv"></span></font> </span>times</span>
 </div>
