@@ -2,4 +2,4 @@ I am now a fifth-year Ph.D. student at the College of Computer Science and Techn
 
 I was honored with the *National Scholarship of China* in 2015 (undergraduate) and 2021, and won the *Tencent Doctoral Scholarship* in 2021. I am the core member of our team participating MICCAI competitions, and we won <span style="color:red">the 1-st place</span> in *Automatic Structure Segmentation for Radiotherapy Planning Challenge - MICCAI 2019*, and <span style="color:red">the 2-nd place</span> in *Digestive-System Pathological Detection and Segmentation Challenge - MICCAI 2019*.
 
-I am an amateur snooker player and a big fan of [Ronnie Antonio O'Sullivan](https://en.wikipedia.org/wiki/Ronnie_O%27Sullivan), and I am trying to learn more from [Mark Selby](https://en.wikipedia.org/wiki/Mark_Selby) recently (Sorry, Ronnie 🤣). I also enjoy painting and reading in my leisure time.
+I am an amateur snooker player and a big fan of [Ronnie Antonio O'Sullivan](https://en.wikipedia.org/wiki/Ronnie_O%27Sullivan), and I also enjoy painting and reading in my leisure time.
