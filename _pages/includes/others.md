@@ -5,7 +5,7 @@
 
 # 💬 Talks
 - *2022.06*, Tabular Data Processing, UberAI internal talk
-- *2022.09*, Part-hierarchy Learning, ByteDance internal talk
+- *2022.09*, Part-Hierarchy Learning, ByteDance internal talk
 
 # 🏫 Teaching
 - *Fall 2022*, Frontiers of Medical Artificial Intelligence (lesson preparation, teaching assistant)
