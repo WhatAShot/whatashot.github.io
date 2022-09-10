@@ -10,7 +10,7 @@
 </div>
 <div markdown="1">
 [A Receptor Skeleton for Capsule Neural Networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:#8866FF;">CV</span>]\\
- **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$$^*$$\\
+ <div markdown="1">**Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$$^*$$</div>\\
  **International Conference on Machine Learning (ICML)**, 2020
 </div>
 </div>
