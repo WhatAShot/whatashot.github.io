@@ -2,7 +2,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/ICML21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- Motivated by how neuron cells work and collaborate, we present a capsule version equipped with a transmitter and several optimizable receptors, and a capsule works like a neuron cell (i.e., transmitters compress a capsule feauture and send it to the higher level; neurotransmitter-receptor match determines the part-to-whole routing). A neural version of agglomerative hierarchical clustering oragnizes all capsules, like a nervous system, to execute an agglomerative hierachical clustering.
+- Motivated by how neuron cells work and collaborate, we present a capsule version equipped with a transmitter and several optimizable receptors, and a capsule works like a neuron cell (i.e., transmitters compress a capsule feauture and send it to the higher level; neurotransmitter-receptor match determines the part-to-whole routing). A new framework oragnizes all capsules to execute an agglomerative hierachical clustering.
 
 - **<span style="color:SeaGreen">On PHL</span>**: This work provides a new framework for effective, effecient, and flexible part-hierarchy parsing.
 <!-- The receptors of children capsules are recombined to act as receptors of parent capsules, thus capsules in different layers execute **one** agglomerative hierachical clustering. -->
