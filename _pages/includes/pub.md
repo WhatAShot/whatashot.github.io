@@ -7,12 +7,13 @@
 - **<span style="color:SeaGreen">Insights for PHL</span>**: This work provides a new capsule neural network which presents a neural version of agglomerative hierarchical clustering to aggregate parts to represent wholes. The receptors of children capsules are recombined to act as receptors of parent capsules, thus capsules in different layers execute **one** agglomerative hierachical clustering.
 <!-- iterative clustering algorithm, for flexibly aggregating parts into a whole. However, (i) clustering parts according to high-dimensional feature similarity suffers from "curse of dimension"; (ii) an iterative process hinders to build a model deeper; (iii) feature value similarity cannot be used to find semantically cooperative object parts. We separate a clustering process into severel steps of an agglomerative hierachical clustering, and in each step capsules use its receptors (templates) to select the "right" object parts in a straightforward way.-->
 </div>
-[A Receptor Skeleton for Capsule Neural Networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf)[<span style="color:SeaGreen">PHL</span>, <span style="color:#8866FF;">CV</span>],
+<div markdown="1">
+[A Receptor Skeleton for Capsule Neural Networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf)[<span style="color:SeaGreen">PHL</span>, <span style="color:#8866FF;">CV</span>]
  
  **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$$^*$$
  
  **International Conference on Machine Learning (ICML)**, 2020
-
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021</div><img src='images/EP.jpg' alt="sym" width="100%"></div></div>
