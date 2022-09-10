@@ -29,7 +29,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022</div><img src='images/ME-GAN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf)[<span style="color:SeaGreen">P2W</span>, <span style="color:RoyalBlue">DLA-D (GAN)</span>, <span style="color:#FC6A03;">DD (Sparse Recon.)</span>, <span style="color:#D70761;">M-AI</span>], **Jintai Chen**$$^+$$, Kuanlun Liao$$^+$$, Kun Wei, Haochao Ying, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
+[ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf)[<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">DLA-D (GAN)</span>, <span style="color:#FC6A03;">DD (Sparse Recon.)</span>, <span style="color:#D70761;">M-AI</span>], **Jintai Chen**$$^+$$, Kuanlun Liao$$^+$$, Kun Wei, Haochao Ying, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
 
 - This work is the follow-up of Electrocardio panorama synthesis and practice the same <span style="color:SeaGreen">PHL</span> insights, and it is also the first GAN to synthesize multi-view ECG signals (part representation) by primarily synthesizing the stereo ECG representation (whole representations).
 </div>
@@ -39,7 +39,7 @@
 <div class='paper-box-text' markdown="1">
 
 - This work provides a FCN backbone with a kind of new efficient location-aware graph convolution for 3D detection in point cloud, and predicts the 3D object centers by voting from hierarchical feature levels. It is also observed that our method is more sensitive than the official manual annotations.
-- **<span style="color:SeaGreen">Insights of P2W</span>**: Point cloud is a natural scenario to explore part-whole relation modeling. The point-wise MLP (in PointNet++) for point features agglomeration neglected the detailed location information, and we quantize the location information using only **one** scalar feature in the proposed graph convolution and obtain the performance gain over 1% mAP.
+- **<span style="color:SeaGreen">On PHL</span>**: Point cloud is a natural scenario to explore part-whole relation modeling. The point-wise MLP (in PointNet++) for point features agglomeration neglected the detailed location information, and we quantize the location information using only **one** scalar feature in the proposed graph convolution and obtain the performance gain over 1% mAP.
 </div>
 <div markdown="1">
  [A hierarchical graph network for 3D object detection on point clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf)[<span style="color:SeaGreen">P2W</span>, <span style="color:#8866FF;">CV (Detection)</span>, <span style="color:#FC6A03;">DD (Point clouds)</span>], **Jintai Chen**, Biwen Lei, Qingyu Song, Haochao Ying, Danny Z Chen, Jian Wu, **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2020
