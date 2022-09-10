@@ -4,7 +4,7 @@
 <div class='paper-box-text' markdown="1">
 - Motivated by how neuron cells work and collaborate, we present a capsule version equipped with a transmitter and several optimizable receptors, and a capsule works like a neuron cell (i.e., transmitters compress a capsule feauture and send it to the higher level; neurotransmitter-receptor match determines the part-to-whole routing). A neural version of agglomerative hierarchical clustering oragnizes all capsules, like a nervous system, to execute an agglomerative hierachical clustering.
 
-- **<span style="color:SeaGreen">On PHL</span>**: This work provides a new capsule neural network that effectively and effeciently conduct part-hierarchy parsing.
+- **<span style="color:SeaGreen">On PHL</span>**: This work provides a new capsule neural network that effectively and effeciently conduct part-hierarchy parsing by agglomerative hierachical clustering.
 <!-- The receptors of children capsules are recombined to act as receptors of parent capsules, thus capsules in different layers execute **one** agglomerative hierachical clustering. -->
 <!-- iterative clustering algorithm, for flexibly aggregating parts into a whole. However, (i) clustering parts according to high-dimensional feature similarity suffers from "curse of dimension"; (ii) an iterative process hinders to build a model deeper; (iii) feature value similarity cannot be used to find semantically cooperative object parts. We separate a clustering process into severel steps of an agglomerative hierachical clustering, and in each step capsules use its receptors (templates) to select the "right" object parts in a straightforward way.-->
 </div>
