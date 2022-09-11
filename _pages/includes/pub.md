@@ -15,7 +15,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021</div><img src='images/EP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- **Academic Impact**: It is the first work that raises the concept of *Electrocardio panorama*, which allows visualizing heartbeat signals (ECG signals) from any viewpoints. Thus, our work benefits (i) Panoramic observations of heartbeat signals; (ii) Transformation among different ECG recording systems; (iii) Waveform-aligned Mixup on ECG signals for data augmentation; (iv) New multi-view ECG signal synthesis from scratch; (v) Corrupted ECG view reconstruction. <span style="color:red">(PS: got scores 7, 9, 10 of 10 in the IJCAI double-blind review)</span>
+- **Academic Impact**: It is the first work to propose the concept of *Electrocardio panorama*, which allows visualizing heartbeat signals (ECG signals) from any viewpoints. Thus, our work benefits (i) Panoramic observations of heartbeat signals; (ii) Transformation among different ECG recording systems; (iii) Waveform-aligned Mixup on ECG signals for data augmentation; (iv) New multi-view ECG signal synthesis from scratch; (v) Corrupted ECG view reconstruction. <span style="color:red">(PS: got scores 7, 9, 10 of 10 in the IJCAI double-blind review)</span>
 - **New Data Annotations**: We provided ECG wave segmentation annotations for Tianchi ECG dataset and PTB dataset.
 - **Exposure**: Our work is promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/nUOQjLzE7LPCizVAZJtA6Q), [专知](https://www.zhuanzhi.ai/document/2641de7df0eabfe36f40fd30fa33d848), [澎湃](https://www.thepaper.cn/newsDetail_forward_13432066), [AI研习社](https://www.yanxishe.com/reportDetail/27449).
  - **<span style="color:SeaGreen">On PHL</span>**: This work estimates projection functions to align part poses, and it is a simple case of PHL to adopt an encoder-decoder to aggregate parts (ECG views).
@@ -39,7 +39,7 @@
 <div class='paper-box-text' markdown="1">
 [DANETs: Deep Abstract Networks for Tabular Data Classification and Regression](https://ojs.aaai.org/index.php/AAAI/article/view/20309/20068)[<span style="color:RoyalBlue">DLA-D</span>, <span style="color:#FC6A03;">DD (tabular learning)</span>], **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Z Chen, Jian Wu, **AAAI**, 2022, [\[**Code**\]](https://github.com/WhatAShot/DANet)
 
-- This work raises a principle "group + abstract" for tabular learning, and explores the impacts of model depth for tabular data processing.
+- This work proposes a principle "group + abstract" for tabular learning, and explores the impacts of model depth for tabular data processing.
 - **<span style="color:SeaGreen">On PHL</span>**: Tabular data is naturally discrete, and we seek for the semantic aggregation path from part to whole by an optimizable feature grouping approach. Tabular data is independent to the *position* information.
 </div>
 </div>
