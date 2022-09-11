@@ -48,7 +48,7 @@
 <div class='paper-box-text' markdown="1">
 
 - This work provides a new efficient location-aware graph convolution for 3D detection in point cloud, and predicts the 3D object centers by voting from various feature levels. It is also observed that our method is more sensitive than the official manual annotations.
-- **<span style="color:SeaGreen">On PHL</span>**: Point cloud is a natural scenario that the object parts and wholes were naturally pose aligned, and we quantize the location information to capture part-whole relation using only **one** scalar feature in the proposed graph convolution and it is beneficial.
+- **<span style="color:SeaGreen">On PHL</span>**: Point cloud is a natural scenario that the object parts and wholes were naturally pose aligned and it is proved to be  to be sufficient to use only **one** scalar feature in the proposed graph convolution for part-whole relation quantization.
 </div>
 <div markdown="1">
  [A hierarchical graph network for 3D object detection on point clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf)[<span style="color:SeaGreen">P2W</span>, <span style="color:#8866FF;">CV (Detection)</span>, <span style="color:#FC6A03;">DD (Point clouds)</span>], **Jintai Chen**, Biwen Lei, Qingyu Song, Haochao Ying, Danny Z Chen, Jian Wu, **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2020
