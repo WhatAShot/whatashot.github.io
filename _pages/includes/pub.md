@@ -29,7 +29,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/AAAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- This work proposes a principle "group + abstract" for tabular learning, and explores the impacts of model depth for tabular learning.
+- This work proposes a principle of "group + abstract" for tabular learning, and presents a series of parse-tree-like model to explore the impacts of model depth for tabular tasks.
 - **<span style="color:SeaGreen">On PHL</span>**: Tabular data is naturally property aligned, and it is a suitable scenario to explore how to implant a parse tree into a neural network.
 </div>
 <div markdown="1">
