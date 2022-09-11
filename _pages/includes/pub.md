@@ -27,16 +27,6 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022</div><img src='images/ME-GAN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- This work is the follow-up of Electrocardio panorama synthesis and practice the same <span style="color:SeaGreen">PHL</span> insights, and it is also the first GAN to synthesize multi-view ECG signals (part representation) by primarily synthesizing the stereo ECG representation (whole representations).
-</div>
-<div markdown="1">
-[ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf)[<span style="color:RoyalBlue">DLA-D (GAN)</span>, <span style="color:#FC6A03;">DD (Sparse Recon.)</span>, <span style="color:#D70761;">M-AI</span>], **Jintai Chen**$$^+$$, Kuanlun Liao$$^+$$, Kun Wei, Haochao Ying, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/AAAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - This work proposes a principle "group + abstract" for tabular learning, and explores the impacts of model depth for tabular learning.
@@ -44,6 +34,16 @@
 </div>
 <div markdown="1">
 [DANETs: Deep Abstract Networks for Tabular Data Classification and Regression](https://ojs.aaai.org/index.php/AAAI/article/view/20309/20068) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#FC6A03;">DD (tabular learning)</span>], **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Z Chen, Jian Wu, **AAAI**, 2022, [\[**Code**\]](https://github.com/WhatAShot/DANet)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022</div><img src='images/ME-GAN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- This work is the follow-up of Electrocardio panorama synthesis and practice the same <span style="color:SeaGreen">PHL</span> insights, and it is also the first GAN to synthesize multi-view ECG signals (part representation) by primarily synthesizing the stereo ECG representation (whole representations).
+</div>
+<div markdown="1">
+[ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf)[<span style="color:RoyalBlue">DLA-D (GAN)</span>, <span style="color:#FC6A03;">DD (Sparse Recon.)</span>, <span style="color:#D70761;">M-AI</span>], **Jintai Chen**$$^+$$, Kuanlun Liao$$^+$$, Kun Wei, Haochao Ying, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
 </div>
 </div>
 
