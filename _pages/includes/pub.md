@@ -78,7 +78,7 @@
 
 - [Flow-Mixup: Classifying multi-labeled medical images with corrupted labels](https://arxiv.org/pdf/2102.08148.pdf) [<span style="color:RoyalBlue">DLA-D</span>, <span style="color:#8866FF;">CV (Classification)</span>], **Jintai Chen**, Hongyun Yu, Ruiwei Feng, Danny Z Chen, Jian Wu$$^*$$, **International Conference on Bioinformatics and Biomedicine (BIBM)**, 2020
 
-- [A deep learning approach for colonoscopy pathology WSI analysis: Accurate segmentation and classification](https://ieeexplore.ieee.org/abstract/document/9269406) [<span style="color:#8866FF;">CV (Segmentation, Classification)</span>, <span style="color:#D70761;">M-AI</span>], Ruiwei Feng, Xuechen Liu, **Jintai Chen**, Danny Z Chen, Honghao Gao, Jian Wu$$^+$$, 2020
+- [A deep learning approach for colonoscopy pathology WSI analysis: Accurate segmentation and classification](https://ieeexplore.ieee.org/abstract/document/9269406) [<span style="color:#8866FF;">CV (Segmentation, Classification)</span>, <span style="color:#D70761;">M-AI</span>], Ruiwei Feng, Xuechen Liu, **Jintai Chen**, Danny Z Chen, Honghao Gao, Jian Wu$$^+$$, **IEEE Journal of Biomedical and Health Informatics (J-BHI)**, 2020
 
 - [A fully 3D cascaded framework for pancreas segmentation](https://ieeexplore.ieee.org/abstract/document/9098473) [<span style="color:#8866FF;">CV (Segmentation)</span>, <span style="color:#D70761;">M-AI</span>], Wenzhe Wang, Qingyu Song, Ruiwei Feng, Tingting Chen, **Jintai Chen**, Danny Z Chen, Jian Wu$$^*$$, **International Symposium on Biomedical Imaging (ISBI)**, 2020
 
