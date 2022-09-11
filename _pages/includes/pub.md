@@ -40,7 +40,7 @@
 [DANETs: Deep Abstract Networks for Tabular Data Classification and Regression](https://ojs.aaai.org/index.php/AAAI/article/view/20309/20068)[<span style="color:RoyalBlue">DLA-D</span>, <span style="color:#FC6A03;">DD (tabular learning)</span>], **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Z Chen, Jian Wu, **AAAI**, 2022, [\[**Code**\]](https://github.com/WhatAShot/DANet)
 
 - This work proposes a principle "group + abstract" for tabular learning, and explores the impacts of model depth for tabular data processing.
-- **<span style="color:SeaGreen">On PHL</span>**: Tabular data is naturally discrete, and we seek for the semantic aggregation path from part to whole by an optimizable feature grouping approach. Tabular data is independent to the *position* information.
+- **<span style="color:SeaGreen">On PHL</span>**: Tabular data is naturally property aligned, and it is a suitable scenario to explore how to implant a parse tree in neural network.
 </div>
 </div>
 
