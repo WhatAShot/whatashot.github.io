@@ -11,7 +11,7 @@
 - *Fall 2022*, Frontiers of Medical Artificial Intelligence (lesson preparation, teaching assistant)
 
 # 🔎 Reviews:
-- Review for Conferences: CVPR, ICML, AAAI, IJCAI, MICCAI, ISBI, NeruIPS.
+- Review for Conferences: CVPR, ICML, AAAI, IJCAI, MICCAI, ISBI, NeurIPS.
 - Review for Journals: TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics.
 
 # 🎒 Visiting
