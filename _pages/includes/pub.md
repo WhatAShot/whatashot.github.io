@@ -58,8 +58,6 @@
 </div>
 </div>
 
-- [Doctor Imitator: Hand-Radiography-based Bone Age Assessment by Imitating Scoring Methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#8866FF;">CV</span>, <span style="color:#FC6A03;">DD (GNN)</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**$$^+$$, Bohan Yu$$^+$$, Biwen Lei$$^+$$, Ruiwei Feng, Danny Z. Chen, and Jian Wu$$^*$$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020
-
 - [Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation](https://link.springer.com/content/pdf/10.1007/978-3-031-16452-1_24.pdf) [<span style="color:#8866FF;">CV (Segmentation)</span>, <span style="color:#D70761;">H-AI</span>], Yixuan Wu, Bo Zheng, **Jintai Chen**, Danny Z Chen, Jian Wu$$^*$$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI, Oral)**, 2022
 
 - [D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation](https://arxiv.org/pdf/2201.00462.pdf) [<span style="color:#8866FF;">CV (Segmentation)</span>, <span style="color:#D70761;">H-AI</span>], Yixuan Wu, Kuanlun Liao, **Jintai Chen**, Danny Z Chen, Jinhong Wang, Honghao Gao$$^*$$, Jian Wu$$^*$$, **Neural Computing and Applications**, 2022
@@ -77,6 +75,8 @@
 - [A transfer learning based super-resolution microscopy for biopsy slice images: the joint methods perspective](https://ieeexplore.ieee.org/abstract/document/9082112) [<span style="color:#8866FF;">CV (Distant Domain Transfer Learning)</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**, Haochao Ying, Xuechen Liu, Jingjing Gu, Ruiwei Feng, Tingting Chen, Honghao Gao, Jian Wu$$^*$$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2020
 
 - [Flow-Mixup: Classifying multi-labeled medical images with corrupted labels](https://arxiv.org/pdf/2102.08148.pdf) [<span style="color:RoyalBlue">DLA-D</span>, <span style="color:#8866FF;">CV (Classification)</span>], **Jintai Chen**, Hongyun Yu, Ruiwei Feng, Danny Z Chen, Jian Wu$$^*$$, **International Conference on Bioinformatics and Biomedicine (BIBM)**, 2020
+
+- [Doctor Imitator: Hand-Radiography-based Bone Age Assessment by Imitating Scoring Methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#8866FF;">CV</span>, <span style="color:#FC6A03;">DD (GNN)</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**$$^+$$, Bohan Yu$$^+$$, Biwen Lei$$^+$$, Ruiwei Feng, Danny Z. Chen, and Jian Wu$$^*$$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020
 
 - [A deep learning approach for colonoscopy pathology WSI analysis: Accurate segmentation and classification](https://ieeexplore.ieee.org/abstract/document/9269406) [<span style="color:#8866FF;">CV (Segmentation, Classification)</span>, <span style="color:#D70761;">H-AI</span>], Ruiwei Feng, Xuechen Liu, **Jintai Chen**, Danny Z Chen, Honghao Gao, Jian Wu$$^*$$, **IEEE Journal of Biomedical and Health Informatics (J-BHI)**, 2020
 
