@@ -62,7 +62,7 @@
 
 - Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation [<span style="color:#8866FF;">CV (Segmentation)</span>, <span style="color:#D70761;">H-AI</span>], Yixuan Wu, Bo Zheng, **Jintai Chen**, Danny Z Chen, Jian Wu$$^*$$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI, Oral)**, 2022
 
-- [D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation](https://arxiv.org/pdf/2201.00462.pdf) [<span style="color:#8866FF;">CV (Segmentation)</span>, <span style="color:#D70761;">H-AI</span>], Yixuan Wu, Kuanlun Liao, **Jintai Chen**, Danny Z Chen, Jinhong Wang, Honghao Gao$$^*$$, Jian Wu$$^*$$.
+- [D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation](https://arxiv.org/pdf/2201.00462.pdf) [<span style="color:#8866FF;">CV (Segmentation)</span>, <span style="color:#D70761;">H-AI</span>], Yixuan Wu, Kuanlun Liao, **Jintai Chen**, Danny Z Chen, Jinhong Wang, Honghao Gao$$^*$$, Jian Wu$$^*$$, **Neural Computing and Applications**, 2022
 
 - [Identifying Electrocardiogram Abnormalities Using a Handcrafted-Rule-Enhanced Neural Network](https://arxiv.org/pdf/2206.10592.pdf) [<span style="color:#D70761;">H-AI</span>], Yuexin Bian, **Jintai Chen**, Xiaojun Chen, Xiaoxian Yang$$^*$$, Danny Z. Chen, Jian Wu$$^*$$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2022.
 
