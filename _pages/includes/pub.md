@@ -58,7 +58,7 @@
 </div>
 </div>
 
-- [Robust Training of Graph Neural Networks via Noise Governance] [<span style="color:#FC6A03;">DD</span>], Siyi Qian, Haochao Ying, Renjun Hu, Jingbo Zhou, **Jintai Chen**, Danny Z Chen, Jian Wu, **ACM International Conference on Web Search and Data Mining (WSDM)**, 2023
+- Robust Training of Graph Neural Networks via Noise Governance [<span style="color:#FC6A03;">DD</span>], Siyi Qian, Haochao Ying, Renjun Hu, Jingbo Zhou, **Jintai Chen**, Danny Z Chen, Jian Wu, **ACM International Conference on Web Search and Data Mining (WSDM)**, 2023
 
 - [Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation](https://link.springer.com/content/pdf/10.1007/978-3-031-16452-1_24.pdf) [<span style="color:#8866FF;">CV (Segmentation)</span>, <span style="color:#D70761;">H-AI</span>], Yixuan Wu, Bo Zheng, **Jintai Chen**, Danny Z Chen, Jian Wu, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI, Oral)**, 2022
 
