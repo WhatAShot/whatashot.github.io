@@ -4,7 +4,7 @@
 - *2014.09 - 2018.06*, Bachelor of Science in Statistics with honor, Zhongnan University of Economics and Law.
 
 # 💬 Talks
-- *2022.11*, How should we do research on AI for healthcare?
+- *2022.11*, How should we do research on AI for healthcare?, internal talk for an AI lab of SHU
 - *2022.06*, Tabular Data Processing, UberAI internal talk
 - *2022.09*, Part-Hierarchy Learning, ByteDance internal talk
 - *2021.10*, Domain Mixup for distant transfer learning, internal talk for an AI lab of SJTU
