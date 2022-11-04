@@ -6,7 +6,7 @@
 # 💬 Talks
 - *2022.06*, Tabular Data Processing, UberAI internal talk
 - *2022.09*, Part-Hierarchy Learning, ByteDance internal talk
-- *2021.10*, Domain Mixup for distant transfer learning, SJTU internal talk
+- *2021.10*, Domain Mixup for distant transfer learning, internal talk for an AI lab of SJTU
 
 # 🏫 Teaching
 - *Fall 2022*, Frontiers of Medical Artificial Intelligence (lesson preparation, teaching assistant)
