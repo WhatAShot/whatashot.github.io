@@ -10,10 +10,10 @@
 - *2021.10*, Domain Mixup for distant transfer learning, internal talk for an AI lab of SJTU
 
 # 🏫 Teaching
-- *Fall 2022*, Frontiers of Medical Artificial Intelligence (lesson preparation, teaching assistant)
+- *Fall 2022*, Frontiers of Medical Artificial Intelligence (lecture slice preparation, teaching assistant)
 
 # 🔎 Reviews:
-- Review for Conferences: CVPR, ICML, AAAI, IJCAI, MICCAI, ISBI, NeurIPS.
+- Review for Conferences: ICML, AAAI, IJCAI, MICCAI, ISBI, NeurIPS.
 - Review for Journals: TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics.
 
 # 🎒 Visiting
