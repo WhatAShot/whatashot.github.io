@@ -77,7 +77,7 @@
 
 - [Interactive few-shot learning: Limited supervision, better medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9358206) [<span style="color:#8866FF;">CV (Segmentation)</span>, <span style="color:#D70761;">H-AI</span>], Ruiwei Feng$^\*$, Xiangshang Zheng$^\*$, Tianxiang Gao$^\*$, **Jintai Chen**, Wenzhe Wang, Danny Z Chen, Jian Wu, **IEEE Transactions on Medical Imaging (TMI)**, 2021
 
-- [A transfer learning based super-resolution microscopy for biopsy slice images: the joint methods perspective](https://ieeexplore.ieee.org/abstract/document/9082112) [<span style="color:#8866FF;">CV (Distant Domain Transfer Learning)</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**$^\*$, Haochao Ying$^\*$, Xuechen Liu$^\*$, Jingjing Gu, Ruiwei Feng, Tingting Chen, Honghao Gao, Jian Wu, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2020
+- [A transfer learning based super-resolution microscopy for biopsy slice images: the joint methods perspective](https://ieeexplore.ieee.org/abstract/document/9082112) [<span style="color:#8866FF;">CV (Distant Domain Transfer Learning)</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**, Haochao Ying, Xuechen Liu, Jingjing Gu, Ruiwei Feng, Tingting Chen, Honghao Gao, Jian Wu, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2020
 
 - [Flow-Mixup: Classifying multi-labeled medical images with corrupted labels](https://arxiv.org/pdf/2102.08148.pdf) [<span style="color:RoyalBlue">DLA-D</span>, <span style="color:#8866FF;">CV (Classification)</span>], **Jintai Chen**$^\*$, Hongyun Yu, Ruiwei Feng, Danny Z Chen, Jian Wu, **International Conference on Bioinformatics and Biomedicine (BIBM)**, 2020
 
