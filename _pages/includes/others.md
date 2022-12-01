@@ -17,4 +17,4 @@
 - Review for Journals: TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics.
 
 # 🎒 Visiting
-- *2021.06 - 2021.09*, Medical Big Data Center, Guangdong Academy of Medical Sciences, work closely with Prof. Huiying Liang and Shuai Huang.
+- *2021.06 - 2021.09*, Medical Big Data Center, Guangdong Academy of Medical Sciences, had the honor of working with Prof. Huiying Liang, Shuai Huang, and Dantong Li.
