@@ -38,7 +38,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/AAAI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/T2G.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - This work is the follow-up of DANETs that uses relation graphs to represent the feature interactions and employs Transformer architecture to enhance the model performances.
 - **<span style="color:SeaGreen">On PHL</span>**: Tabular data is naturally property aligned, and it is a suitable scenario to explore how to implant a parse tree into a neural network.
