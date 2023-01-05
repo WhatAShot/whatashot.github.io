@@ -1,6 +1,6 @@
 I am now a fifth-year Ph.D. student at the College of Computer Science and Technology of Zhejiang University, supervised by [Prof. Jian Wu](https://person.zju.edu.cn/en/wujian) and working close with [Prof. Danny Ziyi Chen](https://www3.nd.edu/~dchen/), *IEEE Fellow*. My research interest focuses on <span style="color:#D70761;">AI for Health (AI4H)</span>, as well as <span style="color:SeaGreen">Part-Hierarchy Learning</span> (<span style="color:SeaGreen">PHL</span>, highly related to GLOM, Hinton, 2021), 
 <!-- that manages to parse objects/ concepts into part-whole hierarchy for better understanding and to explore to implant parse trees into a neural network. The insights on <span style="color:SeaGreen">PHL</span> inspired my researches on  -->
-<span style="color:#FC6A03;">tabular data processing (TD)</span>, <span style="color:RoyalBlue">neural network architecture design (NN-D)</span>, and <span style="color:#8866FF;">computer vision (CV)</span>).
+<span style="color:#FC6A03;">tabular data processing (TD)</span>, <span style="color:RoyalBlue">neural network architecture design (NN-D)</span>, and <span style="color:#8866FF;">computer vision (CV)</span>.
 <!-- , and <span style="color:#D70761;">AI4H</span>.  -->
 I have published several first-author papers in top international AI conferences such as ICML, CVPR, and AAAI,
 <!-- presenting advanced AI technologies -->
