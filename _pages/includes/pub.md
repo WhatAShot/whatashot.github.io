@@ -18,12 +18,12 @@
 - **Academic Impact**: It is the first work to propose the concept of *Electrocardio panorama*, which allows visualizing heartbeat signals (ECG signals) from any viewpoints. Thus, our work benefits (i) Panoramic observations of heartbeat signals; (ii) Unified representation of ECG signals recorded by different systems; (iii) Waveform-aligned Mixup for new ECG case synthesis (e.g., for data augmentation); (iv) Corrupted ECG view reconstruction; (v) ECG theory exploration. <span style="color:red">(PS: got scores 7, 9, 10 of 10 in the IJCAI double-blind review)</span>
 - **New Data Annotations**: We provided ECG wave segmentation annotations for Tianchi ECG dataset and PTB dataset.
 - **Exposure**: Our work is promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/nUOQjLzE7LPCizVAZJtA6Q), [专知](https://www.zhuanzhi.ai/document/2641de7df0eabfe36f40fd30fa33d848), [澎湃](https://www.thepaper.cn/newsDetail_forward_13432066), [AI研习社](https://www.yanxishe.com/reportDetail/27449).
- - **<span style="color:SeaGreen">On PHL</span>**: This work estimates projection functions to align part poses, and it is a simple case of PHL to adopt an encoder-decoder to aggregate parts (heartbeat waveforms represented in ECG signals).
+<!--  - **<span style="color:SeaGreen">On PHL</span>**: This work estimates projection functions to align part poses, and it is a simple case of PHL to adopt an encoder-decoder to aggregate parts (heartbeat waveforms represented in ECG signals). -->
  
 <!--  The consensus view of PHL considers to represent object whole by encoding locations and representations of object parts with a general approach. In our case, an ECG view represents partial waves of whole heartbeat signal. It is a simple situation for PHL, because the *location* for recording one ECG view (object part) is pre-given and fixed, while in a more complex situation the location relations between object parts and whole are ambiguous. In the simple setting, the proposed model, a less pure version of PHL, generalizes well on learning whole heartbeat from sparse ECG signals. The pre-given and clear ECG viewpoints (i.e., locations) is the fundament of success in part-whole relation generalization, and the problem with more complicated location information is still open. But, the positive aspect is, the locations of detailed waveforms in one ECG view are complicated (relative to the whole heartbeat information) and well quantized by our model. -->
 </div>
 <div markdown="1">
-[Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:#FC6A03;">DD (Sparse Recon.)</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**$^\*$, Xiangshang Zheng$^\*$, Hongyun Yu$^\*$, Danny Z. Chen, Jian Wu, **International Joint Conference on Artificial Intelligence (IJCAI)**, 2021, [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama)
+[Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf) [<span style="color:SeaGreen">PHL (Part-to-whole reconstruction)</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**$^\*$, Xiangshang Zheng$^\*$, Hongyun Yu$^\*$, Danny Z. Chen, Jian Wu, **International Joint Conference on Artificial Intelligence (IJCAI)**, 2021, [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama)
 </div>
 </div>
 
@@ -33,7 +33,7 @@
 - **<span style="color:SeaGreen">On PHL</span>**: Tabular data is naturally property aligned, and it is a suitable scenario to explore how to implant a parse tree into a neural network.
 </div>
 <div markdown="1">
-[DANETs: Deep Abstract Networks for Tabular Data Classification and Regression](https://arxiv.org/pdf/2112.02962.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#FC6A03;">DD (tabular learning)</span>], **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Z Chen, Jian Wu, **AAAI**, 2022
+[DANETs: Deep Abstract Networks for Tabular Data Classification and Regression](https://arxiv.org/pdf/2112.02962.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Z Chen, Jian Wu, **AAAI**, 2022
 <!--  , [\[**Code**\]](https://github.com/WhatAShot/DANet) -->
 </div>
 </div>
@@ -59,7 +59,7 @@
 </div>
 </div>
 
-- [T2G-Former: Organizing Tabular Features into Relation Graphs Promotes Heterogeneous Feature Interaction](https://arxiv.org/pdf/2211.16887.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#FC6A03;">DD (tabular learning)</span>], Jiahuan Yan$^\*$, **Jintai Chen**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu, **AAAI**, 2023
+- [T2G-Former: Organizing Tabular Features into Relation Graphs Promotes Heterogeneous Feature Interaction](https://arxiv.org/pdf/2211.16887.pdf) [<span style="color:RoyalBlue">DLA-D</span>, <span style="color:#FC6A03;">TD</span>], Jiahuan Yan$^\*$, **Jintai Chen**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu, **AAAI**, 2023
 
 - [Robust Training of Graph Neural Networks via Noise Governance](https://arxiv.org/pdf/2211.06614.pdf) [<span style="color:#FC6A03;">DD</span>], Siyi Qian, Haochao Ying, Renjun Hu, Jingbo Zhou, **Jintai Chen**, Danny Z Chen, Jian Wu, **ACM International Conference on Web Search and Data Mining (WSDM)**, 2023
 
@@ -69,9 +69,9 @@
 
 - [Identifying Electrocardiogram Abnormalities Using a Handcrafted-Rule-Enhanced Neural Network](https://arxiv.org/pdf/2206.10592.pdf) [<span style="color:#D70761;">H-AI</span>], Yuexin Bian, **Jintai Chen**, Xiaojun Chen, Xiaoxian Yang, Danny Z. Chen, Jian Wu, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2022.
 
-- [A Corresponding Region Fusion Framework for Multi-modal Cervical Lesion Detection](https://ieeexplore.ieee.org/abstract/document/9784879) [<span style="color:#8866FF;">CV (Detection)</span>, <span style="color:#FC6A03;">DD</span>, <span style="color:#D70761;">H-AI</span>], Tingting Chen, Wenhao Zheng, Heping Hu, Chunhua Luo, **Jintai Chen**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Honghao Gao, Jian Wu, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2022
+- [A Corresponding Region Fusion Framework for Multi-modal Cervical Lesion Detection](https://ieeexplore.ieee.org/abstract/document/9784879) [<span style="color:#8866FF;">CV (Detection)</span>, <span style="color:#D70761;">H-AI</span>], Tingting Chen, Wenhao Zheng, Heping Hu, Chunhua Luo, **Jintai Chen**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Honghao Gao, Jian Wu, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2022
 
-- [ChroNet: A multi-task learning based approach for prediction of multiple chronic diseases](https://link.springer.com/article/10.1007/s11042-020-10482-8) [<span style="color:#FC6A03;">DD</span>, <span style="color:#D70761;">H-AI</span>], Ruiwei Feng, Yan Cao, Xuechen Liu, Tingting Chen, **Jintai Chen**, Danny Z Chen, Honghao Gao, Jian Wu, **Multimedia Tools and Applications**, 2021
+- [ChroNet: A multi-task learning based approach for prediction of multiple chronic diseases](https://link.springer.com/article/10.1007/s11042-020-10482-8) [<span style="color:#FC6A03;">DT</span>, <span style="color:#D70761;">H-AI</span>], Ruiwei Feng, Yan Cao, Xuechen Liu, Tingting Chen, **Jintai Chen**, Danny Z Chen, Honghao Gao, Jian Wu, **Multimedia Tools and Applications**, 2021
 
 - [A semi-supervised deep convolutional framework for signet ring cell detection](https://www.sciencedirect.com/science/article/pii/S0925231221000941) [<span style="color:#8866FF;">CV (Detection)</span>, <span style="color:#D70761;">H-AI</span>], Haochao Ying, Qingyu Song, **Jintai Chen**, Tingting Liang, Jingjing Gu, Fuzhen Zhuang, Danny Z Chen, Jian Wu, **Neurocomputing**, 2021, [\[**Code**\]](https://github.com/ooooverflow/DigestPath2019)
 
@@ -81,7 +81,7 @@
 
 - [Flow-Mixup: Classifying multi-labeled medical images with corrupted labels](https://arxiv.org/pdf/2102.08148.pdf) [<span style="color:RoyalBlue">DLA-D</span>, <span style="color:#8866FF;">CV (Classification)</span>], **Jintai Chen**$^\*$, Hongyun Yu, Ruiwei Feng, Danny Z Chen, Jian Wu, **International Conference on Bioinformatics and Biomedicine (BIBM)**, 2020
 
-- [Doctor Imitator: Hand-Radiography-based Bone Age Assessment by Imitating Scoring Methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#8866FF;">CV</span>, <span style="color:#FC6A03;">DD (GNN)</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020
+- [Doctor Imitator: Hand-Radiography-based Bone Age Assessment by Imitating Scoring Methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">PHL(Neural Additive model)</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#8866FF;">CV</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020
 
 - [A deep learning approach for colonoscopy pathology WSI analysis: Accurate segmentation and classification](https://ieeexplore.ieee.org/abstract/document/9269406) [<span style="color:#8866FF;">CV (Segmentation, Classification)</span>, <span style="color:#D70761;">H-AI</span>], Ruiwei Feng, Xuechen Liu, **Jintai Chen**, Danny Z Chen, Honghao Gao, Jian Wu, **IEEE Journal of Biomedical and Health Informatics (J-BHI)**, 2020
 
