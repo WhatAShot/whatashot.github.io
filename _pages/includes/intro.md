@@ -2,7 +2,7 @@ I am now a fifth-year Ph.D. student at the College of Computer Science and Techn
 <!-- that manages to parse objects/ concepts into part-whole hierarchy for better understanding and to explore to implant parse trees into a neural network. The insights on <span style="color:SeaGreen">PHL</span> inspired my researches on  -->
 <span style="color:#FC6A03;">tabular data processing (TD)</span>, <span style="color:RoyalBlue">neural network architecture design (NN-D)</span>, and <span style="color:#8866FF;">computer vision (CV)</span>.
 <!-- , and <span style="color:#D70761;">AI4H</span>.  -->
-I have published 2×ICML, 2×AAAI, 1×CVPR, 1×IJCAI papers as first-author
+I have published several top international AI conferences (2×ICML, 2×AAAI, 1×CVPR, 1×IJCAI) as first-author
 <!-- in top international AI conferences such as ICML, CVPR, and AAAI, -->
 <!-- presenting advanced AI technologies -->
 and published more than 10 papers in top <span style="color:#D70761;">AI4H</span> conferences/ journals such as MICCAI and TMI, involving ECG data processing, medical image analysis, and medical examination result (represented as structured input format) analysis.
