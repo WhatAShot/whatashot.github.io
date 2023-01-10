@@ -14,7 +14,7 @@ redirect_from:
 
 <!-- {% include_relative includes/PHL.md %} -->
 
-{% include_relative includes/new.md %}
+{% include_relative includes/news.md %}
 
 {% include_relative includes/pub.md %}
 
