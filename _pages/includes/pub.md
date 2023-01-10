@@ -44,7 +44,7 @@
 <!-- - **<span style="color:SeaGreen">On PHL</span>**: Tabular data is naturally property aligned, and it is a suitable scenario to explore how to implant a parse tree into a neural network. -->
 </div>
 <div markdown="1">
-[T2G-Former: Organizing Tabular Features into Relation Graphs Promotes Heterogeneous Feature Interaction](https://arxiv.org/pdf/2211.16887.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], Jiahuan Yan$^\*$, **Jintai Chen**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu, **AAAI (Oral)**, 2023
+[T2G-Former: Organizing Tabular Features into Relation Graphs Promotes Heterogeneous Feature Interaction](https://arxiv.org/pdf/2211.16887.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], Jiahuan Yan$^\*$, **Jintai Chen**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu, **AAAI** **(Oral)**, 2023
 </div>
 </div>
 
