@@ -1,18 +1,4 @@
 # 📄 Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/ICML21.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- Motivated by how neuron cells work and collaborate, we present a capsule version equipped with a transmitter and several optimizable receptors, and a capsule works like a neuron cell (i.e., transmitters compress a capsule feauture and send it to the higher level; neurotransmitter-receptor match determines the part-to-whole routing). A new framework oragnizes all capsules to execute an agglomerative hierachical clustering.
-
-- **<span style="color:SeaGreen">On PHL</span>**: This work provides a new framework (works like many parse trees) for effective, effecient, and flexible part-hierarchy parsing.
-<!-- The receptors of children capsules are recombined to act as receptors of parent capsules, thus capsules in different layers execute **one** agglomerative hierachical clustering. -->
-<!-- iterative clustering algorithm, for flexibly aggregating parts into a whole. However, (i) clustering parts according to high-dimensional feature similarity suffers from "curse of dimension"; (ii) an iterative process hinders to build a model deeper; (iii) feature value similarity cannot be used to find semantically cooperative object parts. We separate a clustering process into severel steps of an agglomerative hierachical clustering, and in each step capsules use its receptors (templates) to select the "right" object parts in a straightforward way.-->
-</div>
-<div markdown="1">
-[A Receptor Skeleton for Capsule Neural Networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:#8866FF;">CV</span>], **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2021
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021</div><img src='images/EP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **Academic Impact**: It is the first work to propose the concept of *Electrocardio panorama*, which allows visualizing heartbeat signals (ECG signals) from any viewpoints. Thus, our work benefits (i) Panoramic observations of heartbeat signals; (ii) Unified representation of ECG signals recorded by different systems; (iii) Waveform-aligned Mixup for new ECG case synthesis (e.g., for data augmentation); (iv) Corrupted ECG view reconstruction; (v) ECG theory exploration. <span style="color:red">(PS: got scores 7, 9, 10 of 10 in the IJCAI double-blind review)</span>
@@ -24,6 +10,19 @@
 </div>
 <div markdown="1">
 [Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf) [<span style="color:SeaGreen">PHL (Part-to-whole reconstruction)</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**$^\*$, Xiangshang Zheng$^\*$, Hongyun Yu$^\*$, Danny Z. Chen, Jian Wu, **International Joint Conference on Artificial Intelligence (IJCAI)**, 2021, [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/ICML21.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- Motivated by how neuron cells work and collaborate, we present a capsule version equipped with a transmitter and several optimizable receptors, and a capsule works like a neuron cell (i.e., transmitters compress a capsule feauture and send it to the higher level; neurotransmitter-receptor match determines the part-to-whole routing). A new framework oragnizes all capsules to execute an agglomerative hierachical clustering.
+
+- **<span style="color:SeaGreen">On PHL</span>**: This work provides a new framework (works like many parse trees) for effective, effecient, and flexible part-hierarchy parsing.
+<!-- The receptors of children capsules are recombined to act as receptors of parent capsules, thus capsules in different layers execute **one** agglomerative hierachical clustering. -->
+<!-- iterative clustering algorithm, for flexibly aggregating parts into a whole. However, (i) clustering parts according to high-dimensional feature similarity suffers from "curse of dimension"; (ii) an iterative process hinders to build a model deeper; (iii) feature value similarity cannot be used to find semantically cooperative object parts. We separate a clustering process into severel steps of an agglomerative hierachical clustering, and in each step capsules use its receptors (templates) to select the "right" object parts in a straightforward way.-->
+</div>
+<div markdown="1">
+[A Receptor Skeleton for Capsule Neural Networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:#8866FF;">CV</span>], **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2021
 </div>
 </div>
 
