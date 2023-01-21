@@ -70,7 +70,7 @@
 
 - TabCaps: A Capsule Neural Network for Tabular Data Classification with BoW Routing [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu, **International Conference on Learning Representations (ICLR)**, 2023
 
-- Cross-Layer Retrospective Retrieving via Layer Attention [<span style="color:#8866FF;">CV</span>, <span style="color:RoyalBlue">NN-D</span>], Yanwen Fang, Yuxi CAI, **Jintai Chen**, Jingyu Zhao, Guangjian Tian, Guodong Li, **International Conference on Learning Representations (ICLR)**, 2023
+- Cross-Layer Retrospective Retrieving via Layer Attention [<span style="color:#8866FF;">CV</span>, <span style="color:RoyalBlue">NN-D</span>], Yanwen Fang, Yuxi Cai, **Jintai Chen**, Jingyu Zhao, Guangjian Tian, Guodong Li, **International Conference on Learning Representations (ICLR)**, 2023
 
 - [EXCELFORMER: A Neural Network Surpassing GBDTs on Tabular Data](https://arxiv.org/abs/2301.02819) [<span style="color:#FC6A03;">TD</span>], **Jintai Chen**$^\*$, Jiahuan Yan$^\*$, Danny Ziyi Chen, Jian Wu, Preprint.
 
