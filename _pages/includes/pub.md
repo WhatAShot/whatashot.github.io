@@ -68,6 +68,10 @@
 </div>
 </div>
 
+- TabCaps: A Capsule Neural Network for Tabular Data Classification with BoW Routing, **Jintai Chen**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu, **International Conference on Learning Representations (ICLR)**, 2023
+
+- Cross-Layer Retrospective Retrieving via Layer Attention, Yanwen Fang, Yuxi CAI, **Jintai Chen**, Jingyu Zhao, Guangjian Tian, Guodong Li, **International Conference on Learning Representations (ICLR)**, 2023
+
 - [EXCELFORMER: A Neural Network Surpassing GBDTs on Tabular Data](https://arxiv.org/abs/2301.02819) [<span style="color:#FC6A03;">TD</span>], **Jintai Chen**$^\*$, Jiahuan Yan$^\*$, Danny Ziyi Chen, Jian Wu, Preprint.
 
 - [ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf) [<span style="color:RoyalBlue">NN-D (GAN)</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
