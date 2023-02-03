@@ -5,6 +5,7 @@
 
 # 💬 Talks
 - *2022.11*, How to conduct a good research on AI-for-healthcare, Shanghai University
+- *2022.10*, ECG Signal processing and Synthesis for Heart disease diagnosis, CMU
 - *2022.10*, ECG Synthesis for New View and New Data, Shanghai AI Lab 
 - *2022.09*, Part-Hierarchy Learning, ByteDance
 - *2022.06*, Supervised Tabular Learning, UberAI
