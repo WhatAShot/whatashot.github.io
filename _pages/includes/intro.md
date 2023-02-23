@@ -2,10 +2,10 @@ I am now a fifth-year Ph.D. student at the College of Computer Science and Techn
 <!-- that manages to parse objects/ concepts into part-whole hierarchy for better understanding and to explore to implant parse trees into a neural network. The insights on <span style="color:SeaGreen">PHL</span> inspired my researches on  -->
 <span style="color:#FC6A03;">tabular data processing (TD)</span>, <span style="color:RoyalBlue">neural network architecture design (NN-D)</span>, and <span style="color:#8866FF;">computer vision (CV)</span>.
 <!-- , and <span style="color:#D70761;">AI4H</span>.  -->
-I have published several top international AI conferences (2×ICML, 2×AAAI, 1×ICLR, 1×CVPR, 1×IJCAI) as the first author
+I have published over 10 top international AI conference papers
 <!-- in top international AI conferences such as ICML, CVPR, and AAAI, -->
 <!-- presenting advanced AI technologies -->
-and published more than 10 papers in top <span style="color:#D70761;">AI4H</span> conferences/ journals such as MICCAI and TMI.
+and more than 10 papers in top <span style="color:#D70761;">AI4H</span> conferences/ journals such as MICCAI and TMI.
 <!-- involving ECG data processing, medical image analysis, and medical examination result (represented in tables) analysis. -->
 
 <!-- I was honored with the *National Scholarship of China* in 2015 and 2021, and won the *Tencent Doctoral Scholarship* in 2021, the *Huawei Fundamental Research Scholarship* in 2022. I am the core member of our team participating MICCAI competitions, and we won <span style="color:red">the 1-st place</span> in the Challenge of Signet Ring Cell Detection and in the Challenge of Organ-At-Risk Segmentation from Chest CT Scans, and <span style="color:red">the 2-nd place</span> in the Challenge of Colonoscopy Tissue Segmentation. -->
