@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# 🎖 Awards
 - *2022.10*, Huawei Fundamental Research Scholarship (Top 3%)
 - *2021.10*, Tencent Doctoral Scholarship (Top 1%)
 - *2021.10*, National Scholarship of China (Top 1%)
