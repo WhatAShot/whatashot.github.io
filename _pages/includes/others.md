@@ -4,7 +4,7 @@
 - *2014.09 - 2018.06*, Bachelor of Science in Statistics with honor, Zhongnan University of Economics and Law.
  -->
 # 💬 Talks
-- *2022.11*, How to Excel in AI-for-healthcare Research, at Shanghai University
+- *2022.11*, How to Excel in AI-for-healthcare Researches, at Shanghai University
 - *2022.10*, ECG Signal Processing and Synthesis for Heart disease diagnosis, at Carnegie Mellon University
 - *2022.10*, ECG Synthesis for New View and New Data, at Shanghai AI Lab 
 - *2022.09*, Part-Hierarchy Learning, at ByteDance
