@@ -1,15 +1,15 @@
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2018.09 - 2023.06 (Expected)*, Ph.D. Candicate, Zhejiang University, Hangzhou.
 - *2014.09 - 2018.06*, Bachelor of Science in Statistics with honor, Zhongnan University of Economics and Law.
-
+ -->
 # 💬 Talks
-- *2022.11*, How to conduct a good research on AI-for-healthcare, Shanghai University
-- *2022.10*, ECG Signal Processing and Synthesis for Heart disease diagnosis, Carnegie Mellon University
-- *2022.10*, ECG Synthesis for New View and New Data, Shanghai AI Lab 
-- *2022.09*, Part-Hierarchy Learning, ByteDance
-- *2022.06*, Supervised Tabular Learning, UberAI
-- *2021.10*, Domain Mixup for distant transfer learning, Shanghai Jiaotong University
+- *2022.11*, How to Excel in AI-for-healthcare Research, at Shanghai University
+- *2022.10*, ECG Signal Processing and Synthesis for Heart disease diagnosis, at Carnegie Mellon University
+- *2022.10*, ECG Synthesis for New View and New Data, at Shanghai AI Lab 
+- *2022.09*, Part-Hierarchy Learning, at ByteDance
+- *2022.06*, Supervised Tabular Learning, at UberAI
+- *2021.10*, Domain Mixup for distant transfer learning, at Shanghai Jiaotong University
 
 # 🏫 Teaching
 - *Fall 2022*, Frontiers of Medical Artificial Intelligence (lecture slice preparation, teaching assistant)
