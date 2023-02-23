@@ -22,7 +22,7 @@
 <!-- iterative clustering algorithm, for flexibly aggregating parts into a whole. However, (i) clustering parts according to high-dimensional feature similarity suffers from "curse of dimension"; (ii) an iterative process hinders to build a model deeper; (iii) feature value similarity cannot be used to find semantically cooperative object parts. We separate a clustering process into severel steps of an agglomerative hierachical clustering, and in each step capsules use its receptors (templates) to select the "right" object parts in a straightforward way.-->
 </div>
 <div markdown="1">
-[A Receptor Skeleton for Capsule Neural Networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:#8866FF;">CV</span>], **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2021
+[A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:#8866FF;">CV</span>], **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2021
 </div>
 </div>
 
@@ -32,7 +32,7 @@
 - **<span style="color:SeaGreen">On PHL</span>**: Tabular data is naturally property aligned, and it is a suitable scenario to explore how to implant a parse tree into a neural network.
 </div>
 <div markdown="1">
-[DANETs: Deep Abstract Networks for Tabular Data Classification and Regression](https://arxiv.org/pdf/2112.02962.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Z Chen, Jian Wu, **AAAI**, 2022
+[DANETs: Deep abstract networks for tabular data classification and regression](https://arxiv.org/pdf/2112.02962.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Z Chen, Jian Wu, **AAAI**, 2022
 <!--  , [\[**Code**\]](https://github.com/WhatAShot/DANet) -->
 </div>
 </div>
@@ -43,7 +43,7 @@
 <!-- - **<span style="color:SeaGreen">On PHL</span>**: Tabular data is naturally property aligned, and it is a suitable scenario to explore how to implant a parse tree into a neural network. -->
 </div>
 <div markdown="1">
-[T2G-Former: Organizing Tabular Features into Relation Graphs Promotes Heterogeneous Feature Interaction](https://arxiv.org/pdf/2211.16887.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], Jiahuan Yan$^\*$, **Jintai Chen**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu, **AAAI (Oral)**, 2023
+[T2G-Former: Organizing tabular features into relation graphs promotes heterogeneous feature interaction](https://arxiv.org/pdf/2211.16887.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], Jiahuan Yan$^\*$, **Jintai Chen**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu, **AAAI (Oral)**, 2023
 </div>
 </div>
 
@@ -75,29 +75,29 @@
 
 </div>
 <div markdown="1">
- [Doctor Imitator: Hand-Radiography-based Bone Age Assessment by Imitating Scoring Methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">PHL(Neural Additive model)</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#8866FF;">CV</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020
+ [Doctor imitator: Hand-radiography-based bone age assessment by imitating scoring methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">PHL(Neural Additive model)</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#8866FF;">CV</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020
 </div>
 </div>
 
-- TabCaps: A Capsule Neural Network for Tabular Data Classification with BoW Routing [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu, **International Conference on Learning Representations (ICLR)**, 2023
+- TabCaps: A capsule neural network for tabular data classification with BoW Routing [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu, **International Conference on Learning Representations (ICLR)**, 2023
 
-- Cross-Layer Retrospective Retrieving via Layer Attention [<span style="color:#8866FF;">CV</span>, <span style="color:RoyalBlue">NN-D</span>], Yanwen Fang, Yuxi Cai, **Jintai Chen**, Jingyu Zhao, Guangjian Tian, Guodong Li, **International Conference on Learning Representations (ICLR)**, 2023
+- Cross-Layer retrospective retrieving via layer attention [<span style="color:#8866FF;">CV</span>, <span style="color:RoyalBlue">NN-D</span>], Yanwen Fang, Yuxi Cai, **Jintai Chen**, Jingyu Zhao, Guangjian Tian, Guodong Li, **International Conference on Learning Representations (ICLR)**, 2023
 
-- [EXCELFORMER: A Neural Network Surpassing GBDTs on Tabular Data](https://arxiv.org/pdf/2301.02819.pdf) [<span style="color:#FC6A03;">TD</span>], **Jintai Chen**$^\*$, Jiahuan Yan$^\*$, Danny Ziyi Chen, Jian Wu, **Preprint**.
+- [EXCELFORMER: A neural network surpassing GBDTs on tabular data](https://arxiv.org/pdf/2301.02819.pdf) [<span style="color:#FC6A03;">TD</span>], **Jintai Chen**$^\*$, Jiahuan Yan$^\*$, Danny Ziyi Chen, Jian Wu, **Preprint**.
 
-- [ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf) [<span style="color:RoyalBlue">NN-D (GAN)</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
+- [ME-GAN: Learning panoptic electrocardio representations for multi-view ECG synthesis conditioned on heart diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf) [<span style="color:RoyalBlue">NN-D (GAN)</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
 
 <!-- - [T2G-Former: Organizing Tabular Features into Relation Graphs Promotes Heterogeneous Feature Interaction](https://arxiv.org/pdf/2211.16887.pdf) [<span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], Jiahuan Yan$^\*$, **Jintai Chen**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu, **AAAI**, 2023 -->
 
-- [Robust Training of Graph Neural Networks via Noise Governance](https://arxiv.org/pdf/2211.06614.pdf) [<span style="color:RoyalBlue">NN-D (GNN)</span>], Siyi Qian, Haochao Ying, Renjun Hu, Jingbo Zhou, **Jintai Chen**, Danny Z Chen, Jian Wu, **ACM International Conference on Web Search and Data Mining (WSDM)**, 2023
+- [Robust training of graph neural networks via noise governance](https://arxiv.org/pdf/2211.06614.pdf) [<span style="color:RoyalBlue">NN-D (GNN)</span>], Siyi Qian, Haochao Ying, Renjun Hu, Jingbo Zhou, **Jintai Chen**, Danny Z Chen, Jian Wu, **ACM International Conference on Web Search and Data Mining (WSDM)**, 2023
 
-- [Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation](https://link.springer.com/content/pdf/10.1007/978-3-031-16452-1_24.pdf) [<span style="color:#8866FF;">CV (Segmentation)</span>, <span style="color:#D70761;">H-AI</span>], Yixuan Wu, Bo Zheng, **Jintai Chen**, Danny Z Chen, Jian Wu, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI, Oral)**, 2022
+- [Self-learning and one-shot learning based single-slice annotation for 3D medical image segmentation](https://link.springer.com/content/pdf/10.1007/978-3-031-16452-1_24.pdf) [<span style="color:#8866FF;">CV (Segmentation)</span>, <span style="color:#D70761;">H-AI</span>], Yixuan Wu, Bo Zheng, **Jintai Chen**, Danny Z Chen, Jian Wu, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI, Oral)**, 2022
 
-- [D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation](https://arxiv.org/pdf/2201.00462.pdf) [<span style="color:#8866FF;">CV (Segmentation)</span>, <span style="color:#D70761;">H-AI</span>], Yixuan Wu, Kuanlun Liao, **Jintai Chen**, Danny Z Chen, Jinhong Wang, Honghao Gao, Jian Wu, **Neural Computing and Applications**, 2022
+- [D-Former: A U-shaped dilated Transformer for 3D medical image segmentation](https://arxiv.org/pdf/2201.00462.pdf) [<span style="color:#8866FF;">CV (Segmentation)</span>, <span style="color:#D70761;">H-AI</span>], Yixuan Wu, Kuanlun Liao, **Jintai Chen**, Danny Z Chen, Jinhong Wang, Honghao Gao, Jian Wu, **Neural Computing and Applications**, 2022
 
-- [Identifying Electrocardiogram Abnormalities Using a Handcrafted-Rule-Enhanced Neural Network](https://arxiv.org/pdf/2206.10592.pdf) [<span style="color:#D70761;">H-AI</span>], Yuexin Bian, **Jintai Chen**, Xiaojun Chen, Xiaoxian Yang, Danny Z. Chen, Jian Wu, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2022.
+- [Identifying electrocardiogram abnormalities using a handcrafted-rule-enhanced neural network](https://arxiv.org/pdf/2206.10592.pdf) [<span style="color:#D70761;">H-AI</span>], Yuexin Bian, **Jintai Chen**, Xiaojun Chen, Xiaoxian Yang, Danny Z. Chen, Jian Wu, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2022.
 
-- [A Corresponding Region Fusion Framework for Multi-modal Cervical Lesion Detection](https://ieeexplore.ieee.org/abstract/document/9784879) [<span style="color:#8866FF;">CV (Detection)</span>, <span style="color:#D70761;">H-AI</span>], Tingting Chen, Wenhao Zheng, Heping Hu, Chunhua Luo, **Jintai Chen**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Honghao Gao, Jian Wu, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2022
+- [A corresponding region fusion framework for multi-modal cervical lesion detection](https://ieeexplore.ieee.org/abstract/document/9784879) [<span style="color:#8866FF;">CV (Detection)</span>, <span style="color:#D70761;">H-AI</span>], Tingting Chen, Wenhao Zheng, Heping Hu, Chunhua Luo, **Jintai Chen**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Honghao Gao, Jian Wu, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2022
 
 - [ChroNet: A multi-task learning based approach for prediction of multiple chronic diseases](https://link.springer.com/article/10.1007/s11042-020-10482-8) [<span style="color:#FC6A03;">TD</span>, <span style="color:#D70761;">H-AI</span>], Ruiwei Feng, Yan Cao, Xuechen Liu, Tingting Chen, **Jintai Chen**, Danny Z Chen, Honghao Gao, Jian Wu, **Multimedia Tools and Applications**, 2021
 
