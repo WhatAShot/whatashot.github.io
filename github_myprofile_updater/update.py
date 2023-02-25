@@ -3,8 +3,10 @@ if __name__ == '__main__':
     base_dir = '../_pages/includes/'
     _intro = open(f'{base_dir}/intro.md').read().strip()
     _homepage = open(f'{base_dir}/homepage.md').read().strip()
-    _pub = open(f'{base_dir}/pub_short.md').read().strip()
+    _pub = open(f'{base_dir}/pub.md').read().strip()
     _news = open(f'{base_dir}/news.md').read().strip()
+    _honers = open(f'{base_dir}/honers.md').read().strip()
+    _others = open(f'{base_dir}/others.md').read().strip()
     with open('README.md', 'w') as f:
         f.write(_header)
         f.write('\n\n')
@@ -15,3 +17,7 @@ if __name__ == '__main__':
         f.write(_news)
         f.write('\n\n##')
         f.write(_pub)
+        f.write('\n\n##')
+        f.write(_honers)
+        f.write('\n\n##')
+        f.write(_others)
