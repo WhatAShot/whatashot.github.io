@@ -10,16 +10,16 @@ main:
     url: "/#-selected-publications"
 
   - title: "Awards"
-    url: "/#-honors-and-awards"
+    url: "/#-awards"
 
   - title: "Talks"
-    url: "/#-honors-and-awards"
+    url: "/#-talks"
 
   - title: "Teaching"
-    url: "/#-honors-and-awards"
+    url: "/#-teaching"
   
   - title: "Reviews"
-    url: "/#-honors-and-awards"
+    url: "/#-reviews"
   
   - title: "Visiting"
-    url: "/#-honors-and-awards"
+    url: "/#-visiting"
