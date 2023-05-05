@@ -12,11 +12,12 @@
 - *2021.10*, Domain Mixup for Distant Transfer Learning, @ Shanghai Jiaotong University
 
 # 🏫 Teaching
-- *Fall 2022*, Frontiers of Medical Artificial Intelligence (lecture slice preparation, teaching assistant)
+- *Fall 2023*, Frontiers of Medical Artificial Intelligence (lecture slice preparation, teaching assistant)
 
 # 🔎 Reviews:
-- Review for Conferences: ICML, AAAI, IJCAI, MICCAI, ISBI, NeurIPS.
+- Review for Conferences: ICML, AAAI, IJCAI, MICCAI, ISBI, NeurIPS, ICCV.
 - Review for Journals: TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics.
+<!-- MBE, Journal of Medical Imaging and Health Informatics. -->
 
 # 🎒 Visiting
 - *2021.06 - 2021.09*, Medical Big Data Center, Guangdong Academy of Medical Sciences, had the honor of working with Prof. Huiying Liang, Shuai Huang, and Dantong Li.
