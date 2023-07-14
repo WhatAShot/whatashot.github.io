@@ -1,5 +1,6 @@
 # 🎖 Awards
 - *2023.04*, Excellent Doctoral Graduates of Zhejiang Province, China (Top 1%)
+- *2023.04*, Excellent Doctoral Graduates of Zhejiang University (Top 1%)
 - *2022.10*, Huawei Fundamental Research Scholarship (Top 3%)
 - *2021.10*, Tencent Doctoral Scholarship (Top 1%)
 - *2021.10*, National Scholarship of China (Top 1%)
