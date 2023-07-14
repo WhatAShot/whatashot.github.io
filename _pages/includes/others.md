@@ -1,8 +1,8 @@
 
-<!-- # 📖 Educations
-- *2018.09 - 2023.06 (Expected)*, Ph.D. Candicate, Zhejiang University, Hangzhou.
+# 📖 Educations
+- *2018.09 - 2023.06*, Ph.D. of Computer Science and Techonology, Zhejiang University, Hangzhou.
 - *2014.09 - 2018.06*, Bachelor of Science in Statistics with honor, Zhongnan University of Economics and Law.
- -->
+
 # 💬 Talks
 - *2022.11*, How to Excel in AI-for-healthcare Researches, @ Shanghai University
 - *2022.10*, ECG Signal Processing and Synthesis for Computer-Aided Heart Disease Diagnosis, @ Carnegie Mellon University
@@ -16,7 +16,7 @@
 
 # 🔎 Reviews:
 - Review for Conferences: ICML, AAAI, IJCAI, MICCAI, ISBI, NeurIPS, ICCV.
-- Review for Journals: TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics.
+- Review for Journals: TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics, Scienstific Report
 <!-- MBE, Journal of Medical Imaging and Health Informatics. -->
 
 # 🎒 Visiting
