@@ -26,15 +26,14 @@
 </div>
 </div>
 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/AAAI.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/AAAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - This work proposes a principle of "group + abstract" for tabular learning, and presents a series of parse-tree-like model to explore the impacts of model depth for tabular tasks.
 - **<span style="color:SeaGreen">On PHL</span>**: Tabular data is naturally property aligned, and it is a suitable scenario to explore how to implant a parse tree into a neural network.
 </div>
 <div markdown="1">
 [DANETs: Deep abstract networks for tabular data classification and regression](https://arxiv.org/pdf/2112.02962.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Z Chen, Jian Wu, **AAAI**, 2022
-<!--  , [\[**Code**\]](https://github.com/WhatAShot/DANet) -->
+[\[**Code**\]](https://github.com/WhatAShot/DANet)
 </div>
 </div>
 -->
@@ -81,7 +80,7 @@
 </div>
 </div>
 
-- [TabCaps: A capsule neural network for tabular data classification with BoW Routing](https://openreview.net/pdf?id=OgbtSLESnI) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu, **International Conference on Learning Representations (ICLR)**, 2023
+- [TabCaps: A capsule neural network for tabular data classification with BoW Routing](https://openreview.net/pdf?id=OgbtSLESnI) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu, **International Conference on Learning Representations (ICLR)**, 2023, [\[**Code**\]](https://github.com/WhatAShot/TabCaps)
 
 - [Cross-layer retrospective retrieving via layer attention](https://openreview.net/pdf?id=pvgEL1yS3Ql) [<span style="color:#8866FF;">CV</span>, <span style="color:RoyalBlue">NN-D</span>], Yanwen Fang, Yuxi Cai, **Jintai Chen**, Jingyu Zhao, Guangjian Tian, Guodong Li, **International Conference on Learning Representations (ICLR)**, 2023
 
@@ -89,7 +88,7 @@
 
 - [ME-GAN: Learning panoptic electrocardio representations for multi-view ECG synthesis conditioned on heart diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf) [<span style="color:RoyalBlue">NN-D (GAN)</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
 
-- [DANETs: Deep abstract networks for tabular data classification and regression](https://arxiv.org/pdf/2112.02962.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**$^\*$, Kuanlun Liao, Yao Wan, Danny Ziyi Chen, Jian Wu, **AAAI**, 2022
+- [DANETs: Deep abstract networks for tabular data classification and regression](https://arxiv.org/pdf/2112.02962.pdf) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**$^\*$, Kuanlun Liao, Yao Wan, Danny Ziyi Chen, Jian Wu, **AAAI**, 2022, [\[**Code**\]](https://github.com/WhatAShot/DANet)
 
 - [Robust training of graph neural networks via noise governance](https://arxiv.org/pdf/2211.06614.pdf) [<span style="color:RoyalBlue">NN-D (GNN)</span>], Siyi Qian, Haochao Ying, Renjun Hu, Jingbo Zhou, **Jintai Chen**, Danny Z Chen, Jian Wu, **ACM International Conference on Web Search and Data Mining (WSDM)**, 2023
 
