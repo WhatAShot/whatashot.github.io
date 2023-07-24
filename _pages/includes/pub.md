@@ -81,7 +81,7 @@
 </div>
 
 - [Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction](https://arxiv.org/pdf/2307.09004.pdf) [<span style="color:#8866FF;">CV</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#D70761;">H-AI</span>] Jinhong Wang$^\*$, Yi Cheng$^\*$, **Jintai Chen**$^$\dag$$, Tingting Chen, Danny Chen, Jian Wu$^$\dag$$, **IEEE/CVF International Conference
-on Computer Vision (ICCV)**
+on Computer Vision (ICCV)**, 2023, [\[**Code**\]](https://github.com/wjh892521292/Ord2Seq)
 
 - [TabCaps: A capsule neural network for tabular data classification with BoW Routing](https://openreview.net/pdf?id=OgbtSLESnI) [<span style="color:SeaGreen">PHL</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu$^$\dag$$, **International Conference on Learning Representations (ICLR)**, 2023, [\[**Code**\]](https://github.com/WhatAShot/TabCaps)
 
