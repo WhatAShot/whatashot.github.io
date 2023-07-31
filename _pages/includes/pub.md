@@ -59,6 +59,7 @@
 </div>
 </div> -->
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -69,6 +70,7 @@
  [A hierarchical graph network for 3D object detection on point clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf) [<span style="color:#8866FF;">CV (Detection, Point clouds)</span>, <span style="color:RoyalBlue">NN-D</span>], **Jintai Chen**$^\*$, Biwen Lei$^\*$, Qingyu Song$^\*$, Haochao Ying, Danny Z Chen, Jian Wu$^\dagger$, **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2020
 </div>
 </div>
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2020</div><img src='images/baa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -113,6 +115,8 @@ on Computer Vision (ICCV)**, 2023, [\[**Code**\]](https://github.com/wjh89252129
 - [Interactive few-shot learning: Limited supervision, better medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9358206) [<span style="color:#8866FF;">CV (Segmentation)</span>, <span style="color:#D70761;">H-AI</span>], Ruiwei Feng$^\*$, Xiangshang Zheng$^\*$, Tianxiang Gao$^\*$, **Jintai Chen**, Wenzhe Wang, Danny Z Chen, Jian Wu$^\dagger$, **IEEE Transactions on Medical Imaging (TMI)**, 2021
 
 - [A transfer learning based super-resolution microscopy for biopsy slice images: the joint methods perspective](https://ieeexplore.ieee.org/abstract/document/9082112) [<span style="color:#8866FF;">CV (Distant Domain Transfer Learning)</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**$^\*$, Haochao Ying$^\*$, Xuechen Liu$^\*$, Jingjing Gu, Ruiwei Feng, Tingting Chen, Honghao Gao$^\dagger$, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2020
+
+- [A hierarchical graph network for 3D object detection on point clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf) [<span style="color:#8866FF;">CV (Detection, Point clouds)</span>, <span style="color:RoyalBlue">NN-D</span>], **Jintai Chen**$^\*$, Biwen Lei$^\*$, Qingyu Song$^\*$, Haochao Ying, Danny Z Chen, Jian Wu$^\dagger$, **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2020
 
 - [Flow-Mixup: Classifying multi-labeled medical images with corrupted labels](https://arxiv.org/pdf/2102.08148.pdf) [<span style="color:RoyalBlue">DLA-D</span>, <span style="color:#8866FF;">CV (Classification)</span>], **Jintai Chen**, Hongyun Yu, Ruiwei Feng, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Bioinformatics and Biomedicine (BIBM)**, 2020
 
