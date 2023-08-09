@@ -16,8 +16,8 @@
 - *Fall 2023*, Frontiers of Medical Artificial Intelligence (lecture slice preparation, teaching assistant)
 
 # 🔎 Reviews:
-- Review for Conferences: ICML, AAAI, IJCAI, MICCAI, ISBI, NeurIPS, ICCV.
-- Review for Journals: TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics, Scienstific Report
+- Review for Conferences: ICML, AAAI, IJCAI, MICCAI, ISBI, NeurIPS, ICCV, EMNLP.
+- Review for Journals: TPAMI, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics, Scienstific Report
 <!-- MBE, Journal of Medical Imaging and Health Informatics. -->
 
 # 🎒 Visiting
