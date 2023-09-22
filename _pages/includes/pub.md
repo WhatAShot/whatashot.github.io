@@ -83,7 +83,7 @@
 </div>
 </div>
 
-- GCL: Gradient-Guided Contrastive Learning for Medical Image Segmentation with Multi-Perspective Meta Labels [<span style="color:#8866FF;">CV</span>, <span style="color:#D70761;">H-AI</span>] Yixuan Wu, **Jintai Chen**$^\dagger$, Jiahuan Yan, Yiheng Zhu, Danny Chen, Jian Wu$^\dagger$, **ACM International Conference on Multimedia**, 2023
+- [GCL: Gradient-Guided Contrastive Learning for Medical Image Segmentation with Multi-Perspective Meta Labels](https://arxiv.org/pdf/2309.08888.pdf) [<span style="color:#8866FF;">CV</span>, <span style="color:#D70761;">H-AI</span>] Yixuan Wu, **Jintai Chen**$^\dagger$, Jiahuan Yan, Yiheng Zhu, Danny Chen, Jian Wu$^\dagger$, **ACM International Conference on Multimedia**, 2023
 
 - [Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction](https://arxiv.org/pdf/2307.09004.pdf) [<span style="color:#8866FF;">CV</span>, <span style="color:RoyalBlue">NN-D</span>, <span style="color:#D70761;">H-AI</span>] Jinhong Wang$^\*$, Yi Cheng$^\*$, **Jintai Chen**$^\dagger$, Tingting Chen, Danny Chen, Jian Wu$^\dagger$, **IEEE/CVF International Conference
 on Computer Vision (ICCV)**, 2023, [\[**Code**\]](https://github.com/wjh892521292/Ord2Seq)
