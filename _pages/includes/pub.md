@@ -79,7 +79,7 @@
 
 </div>
 <div markdown="1">
- [Doctor imitator: Hand-radiography-based bone age assessment by imitating scoring methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">PHL(Neural Additive model)</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#8866FF;">CV</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020
+ [Doctor imitator: Hand-radiography-based bone age assessment by imitating scoring methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">PHL (neural additive model)</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:#8866FF;">CV</span>, <span style="color:#D70761;">H-AI</span>], **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020
 </div>
 </div>
 
