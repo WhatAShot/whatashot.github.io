@@ -72,14 +72,14 @@
 </div>
 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2020</div><img src='images/baa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2020 Oral</div><img src='images/baa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - This work provides the first addictive neural network for bone age assessment, which introduces sparsity into the model by solely using features of hand joints and thus yields the hand joint scores without direct supervision. 
 
 </div>
 <div markdown="1">
- [Doctor imitator: Hand-radiography-based bone age assessment by imitating scoring methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">SRL</span>, <span style="color:RoyalBlue">CV</span>, <span style="color:#D70761;">AI4H</span>], **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020
+ [Doctor imitator: Hand-radiography-based bone age assessment by imitating scoring methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">SRL</span>, <span style="color:RoyalBlue">CV</span>, <span style="color:#D70761;">AI4H</span>], **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI, Oral)**, 2020
 </div>
 </div>
 
