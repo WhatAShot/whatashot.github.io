@@ -23,7 +23,7 @@
 <!-- iterative clustering algorithm, for flexibly aggregating parts into a whole. However, (i) clustering parts according to high-dimensional feature similarity suffers from "curse of dimension"; (ii) an iterative process hinders to build a model deeper; (iii) feature value similarity cannot be used to find semantically cooperative object parts. We separate a clustering process into severel steps of an agglomerative hierachical clustering, and in each step capsules use its receptors (templates) to select the "right" object parts in a straightforward way.-->
 </div>
 <div markdown="1">
-[A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf) [<span style="color:SeaGreen">SRL (tree structure)</span>, <span style="color:RoyalBlue">CV</span>], **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$^\dagger$, **International Conference on Machine Learning (ICML)**, 2021
+[A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf) [<span style="color:SeaGreen">SRL (feature tree structure)</span>, <span style="color:RoyalBlue">CV</span>], **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$^\dagger$, **International Conference on Machine Learning (ICML)**, 2021
 </div>
 </div>
 
@@ -85,7 +85,7 @@
 
 - [GCL: Gradient-Guided Contrastive Learning for Medical Image Segmentation with Multi-Perspective Meta Labels](https://arxiv.org/pdf/2309.08888.pdf) [<span style="color:RoyalBlue">CV</span>, <span style="color:#D70761;">AI4H</span>] Yixuan Wu, **Jintai Chen**$^\dagger$, Jiahuan Yan, Yiheng Zhu, Danny Chen, Jian Wu$^\dagger$, **ACM International Conference on Multimedia**, 2023
 
-- [Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction](https://arxiv.org/pdf/2307.09004.pdf) [<span style="color:RoyalBlue">CV</span>, <span style="color:#D70761;">AI4H</span>] Jinhong Wang$^\*$, Yi Cheng$^\*$, **Jintai Chen**$^\dagger$, Tingting Chen, Danny Chen, Jian Wu$^\dagger$, **IEEE/CVF International Conference
+- [Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction](https://arxiv.org/pdf/2307.09004.pdf) [<span style="color:SeaGreen">SRL (label tree structure)</span>,<span style="color:RoyalBlue">CV</span>, <span style="color:#D70761;">AI4H</span>] Jinhong Wang$^\*$, Yi Cheng$^\*$, **Jintai Chen**$^\dagger$, Tingting Chen, Danny Chen, Jian Wu$^\dagger$, **IEEE/CVF International Conference
 on Computer Vision (ICCV)**, 2023, [\[**Code**\]](https://github.com/wjh892521292/Ord2Seq)
 
 - [TabCaps: A capsule neural network for tabular data classification with BoW Routing](https://openreview.net/pdf?id=OgbtSLESnI) [<span style="color:SeaGreen">SRL</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu$^\dagger$, **International Conference on Learning Representations (ICLR)**, 2023, [\[**Code**\]](https://github.com/WhatAShot/TabCaps)
