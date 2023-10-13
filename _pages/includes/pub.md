@@ -23,7 +23,7 @@
 <!-- iterative clustering algorithm, for flexibly aggregating parts into a whole. However, (i) clustering parts according to high-dimensional feature similarity suffers from "curse of dimension"; (ii) an iterative process hinders to build a model deeper; (iii) feature value similarity cannot be used to find semantically cooperative object parts. We separate a clustering process into severel steps of an agglomerative hierachical clustering, and in each step capsules use its receptors (templates) to select the "right" object parts in a straightforward way.-->
 </div>
 <div markdown="1">
-[A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf) [<span style="color:SeaGreen">SRL (capsule net)</span>, <span style="color:RoyalBlue">computer vision (CV)</span>], **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$^\dagger$, **International Conference on Machine Learning (ICML)**, 2021
+[A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf) [<span style="color:SeaGreen">SRL (capsule net)</span>, <span style="color:RoyalBlue">CV</span>], **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$^\dagger$, **International Conference on Machine Learning (ICML)**, 2021
 </div>
 </div>
 
@@ -79,18 +79,18 @@
 
 </div>
 <div markdown="1">
- [Doctor imitator: Hand-radiography-based bone age assessment by imitating scoring methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">SRL</span>, <span style="color:RoyalBlue">computer vision (CV)</span>, <span style="color:#D70761;">AI4H</span>], **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020
+ [Doctor imitator: Hand-radiography-based bone age assessment by imitating scoring methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">SRL</span>, <span style="color:RoyalBlue">CV</span>, <span style="color:#D70761;">AI4H</span>], **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020
 </div>
 </div>
 
-- [GCL: Gradient-Guided Contrastive Learning for Medical Image Segmentation with Multi-Perspective Meta Labels](https://arxiv.org/pdf/2309.08888.pdf) [<span style="color:RoyalBlue">computer vision (CV)</span>, <span style="color:#D70761;">AI4H</span>] Yixuan Wu, **Jintai Chen**$^\dagger$, Jiahuan Yan, Yiheng Zhu, Danny Chen, Jian Wu$^\dagger$, **ACM International Conference on Multimedia**, 2023
+- [GCL: Gradient-Guided Contrastive Learning for Medical Image Segmentation with Multi-Perspective Meta Labels](https://arxiv.org/pdf/2309.08888.pdf) [<span style="color:RoyalBlue">CV</span>, <span style="color:#D70761;">AI4H</span>] Yixuan Wu, **Jintai Chen**$^\dagger$, Jiahuan Yan, Yiheng Zhu, Danny Chen, Jian Wu$^\dagger$, **ACM International Conference on Multimedia**, 2023
 
-- [Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction](https://arxiv.org/pdf/2307.09004.pdf) [<span style="color:RoyalBlue">computer vision (CV)</span>, <span style="color:#D70761;">AI4H</span>] Jinhong Wang$^\*$, Yi Cheng$^\*$, **Jintai Chen**$^\dagger$, Tingting Chen, Danny Chen, Jian Wu$^\dagger$, **IEEE/CVF International Conference
+- [Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction](https://arxiv.org/pdf/2307.09004.pdf) [<span style="color:RoyalBlue">CV</span>, <span style="color:#D70761;">AI4H</span>] Jinhong Wang$^\*$, Yi Cheng$^\*$, **Jintai Chen**$^\dagger$, Tingting Chen, Danny Chen, Jian Wu$^\dagger$, **IEEE/CVF International Conference
 on Computer Vision (ICCV)**, 2023, [\[**Code**\]](https://github.com/wjh892521292/Ord2Seq)
 
 - [TabCaps: A capsule neural network for tabular data classification with BoW Routing](https://openreview.net/pdf?id=OgbtSLESnI) [<span style="color:SeaGreen">SRL</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu$^\dagger$, **International Conference on Learning Representations (ICLR)**, 2023, [\[**Code**\]](https://github.com/WhatAShot/TabCaps)
 
-- [Cross-layer retrospective retrieving via layer attention](https://openreview.net/pdf?id=pvgEL1yS3Ql) [<span style="color:RoyalBlue">computer vision (CV)</span>, <span style="color:RoyalBlue">NN-D</span>], Yanwen Fang, Yuxi Cai, **Jintai Chen**, Jingyu Zhao, Guangjian Tian, Guodong Li$^\dagger$, **International Conference on Learning Representations (ICLR)**, 2023
+- [Cross-layer retrospective retrieving via layer attention](https://openreview.net/pdf?id=pvgEL1yS3Ql) [<span style="color:RoyalBlue">CV</span>, <span style="color:RoyalBlue">NN-D</span>], Yanwen Fang, Yuxi Cai, **Jintai Chen**, Jingyu Zhao, Guangjian Tian, Guodong Li$^\dagger$, **International Conference on Learning Representations (ICLR)**, 2023
 
 - [EXCELFORMER: A neural network surpassing GBDTs on tabular data](https://arxiv.org/pdf/2301.02819.pdf) [<span style="color:#FC6A03;">TD</span>], **Jintai Chen**$^\*$, Jiahuan Yan$^\*$, Danny Ziyi Chen, Jian Wu$^\dagger$, **Preprint**.
 
@@ -120,7 +120,7 @@ on Computer Vision (ICCV)**, 2023, [\[**Code**\]](https://github.com/wjh89252129
 
 - [Flow-Mixup: Classifying multi-labeled medical images with corrupted labels](https://arxiv.org/pdf/2102.08148.pdf) [<span style="color:#8866FF;">CV (Classification)</span>], **Jintai Chen**, Hongyun Yu, Ruiwei Feng, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Bioinformatics and Biomedicine (BIBM)**, 2020
 
-<!-- - [Doctor Imitator: Hand-Radiography-based Bone Age Assessment by Imitating Scoring Methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">SRL(Neural Additive model)</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:RoyalBlue">computer vision (CV)</span>, <span style="color:#D70761;">AI4H</span>], **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020 -->
+<!-- - [Doctor Imitator: Hand-Radiography-based Bone Age Assessment by Imitating Scoring Methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">SRL(Neural Additive model)</span>, <span style="color:RoyalBlue">DLA-D</span>, <span style="color:RoyalBlue">CV</span>, <span style="color:#D70761;">AI4H</span>], **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2020 -->
 
 - [A deep learning approach for colonoscopy pathology WSI analysis: Accurate segmentation and classification](https://ieeexplore.ieee.org/abstract/document/9269406) [<span style="color:#8866FF;">CV (Segmentation, Classification)</span>, <span style="color:#D70761;">AI4H</span>], Ruiwei Feng, Xuechen Liu, **Jintai Chen**, Danny Z Chen, Honghao Gao, Jian Wu$^\dagger$, **IEEE Journal of Biomedical and Health Informatics (J-BHI)**, 2020
 
@@ -130,4 +130,4 @@ on Computer Vision (ICCV)**, 2023, [\[**Code**\]](https://github.com/wjh89252129
 
 - [LSRC: A long-short range context-fusing framework for automatic 3D vertebra localization](https://link.springer.com/content/pdf/10.1007/978-3-030-32226-7_11.pdf) [<span style="color:#8866FF;">CV (Detection)</span>, <span style="color:#D70761;">AI4H</span>], **Jintai Chen**$^\*$, Yanjie Wang$^\*$, Ruoqian Guo$^\*$, Bohan Yu, Tingting Chen, Wenzhe Wang, Ruiwei Feng, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2019
 
-- [Multi-view learning with feature level fusion for cervical dysplasia diagnosis](https://link.springer.com/content/pdf/10.1007/978-3-030-32239-7_37.pdf) [<span style="color:RoyalBlue">computer vision (CV)</span>, <span style="color:#D70761;">AI4H</span>], Tingting Chen, Xinjun Ma, Xuechen Liu, Wenzhe Wang, Ruiwei Feng, **Jintai Chen**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2019
+- [Multi-view learning with feature level fusion for cervical dysplasia diagnosis](https://link.springer.com/content/pdf/10.1007/978-3-030-32239-7_37.pdf) [<span style="color:RoyalBlue">CV</span>, <span style="color:#D70761;">AI4H</span>], Tingting Chen, Xinjun Ma, Xuechen Liu, Wenzhe Wang, Ruiwei Feng, **Jintai Chen**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2019
