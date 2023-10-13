@@ -92,11 +92,11 @@ on Computer Vision (ICCV)**, 2023, [\[**Code**\]](https://github.com/wjh89252129
 
 - [TabCaps: A capsule neural network for tabular data classification with BoW Routing](https://openreview.net/pdf?id=OgbtSLESnI) [<span style="color:SeaGreen">SRL</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu$^\dagger$, **International Conference on Learning Representations (ICLR)**, 2023, [\[**Code**\]](https://github.com/WhatAShot/TabCaps)
 
-- [Cross-layer retrospective retrieving via layer attention](https://openreview.net/pdf?id=pvgEL1yS3Ql) [<span style="color:RoyalBlue">CV</span>, <span style="color:RoyalBlue">NN-D</span>], Yanwen Fang, Yuxi Cai, **Jintai Chen**, Jingyu Zhao, Guangjian Tian, Guodong Li$^\dagger$, **International Conference on Learning Representations (ICLR)**, 2023
+- [Cross-layer retrospective retrieving via layer attention](https://openreview.net/pdf?id=pvgEL1yS3Ql) [<span style="color:RoyalBlue">CV</span>], Yanwen Fang, Yuxi Cai, **Jintai Chen**, Jingyu Zhao, Guangjian Tian, Guodong Li$^\dagger$, **International Conference on Learning Representations (ICLR)**, 2023
 
 - [EXCELFORMER: A neural network surpassing GBDTs on tabular data](https://arxiv.org/pdf/2301.02819.pdf) [<span style="color:#FC6A03;">TD</span>], **Jintai Chen**$^\*$, Jiahuan Yan$^\*$, Danny Ziyi Chen, Jian Wu$^\dagger$, **Preprint**.
 
-- [ME-GAN: Learning panoptic electrocardio representations for multi-view ECG synthesis conditioned on heart diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf) [<span style="color:RoyalBlue">NN-D (GAN)</span>, <span style="color:#D70761;">AI4H</span>], **Jintai Chen**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying$^\dagger$, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
+- [ME-GAN: Learning panoptic electrocardio representations for multi-view ECG synthesis conditioned on heart diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf) [<span style="color:#D70761;">AI4H</span>], **Jintai Chen**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying$^\dagger$, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
 
 - [DANETs: Deep abstract networks for tabular data classification and regression](https://arxiv.org/pdf/2112.02962.pdf) [<span style="color:SeaGreen">SRL (graph structure)</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Ziyi Chen, Jian Wu$^\dagger$, **AAAI**, 2022, [\[**Code**\]](https://github.com/WhatAShot/DANet)
 
