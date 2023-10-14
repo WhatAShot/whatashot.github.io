@@ -10,9 +10,11 @@
 <!--  The consensus view of SRL considers to represent object whole by encoding locations and representations of object parts with a general approach. In our case, an ECG view represents partial waves of whole heartbeat signal. It is a simple situation for SRL, because the *location* for recording one ECG view (object part) is pre-given and fixed, while in a more complex situation the location relations between object parts and whole are ambiguous. In the simple setting, the proposed model, a less pure version of SRL, generalizes well on learning whole heartbeat from sparse ECG signals. The pre-given and clear ECG viewpoints (i.e., locations) is the fundament of success in part-whole relation generalization, and the problem with more complicated location information is still open. But, the positive aspect is, the locations of detailed waveforms in one ECG view are complicated (relative to the whole heartbeat information) and well quantized by our model. -->
 </div>
 <div markdown="1">
-[Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf) [<span style="color:SeaGreen">SRL (part-whole hierarchy learning)</span>, <span style="color:#D70761;">AI4H</span>]
+[Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf) [<span style="color:SeaGreen">SRL (part-whole hierarchy learning)</span>, <span style="color:#D70761;">AI4H</span>] [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama)
  
-**Jintai Chen**$^\*$, Xiangshang Zheng$^\*$, Hongyun Yu$^\*$, Danny Z. Chen, Jian Wu$^\dagger$, **International Joint Conference on Artificial Intelligence (IJCAI)**, 2021, [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama)
+**Jintai Chen**$^\*$, Xiangshang Zheng$^\*$, Hongyun Yu$^\*$, Danny Z. Chen, Jian Wu$^\dagger$
+
+**International Joint Conference on Artificial Intelligence (IJCAI)**, 2021
 </div>
 </div>
 
@@ -25,7 +27,11 @@
 <!-- iterative clustering algorithm, for flexibly aggregating parts into a whole. However, (i) clustering parts according to high-dimensional feature similarity suffers from "curse of dimension"; (ii) an iterative process hinders to build a model deeper; (iii) feature value similarity cannot be used to find semantically cooperative object parts. We separate a clustering process into severel steps of an agglomerative hierachical clustering, and in each step capsules use its receptors (templates) to select the "right" object parts in a straightforward way.-->
 </div>
 <div markdown="1">
-[A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf) [<span style="color:SeaGreen">SRL (prototype tree structure)</span>, <span style="color:RoyalBlue">CV</span>], **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$^\dagger$, **International Conference on Machine Learning (ICML)**, 2021
+[A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf) [<span style="color:SeaGreen">SRL (prototype tree structure)</span>, <span style="color:RoyalBlue">CV</span>]
+ 
+ **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$^\dagger$
+ 
+ **International Conference on Machine Learning (ICML)**, 2021
 </div>
 </div>
 
@@ -47,7 +53,11 @@
 <!-- - **<span style="color:SeaGreen">On SRL</span>**: Tabular data is naturally property aligned, and it is a suitable scenario to explore how to implant a parse tree into a neural network. -->
 </div>
 <div markdown="1">
-[T2G-Former: Organizing tabular features into relation graphs promotes heterogeneous feature interaction](https://arxiv.org/pdf/2211.16887.pdf) [<span style="color:SeaGreen">SRL (graph structure)</span>, <span style="color:#FC6A03;">TD</span>], Jiahuan Yan$^\*$, **Jintai Chen**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu$^\dagger$, **AAAI (Oral)**, 2023, [\[Code\]](https://github.com/jyansir/t2g-former)
+[T2G-Former: Organizing tabular features into relation graphs promotes heterogeneous feature interaction](https://arxiv.org/pdf/2211.16887.pdf) [<span style="color:SeaGreen">SRL (graph structure)</span>, <span style="color:#FC6A03;">TD</span>] [\[Code\]](https://github.com/jyansir/t2g-former)
+ 
+Jiahuan Yan$^\*$, **Jintai Chen**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu$^\dagger$
+
+**AAAI Association for the Advancement of Artificial Intelligence (AAAI, Oral)**, 2023
 </div>
 </div>
 
@@ -81,11 +91,19 @@
 
 </div>
 <div markdown="1">
- [Doctor imitator: Hand-radiography-based bone age assessment by imitating scoring methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">SRL (table structure)</span>, <span style="color:RoyalBlue">CV</span>, <span style="color:#D70761;">AI4H</span>], **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI, Oral)**, 2020
+ [Doctor imitator: Hand-radiography-based bone age assessment by imitating scoring methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">SRL (table structure)</span>, <span style="color:RoyalBlue">CV</span>, <span style="color:#D70761;">AI4H</span>]
+ 
+ **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu$^\dagger$
+ 
+ **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI, Oral)**, 2020
 </div>
 </div>
 
-- HARL: Aligning Text Representation to the Code Tree Hierarchy for Imbalanced Medical Classification [<span style="color:SeaGreen">SRL (medical code structure)</span>, <span style="color:#D70761;">AI4H</span>] Jiahuan Yan, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu$^\dagger$, **Jintai Chen**$^\dagger$, **Findings of Empirical Methods in Natural Language Processing (EMNLP-Findings)**, 2023
+- HARL: Aligning Text Representation to the Code Tree Hierarchy for Imbalanced Medical Classification [<span style="color:SeaGreen">SRL (medical code structure)</span>, <span style="color:#D70761;">AI4H</span>]
+
+Jiahuan Yan, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu$^\dagger$, **Jintai Chen**$^\dagger$
+
+**Findings of Empirical Methods in Natural Language Processing (EMNLP-Findings)**, 2023
 
 - [GCL: Gradient-Guided Contrastive Learning for Medical Image Segmentation with Multi-Perspective Meta Labels](https://arxiv.org/pdf/2309.08888.pdf) [<span style="color:RoyalBlue">CV</span>, <span style="color:#D70761;">AI4H</span>] Yixuan Wu, **Jintai Chen**$^\dagger$, Jiahuan Yan, Yiheng Zhu, Danny Chen, Jian Wu$^\dagger$, **ACM International Conference on Multimedia**, 2023
 
