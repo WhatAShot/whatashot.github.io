@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jintai Chen"
-description              : "Postdoc researcher in UIUC"
+description              : "Postdoc researcher @ UIUC"
 repository               : "WhatAShot/WhatAShot.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Jintai Chen"
   avatar           : "images/cjt.jpeg"
   bio              : "👋, guess who am I?"
-  location         : "China"
+  location         : # "China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZiY3xYEAAAAJ"
   email            : "jtchen721[AT]gmail[DOT]com"
