@@ -15,11 +15,11 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/ICML21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- Supported by learnable prototype tree, we present a capsule net version that oragnizes all capsules to execute an agglomerative hierachical clustering for image semantics.
+- Upon the learnable prototype tree, we present a capsule net version that oragnizes all capsules to execute an agglomerative hierachical clustering for image semantics.
 <!-- - **<span style="color:SeaGreen">On SRL</span>**: This work provides a new framework (works like many parse trees) for effective, effecient, and flexible part-hierarchy parsing. -->
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/ICML21.jpg' alt="sym" width="100%"></div></div>
 <div markdown="1">
 [A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf) [<span style="color:SeaGreen">SRL (prototype tree structure)</span>, <span style="color:RoyalBlue">CV</span>]
  
