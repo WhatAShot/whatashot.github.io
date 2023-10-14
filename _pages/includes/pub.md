@@ -5,9 +5,6 @@
 - **Academic Impact**: It is the first work to propose the concept of *Electrocardio panorama*, which allows visualizing heartbeat signals (ECG signals) from any viewpoints. Thus, our work benefits (i) Panoramic observations of heartbeat signals; (ii) Unified representation of ECG signals recorded by different systems; (iii) Waveform-aligned Mixup for new ECG case synthesis (e.g., for data augmentation); (iv) Corrupted ECG view reconstruction; (v) ECG theory exploration. <span style="color:red">(PS: got scores 7, 9, 10 of 10 in the IJCAI double-blind review)</span>
 - **New Data Annotations**: We provided ECG wave segmentation annotations for Tianchi ECG dataset and PTB dataset.
 - **Exposure**: Our work is promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/nUOQjLzE7LPCizVAZJtA6Q), [专知](https://www.zhuanzhi.ai/document/2641de7df0eabfe36f40fd30fa33d848), [澎湃](https://www.thepaper.cn/newsDetail_forward_13432066), [AI研习社](https://www.yanxishe.com/reportDetail/27449).
-<!--  - **<span style="color:SeaGreen">On SRL</span>**: This work estimates projection functions to align part poses, and it is a simple case of part-whole hierarchy learning to adopt an encoder-decoder to aggregate parts (heartbeat waveforms represented in ECG signals). -->
- 
-<!--  The consensus view of SRL considers to represent object whole by encoding locations and representations of object parts with a general approach. In our case, an ECG view represents partial waves of whole heartbeat signal. It is a simple situation for SRL, because the *location* for recording one ECG view (object part) is pre-given and fixed, while in a more complex situation the location relations between object parts and whole are ambiguous. In the simple setting, the proposed model, a less pure version of SRL, generalizes well on learning whole heartbeat from sparse ECG signals. The pre-given and clear ECG viewpoints (i.e., locations) is the fundament of success in part-whole relation generalization, and the problem with more complicated location information is still open. But, the positive aspect is, the locations of detailed waveforms in one ECG view are complicated (relative to the whole heartbeat information) and well quantized by our model. -->
 </div>
 <div markdown="1">
 [Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf) [<span style="color:SeaGreen">SRL (part-whole hierarchy learning)</span>, <span style="color:#D70761;">AI4H</span>] [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama)
@@ -21,10 +18,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/ICML21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - Motivated by how neuron cells work and collaborate, we present a capsule version equipped with a transmitter and several optimizable receptors, and a capsule works like a neuron cell (i.e., transmitters compress a capsule feauture and send it to the higher level; neurotransmitter-receptor match determines the part-to-whole routing). A new framework oragnizes all capsules to execute an agglomerative hierachical clustering.
-
 - **<span style="color:SeaGreen">On SRL</span>**: This work provides a new framework (works like many parse trees) for effective, effecient, and flexible part-hierarchy parsing.
-<!-- The receptors of children capsules are recombined to act as receptors of parent capsules, thus capsules in different layers execute **one** agglomerative hierachical clustering. -->
-<!-- iterative clustering algorithm, for flexibly aggregating parts into a whole. However, (i) clustering parts according to high-dimensional feature similarity suffers from "curse of dimension"; (ii) an iterative process hinders to build a model deeper; (iii) feature value similarity cannot be used to find semantically cooperative object parts. We separate a clustering process into severel steps of an agglomerative hierachical clustering, and in each step capsules use its receptors (templates) to select the "right" object parts in a straightforward way.-->
 </div>
 <div markdown="1">
 [A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf) [<span style="color:SeaGreen">SRL (prototype tree structure)</span>, <span style="color:RoyalBlue">CV</span>]
@@ -34,18 +28,6 @@
  **International Conference on Machine Learning (ICML)**, 2021
 </div>
 </div>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/AAAI.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- This work proposes a principle of "group + abstract" for tabular learning, and presents a series of parse-tree-like model to explore the impacts of model depth for tabular tasks.
-- **<span style="color:SeaGreen">On SRL</span>**: Tabular data is naturally property aligned, and it is a suitable scenario to explore how to implant a parse tree into a neural network.
-</div>
-<div markdown="1">
-[DANETs: Deep abstract networks for tabular data classification and regression](https://arxiv.org/pdf/2112.02962.pdf) [<span style="color:SeaGreen">SRL</span>, <span style="color:#FC6A03;">TD</span>], **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Z Chen, Jian Wu$^\dagger$, **AAAI**, 2022
-[\[**Code**\]](https://github.com/WhatAShot/DANet)
-</div>
-</div>
--->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 Oral</div><img src='images/T2G.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
