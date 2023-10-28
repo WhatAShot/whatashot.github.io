@@ -59,7 +59,8 @@ This study represents a Transformer-based evolution, a continuation of DANETs. I
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2020 Oral</div><img src='images/baa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-This study converts unstructured hand radiography images into a structured format, represented as tables, based on clinical prior information (the clinical TW3 approach). Subsequently, a GNN is crafted to process the tabular data and achieves impressive and interpretable bone age assessment.
+This study converts unstructured hand radiography images into a structured format, represented as tables, based on clinical prior information (the clinical TW3 approach). Subsequently, a GNN is crafted to process the tabular data and achieves impressive and interpretable bone age assessment. It is worth noting that many medical images are semi-structured data, and this paper unveils an potentially interpretable and efficient semi-structured data processing approach.
+
 </div>
 <div markdown="1">
  [Doctor imitator: Hand-radiography-based bone age assessment by imitating scoring methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:SeaGreen">SRL (table structure)</span>, <span style="color:RoyalBlue">CV</span>, <span style="color:#D70761;">AI4H</span>], **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI, Oral)**, 2020
