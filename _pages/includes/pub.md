@@ -15,7 +15,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/ICML21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Armed with a trainable prototype tree, we introduce a capsule network that orchestrates all capsules to perform hierarchical clustering for image semantics in object recognition. These prototypes act as cluster centroids, enabling the capsule network to proficiently conduct part-to-whole hierarchy interpretation in object recognition, thereby revealing object category relations and semantic hierarchy without any prior information.
+Armed with a trainable prototype tree, we introduce a capsule network that orchestrates all capsules to perform hierarchical clustering for image semantics in object recognition. These prototypes act as cluster centroids, enabling the capsule network to proficiently conduct part-to-whole hierarchy interpretation in object recognition, thereby revealing object category relations and semantic hierarchy without any prior information. 
 <!-- - **<span style="color:SeaGreen">On SRL</span>**: This work provides a new framework (works like many parse trees) for effective, effecient, and flexible . -->
 </div>
 <div markdown="1">
@@ -25,7 +25,7 @@ Armed with a trainable prototype tree, we introduce a capsule network that orche
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 Oral</div><img src='images/T2G.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-This study represents a Transformer-based evolution, a continuation of DANETs. It focuses on extracting underlying feature relation graphs and providing comprehensive insights into feature interactions. By leveraging this acquired graph topology, T2G-Former demonstrates robust performance while offering a clear and coherent explanation of feature relations.
+This study represents a Transformer-based evolution, a continuation of DANETs. It focuses on extracting underlying feature relation graphs and presenting feature interactions. By leveraging this acquired graph topology, T2G-Former demonstrates robust performance while offering a clear and coherent explanation of feature relations.
 <!-- - **<span style="color:SeaGreen">On SRL</span>**: Tabular data is naturally property aligned, and it is a suitable scenario to explore how to implant a parse tree into a neural network. -->
 </div>
 <div markdown="1">
