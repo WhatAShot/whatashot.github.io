@@ -15,6 +15,20 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021</div><img src='images/EP.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- **Academic Impact**: It is the first work to propose the concept of *Electrocardio panorama*, which allows visualizing heartbeat signals (ECG signals) from any viewpoints. Thus, our work benefits (i) Panoramic observations of heartbeat signals; (ii) Unified representation of ECG signals recorded by different systems; (iii) Waveform-aligned Mixup for new ECG case synthesis (e.g., for data augmentation); (iv) Corrupted ECG view reconstruction; (v) ECG theory exploration. 
+<!--  <span style="color:red">(PS: got scores 7, 9, 10 of 10 in the IJCAI double-blind review)</span> -->
+- **New Data Annotations**: We provided ECG wave segmentation annotations for Tianchi ECG dataset and PTB dataset.
+- **Exposure**: Our work is promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/nUOQjLzE7LPCizVAZJtA6Q), [专知](https://www.zhuanzhi.ai/document/2641de7df0eabfe36f40fd30fa33d848), [澎湃](https://www.thepaper.cn/newsDetail_forward_13432066), [AI研习社](https://www.yanxishe.com/reportDetail/27449).
+</div>
+<div markdown="1">
+[Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf) [<span style="color:#D70761;">AI4H</span>] [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama), 
+**Jintai Chen**$^\*$, Xiangshang Zheng$^\*$, Hongyun Yu$^\*$, Danny Z. Chen, Jian Wu$^\dagger$,
+**International Joint Conference on Artificial Intelligence (IJCAI)**, 2021
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/ICML21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Armed with a trainable prototype tree, we introduce a capsule network that orchestrates all capsules to perform hierarchical clustering for image semantics in object recognition. These prototypes act as cluster centroids, enabling the capsule network to proficiently conduct part-to-whole hierarchy interpretation in object recognition, thereby revealing object category relations and semantic hierarchy without any prior information. 
