@@ -72,7 +72,7 @@ Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Lea
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2020 Oral</div><img src='images/baa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-This study converts unstructured hand radiography images into a structured format, represented as tables, based on clinical prior information (the clinical TW3 approach). Subsequently, a GNN is crafted to process the tabular data and achieves impressive and interpretable bone age assessment. It is worth noting that many medical images are semi-structured data, and this paper unveils an potentially interpretable and efficient semi-structured data processing approach.
+**TL;DR**: This study converts unstructured hand radiography images into a structured format, represented as tables, based on clinical prior information (the clinical TW3 approach). Subsequently, a GNN is crafted to process the tabular data and achieves impressive and interpretable bone age assessment. It is worth noting that many medical images are semi-structured data, and this paper unveils an potentially interpretable and efficient semi-structured data processing approach.
 
 </div>
 <div markdown="1">
