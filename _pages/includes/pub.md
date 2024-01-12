@@ -3,10 +3,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/NC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- **Academic Impact**: It is the first work to propose the concept of *Electrocardio panorama*, which allows visualizing heartbeat signals (ECG signals) from any viewpoints. Thus, our work benefits (i) Panoramic observations of heartbeat signals; (ii) Unified representation of ECG signals recorded by different systems; (iii) Waveform-aligned Mixup for new ECG case synthesis (e.g., for data augmentation); (iv) Corrupted ECG view reconstruction; (v) ECG theory exploration. 
-<!--  <span style="color:red">(PS: got scores 7, 9, 10 of 10 in the IJCAI double-blind review)</span> -->
-- **New Data Annotations**: We provided ECG wave segmentation annotations for Tianchi ECG dataset and PTB dataset.
-- **Exposure**: Our work is promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/nUOQjLzE7LPCizVAZJtA6Q), [专知](https://www.zhuanzhi.ai/document/2641de7df0eabfe36f40fd30fa33d848), [澎湃](https://www.thepaper.cn/newsDetail_forward_13432066), [AI研习社](https://www.yanxishe.com/reportDetail/27449).
+Congenital heart disease is the most common category among congenital abnormalities, with an incidence rate approaching 1\%. Previously, ECGs were considered to have limited effectiveness in diagnosing congenital heart disease. AI demonstrated the value of ECGs in diagnosing congenital heart disease, which surpasses our previous cognition. While techniques like echocardiography and cardiac MRI are currently utilized for precise diagnosis, the cost-effectiveness and non-invasiveness of ECGs continue to harbor substantial potential for precise large-scale population screening and benefiting low-resourced regions.
 </div>
 <div markdown="1">
 Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts [<span style="color:#D70761;">AI4H</span>] [\[**Code and Data**\]](https://github.com/shuaih720/CHDdECG), 
