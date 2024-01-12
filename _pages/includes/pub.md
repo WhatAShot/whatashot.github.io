@@ -1,7 +1,6 @@
 # 📄 Selected Publications
 <span style="color:RoyalBlue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/NC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/NC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Congenital heart disease is the most common category among congenital abnormalities, with an incidence rate approaching 1%. Previously, ECGs were considered to have limited effectiveness in diagnosing congenital heart disease. AI demonstrated the value of ECGs in diagnosing congenital heart disease, which surpasses our previous cognition. While techniques like echocardiography and cardiac MRI are currently utilized for precise diagnosis, the cost-effectiveness and non-invasiveness of ECGs continue to harbor substantial potential for precise large-scale population screening and benefiting low-resourced regions.
 <div markdown="1">
@@ -9,7 +8,6 @@ Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Lea
 **Jintai Chen**$^\*$, Shuai Huang$^\*$, Ying Zhang$^\*$, Qing Chang$^\*$, Yixiao Zhang, Dantong Li, Jia Qiu, LiantingHu, Xiaoting Peng, Yunmei Du, Yunfei Gao, Danny Z. Chen, Abdelouahab Bellou$^\dagger$, Jian Wu$^\dagger$, Huiying Liang$^\dagger$, **Nature Communications**, 2024
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021</div><img src='images/EP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
