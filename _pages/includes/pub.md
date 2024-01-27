@@ -36,6 +36,17 @@ Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Lea
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 SpotLight</div><img src='images/iclrtable.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**TL;DR**: Tabular datasets exhibit diversity in both feature spaces and target spaces. How can we achieve transferability across such heterogeneity? The solution lies in leveraging the language module! And the performance even follows the scaling law.
+</div>
+<div markdown="1">
+[Making Pre-trained Language Models Great on Tabular Prediction](https://openreview.net/pdf?id=anzIzGZuLi) [<span style="color:#FC6A03;">TD</span>] [\[**Code**\]], 
+Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^\dagger$, **Jintai Chen**$^\dagger$,
+**ICLR (SpotLight)**, 2024
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 Oral</div><img src='images/T2G.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **TL;DR**: This study represents a Transformer-based evolution, a continuation of DANETs. It focuses on extracting underlying feature relation graphs and presenting feature interactions. By leveraging this acquired graph topology, T2G-Former demonstrates robust performance while offering a clear and coherent explanation of feature relations.
