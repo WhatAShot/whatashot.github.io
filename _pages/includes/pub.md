@@ -41,7 +41,7 @@ Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Lea
 **TL;DR**: Tabular datasets exhibit diversity in both feature spaces and target spaces. How can we achieve transferability across such heterogeneity? The solution lies in leveraging the language module! And the performance even follows the scaling law.
 </div>
 <div markdown="1">
-[Making Pre-trained Language Models Great on Tabular Prediction](https://openreview.net/pdf?id=anzIzGZuLi) [<span style="color:#FC6A03;">TD</span>] [\[**Code**\]], 
+[Making Pre-trained Language Models Great on Tabular Prediction](https://openreview.net/pdf?id=anzIzGZuLi) [<span style="color:#FC6A03;">TD</span>], 
 Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^\dagger$, **Jintai Chen**$^\dagger$,
 **ICLR (SpotLight)**, 2024
 </div>
@@ -93,7 +93,7 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 
 - [A survey on multimodal large language models for autonomous driving](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf) [<span style="color:RoyalBlue">CV</span>], Can Cui$^\*$, Yunsheng Ma$^\*$, Xu Cao$^\*$, Wenqian Ye$^\*$, Yang Zhou, Kaizhao Liang, **Jintai Chen**, Juanwu Lu, Zichong Yang, Kuei-Da Liao, Tianren Gao, Erlong Li, Kun Tang, Zhipeng Cao, Tong Zhou, Ao Liu, Xinrui Yan, Shuqi Mei, Jianguo Cao$^\dagger$, Ziran Wang$^\dagger$, Chao Zheng$^\dagger$, **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-Workshop)**, 2024
 
-- [Polygonal Approximation Learning for Convex Object Segmentation in Biomedical Images with Bounding Box Supervision](https://ieeexplore.ieee.org/abstract/document/10354298) [<span style="color:#D70761;">AI4H</span>, <span style="color:RoyalBlue">CV</span>], 
+- [Polygonal Approximation Learning for Convex Object Segmentation in Biomedical Images with Bounding Box Supervision](https://ieeexplore.ieee.org/abstract/document/10354298) [<span style="color:#D70761;">AI4H</span>, <span style="color:RoyalBlue">CV</span>][\[**Code**\]](https://github.com/shenmishajing/PAL), 
 Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, Bang Du, Danny Z Chen, Honghao Gao, Jian Wu, Hongxia Xu$^\dagger$, **IEEE Journal of Biomedical and Health Informatics**, 2023
 
 - [Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification](https://arxiv.org/pdf/2311.16650.pdf) [<span style="color:SeaGreen">SRL (medical code structure)</span>, <span style="color:#D70761;">AI4H</span>] [\[**Code**\]](https://github.com/jyansir/Text2Tree), Jiahuan Yan, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu$^\dagger$, **Jintai Chen**$^\dagger$, **Findings of Empirical Methods in Natural Language Processing (EMNLP-Findings)**, 2023
