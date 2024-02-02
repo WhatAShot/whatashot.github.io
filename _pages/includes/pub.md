@@ -6,7 +6,7 @@
 **TL;DR**: Congenital heart disease is the most common category among congenital abnormalities, with an incidence rate approaching 1$\%$. Previously, ECGs were considered to have limited effectiveness in diagnosing congenital heart disease. AI demonstrated the value of ECGs in diagnosing congenital heart disease, which surpasses our previous cognition. While techniques like echocardiography and cardiac MRI are currently utilized for precise diagnosis, the cost-effectiveness and non-invasiveness of ECGs continue to harbor substantial potential for precise large-scale population screening and benefiting low-resourced regions.
 </div>
 <div markdown="1">
-Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts [<span style="color:#D70761;">AI4H</span>] [\[**Code**\]](https://github.com/shuaih720/CHDdECG), 
+[Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts](https://www.nature.com/articles/s41467-024-44930-y) [<span style="color:#D70761;">AI4H</span>] [\[**Code**\]](https://github.com/shuaih720/CHDdECG), 
 **Jintai Chen**$^\*$, Shuai Huang$^\*$, Ying Zhang$^\*$, Qing Chang$^\*$, Yixiao Zhang, Dantong Li, Jia Qiu, Lianting Hu, Xiaoting Peng, Yunmei Du, Yunfei Gao, Danny Chen, Abdelouahab Bellou$^\dagger$, Jian Wu$^\dagger$, Huiying Liang$^\dagger$,
 **Nature Communications**, 2024
 </div>
