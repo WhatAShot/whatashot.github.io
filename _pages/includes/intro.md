@@ -13,3 +13,5 @@ and more than 10 papers in  such as MICCAI and TMI.-->
 <!-- I was honored with the *National Scholarship of China* in 2015 and 2021, and won the *Tencent Doctoral Scholarship* in 2021, the *Huawei Fundamental Research Scholarship* in 2022. I am the core member of our team participating MICCAI competitions, and we won <span style="color:red">the 1-st place</span> in the Challenge of Signet Ring Cell Detection and in the Challenge of Organ-At-Risk Segmentation from Chest CT Scans, and <span style="color:red">the 2-nd place</span> in the Challenge of Colonoscopy Tissue Segmentation. -->
 
 I am also an amateur snooker player and a big fan of [Ronnie O'Sullivan](https://en.wikipedia.org/wiki/Ronnie_O%27Sullivan), and I also enjoy painting in my leisure time.
+
+<span style="color:red"> I am on the 2023-2024 academic job market. Please feel free to reach out if you have potential positions. </span>
