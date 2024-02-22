@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jintai Chen"
-description              : "Postdoc at CS, UIUC; PhD from CS, ZJU. Passionate about AI for Healthcare."
+description              : "Native speaker of Minnan dialect :-)"
 repository               : "WhatAShot/WhatAShot.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :
 author:
   name             : "Jintai Chen"
   avatar           : "images/profile.jpg"
-  bio              : "Native speaker of Minnan dialect :-)"
+  bio              : "Postdoc at CS, UIUC; PhD from CS, ZJU. Passionate about AI for Healthcare."
   location         : # "China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZiY3xYEAAAAJ"
