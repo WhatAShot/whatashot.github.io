@@ -14,7 +14,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021</div><img src='images/EP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- **TL;DR**: Traditional ECG devices are limited to observing electrocardiograms from a limited number of angles, constrained by electrode positioning. Our Electrocardio Panorama System breaks this barrier, allowing users to effortlessly observe ECG signals from any angle in real-time, based on their queries.
+- **TL;DR**: Traditional ECG devices can only offer electrocardiograms from a limited number of angles, constrained by electrode positioning. Our Electrocardio Panorama System breaks this barrier, allowing users to effortlessly observe ECG signals from any angle in real-time, based on their queries.
 - **Academic Impact**: The benefits of our work are manifold: (i) panoramic observations of ECG signals; (ii) a unified representation of ECG signals captured by different ECG devices; (iii) Waveform-aligned Mixup for synthesizing new ECG cases (e.g., for data augmentation); (iv) reconstruction of corrupted ECG views; and (v) exploration of ECG theory.
 
  
