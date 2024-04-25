@@ -41,7 +41,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 SpotLight</div><img src='images/iclrtable.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**TL;DR**: Tabular data demonstrate diversity in both feature definitions and target spaces. How can we achieve transferability across such heterogeneity? We propose an approach to equip language models as a robust deep tabular prediction model. By training the language model to comprehend precise numeric embeddings, our approach gains the capability to leverage tabular data from other domains to enhance predictions on EHR tables, where data availability is often scarce and precious.
+**TL;DR**: Tabular data shows diversity in both feature and target definitions. How can we achieve transferability across such heterogeneity? We propose an approach to equip language models as a robust deep tabular prediction model. By training the language model to comprehend precise numeric embeddings, our approach gains the capability to leverage tabular data from other domains to enhance predictions on EHR tables, where data availability is often scarce and precious.
 </div>
 <div markdown="1">
 [Making Pre-trained Language Models Great on Tabular Prediction](https://openreview.net/pdf?id=anzIzGZuLi) [<span style="color:orange;">AI4Table</span>] [\[**Code and Data**\]](https://github.com/jyansir/tp-berta), 
