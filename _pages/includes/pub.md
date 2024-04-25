@@ -91,6 +91,8 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 </div>
 </div>
 
+- SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction [<span style="color:#D70761;">AI4H</span>, <span style="color:orange;">AI4Table</span>], Jiahuan Yan, **Jintai Chen**$^\dagger$, Chaowen Hu, Bo Zheng, Yaojun Hu, Jimeng Sun, Jian Wu, 2024
+
 - TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model [<span style="color:#D70761;">AI4H</span>, <span style="color:SeaGreen">AI4CT</span>], Yue Wang$^\*$, Yingzhou Lu$^\*$, Yinlong Xu, Zihan Ma, Hongxia Xu, Bang Du, Tianfan Fu$^\dagger$, Honghao Gao, Jian Wu, **Jintai Chen**$^\dagger$, **TOMM**, 2024
 
 - [Uncertainty Quantification and Interpretability for Clinical Trial Approval Prediction](https://spj.science.org/doi/epdf/10.34133/hds.0126) [<span style="color:#D70761;">AI4H</span>, <span style="color:SeaGreen">AI4CT</span>], Yingzhou Lu, Tianyi Chen, Nan Hao, Capucine Van Rechem, **Jintai Chen**, Tianfan Fu$^\dagger$, **Health Data Science**, 2024
