@@ -87,7 +87,7 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2020 Oral</div><img src='images/baa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**TL;DR**: This study converts unstructured hand radiography images into a structured format, represented as tables, based on clinical prior information (the clinical TW3 approach). Subsequently, a GNN is crafted to process the tabular data and achieves impressive and interpretable bone age assessment. It is worth noting that many medical images are semi-structured data, and this paper unveils an potentially interpretable and efficient semi-structured data processing approach.
+**TL;DR**: This study transforms unstructured hand radiography images into a structured semantics represented as a table /graph, utilizing clinical prior information (the TW3 approach used in clinical practice). We then use a GNN to process such structured data, leading to impressive and interpretable bone age assessments. It's noteworthy that many medical images are semi-structured data, and this paper introduces a potentially interpretable and efficient approach for processing such semi-structure.
 
 </div>
 <div markdown="1">
