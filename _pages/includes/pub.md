@@ -31,7 +31,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/ICML21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**TL;DR**: Armed with a trainable prototype tree, we introduce a capsule network that orchestrates all capsules to perform hierarchical clustering for image semantics in object recognition. These prototypes act as cluster centroids, enabling the capsule network to proficiently conduct part-to-whole hierarchy interpretation in object recognition, thereby revealing object category relations and semantic hierarchy without any prior information. 
+**TL;DR**: Neurons in the nervous system transmit signals by releasing different neurotransmitters that match different receptors. Motivated by the concepts of competitive neural networks, prototype learning, hierarchical clustering algorithms, and capsule neural networks, we introduce a novel neural network architecture. This neural network is constructed by neurons capable of generating "transmitters" to send semantic information to other neurons and possessing receptors to receive specific types of "transmitters" from other neurons. By generating "transmitters" to convey semantic information and binding them to specific receptors in the subsequent layer, our approach achieves transparent semantic feature parsing, part-to-whole semantic integration, unsupervised semantics understanding, and object relationship digging.
 <!-- - **<span style="color:SeaGreen">On SRL</span>**: This work provides a new framework (works like many parse trees) for effective, effecient, and flexible . -->
 </div>
 <div markdown="1">
