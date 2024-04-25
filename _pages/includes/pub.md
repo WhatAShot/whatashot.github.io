@@ -91,6 +91,10 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 </div>
 </div>
 
+- TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model [<span style="color:#D70761;">AI4H</span>, <span style="color:SeaGreen">AI4CT</span>], Yue Wang$^\*$, Yingzhou Lu$^\*$, Yinlong Xu, Zihan Ma, Hongxia Xu, Bang Du, Tianfan Fu$^\dagger$, Honghao Gao, Jian Wu, **Jintai Chen**$^\dagger$, **TOMM**, 2024
+
+- [Uncertainty Quantification and Interpretability for Clinical Trial Approval Prediction](https://spj.science.org/doi/epdf/10.34133/hds.0126) [<span style="color:#D70761;">AI4H</span>, <span style="color:SeaGreen">AI4CT</span>], Yingzhou Lu, Tianyi Chen, Nan Hao, Capucine Van Rechem, **Jintai Chen**, Tianfan Fu$^\dagger$, **Health Data Science**, 2024
+
 - Personalized Heart Disease Detection via ECG Digital Twin Generation [<span style="color:#D70761;">AI4H</span>, <span style="color:RoyalBlue">AI4ECG</span>], Yaojun Hu, **Jintai Chen**$^\dagger$, Lianting Hu, Dantong Li, Jiahuan Yan, Haochao Ying, Huiying Liang, Jian Wu, **International Joint Conference on Artificial Intelligence (IJCAI)**, 2024
 
 - [A survey on multimodal large language models for autonomous driving](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf), Can Cui$^\*$, Yunsheng Ma$^\*$, Xu Cao$^\*$, Wenqian Ye$^\*$, Yang Zhou, Kaizhao Liang, **Jintai Chen**, Juanwu Lu, Zichong Yang, Kuei-Da Liao, Tianren Gao, Erlong Li, Kun Tang, Zhipeng Cao, Tong Zhou, Ao Liu, Xinrui Yan, Shuqi Mei, Jianguo Cao$^\dagger$, Ziran Wang$^\dagger$, Chao Zheng$^\dagger$, **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-Workshop)**, 2024
