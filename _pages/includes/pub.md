@@ -51,7 +51,7 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 Oral</div><img src='images/T2G.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **TL;DR**: This study represents a Transformer-based evolution, a continuation of DANETs. It focuses on extracting underlying feature relation graphs and presenting feature interactions. By leveraging this acquired graph topology, T2G-Former demonstrates robust performance while offering a clear and coherent explanation of feature relations.
-<!-- - **<span style="color:SeaGreen">On SRL</span>**: Tabular data is naturally property aligned, and it is a suitable scenario to explore how to implant a parse tree into a neural network. -->
+**<span style="color:SeaGreen">On SRL</span>**: Tabular data is naturally property aligned, and it is a suitable scenario to explore how to implant a parse tree into a neural network.
 </div>
 <div markdown="1">
 [T2G-Former: Organizing tabular features into relation graphs promotes heterogeneous feature interaction](https://arxiv.org/pdf/2211.16887.pdf) [<span style="color:orange;">AI4Table</span>] [\[**Code**\]](https://github.com/jyansir/t2g-former), Jiahuan Yan$^\*$, **Jintai Chen**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence (AAAI, Oral)**, 2023
