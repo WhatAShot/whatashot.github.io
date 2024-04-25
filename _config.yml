@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jintai Chen"
-description              : "Native speaker of Minnan dialect :-)"
+description              : "Native speaker of Hokkien dialect :-)"
 repository               : "WhatAShot/WhatAShot.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : #"rayeren"
+  linkedin         : https://www.linkedin.com/in/jintai-chen-3a09921b0/
   dblp             : #"https://dblp.org/pid/75/6568-6.html"
   orcid            : #"https://orcid.org/0000-0002-9160-3848"
   pinterest        :
