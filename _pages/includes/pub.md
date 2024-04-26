@@ -133,7 +133,7 @@ on Computer Vision (ICCV)**, 2023
 
 - [D-Former: A U-shaped dilated Transformer for 3D medical image segmentation](https://arxiv.org/pdf/2201.00462.pdf) [<span style="color:#D70761;">AI4H</span>, <span style="color:#8866FF;">AI4MIA</span>], Yixuan Wu, Kuanlun Liao, **Jintai Chen**, Danny Z Chen, Jinhong Wang, Honghao Gao, Jian Wu$^\dagger$, **Neural Computing and Applications**, 2022
 
-- [Identifying electrocardiogram abnormalities using a handcrafted-rule-enhanced neural network](https://arxiv.org/pdf/2206.10592.pdf) [<span style="color:#D70761;">AI4H</span>], Yuexin Bian, **Jintai Chen**, Xiaojun Chen, Xiaoxian Yang, Danny Z. Chen, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2022.
+- [Identifying electrocardiogram abnormalities using a handcrafted-rule-enhanced neural network](https://arxiv.org/pdf/2206.10592.pdf) [<span style="color:#D70761;">AI4H</span>, <span style="color:RoyalBlue">AI4ECG</span>], Yuexin Bian, **Jintai Chen**, Xiaojun Chen, Xiaoxian Yang, Danny Z. Chen, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2022.
 
 - [A corresponding region fusion framework for multi-modal cervical lesion detection](https://ieeexplore.ieee.org/abstract/document/9784879) [<span style="color:#D70761;">AI4H</span>, <span style="color:#8866FF;">AI4MIA</span>], Tingting Chen, Wenhao Zheng, Heping Hu, Chunhua Luo, **Jintai Chen**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Honghao Gao, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2022
 
