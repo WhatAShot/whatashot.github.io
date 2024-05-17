@@ -95,6 +95,8 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 </div>
 </div>
 
+- [ExcelFormer: Can a Deep Learning Model be a Sure Bet for Tabular Prediction?]() [<span style="color:orange;">AI4Table</span>], **Jintai Chen**$^\*$, Jiahuan Yan$^\*$, Qiyuan Chen, Danny Ziyi Chen, Jian Wu, Jimeng Sun$^\dagger$, **KDD 2024**.
+
 - [SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction](https://arxiv.org/pdf/2403.01570) [<span style="color:#D70761;">AI4H</span>, <span style="color:orange;">AI4Table</span>], Jiahuan Yan, **Jintai Chen**$^\dagger$, Chaowen Hu, Bo Zheng, Yaojun Hu, Jimeng Sun, Jian Wu, 2024
 
 - [TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](https://arxiv.org/pdf/2404.01273) [<span style="color:#D70761;">AI4H</span>, <span style="color:SeaGreen">AI4CT</span>], Yue Wang$^\*$, Yingzhou Lu$^\*$, Yinlong Xu, Zihan Ma, Hongxia Xu, Bang Du, Tianfan Fu, Honghao Gao$^\dagger$, Jian Wu, **Jintai Chen**$^\dagger$, **TOMM**, 2024
@@ -118,8 +120,6 @@ on Computer Vision (ICCV)**, 2023
 - [TabCaps: A capsule neural network for tabular data classification with BoW Routing](https://openreview.net/pdf?id=OgbtSLESnI) [<span style="color:orange;">AI4Table</span>] [\[**Code**\]](https://github.com/WhatAShot/TabCaps), **Jintai Chen**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu$^\dagger$, **International Conference on Learning Representations (ICLR)**, 2023
 
 - [Cross-layer retrospective retrieving via layer attention](https://openreview.net/pdf?id=pvgEL1yS3Ql) , Yanwen Fang, Yuxi Cai, **Jintai Chen**, Jingyu Zhao, Guangjian Tian, Guodong Li$^\dagger$, **International Conference on Learning Representations (ICLR)**, 2023
-
-- [EXCELFORMER: Can a Deep Learning Model be a Sure Bet for Tabular Prediction?]() [<span style="color:orange;">AI4Table</span>], **Jintai Chen**$^\*$, Jiahuan Yan$^\*$, Qiyuan Chen, Danny Ziyi Chen, Jian Wu, Jimeng Sun$^\dagger$, **Preprint, Underreview**.
 
 - [ME-GAN: Learning panoptic electrocardio representations for multi-view ECG synthesis conditioned on heart diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf) [<span style="color:#D70761;">AI4H</span>, <span style="color:RoyalBlue">AI4ECG</span>], **Jintai Chen**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying$^\dagger$, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
 
