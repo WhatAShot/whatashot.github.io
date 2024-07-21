@@ -12,8 +12,10 @@
 - *2022.06*, Supervised Tabular Learning, @ UberAI
 - *2021.10*, Domain Mixup for Distant Transfer Learning, @ Shanghai Jiaotong University
 
+<!--
 # 🏫 Teaching
 - *Fall 2023*, Frontiers of Medical Artificial Intelligence (lecture slice preparation, teaching assistant)
+-->
 
 # 🔎 Reviews:
 - Review for Conferences: ICLR, ICML, AAAI, IJCAI, CVPR, MICCAI, ISBI, NeurIPS, ICCV, ECCV, EMNLP.
