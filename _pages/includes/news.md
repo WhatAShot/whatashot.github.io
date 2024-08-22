@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.08*: Our paper [Multi-rater Prompting for Ambiguous Medical Image Segmentation](https://arxiv.org/pdf/2404.07580) is accepted by BIBM 2024! Congratulations to Jinhong Wang, and many thanks to all the co-authors!
 - *2024.06*: Our paper [TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](https://arxiv.org/pdf/2404.01273) is accepted by **TOMM**.
 - *2024.06*: Two papers are accepted by **MICCAI 2024**! Congratulations to all the co-authors!
 - *2024.05*: Two papers about tabular data prediction have been accepted by **KDD 2024**! Congratulations to Jiahuan, and many thanks to all the co-authors!
