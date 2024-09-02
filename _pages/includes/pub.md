@@ -95,9 +95,13 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 </div>
 </div>
 
-- [ExcelFormer: Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://arxiv.org/pdf/2301.02819) [<span style="color:orange;">AI4Table</span>], **Jintai Chen**$^\*$, Jiahuan Yan$^\*$, Qiyuan Chen, Danny Ziyi Chen, Jian Wu, Jimeng Sun$^\dagger$, **KDD 2024**.
+- [ExcelFormer: Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://arxiv.org/pdf/2301.02819) [<span style="color:orange;">AI4Table</span>], **Jintai Chen**$^\*$, Jiahuan Yan$^\*$, Qiyuan Chen, Danny Ziyi Chen, Jian Wu, Jimeng Sun$^\dagger$, **KDD 2024**
 
 - [SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction](https://arxiv.org/pdf/2403.01570) [<span style="color:#D70761;">AI4H</span>, <span style="color:orange;">AI4Table</span>], Jiahuan Yan, **Jintai Chen**$^\dagger$, Chaowen Hu, Bo Zheng, Yaojun Hu, Jimeng Sun, Jian Wu, 2024
+
+- [TeleOR: Real-time Telemedicine System for Full-Scene Operating Room](https://arxiv.org/pdf/2407.19763)[<span style="color:#D70761;">AI4H</span>, <span style="color:#8866FF;">AI4MIA</span>], Yixuan Wu$^\*$, Kaiyuan Hu$^\*$, Qian Shao, Jintai Chen$^\dagger$, Danny Z. Chen7, and Jian Wu$^\dagger$, **MICCAI 2024**
+
+- [LKM-UNet: Large Kernel Vision Mamba UNet for Medical Image Segmentation](), Jinhong Wang, **Jintai Chen**$^\dagger$, Danny Chen, **Jian Wu**$^\dagger$, **MICCAI 2024**
 
 - [TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](https://arxiv.org/pdf/2404.01273) [<span style="color:#D70761;">AI4H</span>, <span style="color:SeaGreen">AI4CT</span>], Yue Wang$^\*$, Tianfan Fu$^\*$, Yinlong Xu, Zihan Ma, Hongxia Xu, Bang Du, Yingzhou Lu, Honghao Gao$^\dagger$, Jian Wu, **Jintai Chen**$^\dagger$, **TOMM**, 2024
 
