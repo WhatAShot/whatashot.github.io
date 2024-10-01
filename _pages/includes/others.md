@@ -12,7 +12,12 @@
 -->
 
 # 🔎 Reviews:
-- Review for Conferences: ICLR, ICML, AAAI, IJCAI, CVPR, MICCAI, ISBI, NeurIPS, ICCV, ECCV, EMNLP.
+- Reviewer @ ML Conferences: NeurIPS, ICLR, ICML;
+- Reviewer @ AI Conferences: AAAI, IJCAI, AISTATS;
+- Reviewer @ CV Conferences: CVPR, ICCV, ECCV;
+- Reviewer @ DM Conferences: KDD;
+- Reviewer @ NLP Conferences: ACL, EMNLP;
+- Reviewer @ AI4H Conferences: MICCAI, ISBI;
 - Review for Journals: TPAMI, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics, Scienstific Report
 <!-- MBE, Journal of Medical Imaging and Health Informatics. -->
 
