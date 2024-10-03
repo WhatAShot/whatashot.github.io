@@ -11,7 +11,7 @@
 - *Fall 2023*, Frontiers of Medical Artificial Intelligence (lecture slice preparation, teaching assistant)
 -->
 
-# 🔎 Reviews:
+# 🔎  Professional Services:
 - Reviewer @ ML Conferences: NeurIPS, ICLR, ICML;
 - Reviewer @ AI Conferences: AAAI, IJCAI, AISTATS;
 - Reviewer @ CV Conferences: CVPR, ICCV, ECCV;
