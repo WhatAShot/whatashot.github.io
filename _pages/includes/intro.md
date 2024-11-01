@@ -8,7 +8,7 @@ Prior to that, I am a postdoctoral researcher at the University of Illinois at U
 
 <span style="color:#AA381E">For research assistant applications, please fill out [the form](https://www.wjx.top/vm/tExPMlw.aspx#).</span>
 
-<span style="color:#AA381E">For postdoc applications, please email me directly.</span>
+<span style="color:#AA381E">For postdoc applications, please email me directly at jtchen147[AT]gmail[DOT]com</span>.
 
 
 <!-- Before that, I graduated with a Ph.D. degree from the College of Computer Science and Technology, Zhejiang University. 
