@@ -2,12 +2,12 @@ Hey, I am Jintai Chen, a tenure-track assistant professor at HKUST, guangzhou ca
 
 Prior to that, I am a postdoctoral researcher at the University of Illinois at Urbana-Champaign, Illinois, USA. I obtained my Ph.D. from the College of Computer Science and Technology at Zhejiang University. My research interests lie at the intersection of AI and healthcare, with a particular focus on developing generalizable and reliable foundation models to address real-world medical challenges, including clinical trial optimization, clinical predictive modeling, treatment recommendation, health monitoring, and biomedical discovery.
 
-<span style="color:#AA381E">I am actively seeking highly motivated Ph.D. students, Research Assistants, and postdoctoral researchers with strong backgrounds in computer science, statistics, or other related subjects. Proficiency in coding is required.
+<span style="color:#AA381E">I am actively seeking highly motivated Ph.D. students, Research Assistants, and postdoctoral researchers with strong backgrounds in computer science, statistics, or other related subjects. Proficiency in coding is required.</span>
 
-For Ph.D. applications, please fill out [the form](https://www.wjx.top/vm/wefLCoD.aspx#)
+<span style="color:#AA381E">For Ph.D. applications, please fill out [the form](https://www.wjx.top/vm/wefLCoD.aspx#).</span>
 
-For RA applications, please fill out [the form](https://www.wjx.top/vm/tExPMlw.aspx#)
-</span>
+<span style="color:#AA381E">For RA applications, please fill out [the form](https://www.wjx.top/vm/tExPMlw.aspx#).</span>
+
 
 <!-- Before that, I graduated with a Ph.D. degree from the College of Computer Science and Technology, Zhejiang University. 
 I am broadly fascinated by the intersection of AI and healthcare/bioscience, especially the field of AI for healthcare (<span style="color:#D70761">AI4H</span>), with a specific emphasis on designing machine learning algorithms informed by medical knowledge and utilizing machine learning for uncovering insights in medical data. My research extensively delves into various facets including AI for medical imaging analysis (<span style="color:#8866FF;">AI4MIA</span>), AI for electrocardiograms (<span style="color:RoyalBlue">AI4ECG</span>), AI for EHR table analysis (<span style="color:orange;">AI4Table</span>), and AI for clinical trials (<span style="color:SeaGreen">AI4CT</span>). My methodological interests revolve around deep tabular models, generative AI for digital twin creation, and exploring deep learning approaches tailored for scenarios with limited data availability. --> 
