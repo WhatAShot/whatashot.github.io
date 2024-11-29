@@ -17,6 +17,8 @@
 
 - [Interactive few-shot learning: Limited supervision, better medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9358206), Ruiwei Feng$^\*$, Xiangshang Zheng$^\*$, Tianxiang Gao$^\*$, **Jintai Chen**, Wenzhe Wang, Danny Z Chen, Jian Wu$^\dagger$, **IEEE Transactions on Medical Imaging (TMI)**, 2021
 
+- [GCL: Gradient-Guided Contrastive Learning for Medical Image Segmentation with Multi-Perspective Meta Labels](https://arxiv.org/pdf/2309.08888.pdf) [<span style="color:#D70761;">AI4H</span>, <span style="color:#8866FF;">AI4MIA</span>], Yixuan Wu, **Jintai Chen**$^\dagger$, Jiahuan Yan, Yiheng Zhu, Danny Chen, Jian Wu$^\dagger$, **ACM International Conference on Multimedia**, 2023
+
 - [Multi-view learning with feature level fusion for cervical dysplasia diagnosis](https://link.springer.com/content/pdf/10.1007/978-3-030-32239-7_37.pdf), Tingting Chen, Xinjun Ma, Xuechen Liu, Wenzhe Wang, Ruiwei Feng, **Jintai Chen**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2019
 
 - [LSRC: A long-short range context-fusing framework for automatic 3D vertebra localization](https://link.springer.com/content/pdf/10.1007/978-3-030-32226-7_11.pdf), **Jintai Chen**$^\*$, Yanjie Wang$^\*$, Ruoqian Guo$^\*$, Bohan Yu, Tingting Chen, Wenzhe Wang, Ruiwei Feng, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2019
@@ -68,7 +70,7 @@ Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, B
 
 - [Uncertainty Quantification and Interpretability for Clinical Trial Approval Prediction](https://spj.science.org/doi/epdf/10.34133/hds.0126), Yingzhou Lu, Tianyi Chen, Nan Hao, Capucine Van Rechem, **Jintai Chen**, Tianfan Fu$^\dagger$, **Health Data Science**, 2024
 
-- [Trialbench: Multi-modal artificial intelligence-ready clinical trial datasets](https://arxiv.org/pdf/2407.00631), **Jintai Chen**$^\*$, Yaojun Hu$^\*$, Yue Wang, Yingzhou Lu, Xu Cao, Miao Lin, Hongxia Xu, Jian Wu, Cao Xiao, Jimeng Sun, Lucas Glass, Kexin Huang, Marinka Zitnik, Tianfan Fu$^\dagger$, Preprint, 2024
+- [TrialBench: Multi-modal artificial intelligence-ready clinical trial datasets](https://arxiv.org/pdf/2407.00631), **Jintai Chen**$^\*$, Yaojun Hu$^\*$, Yue Wang, Yingzhou Lu, Xu Cao, Miao Lin, Hongxia Xu, Jian Wu, Cao Xiao, Jimeng Sun, Lucas Glass, Kexin Huang, Marinka Zitnik, Tianfan Fu$^\dagger$, Preprint, 2024
 
 ## AI for Biological Modeling
 
@@ -92,16 +94,17 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 
 - [Robust training of graph neural networks via noise governance](https://arxiv.org/pdf/2211.06614.pdf), Siyi Qian, Haochao Ying$^\dagger$, Renjun Hu, Jingbo Zhou, **Jintai Chen**, Danny Z Chen, Jian Wu$^\dagger$, **ACM International Conference on Web Search and Data Mining (WSDM)**, 2023
 
-- [Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction](https://arxiv.org/pdf/2307.09004.pdf) [<span style="color:#D70761;">AI4H</span>, <span style="color:#8866FF;">AI4MIA</span>] [\[**Code**\]](https://github.com/wjh892521292/Ord2Seq), Jinhong Wang$^\*$, Yi Cheng$^\*$, **Jintai Chen**$^\dagger$, Tingting Chen, Danny Chen, Jian Wu$^\dagger$, **IEEE/CVF International Conference
-on Computer Vision (ICCV)**, 2023
+- [Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction](https://arxiv.org/pdf/2307.09004.pdf) [<span style="color:#D70761;">AI4H</span>, <span style="color:#8866FF;">AI4MIA</span>] [\[**Code**\]](https://github.com/wjh892521292/Ord2Seq), Jinhong Wang$^\*$, Yi Cheng$^\*$, **Jintai Chen**$^\dagger$, Tingting Chen, Danny Chen, Jian Wu$^\dagger$, **IEEE/CVF International Conference on Computer Vision (ICCV)**, 2023
 
 - [TabCaps: A capsule neural network for tabular data classification with BoW Routing](https://openreview.net/pdf?id=OgbtSLESnI) [<span style="color:orange;">AI4Table</span>] [\[**Code**\]](https://github.com/WhatAShot/TabCaps), **Jintai Chen**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu$^\dagger$, **International Conference on Learning Representations (ICLR)**, 2023
 
 - [Cross-layer retrospective retrieving via layer attention](https://openreview.net/pdf?id=pvgEL1yS3Ql) , Yanwen Fang, Yuxi Cai, **Jintai Chen**, Jingyu Zhao, Guangjian Tian, Guodong Li$^\dagger$, **International Conference on Learning Representations (ICLR)**, 2023
 
-- [GCL: Gradient-Guided Contrastive Learning for Medical Image Segmentation with Multi-Perspective Meta Labels](https://arxiv.org/pdf/2309.08888.pdf) [<span style="color:#D70761;">AI4H</span>, <span style="color:#8866FF;">AI4MIA</span>], Yixuan Wu, **Jintai Chen**$^\dagger$, Jiahuan Yan, Yiheng Zhu, Danny Chen, Jian Wu$^\dagger$, **ACM International Conference on Multimedia**, 2023
-
 - [A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf), **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$^\dagger$, **International Conference on Machine Learning (ICML)**, 2021
+
+- [Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models](https://arxiv.org/pdf/2311.09214), Weize Liu, Guocong Li, Kai Zhang, Bang Du, Qiyuan Chen, Xuming Hu$^\dagger$, Hongxia Xu$^\dagger$, Jintai Chen, Jian Wu, **NAACL**, 2024
+
+- 
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/NC.png' alt="sym" width="100%"></div></div>
