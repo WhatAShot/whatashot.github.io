@@ -60,7 +60,7 @@ Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, B
 
 - [ANYECG: Foundational Models for Electrocardiogram Analysis](https://openreview.net/pdf?id=fO0YO9giQV), Yue Wang$^\*$, Xu Cao$^\*$, Yaojun Hu, Haochao Ying, James Matthew Rehg, Jimeng Sun, Jian Wu, **Jintai Chen**$^\dagger$, Preprint, 2024
 
-### ◦ Comprehensive Clinical Decision Support
+### ◦ Other Clinical Predictive Modelling
 
 - [Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification](https://arxiv.org/pdf/2311.16650.pdf) [\[**Code**\]](https://github.com/jyansir/Text2Tree), Jiahuan Yan, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu$^\dagger$, **Jintai Chen**$^\dagger$, **Findings of Empirical Methods in Natural Language Processing (EMNLP-Findings)**, 2023
 
