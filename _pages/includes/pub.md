@@ -73,9 +73,9 @@ Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, B
 
 - [Uncertainty Quantification and Interpretability for Clinical Trial Approval Prediction](https://spj.science.org/doi/epdf/10.34133/hds.0126), Yingzhou Lu, Tianyi Chen, Nan Hao, Capucine Van Rechem, **Jintai Chen**, Tianfan Fu$^\dagger$, **Health Data Science**, 2024
 
-- [ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning], Ling Yue, Sixue Xing, **Jintai Chen**, Tianfan Fu, **ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB)**, 2024
+- [ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning](https://arxiv.org/abs/2404.14777), Ling Yue, Sixue Xing, **Jintai Chen**, Tianfan Fu, **ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB)**, 2024
 
-- [TrialEnroll: Predicting clinical trial enrollment success with deep & cross network and large language models], Ling Yue, **Jintai Chen**, Tianfan Fu^\dagger$, **ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB)**, 2024
+- [TrialEnroll: Predicting clinical trial enrollment success with deep & cross network and large language models](https://arxiv.org/pdf/2407.13115), Ling Yue, **Jintai Chen**, Tianfan Fu, **ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB)**, 2024
 
 - [TrialBench: Multi-modal artificial intelligence-ready clinical trial datasets](https://arxiv.org/pdf/2407.00631), **Jintai Chen**$^\*$, Yaojun Hu$^\*$, Yue Wang, Yingzhou Lu, Xu Cao, Miao Lin, Hongxia Xu, Jian Wu, Cao Xiao, Jimeng Sun, Lucas Glass, Kexin Huang, Marinka Zitnik, Tianfan Fu$^\dagger$, Preprint, 2024
 
