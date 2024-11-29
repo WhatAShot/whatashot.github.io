@@ -3,7 +3,7 @@
 
 ## Clinical Predictive Modelling
 
-### Medical Image Analysis
+### ◦ Medical Image Analysis
 
 
 - [LKM-UNet: Large Kernel Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.07332), Jinhong Wang, **Jintai Chen**$^\dagger$, Danny Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2024
@@ -43,7 +43,7 @@ Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, B
 
 - [OneSeg: Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation](https://arxiv.org/pdf/2309.13671), Yixuan Wu, Bo Zheng, **Jintai Chen**, Danny Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2022
 
-### Biosignal based Monitoring
+### ◦ Biosignal based Monitoring
 
 - [Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts](https://www.nature.com/articles/s41467-024-44930-y), [\[**Code**\]](https://github.com/shuaih720/CHDdECG), 
 **Jintai Chen**$^\*$, Shuai Huang$^\*$, Ying Zhang$^\*$, Qing Chang$^\*$, Yixiao Zhang, Dantong Li, Jia Qiu, Lianting Hu, Xiaoting Peng, Yunmei Du, Yunfei Gao, Danny Chen, Abdelouahab Bellou$^\dagger$, Jian Wu$^\dagger$, Huiying Liang$^\dagger$,
@@ -61,7 +61,7 @@ Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, B
 
 - [ANYECG: Foundational Models for Electrocardiogram Analysis](https://openreview.net/pdf?id=fO0YO9giQV), Yue Wang$^\*$, Xu Cao$^\*$, Yaojun Hu, Haochao Ying, James Matthew Rehg, Jimeng Sun, Jian Wu, **Jintai Chen**$^\dagger$, Preprint, 2024
 
-### Comprehensive Clinical Decision Support
+### ◦ Comprehensive Clinical Decision Support
 
 - [Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification](https://arxiv.org/pdf/2311.16650.pdf) [\[**Code**\]](https://github.com/jyansir/Text2Tree), Jiahuan Yan, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu$^\dagger$, **Jintai Chen**$^\dagger$, **Findings of Empirical Methods in Natural Language Processing (EMNLP-Findings)**, 2023
 
