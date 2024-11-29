@@ -8,8 +8,6 @@
 
 - [LKM-UNet: Large Kernel Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.07332), Jinhong Wang, **Jintai Chen**$^\dagger$, Danny Chen, **Jian Wu**$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2024
 
-- [Take Your Steps: Hierarchically Efficient Pulmonary Disease Screening via CT Compression], Qian Shao$^\*$, Kai Zhang$^\*$, Bang Du, Zepeng Li, Yixuan Wu, Qiyuan Chen, Jian Wu$^\dagger$, **Jintai Chen**$^\dagger$, **AIDSH(KDD workshop)**, 2024
-
 - [Self-learning and one-shot learning based single-slice annotation for 3D medical image segmentation](https://link.springer.com/content/pdf/10.1007/978-3-031-16452-1_24.pdf), Yixuan Wu, Bo Zheng, **Jintai Chen**, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI, Oral)**, 2022
 
 - [D-Former: A U-shaped dilated Transformer for 3D medical image segmentation](https://arxiv.org/pdf/2201.00462.pdf), Yixuan Wu, Kuanlun Liao, **Jintai Chen**, Danny Z Chen, Jinhong Wang, Honghao Gao, Jian Wu$^\dagger$, **Neural Computing and Applications**, 2022
