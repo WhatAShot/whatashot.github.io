@@ -84,7 +84,7 @@ Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, B
 
 ## III. AI for Biological Modeling
 
-- [Multi-modal CLIP-informed protein editing](https://spj.science.org/doi/pdf/10.34133/hds.0211), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Yiheng Zhu, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou^\dagger$, **Jintai Chen**^\dagger$, Jian Wu^\dagger$, **Health Data Science**, 2024
+- [Multi-modal CLIP-informed protein editing](https://spj.science.org/doi/pdf/10.34133/hds.0211), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Yiheng Zhu, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou$^\dagger$, **Jintai Chen**$^\dagger$, Jian Wu$^\dagger$, **Health Data Science**, 2024
 
 - [Quantum-inspired Reinforcement Learning for Synthesizable Drug Design](https://arxiv.org/pdf/2409.09183), Dannong Wang, **Jintai Chen**, Zhiding Liang, Tianfan Fu, Xiao-Yang Liu, **AAAI Association for the Advancement of Artificial Intelligence (AAAI)**, 2024
 
