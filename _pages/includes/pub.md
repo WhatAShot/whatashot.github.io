@@ -100,7 +100,6 @@ on Computer Vision (ICCV)**, 2023
 - [A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf), **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$^\dagger$, **International Conference on Machine Learning (ICML)**, 2021
 
 <!--
-<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/NC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **TL;DR**: Congenital heart disease is the most common category among congenital abnormalities, with an incidence rate approaching 1$\%$. Previously, ECGs were considered to have limited effectiveness in diagnosing congenital heart disease. AI demonstrated the value of ECGs in diagnosing congenital heart disease, which surpasses our previous cognition. While techniques like echocardiography and cardiac MRI are currently utilized for precise diagnosis, the cost-effectiveness and non-invasiveness of ECGs continue to harbor substantial potential for precise large-scale population screening and benefiting low-resourced regions.
@@ -118,9 +117,9 @@ on Computer Vision (ICCV)**, 2023
 - **Academic Impact**: The benefits of our work are manifold: (i) panoramic observations of ECG signals; (ii) a unified representation of ECG signals captured by different ECG devices; (iii) Waveform-aligned Mixup for synthesizing new ECG cases (e.g., for data augmentation); (iv) reconstruction of corrupted ECG views; and (v) exploration of ECG theory.
 
  
-<!--  <span style="color:red">(PS: got scores 7, 9, 10 of 10 in the IJCAI double-blind review)</span> -->
+<span style="color:red">(PS: got scores 7, 9, 10 of 10 in the IJCAI double-blind review)</span>
 - **New Data Annotations**: We provided ECG wave segmentation annotations for Tianchi ECG dataset and PTB dataset.
-<!-- - **Exposure**: Our work is promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/nUOQjLzE7LPCizVAZJtA6Q), [专知](https://www.zhuanzhi.ai/document/2641de7df0eabfe36f40fd30fa33d848), [澎湃](https://www.thepaper.cn/newsDetail_forward_13432066), [AI研习社](https://www.yanxishe.com/reportDetail/27449).-->
+- **Exposure**: Our work is promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/nUOQjLzE7LPCizVAZJtA6Q), [专知](https://www.zhuanzhi.ai/document/2641de7df0eabfe36f40fd30fa33d848), [澎湃](https://www.thepaper.cn/newsDetail_forward_13432066), [AI研习社](https://www.yanxishe.com/reportDetail/27449).
 </div>
 <div markdown="1">
 [Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf) [<span style="color:#D70761;">AI4H</span>, <span style="color:RoyalBlue">AI4ECG</span>] [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama), 
@@ -132,7 +131,7 @@ on Computer Vision (ICCV)**, 2023
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/ICML21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **TL;DR**: Neurons in the nervous system transmit signals by releasing different neurotransmitters that match different receptors. Motivated by the concepts of competitive neural networks, prototype learning, hierarchical clustering algorithms, and capsule neural networks, we introduce a novel neural network architecture. This neural network is constructed by neurons capable of generating "transmitters" to send semantic information to other neurons and possessing receptors to receive specific types of "transmitters" from other neurons. By generating "transmitters" to convey semantic information and binding them to specific receptors in the subsequent layer, our approach achieves transparent semantic feature parsing, part-to-whole semantic integration, unsupervised semantics understanding, and object relationship digging.
-<!-- - **<span style="color:SeaGreen">On SRL</span>**: This work provides a new framework (works like many parse trees) for effective, effecient, and flexible . -->
+- **<span style="color:SeaGreen">On SRL</span>**: This work provides a new framework (works like many parse trees) for effective, effecient, and flexible .
 </div>
 <div markdown="1">
 [A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf), **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$^\dagger$, **International Conference on Machine Learning (ICML)**, 2021
@@ -150,7 +149,6 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 </div>
 </div>
 
-<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023 Oral</div><img src='images/T2G.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **TL;DR**: This study represents a Transformer-based evolution, a continuation of DANETs. It focuses on extracting underlying feature relation graphs and presenting feature interactions. By leveraging this acquired graph topology, T2G-Former demonstrates robust performance while offering a clear and coherent explanation of feature relations.
@@ -159,9 +157,8 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 <div markdown="1">
 [T2G-Former: Organizing tabular features into relation graphs promotes heterogeneous feature interaction](https://arxiv.org/pdf/2211.16887.pdf) [<span style="color:orange;">AI4Table</span>] [\[**Code**\]](https://github.com/jyansir/t2g-former), Jiahuan Yan$^\*$, **Jintai Chen**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence (AAAI, Oral)**, 2023
 </div>
-</div> -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022</div><img src='images/ME-GAN.jpg' alt="sym" width="100%"></div></div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022</div><img src='images/ME-GAN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TL;DR**: This work is the follow-up of Electrocardio panorama synthesis and practice the same <span style="color:SeaGreen">SRL</span> insights, and it is also the first GAN to synthesize multi-view ECG signals (part representation) by primarily synthesizing the stereo ECG representation (whole representations).
@@ -169,9 +166,7 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 <div markdown="1">
 [ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf) [<span style="color:SeaGreen">SRL (part-whole hierarchy learning)</span>, <span style="color:#D70761;">AI4H</span>], **Jintai Chen**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying$^\dagger$, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
 </div>
-</div> -->
-
-<!--
+</div> 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -194,7 +189,6 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
  [Doctor imitator: Hand-radiography-based bone age assessment by imitating scoring methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:#D70761;">AI4H</span>, <span style="color:#8866FF;">AI4MIA</span>], **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI, Oral)**, 2020
 </div>
 </div>
--->
 -->
 
 
