@@ -99,7 +99,7 @@ on Computer Vision (ICCV)**, 2023
 
 - [A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf), **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$^\dagger$, **International Conference on Machine Learning (ICML)**, 2021
 
-
+<!--
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/NC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -195,7 +195,7 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 </div>
 </div>
 -->
-
+-->
 
 
 
