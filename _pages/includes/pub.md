@@ -36,7 +36,7 @@
 - [Polygonal Approximation Learning for Convex Object Segmentation in Biomedical Images with Bounding Box Supervision](https://ieeexplore.ieee.org/abstract/document/10354298) [<span style="color:#D70761;">AI4H</span>, <span style="color:#8866FF;">AI4MIA</span>][\[**Code**\]](https://github.com/shenmishajing/PAL), 
 Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, Bang Du, Danny Z Chen, Honghao Gao, Jian Wu, Hongxia Xu$^\dagger$, **IEEE Journal of Biomedical and Health Informatics**, 2023
 
-- [OneSeg: Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation], Yixuan Wu, Bo Zheng, **Jintai Chen**, Danny Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2022
+- [OneSeg: Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation](https://arxiv.org/pdf/2309.13671), Yixuan Wu, Bo Zheng, **Jintai Chen**, Danny Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2022
 
 ### Biosignal based Monitoring
 
