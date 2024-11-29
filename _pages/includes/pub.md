@@ -93,7 +93,7 @@ Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, B
 
 - [S$^2$ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning](https://arxiv.org/pdf/2411.15215), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Jialu Wu, Yiheng Zhu, Yuxuan Zhan, Zitai Kong, Hongxia Xu, Chang-Yu Hsieh$^\dagger$, **Jintai Chen**$^\dagger$, Tingjun Hou$^\dagger$, and Jian Wu$^\dagger$, Preprint, 2024
 
-## Foundations of General AI
+## General AI Methodology
 
 - [A survey on multimodal large language models for autonomous driving](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf), Can Cui$^\*$, Yunsheng Ma$^\*$, Xu Cao$^\*$, Wenqian Ye$^\*$, Yang Zhou, Kaizhao Liang, **Jintai Chen**, Juanwu Lu, Zichong Yang, Kuei-Da Liao, Tianren Gao, Erlong Li, Kun Tang, Zhipeng Cao, Tong Zhou, Ao Liu, Xinrui Yan, Shuqi Mei, Jianguo Cao$^\dagger$, Ziran Wang$^\dagger$, Chao Zheng$^\dagger$, **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-Workshop)**, 2024
 
