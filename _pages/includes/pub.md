@@ -54,7 +54,7 @@ Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, B
 
 - [Personalized Heart Disease Detection via ECG Digital Twin Generation](https://arxiv.org/pdf/2404.11171) [<span style="color:#D70761;">AI4H</span>, <span style="color:RoyalBlue">AI4ECG</span>], Yaojun Hu, **Jintai Chen**$^\dagger$, Lianting Hu, Dantong Li, Jiahuan Yan, Haochao Ying, Huiying Liang, Jian Wu, **International Joint Conference on Artificial Intelligence (IJCAI)**, 2024
 
-### Clinical Decision Support
+### Comprehensive Clinical Decision Support
 
 - [Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification](https://arxiv.org/pdf/2311.16650.pdf) [<span style="color:#D70761">AI4H</span>] [\[**Code**\]](https://github.com/jyansir/Text2Tree), Jiahuan Yan, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu$^\dagger$, **Jintai Chen**$^\dagger$, **Findings of Empirical Methods in Natural Language Processing (EMNLP-Findings)**, 2023
 
