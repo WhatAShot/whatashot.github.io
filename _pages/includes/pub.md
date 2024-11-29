@@ -1,10 +1,9 @@
 # 📄 Selected Publications
 <span style="color:RoyalBlue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
-## Clinical Predictive Modelling
+## I. Clinical Predictive Modelling
 
 ### ◦ Medical Image Analysis
-
 
 - [LKM-UNet: Large Kernel Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.07332), Jinhong Wang, **Jintai Chen**$^\dagger$, Danny Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2024
 
@@ -69,7 +68,7 @@ Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, B
 
 - [ChroNet: A multi-task learning based approach for prediction of multiple chronic diseases](https://link.springer.com/article/10.1007/s11042-020-10482-8), Ruiwei Feng, Yan Cao, Xuechen Liu, Tingting Chen, **Jintai Chen**, Danny Z Chen, Honghao Gao, Jian Wu$^\dagger$, **Multimedia Tools and Applications**, 2021
 
-## Clinical Trial Optimization
+## II. Clinical Trial Optimization
 
 - [TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](https://arxiv.org/pdf/2404.01273), Yue Wang$^\*$, Tianfan Fu$^\*$, Yinlong Xu, Zihan Ma, Hongxia Xu, Bang Du, Yingzhou Lu, Honghao Gao$^\dagger$, Jian Wu, **Jintai Chen**$^\dagger$, **TOMM**, 2024
 
@@ -83,7 +82,7 @@ Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, B
 
 - [TrialDura: Hierarchical attention transformer for interpretable clinical trial duration prediction](https://arxiv.org/pdf/2404.13235), Ling Yue, Jonathan Li, Sixue Xing, Md Zabirul Islam, Bolun Xia, **Jintai Chen**, Tianfan Fu^\dagger$, Preprint, 2024
 
-## AI for Biological Modeling
+## III. AI for Biological Modeling
 
 - [Multi-modal CLIP-informed protein editing](https://spj.science.org/doi/pdf/10.34133/hds.0211), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Yiheng Zhu, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou^\dagger$, **Jintai Chen**^\dagger$, Jian Wu^\dagger$, **Health Data Science**, 2024
 
@@ -93,7 +92,7 @@ Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, B
 
 - [S$^2$ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning](https://arxiv.org/pdf/2411.15215), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Jialu Wu, Yiheng Zhu, Yuxuan Zhan, Zitai Kong, Hongxia Xu, Chang-Yu Hsieh$^\dagger$, **Jintai Chen**$^\dagger$, Tingjun Hou$^\dagger$, and Jian Wu$^\dagger$, Preprint, 2024
 
-## General AI Methodology
+## IV. General AI Methodology
 
 - [A survey on multimodal large language models for autonomous driving](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf), Can Cui$^\*$, Yunsheng Ma$^\*$, Xu Cao$^\*$, Wenqian Ye$^\*$, Yang Zhou, Kaizhao Liang, **Jintai Chen**, Juanwu Lu, Zichong Yang, Kuei-Da Liao, Tianren Gao, Erlong Li, Kun Tang, Zhipeng Cao, Tong Zhou, Ao Liu, Xinrui Yan, Shuqi Mei, Jianguo Cao$^\dagger$, Ziran Wang$^\dagger$, Chao Zheng$^\dagger$, **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-Workshop)**, 2024
 
