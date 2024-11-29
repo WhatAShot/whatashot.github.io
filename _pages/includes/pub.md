@@ -1,6 +1,18 @@
 # 📄 Selected Publications
 <span style="color:RoyalBlue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
+## Medical Image Analysis
+
+## Biosignal based Monitoring
+
+## Clinical Trial Optimization
+
+## AI for Biological Modeling
+
+## Foundations of General AI
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/NC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **TL;DR**: Congenital heart disease is the most common category among congenital abnormalities, with an incidence rate approaching 1$\%$. Previously, ECGs were considered to have limited effectiveness in diagnosing congenital heart disease. AI demonstrated the value of ECGs in diagnosing congenital heart disease, which surpasses our previous cognition. While techniques like echocardiography and cardiac MRI are currently utilized for precise diagnosis, the cost-effectiveness and non-invasiveness of ECGs continue to harbor substantial potential for precise large-scale population screening and benefiting low-resourced regions.
@@ -95,7 +107,7 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 </div>
 </div>
 
-- [ExcelFormer: Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://arxiv.org/pdf/2301.02819) [<span style="color:orange;">AI4Table</span>], **Jintai Chen**$^\*$, Jiahuan Yan$^\*$, Qiyuan Chen, Danny Ziyi Chen, Jian Wu, Jimeng Sun$^\dagger$, **KDD 2024**
+- [ExcelFormer: Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://arxiv.org/pdf/2301.02819) [<span style="color:orange;">AI4Table</span>], **Jintai Chen**$^\*$, Jiahuan Yan$^\*$, Qiyuan Chen, Danny Ziyi Chen, Jian Wu, Jimeng Sun$^\dagger$, **KDD**, 2024
 
 - [SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction](https://arxiv.org/pdf/2403.01570) [<span style="color:#D70761;">AI4H</span>, <span style="color:orange;">AI4Table</span>], Jiahuan Yan, **Jintai Chen**$^\dagger$, Chaowen Hu, Bo Zheng, Yaojun Hu, Jimeng Sun, Jian Wu, 2024
 
