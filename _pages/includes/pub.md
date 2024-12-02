@@ -11,13 +11,13 @@
 
 - <span style="color:#F29F58;">[IJCAI]</span> [Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf), [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama), 
 **Jintai Chen**$^\*$, Xiangshang Zheng$^\*$, Hongyun Yu$^\*$, Danny Z. Chen, Jian Wu$^\dagger$,
-**International Joint Conference on Artificial Intelligence (IJCAI)**, 2021
+**International Joint Conference on Artificial Intelligence**, 2021
 
-- <span style="color:#F29F58;">[ICML]</span> [ME-GAN: Learning panoptic electrocardio representations for multi-view ECG synthesis conditioned on heart diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf), **Jintai Chen**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying$^\dagger$, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
+- <span style="color:#F29F58;">[ICML]</span> [ME-GAN: Learning panoptic electrocardio representations for multi-view ECG synthesis conditioned on heart diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf), **Jintai Chen**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying$^\dagger$, Danny Z Chen, Jian Wu, **International Conference on Machine Learning**, 2022
 
 - <span style="color:#F29F58;">[TCBB]</span> [Identifying electrocardiogram abnormalities using a handcrafted-rule-enhanced neural network](https://arxiv.org/pdf/2206.10592.pdf), Yuexin Bian, **Jintai Chen**, Xiaojun Chen, Xiaoxian Yang, Danny Z. Chen, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, 2022.
 
-- <span style="color:#F29F58;">[IJCAI]</span> [Personalized Heart Disease Detection via ECG Digital Twin Generation](https://arxiv.org/pdf/2404.11171), Yaojun Hu, **Jintai Chen**$^\dagger$, Lianting Hu, Dantong Li, Jiahuan Yan, Haochao Ying, Huiying Liang, Jian Wu, **International Joint Conference on Artificial Intelligence (IJCAI)**, 2024
+- <span style="color:#F29F58;">[IJCAI]</span> [Personalized Heart Disease Detection via ECG Digital Twin Generation](https://arxiv.org/pdf/2404.11171), Yaojun Hu, **Jintai Chen**$^\dagger$, Lianting Hu, Dantong Li, Jiahuan Yan, Haochao Ying, Huiying Liang, Jian Wu, **International Joint Conference on Artificial Intelligence**, 2024
 
 - [ANYECG: Foundational Models for Electrocardiogram Analysis](https://openreview.net/pdf?id=fO0YO9giQV), Yue Wang$^\*$, Xu Cao$^\*$, Yaojun Hu, Haochao Ying, James Matthew Rehg, Jimeng Sun, Jian Wu, **Jintai Chen**$^\dagger$, Preprint, 2024
 
@@ -31,7 +31,7 @@
 
 - <span style="color:#F29F58;">[MICCAI|Oral]</span> [Doctor Imitator: Hand-Radiography-based Bone Age Assessment by Imitating Scoring Methods](https://arxiv.org/pdf/2102.05424.pdf), **Jintai Chen**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, 2020
 
-- <span style="color:#F29F58;">[BIBM]</span> [Flow-Mixup: Classifying multi-labeled medical images with corrupted labels](https://arxiv.org/pdf/2102.08148.pdf), **Jintai Chen**, Hongyun Yu, Ruiwei Feng, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Bioinformatics and Biomedicine (BIBM)**, 2020
+- <span style="color:#F29F58;">[BIBM]</span> [Flow-Mixup: Classifying multi-labeled medical images with corrupted labels](https://arxiv.org/pdf/2102.08148.pdf), **Jintai Chen**, Hongyun Yu, Ruiwei Feng, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Bioinformatics and Biomedicine**, 2020
 
 - <span style="color:#F29F58;">[TMI]</span> [Interactive few-shot learning: Limited supervision, better medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9358206), Ruiwei Feng$^\*$, Xiangshang Zheng$^\*$, Tianxiang Gao$^\*$, **Jintai Chen**, Wenzhe Wang, Danny Z Chen, Jian Wu$^\dagger$, **IEEE Transactions on Medical Imaging**, 2021
 
@@ -58,25 +58,25 @@
 - <span style="color:#F29F58;">[JBHI]</span> [Polygonal Approximation Learning for Convex Object Segmentation in Biomedical Images with Bounding Box Supervision](https://ieeexplore.ieee.org/abstract/document/10354298), [\[**Code**\]](https://github.com/shenmishajing/PAL), 
 Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, Bang Du, Danny Z Chen, Honghao Gao, Jian Wu, Hongxia Xu$^\dagger$, **IEEE Journal of Biomedical and Health Informatics**, 2023
 
-- <span style="color:#F29F58;">[MICCAI|Oral]</span> [OneSeg: Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation](https://arxiv.org/pdf/2309.13671), Yixuan Wu, Bo Zheng, **Jintai Chen**, Danny Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**, 2022
+- <span style="color:#F29F58;">[MICCAI|Oral]</span> [OneSeg: Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation](https://arxiv.org/pdf/2309.13671), Yixuan Wu, Bo Zheng, **Jintai Chen**, Danny Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, 2022
 
 ### ◦ Others
 
-- [Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification](https://arxiv.org/pdf/2311.16650.pdf) [\[**Code**\]](https://github.com/jyansir/Text2Tree), Jiahuan Yan, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu$^\dagger$, **Jintai Chen**$^\dagger$, **Findings of Empirical Methods in Natural Language Processing (EMNLP-Findings)**, 2023
+- <span style="color:#F29F58;">[EMNLP-F]</span> [Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification](https://arxiv.org/pdf/2311.16650.pdf) [\[**Code**\]](https://github.com/jyansir/Text2Tree), Jiahuan Yan, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu$^\dagger$, **Jintai Chen**$^\dagger$, **Findings of Empirical Methods in Natural Language Processing**, 2023
 
-- [TeleOR: Real-time Telemedicine System for Full-Scene Operating Room](https://arxiv.org/pdf/2407.19763), Yixuan Wu$^\*$, Kaiyuan Hu$^\*$, Qian Shao, **Jintai Chen**$^\dagger$, Danny Z. Chen7, and Jian Wu$^\dagger$, **MICCAI 2024**
+- <span style="color:#F29F58;">[MICCAI|Oral]</span> [TeleOR: Real-time Telemedicine System for Full-Scene Operating Room](https://arxiv.org/pdf/2407.19763), Yixuan Wu$^\*$, Kaiyuan Hu$^\*$, Qian Shao, **Jintai Chen**$^\dagger$, Danny Z. Chen7, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, 2024
 
-- [ChroNet: A multi-task learning based approach for prediction of multiple chronic diseases](https://link.springer.com/article/10.1007/s11042-020-10482-8), Ruiwei Feng, Yan Cao, Xuechen Liu, Tingting Chen, **Jintai Chen**, Danny Z Chen, Honghao Gao, Jian Wu$^\dagger$, **Multimedia Tools and Applications**, 2021
+- <span style="color:#F29F58;">[MTA]</span> [ChroNet: A multi-task learning based approach for prediction of multiple chronic diseases](https://link.springer.com/article/10.1007/s11042-020-10482-8), Ruiwei Feng, Yan Cao, Xuechen Liu, Tingting Chen, **Jintai Chen**, Danny Z Chen, Honghao Gao, Jian Wu$^\dagger$, **Multimedia Tools and Applications**, 2021
 
 ## II. Clinical Trial Optimization
 
-- [TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](https://arxiv.org/pdf/2404.01273), Yue Wang$^\*$, Tianfan Fu$^\*$, Yinlong Xu, Zihan Ma, Hongxia Xu, Bang Du, Yingzhou Lu, Honghao Gao$^\dagger$, Jian Wu, **Jintai Chen**$^\dagger$, **TOMM**, 2024
+- <span style="color:#F29F58;">[TOMM]</span> [TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](https://arxiv.org/pdf/2404.01273), Yue Wang$^\*$, Tianfan Fu$^\*$, Yinlong Xu, Zihan Ma, Hongxia Xu, Bang Du, Yingzhou Lu, Honghao Gao$^\dagger$, Jian Wu, **Jintai Chen**$^\dagger$, **TOMM**, 2024
 
-- [Uncertainty Quantification and Interpretability for Clinical Trial Approval Prediction](https://spj.science.org/doi/epdf/10.34133/hds.0126), Yingzhou Lu, Tianyi Chen, Nan Hao, Capucine Van Rechem, **Jintai Chen**, Tianfan Fu$^\dagger$, **Health Data Science**, 2024
+- <span style="color:#F29F58;">[HDS]</span> [Uncertainty Quantification and Interpretability for Clinical Trial Approval Prediction](https://spj.science.org/doi/epdf/10.34133/hds.0126), Yingzhou Lu, Tianyi Chen, Nan Hao, Capucine Van Rechem, **Jintai Chen**, Tianfan Fu$^\dagger$, **Health Data Science**, 2024
 
-- [ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning](https://arxiv.org/abs/2404.14777), Ling Yue, Sixue Xing, **Jintai Chen**, Tianfan Fu, **ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB)**, 2024
+- <span style="color:#F29F58;">[ACM BCB]</span> [ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning](https://arxiv.org/abs/2404.14777), Ling Yue, Sixue Xing, **Jintai Chen**, Tianfan Fu, **ACM Conference on Bioinformatics, Computational Biology, and Health Informatics**, 2024
 
-- [TrialEnroll: Predicting clinical trial enrollment success with deep & cross network and large language models](https://arxiv.org/pdf/2407.13115), Ling Yue, **Jintai Chen**, Tianfan Fu, **ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB)**, 2024
+- <span style="color:#F29F58;">[ACM BCB]</span> [TrialEnroll: Predicting clinical trial enrollment success with deep & cross network and large language models](https://arxiv.org/pdf/2407.13115), Ling Yue, **Jintai Chen**, Tianfan Fu, **ACM Conference on Bioinformatics, Computational Biology, and Health Informatics**, 2024
 
 - [TrialBench: Multi-modal artificial intelligence-ready clinical trial datasets](https://arxiv.org/pdf/2407.00631), **Jintai Chen**$^\*$, Yaojun Hu$^\*$, Yue Wang, Yingzhou Lu, Xu Cao, Miao Lin, Hongxia Xu, Jian Wu, Cao Xiao, Jimeng Sun, Lucas Glass, Kexin Huang, Marinka Zitnik, Tianfan Fu$^\dagger$, Preprint, 2024
 
@@ -84,9 +84,9 @@ Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, B
 
 ## III. AI for biomedical Discovery
 
-- [Multi-modal CLIP-informed protein editing](https://spj.science.org/doi/pdf/10.34133/hds.0211), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Yiheng Zhu, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou$^\dagger$, **Jintai Chen**$^\dagger$, Jian Wu$^\dagger$, **Health Data Science**, 2024
+- <span style="color:#F29F58;">[HDS]</span> [Multi-modal CLIP-informed protein editing](https://spj.science.org/doi/pdf/10.34133/hds.0211), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Yiheng Zhu, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou$^\dagger$, **Jintai Chen**$^\dagger$, Jian Wu$^\dagger$, **Health Data Science**, 2024
 
-- [Quantum-inspired Reinforcement Learning for Synthesizable Drug Design](https://arxiv.org/pdf/2409.09183), Dannong Wang, **Jintai Chen**, Zhiding Liang, Tianfan Fu, Xiao-Yang Liu, **AAAI Association for the Advancement of Artificial Intelligence (AAAI)**, 2024
+- <span style="color:#F29F58;">[AAAI]</span> [Quantum-inspired Reinforcement Learning for Synthesizable Drug Design](https://arxiv.org/pdf/2409.09183), Dannong Wang, **Jintai Chen**, Zhiding Liang, Tianfan Fu, Xiao-Yang Liu, **AAAI Association for the Advancement of Artificial Intelligence**, 2024
 
 - [Protein-Mamba: Biological Mamba Models for Protein Function Prediction](https://arxiv.org/pdf/2409.14617), Bohao Xu, Yingzhou Lu, Yoshitaka Inoue, Namkyeong Lee, Tianfan Fu, **Jintai Chen**, Preprint, 2024
 
@@ -94,41 +94,41 @@ Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, B
 
 ## IV. General AI Methodology
 
-- [A survey on multimodal large language models for autonomous driving](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf), Can Cui$^\*$, Yunsheng Ma$^\*$, Xu Cao$^\*$, Wenqian Ye$^\*$, Yang Zhou, Kaizhao Liang, **Jintai Chen**, Juanwu Lu, Zichong Yang, Kuei-Da Liao, Tianren Gao, Erlong Li, Kun Tang, Zhipeng Cao, Tong Zhou, Ao Liu, Xinrui Yan, Shuqi Mei, Jianguo Cao$^\dagger$, Ziran Wang$^\dagger$, Chao Zheng$^\dagger$, **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-Workshop)**, 2024
+- <span style="color:#F29F58;">[WACV-W]</span> [A survey on multimodal large language models for autonomous driving](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf), Can Cui$^\*$, Yunsheng Ma$^\*$, Xu Cao$^\*$, Wenqian Ye$^\*$, Yang Zhou, Kaizhao Liang, **Jintai Chen**, Juanwu Lu, Zichong Yang, Kuei-Da Liao, Tianren Gao, Erlong Li, Kun Tang, Zhipeng Cao, Tong Zhou, Ao Liu, Xinrui Yan, Shuqi Mei, Jianguo Cao$^\dagger$, Ziran Wang$^\dagger$, Chao Zheng$^\dagger$, **IEEE/CVF Winter Conference on Applications of Computer Vision**, 2024
 
-- [A hierarchical graph network for 3D object detection on point clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf), **Jintai Chen**$^\*$, Biwen Lei$^\*$, Qingyu Song$^\*$, Haochao Ying, Danny Z Chen, Jian Wu$^\dagger$, **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2020
+- <span style="color:#F29F58;">[CVPR]</span> [A hierarchical graph network for 3D object detection on point clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf), **Jintai Chen**$^\*$, Biwen Lei$^\*$, Qingyu Song$^\*$, Haochao Ying, Danny Z Chen, Jian Wu$^\dagger$, **IEEE/CVF Conference on Computer Vision and Pattern Recognition**, 2020
 
-- [Making Pre-trained Language Models Great on Tabular Prediction](https://openreview.net/pdf?id=anzIzGZuLi) [\[**Code and Data**\]](https://github.com/jyansir/tp-berta), 
+- <span style="color:#F29F58;">[ICLR|Spotlight]</span> [Making Pre-trained Language Models Great on Tabular Prediction](https://openreview.net/pdf?id=anzIzGZuLi) [\[**Code and Data**\]](https://github.com/jyansir/tp-berta), 
 Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^\dagger$, **Jintai Chen**$^\dagger$,
-**ICLR (SpotLight)**, 2024
+**International Conference on Learning Representations**, 2024
 
-- [ExcelFormer: Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://arxiv.org/pdf/2301.02819), **Jintai Chen**$^\*$, Jiahuan Yan$^\*$, Qiyuan Chen, Danny Ziyi Chen, Jian Wu, Jimeng Sun$^\dagger$, **SIGKDD**, 2024
+- <span style="color:#F29F58;">[KDD|Oral]</span> [ExcelFormer: Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://arxiv.org/pdf/2301.02819), **Jintai Chen**$^\*$, Jiahuan Yan$^\*$, Qiyuan Chen, Danny Ziyi Chen, Jian Wu, Jimeng Sun$^\dagger$, **ACM SIGKDD Conference on Knowledge Discovery and Data Mining**, 2024
 
 - [SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction](https://arxiv.org/pdf/2403.01570), Jiahuan Yan, **Jintai Chen**$^\dagger$, Chaowen Hu, Bo Zheng, Yaojun Hu, Jimeng Sun, Jian Wu, 2024
 
-- [T2G-Former: Organizing tabular features into relation graphs promotes heterogeneous feature interaction](https://arxiv.org/pdf/2211.16887.pdf) [\[**Code**\]](https://github.com/jyansir/t2g-former), Jiahuan Yan$^\*$, **Jintai Chen**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence (AAAI, Oral)**, 2023
+- <span style="color:#F29F58;">[AAAI|Oral]</span> [T2G-Former: Organizing tabular features into relation graphs promotes heterogeneous feature interaction](https://arxiv.org/pdf/2211.16887.pdf) [\[**Code**\]](https://github.com/jyansir/t2g-former), Jiahuan Yan$^\*$, **Jintai Chen**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, 2023
 
-- [DANETs: Deep abstract networks for tabular data classification and regression](https://arxiv.org/pdf/2112.02962.pdf) [\[**Code**\]](https://github.com/WhatAShot/DANet), **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Ziyi Chen, Jian Wu$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence (AAAI)**, 2022
+- <span style="color:#F29F58;">[AAAI]</span> [DANETs: Deep abstract networks for tabular data classification and regression](https://arxiv.org/pdf/2112.02962.pdf) [\[**Code**\]](https://github.com/WhatAShot/DANet), **Jintai Chen**, Kuanlun Liao, Yao Wan, Danny Ziyi Chen, Jian Wu$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, 2022
 
-- [Robust training of graph neural networks via noise governance](https://arxiv.org/pdf/2211.06614.pdf), Siyi Qian, Haochao Ying$^\dagger$, Renjun Hu, Jingbo Zhou, **Jintai Chen**, Danny Z Chen, Jian Wu$^\dagger$, **ACM International Conference on Web Search and Data Mining (WSDM)**, 2023
+- <span style="color:#F29F58;">[WSDM]</span> [Robust training of graph neural networks via noise governance](https://arxiv.org/pdf/2211.06614.pdf), Siyi Qian, Haochao Ying$^\dagger$, Renjun Hu, Jingbo Zhou, **Jintai Chen**, Danny Z Chen, Jian Wu$^\dagger$, **ACM International Conference on Web Search and Data Mining**, 2023
 
 - [Scalable Autoregressive Monocular Depth Estimation](https://arxiv.org/pdf/2411.11361), Jinhong Wang, Jian Liu, Dongqi Tang, Weiqiang Wang, Wentong Li, Danny Chen, **Jintai Chen**$^\dagger$, Jian Wu$^\dagger$, Preprint, 2024
 
-- [Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction](https://arxiv.org/pdf/2307.09004.pdf) [\[**Code**\]](https://github.com/wjh892521292/Ord2Seq), Jinhong Wang$^\*$, Yi Cheng$^\*$, **Jintai Chen**$^\dagger$, Tingting Chen, Danny Chen, Jian Wu$^\dagger$, **IEEE/CVF International Conference on Computer Vision (ICCV)**, 2023
+- <span style="color:#F29F58;">[ICCV]</span> [Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction](https://arxiv.org/pdf/2307.09004.pdf) [\[**Code**\]](https://github.com/wjh892521292/Ord2Seq), Jinhong Wang$^\*$, Yi Cheng$^\*$, **Jintai Chen**$^\dagger$, Tingting Chen, Danny Chen, Jian Wu$^\dagger$, **IEEE/CVF International Conference on Computer Vision**, 2023
 
-- [TabCaps: A capsule neural network for tabular data classification with BoW Routing](https://openreview.net/pdf?id=OgbtSLESnI)[\[**Code**\]](https://github.com/WhatAShot/TabCaps), **Jintai Chen**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu$^\dagger$, **International Conference on Learning Representations (ICLR)**, 2023
+- <span style="color:#F29F58;">[ICLR]</span> [TabCaps: A capsule neural network for tabular data classification with BoW Routing](https://openreview.net/pdf?id=OgbtSLESnI)[\[**Code**\]](https://github.com/WhatAShot/TabCaps), **Jintai Chen**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu$^\dagger$, **International Conference on Learning Representations**, 2023
 
-- [Cross-layer retrospective retrieving via layer attention](https://openreview.net/pdf?id=pvgEL1yS3Ql), Yanwen Fang, Yuxi Cai, **Jintai Chen**, Jingyu Zhao, Guangjian Tian, Guodong Li$^\dagger$, **International Conference on Learning Representations (ICLR)**, 2023
+- <span style="color:#F29F58;">[ICLR]</span> [Cross-layer retrospective retrieving via layer attention](https://openreview.net/pdf?id=pvgEL1yS3Ql), Yanwen Fang, Yuxi Cai, **Jintai Chen**, Jingyu Zhao, Guangjian Tian, Guodong Li$^\dagger$, **International Conference on Learning Representations**, 2023
 
-- [A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf), **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$^\dagger$, **International Conference on Machine Learning (ICML)**, 2021
+- <span style="color:#F29F58;">[ICML]</span> [A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf), **Jintai Chen**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$^\dagger$, **International Conference on Machine Learning**, 2021
 
-- [Team up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-hybrid MLPs](https://arxiv.org/pdf/2407.09790), Jiahuan Yan, **Jintai Chen**$^\dagger$, Qianxing Wang, Danny Chen, Jian Wu, **SIGKDD**, 2024
+- <span style="color:#F29F58;">[KDD|Oral]</span> [Team up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-hybrid MLPs](https://arxiv.org/pdf/2407.09790), Jiahuan Yan, **Jintai Chen**$^\dagger$, Qianxing Wang, Danny Chen, Jian Wu, **ACM SIGKDD Conference on Knowledge Discovery and Data Mining**, 2024
 
-- [Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models](https://arxiv.org/pdf/2311.09214), Weize Liu, Guocong Li, Kai Zhang, Bang Du, Qiyuan Chen, Xuming Hu$^\dagger$, Hongxia Xu$^\dagger$, **Jintai Chen**, Jian Wu, **Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)**, 2024
+- <span style="color:#F29F58;">[NAACL]</span> [Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models](https://arxiv.org/pdf/2311.09214), Weize Liu, Guocong Li, Kai Zhang, Bang Du, Qiyuan Chen, Xuming Hu$^\dagger$, Hongxia Xu$^\dagger$, **Jintai Chen**, Jian Wu, **Nations of the Americas Chapter of the Association for Computational Linguistics**, 2024
 
 - [What is the Visual Cognition Gap between Humans and Multimodal LLMs?](https://arxiv.org/pdf/2406.10424), Xu Cao, Bolin Lai, Wenqian Ye, Yunsheng Ma, Joerg Heintz, **Jintai Chen**, Jianguo Cao, James M Rehg$^\dagger$, Preprint, 2024
 
-- [Unraveling Babel: Exploring Multilingual Activation Patterns of LLMs and Their Applications](https://arxiv.org/pdf/2402.16367v3), Weize Liu, Yinlong Xu, Hongxia Xu$^\dagger$, **Jintai Chen**, Xuming Hu$^\dagger$, Jian Wu, **Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)**, 2024
+- <span style="color:#F29F58;">[EMNLP]</span> [Unraveling Babel: Exploring Multilingual Activation Patterns of LLMs and Their Applications](https://arxiv.org/pdf/2402.16367v3), Weize Liu, Yinlong Xu, Hongxia Xu$^\dagger$, **Jintai Chen**, Xuming Hu$^\dagger$, Jian Wu, **Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing**, 2024
 
 - [Cross-Table Pretraining towards a Universal Function Space for Heterogeneous Tabular Data](https://arxiv.org/pdf/2406.00281), **Jintai Chen**, Zhen Lin, Qiyuan Chen, Jimeng Sun, Preprint, 2024
 
