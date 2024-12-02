@@ -9,15 +9,15 @@
 **Jintai Chen**$^\*$, Shuai Huang$^\*$, Ying Zhang$^\*$, Qing Chang$^\*$, Yixiao Zhang, Dantong Li, Jia Qiu, Lianting Hu, Xiaoting Peng, Yunmei Du, Yunfei Gao, Danny Chen, Abdelouahab Bellou$^\dagger$, Jian Wu$^\dagger$, Huiying Liang$^\dagger$,
 **Nature Communications**, 2024
 
-- [Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf), [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama), 
+- <span style="color:#F29F58;">[IJCAI]</span> [Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf), [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama), 
 **Jintai Chen**$^\*$, Xiangshang Zheng$^\*$, Hongyun Yu$^\*$, Danny Z. Chen, Jian Wu$^\dagger$,
 **International Joint Conference on Artificial Intelligence (IJCAI)**, 2021
 
-- [ME-GAN: Learning panoptic electrocardio representations for multi-view ECG synthesis conditioned on heart diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf), **Jintai Chen**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying$^\dagger$, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
+- <span style="color:#F29F58;">[ICML]</span> [ME-GAN: Learning panoptic electrocardio representations for multi-view ECG synthesis conditioned on heart diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf), **Jintai Chen**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying$^\dagger$, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, 2022
 
-- [Identifying electrocardiogram abnormalities using a handcrafted-rule-enhanced neural network](https://arxiv.org/pdf/2206.10592.pdf), Yuexin Bian, **Jintai Chen**, Xiaojun Chen, Xiaoxian Yang, Danny Z. Chen, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2022.
+- <span style="color:#F29F58;">[TCBB]</span> [Identifying electrocardiogram abnormalities using a handcrafted-rule-enhanced neural network](https://arxiv.org/pdf/2206.10592.pdf), Yuexin Bian, **Jintai Chen**, Xiaojun Chen, Xiaoxian Yang, Danny Z. Chen, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, 2022.
 
-- [Personalized Heart Disease Detection via ECG Digital Twin Generation](https://arxiv.org/pdf/2404.11171), Yaojun Hu, **Jintai Chen**$^\dagger$, Lianting Hu, Dantong Li, Jiahuan Yan, Haochao Ying, Huiying Liang, Jian Wu, **International Joint Conference on Artificial Intelligence (IJCAI)**, 2024
+- <span style="color:#F29F58;">[IJCAI]</span> [Personalized Heart Disease Detection via ECG Digital Twin Generation](https://arxiv.org/pdf/2404.11171), Yaojun Hu, **Jintai Chen**$^\dagger$, Lianting Hu, Dantong Li, Jiahuan Yan, Haochao Ying, Huiying Liang, Jian Wu, **International Joint Conference on Artificial Intelligence (IJCAI)**, 2024
 
 - [ANYECG: Foundational Models for Electrocardiogram Analysis](https://openreview.net/pdf?id=fO0YO9giQV), Yue Wang$^\*$, Xu Cao$^\*$, Yaojun Hu, Haochao Ying, James Matthew Rehg, Jimeng Sun, Jian Wu, **Jintai Chen**$^\dagger$, Preprint, 2024
 
