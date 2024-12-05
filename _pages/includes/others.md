@@ -19,7 +19,8 @@
 - Reviewer @ DM Conferences: KDD;
 - Reviewer @ NLP Conferences: ACL, EMNLP;
 - Reviewer @ AI4H Conferences: MICCAI, ISBI;
-- Review for Journals: TPAMI, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics, Scienstific Report
+- Review for Journals: TPAMI, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics
+- Guest Editor for JBHI and spj Health Data Science
 <!-- MBE, Journal of Medical Imaging and Health Informatics. -->
 
 <!--
