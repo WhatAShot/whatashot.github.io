@@ -3,7 +3,7 @@
 
 ## I. Clinical Predictive Modelling
 
-### ◦ Biosignal based Monitoring
+### ◦ Biosignal Processing
 
 - <span style="color:#F29F58;">[Nature Com.]</span> [Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts](https://www.nature.com/articles/s41467-024-44930-y), [\[**Code**\]](https://github.com/shuaih720/CHDdECG), 
 **Jintai Chen**$^\*$, Shuai Huang$^\*$, Ying Zhang$^\*$, Qing Chang$^\*$, Yixiao Zhang, Dantong Li, Jia Qiu, Lianting Hu, Xiaoting Peng, Yunmei Du, Yunfei Gao, Danny Chen, Abdelouahab Bellou$^\dagger$, Jian Wu$^\dagger$, Huiying Liang$^\dagger$,
@@ -62,7 +62,7 @@ Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, B
 
 - <span style="color:#F29F58;">[MICCAI|Oral]</span> [OneSeg: Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation](https://arxiv.org/pdf/2309.13671), Yixuan Wu, Bo Zheng, **Jintai Chen**, Danny Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, 2022
 
-### ◦ EHR Processing
+### ◦ Multiple EHR Modality Processing
 
 - <span style="color:#F29F58;">[Info. Fusion]</span> OmniFuse: A General Modality Fusion Framework for Multi-Modality Learning on Low-quality Medical Data, Yixuan Wua, Jintai Chen$^\dagger$, Lianting Hu, Hongxia Xu, Huiying Liang$^\dagger$, Jian Wu$^\dagger$, **Information Fusion**, 2024
   
@@ -84,7 +84,7 @@ Wenhao Zheng, **Jintai Chen**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, B
 
 - [TrialDura: Hierarchical attention transformer for interpretable clinical trial duration prediction](https://arxiv.org/pdf/2404.13235), Ling Yue, Jonathan Li, Sixue Xing, Md Zabirul Islam, Bolun Xia, **Jintai Chen**, Tianfan Fu$^\dagger$, Preprint, 2024
 
-## III. AI for biomedical Discovery
+## III. AI for Biomedical Science
 
 - <span style="color:#F29F58;">[HDS]</span> [Multi-modal CLIP-informed protein editing](https://spj.science.org/doi/pdf/10.34133/hds.0211), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Yiheng Zhu, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou$^\dagger$, **Jintai Chen**$^\dagger$, Jian Wu$^\dagger$, **Health Data Science**, 2024
 
