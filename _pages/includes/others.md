@@ -22,6 +22,7 @@
 - Area Chair/Senior Program Chair: AAAI, IJCAI;
 - Review for Journals: TPAMI, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics
 - Guest Editor for Journals: JBHI, spj Health Data Science
+- Executive Board Member: the Digital Medicine Symposium, China Computer Federation
 <!-- MBE, Journal of Medical Imaging and Health Informatics. -->
 
 <!--
