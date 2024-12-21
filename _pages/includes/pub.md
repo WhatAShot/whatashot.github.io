@@ -1,6 +1,7 @@
 # 📄 Selected Publications
 <span style="color:RoyalBlue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
+<span style="color:RoyalBlue">The full list is accessible at <a href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank">Google Scholar</a>.</span>
 ## I. Clinical Predictive Modelling
 
 ### ◦ Biosignal Processing
@@ -26,9 +27,11 @@
 - <span style="color:#F29F58;">[MICCAI|Oral]</span> [TeleOR: Real-time Telemedicine System for Full-Scene Operating Room](https://arxiv.org/pdf/2407.19763), Yixuan Wu$^\*$, Kaiyuan Hu$^\*$, Qian Shao, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Danny Z. Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2024</span>
   
 - <span style="color:#F29F58;">[MICCAI]</span> [LKM-UNet: Large Kernel Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.07332), Jinhong Wang, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Danny Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2024</span>
+
 <!--
 - <span style="color:#F29F58;">[MICCAI|Oral]</span> [Self-learning and one-shot learning based single-slice annotation for 3D medical image segmentation](https://link.springer.com/content/pdf/10.1007/978-3-031-16452-1_24.pdf), Yixuan Wu, Bo Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2022</span>
 -->
+
 - <span style="color:#F29F58;">[NCA]</span> [D-Former: A U-shaped dilated Transformer for 3D medical image segmentation](https://arxiv.org/pdf/2201.00462.pdf), Yixuan Wu, Kuanlun Liao, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Jinhong Wang, Honghao Gao, Jian Wu$^\dagger$, **Neural Computing and Applications**, <span style="color:#F29F58;">2022</span>
 
 - <span style="color:#F29F58;">[MICCAI|Oral]</span> [Doctor Imitator: Hand-Radiography-based Bone Age Assessment by Imitating Scoring Methods](https://arxiv.org/pdf/2102.05424.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2020</span>
