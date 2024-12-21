@@ -37,12 +37,15 @@
 - <span style="color:#F29F58;">[TMI]</span> [Interactive few-shot learning: Limited supervision, better medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9358206), Ruiwei Feng$^\*$, Xiangshang Zheng$^\*$, Tianxiang Gao$^\*$, **<span style="color:#120A8F;">Jintai Chen</span>**, Wenzhe Wang, Danny Z Chen, Jian Wu$^\dagger$, **IEEE Transactions on Medical Imaging**, <span style="color:#F29F58;">2021</span>
 
 - <span style="color:#F29F58;">[ACM MM]</span> [GCL: Gradient-Guided Contrastive Learning for Medical Image Segmentation with Multi-Perspective Meta Labels](https://arxiv.org/pdf/2309.08888.pdf), Yixuan Wu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jiahuan Yan, Yiheng Zhu, Danny Chen, Jian Wu$^\dagger$, **ACM International Conference on Multimedia**, <span style="color:#F29F58;">2023</span>
+
 <!--
 - <span style="color:#F29F58;">[MICCAI]</span> [Multi-view learning with feature level fusion for cervical dysplasia diagnosis](https://link.springer.com/content/pdf/10.1007/978-3-030-32239-7_37.pdf), Tingting Chen, Xinjun Ma, Xuechen Liu, Wenzhe Wang, Ruiwei Feng, **<span style="color:#120A8F;">Jintai Chen</span>**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2019</span>
 
 - <span style="color:#F29F58;">[BIBM]</span> [Multi-rater Prompting for Ambiguous Medical Image Segmentation](https://arxiv.org/pdf/2404.07580), Jinhong Wang, Yi Cheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Hongxia Xu, Danny Chen, Jian Wu$^\dagger$, **International Conference on Bioinformatics and Biomedicine**, <span style="color:#F29F58;">2024</span>
 -->
+
 - <span style="color:#F29F58;">[MICCAI]</span> [LSRC: A long-short range context-fusing framework for automatic 3D vertebra localization](https://link.springer.com/content/pdf/10.1007/978-3-030-32226-7_11.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Yanjie Wang$^\*$, Ruoqian Guo$^\*$, Bohan Yu, Tingting Chen, Wenzhe Wang, Ruiwei Feng, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2019</span>
+
 <!--
 - <span style="color:#F29F58;">[ISBI]</span> [SSN: A stair-shape network for real-time polyp segmentation in colonoscopy images](https://ieeexplore.ieee.org/abstract/document/9098492), Ruiwei Feng, Biwen Lei, Wenzhe Wang, Tingting Chen, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Jian Wu$^\dagger$, **International Symposium on Biomedical Imaging**, <span style="color:#F29F58;">2020</span>
 
@@ -50,12 +53,15 @@
 
 - <span style="color:#F29F58;">[JBHI]</span> [A deep learning approach for colonoscopy pathology WSI analysis: Accurate segmentation and classification](https://ieeexplore.ieee.org/abstract/document/9269406), Ruiwei Feng, Xuechen Liu, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Honghao Gao, Jian Wu$^\dagger$, **IEEE Journal of Biomedical and Health Informatics**, <span style="color:#F29F58;">2020</span>
 -->
+
 - <span style="color:#F29F58;">[TCBB]</span> [A transfer learning based super-resolution microscopy for biopsy slice images: the joint methods perspective](https://ieeexplore.ieee.org/abstract/document/9082112), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Haochao Ying$^\*$, Xuechen Liu$^\*$, Jingjing Gu, Ruiwei Feng, Tingting Chen, Honghao Gao$^\dagger$, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, <span style="color:#F29F58;">2020</span>
+
 <!--
 - <span style="color:#F29F58;">[TCBB]</span> [A corresponding region fusion framework for multi-modal cervical lesion detection](https://ieeexplore.ieee.org/abstract/document/9784879), Tingting Chen, Wenhao Zheng, Heping Hu, Chunhua Luo, **<span style="color:#120A8F;">Jintai Chen</span>**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Honghao Gao, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, <span style="color:#F29F58;">2022</span>
 
 - <span style="color:#F29F58;">[Neurocomputing]</span> [A semi-supervised deep convolutional framework for signet ring cell detection](https://www.sciencedirect.com/science/article/pii/S0925231221000941)[\[**Code**\]](https://github.com/ooooverflow/DigestPath<span style="color:#F29F58;">2019</span>), Haochao Ying, Qingyu Song, **<span style="color:#120A8F;">Jintai Chen</span>**, Tingting Liang, Jingjing Gu, Fuzhen Zhuang, Danny Z Chen, Jian Wu$^\dagger$, **Neurocomputing**, <span style="color:#F29F58;">2021</span>
 -->
+
 - <span style="color:#F29F58;">[JBHI]</span> [Polygonal Approximation Learning for Convex Object Segmentation in Biomedical Images with Bounding Box Supervision](https://ieeexplore.ieee.org/abstract/document/10354298), [\[**Code**\]](https://github.com/shenmishajing/PAL), 
 Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, Bang Du, Danny Z Chen, Honghao Gao, Jian Wu, Hongxia Xu$^\dagger$, **IEEE Journal of Biomedical and Health Informatics**, <span style="color:#F29F58;">2023</span>
 
