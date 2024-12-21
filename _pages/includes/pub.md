@@ -1,7 +1,7 @@
 # 📄 Selected Publications
 <span style="color:RoyalBlue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
-<span style="color:RoyalBlue">The full list is accessible at <a href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank">Google Scholar</a>.</span>
+<span style="color:RoyalBlue">The full list can be accessed on <a href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank">Google Scholar</a>.</span>
 ## I. Clinical Predictive Modelling
 
 ### ◦ Biosignal Processing
