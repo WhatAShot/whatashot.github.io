@@ -15,7 +15,7 @@
 
 - <span style="color:#F29F58;">[ICML]</span> [ME-GAN: Learning panoptic electrocardio representations for multi-view ECG synthesis conditioned on heart diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf), **Jintai Chen**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying$^\dagger$, Danny Z Chen, Jian Wu, **International Conference on Machine Learning**, <span style="color:#F29F58;">2022</span>
 
-- <span style="color:#F29F58;">[TCBB]</span> [Identifying electrocardiogram abnormalities using a handcrafted-rule-enhanced neural network](https://arxiv.org/pdf/2206.10592.pdf), Yuexin Bian, **Jintai Chen**, Xiaojun Chen, Xiaoxian Yang, Danny Z. Chen, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, <span style="color:#F29F58;">2022</span>.
+- <span style="color:#F29F58;">[TCBB]</span> [Identifying electrocardiogram abnormalities using a handcrafted-rule-enhanced neural network](https://arxiv.org/pdf/2206.10592.pdf), Yuexin Bian, **Jintai Chen**, Xiaojun Chen, Xiaoxian Yang, Danny Z. Chen, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, <span style="color:#F29F58;">2022</span>
 
 - <span style="color:#F29F58;">[IJCAI]</span> [Personalized Heart Disease Detection via ECG Digital Twin Generation](https://arxiv.org/pdf/2404.11171), Yaojun Hu, **Jintai Chen**$^\dagger$, Lianting Hu, Dantong Li, Jiahuan Yan, Haochao Ying, Huiying Liang, Jian Wu, **International Joint Conference on Artificial Intelligence**, <span style="color:#F29F58;">2024</span>
 
