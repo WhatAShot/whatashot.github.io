@@ -19,7 +19,7 @@
 - Reviewer @ DM Conferences: KDD;
 - Reviewer @ NLP Conferences: ACL, EMNLP;
 - Reviewer @ AI4H Conferences: MICCAI, ISBI;
-- Area Chair/Senior Program Chair: AAAI, IJCAI;
+- Area Chair/Senior Program Chair: IJCAI;
 - Review for Journals: TPAMI, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics
 - Guest Editor for Journals: JBHI, spj Health Data Science
 - Executive Board Member: the Digital Medicine Symposium, China Computer Federation
