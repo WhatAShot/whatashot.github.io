@@ -93,7 +93,7 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 
 - <span style="color:#F29F58;">[HDS]</span> [Multi-modal CLIP-informed protein editing](https://spj.science.org/doi/pdf/10.34133/hds.0211), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Yiheng Zhu, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, **Health Data Science**, <span style="color:#F29F58;">2024</span>
 
-- <span style="color:#F29F58;">[AAAI]</span> [Quantum-inspired Reinforcement Learning for Synthesizable Drug Design](https://arxiv.org/pdf/2409.09183), Dannong Wang, **<span style="color:#120A8F;">Jintai Chen</span>**, Zhiding Liang, Tianfan Fu, Xiao-Yang Liu, **AAAI Association for the Advancement of Artificial Intelligence**, <span style="color:#F29F58;">2024</span>
+- [Quantum-inspired Reinforcement Learning for Synthesizable Drug Design](https://arxiv.org/pdf/2409.09183), Dannong Wang, **<span style="color:#120A8F;">Jintai Chen</span>**, Zhiding Liang, Tianfan Fu, Xiao-Yang Liu, preprint, <span style="color:#F29F58;">2024</span>
 
 - [Protein-Mamba: Biological Mamba Models for Protein Function Prediction](https://arxiv.org/pdf/2409.14617), Bohao Xu, Yingzhou Lu, Yoshitaka Inoue, Namkyeong Lee, Tianfan Fu, **<span style="color:#120A8F;">Jintai Chen</span>**, Preprint, <span style="color:#F29F58;">2024</span>
 
