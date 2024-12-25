@@ -95,8 +95,6 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 
 - [Quantum-inspired Reinforcement Learning for Synthesizable Drug Design](https://arxiv.org/pdf/2409.09183), Dannong Wang, **<span style="color:#120A8F;">Jintai Chen</span>**, Zhiding Liang, Tianfan Fu, Xiao-Yang Liu, preprint, <span style="color:#F29F58;">2024</span>
 
-- [Protein-Mamba: Biological Mamba Models for Protein Function Prediction](https://arxiv.org/pdf/2409.14617), Bohao Xu, Yingzhou Lu, Yoshitaka Inoue, Namkyeong Lee, Tianfan Fu, **<span style="color:#120A8F;">Jintai Chen</span>**, Preprint, <span style="color:#F29F58;">2024</span>
-
 - [S$^2$ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning](https://arxiv.org/pdf/2411.15215), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Jialu Wu, Yiheng Zhu, Yuxuan Zhan, Zitai Kong, Hongxia Xu, Chang-Yu Hsieh$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Tingjun Hou$^\dagger$, and Jian Wu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
 
 ## IV. General AI Methodology
