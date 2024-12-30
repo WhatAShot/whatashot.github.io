@@ -69,7 +69,7 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 
 ### ◦ Multiple EHR Modality Processing
 
-- <span style="color:#F29F58;">[Info. Fusion]</span> OmniFuse: A General Modality Fusion Framework for Multi-Modality Learning on Low-quality Medical Data, Yixuan Wua, <span style="color:#120A8F;">Jintai Chen</span>$^\dagger$, Lianting Hu, Hongxia Xu, Huiying Liang$^\dagger$, Jian Wu$^\dagger$, **Information Fusion**, <span style="color:#F29F58;">2024</span>
+- <span style="color:#F29F58;">[Info. Fusion]</span> [OmniFuse: A General Modality Fusion Framework for Multi-Modality Learning on Low-quality Medical Data](https://www.sciencedirect.com/science/article/pii/S1566253524006687), Yixuan Wua, <span style="color:#120A8F;">Jintai Chen</span>$^\dagger$, Lianting Hu, Hongxia Xu, Huiying Liang$^\dagger$, Jian Wu$^\dagger$, **Information Fusion**, <span style="color:#F29F58;">2024</span>
   
 - <span style="color:#F29F58;">[EMNLP-F]</span> [Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification](https://arxiv.org/pdf/2311.16650.pdf) [\[**Code**\]](https://github.com/jyansir/Text2Tree), Jiahuan Yan, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **Findings of Empirical Methods in Natural Language Processing**, <span style="color:#F29F58;">2023</span>
 
