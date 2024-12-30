@@ -25,6 +25,7 @@
 - Review for Journals: TPAMI, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics
 - Guest Editor for Journals: JBHI, spj Health Data Science
 - Executive Board Member: the Digital Medicine Symposium, China Computer Federation
+- Workshop Organization: ICLR 2025 Workshop on [AI for Children: Healthcare, Psychology, Education (AI4CHL)](https://openreview.net/pdf?id=IFnUxdmf7w) [[website](https://pediamedai.com/ai4chl/)]
 <!-- MBE, Journal of Medical Imaging and Health Informatics. -->
 
 <!--
