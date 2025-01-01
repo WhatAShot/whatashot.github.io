@@ -77,7 +77,7 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 
 ## II. Clinical Trial Optimization
 
-- <span style="color:#F29F58;">[TOMM]</span> [TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](https://arxiv.org/pdf/2404.01273), Yue Wang$^\*$, Tianfan Fu$^\*$, Yinlong Xu, Zihan Ma, Hongxia Xu, Bang Du, Yingzhou Lu, Honghao Gao$^\dagger$, Jian Wu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **TOMM**, <span style="color:#F29F58;">2024</span>
+- <span style="color:#F29F58;">[TOMM]</span> [TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](https://arxiv.org/pdf/2404.01273), Yue Wang$^\*$, Tianfan Fu$^\*$, Yinlong Xu, Zihan Ma, Hongxia Xu, Bang Du, Yingzhou Lu, Honghao Gao$^\dagger$, Jian Wu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **ACM Transactions on Multimedia Computing, Communications, and Applications**, <span style="color:#F29F58;">2024</span>
 
 - <span style="color:#F29F58;">[HDS]</span> [Uncertainty Quantification and Interpretability for Clinical Trial Approval Prediction](https://spj.science.org/doi/epdf/10.34133/hds.0126), Yingzhou Lu, Tianyi Chen, Nan Hao, Capucine Van Rechem, **<span style="color:#120A8F;">Jintai Chen</span>**, Tianfan Fu$^\dagger$, **Health Data Science**, <span style="color:#F29F58;">2024</span>
 
