@@ -95,9 +95,9 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 
 - <span style="color:#F29F58;">[HDS]</span> [Multi-modal CLIP-informed protein editing](https://spj.science.org/doi/pdf/10.34133/hds.0211), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Yiheng Zhu, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, **Health Data Science**, <span style="color:#F29F58;">2024</span>
 
-- [Quantum-inspired Reinforcement Learning for Synthesizable Drug Design](https://arxiv.org/pdf/2409.09183), Dannong Wang, **<span style="color:#120A8F;">Jintai Chen</span>**, Zhiding Liang, Tianfan Fu, Xiao-Yang Liu, preprint, <span style="color:#F29F58;">2024</span>
+- <span style="color:#F29F58;">[ICCAD Workshop]</span> [Quantum-inspired Reinforcement Learning for Synthesizable Drug Design](https://arxiv.org/pdf/2409.09183), Dannong Wang, **<span style="color:#120A8F;">Jintai Chen</span>**, Zhiding Liang, Tianfan Fu, Xiao-Yang Liu, **Quantum Computing Applications and Systems Workshop of ACM/IEEE International Conference on Computer-Aided Design**, <span style="color:#F29F58;">2024</span>
 
-- [S$^2$ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning](https://arxiv.org/pdf/2411.15215), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Jialu Wu, Yiheng Zhu, Yuxuan Zhan, Zitai Kong, Hongxia Xu, Chang-Yu Hsieh$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Tingjun Hou$^\dagger$, and Jian Wu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
+- <span style="color:#F29F58;">[HDS]</span> [S$^2$ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning](https://arxiv.org/pdf/2411.15215), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Jialu Wu, Yiheng Zhu, Yuxuan Zhan, Zitai Kong, Hongxia Xu, Chang-Yu Hsieh$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Tingjun Hou$^\dagger$, and Jian Wu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
 
 ## IV. General AI Methodology
 
