@@ -67,7 +67,7 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 
 - <span style="color:#F29F58;">[MICCAI|Oral]</span> [OneSeg: Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation](https://arxiv.org/pdf/2309.13671), Yixuan Wu, Bo Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2022</span>
 
-### ◦ Multiple EHR Modality Processing
+### ◦ Multiple-Modal EHR Processing
 
 - <span style="color:#F29F58;">[Info. Fusion]</span> [OmniFuse: A General Modality Fusion Framework for Multi-Modality Learning on Low-quality Medical Data](https://www.sciencedirect.com/science/article/pii/S1566253524006687), Yixuan Wua, <span style="color:#120A8F;">Jintai Chen</span>$^\dagger$, Lianting Hu, Hongxia Xu, Huiying Liang$^\dagger$, Jian Wu$^\dagger$, **Information Fusion**, <span style="color:#F29F58;">2024</span>
   
@@ -90,6 +90,8 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 - [TrialDura: Hierarchical attention transformer for interpretable clinical trial duration prediction](https://arxiv.org/pdf/2404.13235), Ling Yue, Jonathan Li, Sixue Xing, Md Zabirul Islam, Bolun Xia, **<span style="color:#120A8F;">Jintai Chen</span>**, Tianfan Fu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
 
 ## III. AI for Biomedical Science
+
+- <span style="color:#F29F58;">[AAAI]</span> [ProtCLIP: Function-Informed Protein Multi-Modal Learning](https://arxiv.org/pdf/2412.20014), Hanjing Zhou, Mingze Yin, Wei Wu, Mingyang Li, Kun Fu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, Zheng Wang$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, <span style="color:#F29F58;">2025</span>
 
 - <span style="color:#F29F58;">[HDS]</span> [Multi-modal CLIP-informed protein editing](https://spj.science.org/doi/pdf/10.34133/hds.0211), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Yiheng Zhu, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, **Health Data Science**, <span style="color:#F29F58;">2024</span>
 
