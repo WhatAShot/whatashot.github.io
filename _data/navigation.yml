@@ -14,11 +14,14 @@ main:
     
   - title: "Talks"
     url: "/#-talks"
-
+    
+  - title: "Courses"
+    url: "/#-talks"
+    
   # - title: "Teaching"
   #   url: "/#-teaching"
   
-  - title: "Reviews"
+  - title: "Services"
     url: "/#-talks"
   
   # - title: "Visiting"
