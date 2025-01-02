@@ -22,7 +22,9 @@
 - Area Chair/Senior Program Chair: IJCAI;
 - Review for Journals: TPAMI, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics
 - Guest Editor for Journals: JBHI, spj Health Data Science
-- Executive Board Member: the Digital Medicine Symposium, China Computer Federation
+- Executive Board Member of the Digital Medicine Symposium within the China Computer Federation
+- Committee Member of the Computer Academy of Guangdong
+- Committee Member of the Guangdong Respiratory and Health Association
 - Workshop Organization: ICLR 2025 Workshop on [AI for Children: Healthcare, Psychology, Education (AI4CHL)](https://openreview.net/pdf?id=IFnUxdmf7w) , Corresponding organizer, [[website](https://pediamedai.com/ai4chl/)]
 <!-- MBE, Journal of Medical Imaging and Health Informatics. -->
 
