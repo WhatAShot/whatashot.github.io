@@ -18,12 +18,7 @@
 - AIAA1010 - Academic Orientation for Al Students (Spring 2025)
   
 # 🔎  Professional Services
-- Reviewer @ ML Conferences: NeurIPS, ICLR, ICML;
-- Reviewer @ AI Conferences: AAAI, IJCAI, AISTATS;
-- Reviewer @ CV Conferences: CVPR, ICCV, ECCV;
-- Reviewer @ DM Conferences: KDD;
-- Reviewer @ NLP Conferences: ACL, EMNLP;
-- Reviewer @ AI4H Conferences: MICCAI, ISBI;
+- Reviewer @ ML/AI/AI4H Conferences: NeurIPS, ICLR, ICML, KDD, AAAI, IJCAI, AISTATS, CVPR, ICCV, ECCV, ACL, EMNLP, MICCAI, ISBI.
 - Area Chair/Senior Program Chair: IJCAI;
 - Review for Journals: TPAMI, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics
 - Guest Editor for Journals: JBHI, spj Health Data Science
