@@ -14,6 +14,9 @@
 - *Fall 2023*, Frontiers of Medical Artificial Intelligence (lecture slice preparation, teaching assistant)
 -->
 
+# 🏫 Courses
+- AIAA1010 - Academic Orientation for Al Students (Spring 2025)
+  
 # 🔎  Professional Services
 - Reviewer @ ML Conferences: NeurIPS, ICLR, ICML;
 - Reviewer @ AI Conferences: AAAI, IJCAI, AISTATS;
