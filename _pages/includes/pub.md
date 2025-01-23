@@ -113,7 +113,7 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 
 - <span style="color:#F29F58;">[KDD|Oral]</span> [ExcelFormer: Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://arxiv.org/pdf/2301.02819), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Jiahuan Yan$^\*$, Qiyuan Chen, Danny Ziyi Chen, Jian Wu, Jimeng Sun$^\dagger$, **ACM SIGKDD Conference on Knowledge Discovery and Data Mining**, <span style="color:#F29F58;">2024</span>
 
-- [SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction](https://arxiv.org/pdf/2403.01570), Jiahuan Yan, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Chaowen Hu, Bo Zheng, Yaojun Hu, Jimeng Sun, Jian Wu, <span style="color:#F29F58;">2024</span>
+- <span style="color:#F29F58;">[ICLR]</span> [SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction](https://arxiv.org/pdf/2403.01570), Jiahuan Yan, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Chaowen Hu, Bo Zheng, Yaojun Hu, Jimeng Sun, Jian Wu, <span style="color:#F29F58;">2024</span>
 
 - <span style="color:#F29F58;">[AAAI|Oral]</span> [T2G-Former: Organizing tabular features into relation graphs promotes heterogeneous feature interaction](https://arxiv.org/pdf/2211.16887.pdf) [\[**Code**\]](https://github.com/jyansir/t2g-former), Jiahuan Yan$^\*$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, <span style="color:#F29F58;">2023</span>
 
