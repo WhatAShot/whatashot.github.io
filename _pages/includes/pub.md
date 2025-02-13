@@ -93,7 +93,9 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 
 - [TrialBench: Multi-modal artificial intelligence-ready clinical trial datasets](https://arxiv.org/pdf/2407.00631), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Yaojun Hu$^\*$, Yue Wang, Yingzhou Lu, Xu Cao, Miao Lin, Hongxia Xu, Jian Wu, Cao Xiao, Jimeng Sun, Lucas Glass, Kexin Huang, Marinka Zitnik, Tianfan Fu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
 
+<!--
 - [TrialDura: Hierarchical attention transformer for interpretable clinical trial duration prediction](https://arxiv.org/pdf/2404.13235), Ling Yue, Jonathan Li, Sixue Xing, Md Zabirul Islam, Bolun Xia, **<span style="color:#120A8F;">Jintai Chen</span>**, Tianfan Fu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
+-->
 
 ## III. AI for Biomedical Science
 
