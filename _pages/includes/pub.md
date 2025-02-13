@@ -67,13 +67,15 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 
 - <span style="color:#F29F58;">[MICCAI|Oral]</span> [OneSeg: Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation](https://arxiv.org/pdf/2309.13671), Yixuan Wu, Bo Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2022</span>
 
-### ◦ Multiple-Modal EHR Processing
+### ◦ Medical Informatics
 
 - <span style="color:#F29F58;">[Info. Fusion]</span> [OmniFuse: A General Modality Fusion Framework for Multi-Modality Learning on Low-quality Medical Data](https://www.sciencedirect.com/science/article/pii/S1566253524006687), Yixuan Wua, <span style="color:#120A8F;">Jintai Chen</span>$^\dagger$, Lianting Hu, Hongxia Xu, Huiying Liang$^\dagger$, Jian Wu$^\dagger$, **Information Fusion**, <span style="color:#F29F58;">2024</span>
   
 - <span style="color:#F29F58;">[EMNLP-F]</span> [Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification](https://arxiv.org/pdf/2311.16650.pdf) [\[**Code**\]](https://github.com/jyansir/Text2Tree), Jiahuan Yan, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **Findings of Empirical Methods in Natural Language Processing**, <span style="color:#F29F58;">2023</span>
 
 - <span style="color:#F29F58;">[MTA]</span> [ChroNet: A multi-task learning based approach for prediction of multiple chronic diseases](https://link.springer.com/article/10.1007/s11042-020-10482-8), Ruiwei Feng, Yan Cao, Xuechen Liu, Tingting Chen, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Honghao Gao, Jian Wu$^\dagger$, **Multimedia Tools and Applications**, <span style="color:#F29F58;">2021</span>
+
+- <span style="color:#F29F58;">[Information Fusion]</span> [From Screens to Scenes: A Survey of Embodied AI in Healthcare](https://arxiv.org/pdf/2501.07468), Yihao Liu, Xu Cao, Tingting Chen, Yankai Jiang, Junjie You, Minghua Wu, Xiaosong Wang, Mengling Feng, Yaochu Jin, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **Information Fusion**, <span style="color:#F29F58;">2025</span>
 
 ## II. Clinical Trial Optimization
 
