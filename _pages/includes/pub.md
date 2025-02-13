@@ -113,7 +113,9 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 
 ## IV. General AI Methodology
 
+<!--
 - <span style="color:#F29F58;">[WACV-W]</span> [A survey on multimodal large language models for autonomous driving](https://openaccess.thecvf.com/content/WACV<span style="color:#F29F58;">2024</span>W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_<span style="color:#F29F58;">2024</span>_paper.pdf), Can Cui$^\*$, Yunsheng Ma$^\*$, Xu Cao$^\*$, Wenqian Ye$^\*$, Yang Zhou, Kaizhao Liang, **<span style="color:#120A8F;">Jintai Chen</span>**, Juanwu Lu, Zichong Yang, Kuei-Da Liao, Tianren Gao, Erlong Li, Kun Tang, Zhipeng Cao, Tong Zhou, Ao Liu, Xinrui Yan, Shuqi Mei, Jianguo Cao$^\dagger$, Ziran Wang$^\dagger$, Chao Zheng$^\dagger$, **IEEE/CVF Winter Conference on Applications of Computer Vision**, <span style="color:#F29F58;">2024</span>
+-->
 
 - <span style="color:#F29F58;">[CVPR]</span> [A hierarchical graph network for 3D object detection on point clouds](https://openaccess.thecvf.com/content_CVPR_<span style="color:#F29F58;">2020</span>/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_<span style="color:#F29F58;">2020</span>_paper.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Biwen Lei$^\*$, Qingyu Song$^\*$, Haochao Ying, Danny Z Chen, Jian Wu$^\dagger$, **IEEE/CVF Conference on Computer Vision and Pattern Recognition**, <span style="color:#F29F58;">2020</span>
 
@@ -127,7 +129,9 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 
 - <span style="color:#F29F58;">[AAAI]</span> [DANETs: Deep abstract networks for tabular data classification and regression](https://arxiv.org/pdf/2112.02962.pdf) [\[**Code**\]](https://github.com/WhatAShot/DANet), **<span style="color:#120A8F;">Jintai Chen</span>**, Kuanlun Liao, Yao Wan, Danny Ziyi Chen, Jian Wu$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, <span style="color:#F29F58;">2022</span>
 
+<!--
 - <span style="color:#F29F58;">[WSDM]</span> [Robust training of graph neural networks via noise governance](https://arxiv.org/pdf/2211.06614.pdf), Siyi Qian, Haochao Ying$^\dagger$, Renjun Hu, Jingbo Zhou, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Jian Wu$^\dagger$, **ACM International Conference on Web Search and Data Mining**, <span style="color:#F29F58;">2023</span>
+-->
 
 - [Scalable Autoregressive Monocular Depth Estimation](https://arxiv.org/pdf/2411.11361), Jinhong Wang, Jian Liu, Dongqi Tang, Weiqiang Wang, Wentong Li, Danny Chen, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
 
@@ -141,12 +145,15 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 
 - <span style="color:#F29F58;">[KDD|Oral]</span> [Team up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-hybrid MLPs](https://arxiv.org/pdf/2407.09790), Jiahuan Yan, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Qianxing Wang, Danny Chen, Jian Wu, **ACM SIGKDD Conference on Knowledge Discovery and Data Mining**, <span style="color:#F29F58;">2024</span>
 
+<!--
 - <span style="color:#F29F58;">[NAACL]</span> [Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models](https://arxiv.org/pdf/2311.09214), Weize Liu, Guocong Li, Kai Zhang, Bang Du, Qiyuan Chen, Xuming Hu$^\dagger$, Hongxia Xu$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**, Jian Wu, **Nations of the Americas Chapter of the Association for Computational Linguistics**, <span style="color:#F29F58;">2024</span>
-
+-->
+<!--
 - [What is the Visual Cognition Gap between Humans and Multimodal LLMs?](https://arxiv.org/pdf/2406.10424), Xu Cao, Bolin Lai, Wenqian Ye, Yunsheng Ma, Joerg Heintz, **<span style="color:#120A8F;">Jintai Chen</span>**, Jianguo Cao, James M Rehg$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
-
+-->
+<!--
 - <span style="color:#F29F58;">[EMNLP]</span> [Unraveling Babel: Exploring Multilingual Activation Patterns of LLMs and Their Applications](https://arxiv.org/pdf/2402.16367v3), Weize Liu, Yinlong Xu, Hongxia Xu$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**, Xuming Hu$^\dagger$, Jian Wu, **Proceedings of the <span style="color:#F29F58;">2024</span> Conference on Empirical Methods in Natural Language Processing**, <span style="color:#F29F58;">2024</span>
-
+-->
 - [Cross-Table Pretraining towards a Universal Function Space for Heterogeneous Tabular Data](https://arxiv.org/pdf/2406.00281), **<span style="color:#120A8F;">Jintai Chen</span>**, Zhen Lin, Qiyuan Chen, Jimeng Sun, Preprint, <span style="color:#F29F58;">2024</span>
 
 <!--
