@@ -81,6 +81,8 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 
 - <span style="color:#F29F58;">[Info. Fusion]</span> [From Screens to Scenes: A Survey of Embodied AI in Healthcare](https://arxiv.org/pdf/2501.07468), Yihao Liu, Xu Cao, Tingting Chen, Yankai Jiang, Junjie You, Minghua Wu, Xiaosong Wang, Mengling Feng, Yaochu Jin, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **Information Fusion**, <span style="color:#F29F58;">2025</span>
 
+- <span style="color:#F29F58;">[ICLR]</span> [Synergy learning with Small Models Promotes LLM zero-shot Medical Tabular Prediction](https://arxiv.org/pdf/2403.01570), Jiahuan Yan, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Chaowen Hu, Bo Zheng, Yaojun Hu, Jimeng Sun, Jian Wu, **International Conference on Learning Representations**, <span style="color:#F29F58;">2025</span>
+
 ## II. Clinical Trial Optimization
 
 - <span style="color:#F29F58;">[TOMM]</span> [TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](https://arxiv.org/pdf/2404.01273), Yue Wang$^\*$, Tianfan Fu$^\*$, Yinlong Xu, Zihan Ma, Hongxia Xu, Bang Du, Yingzhou Lu, Honghao Gao$^\dagger$, Jian Wu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **ACM Transactions on Multimedia Computing, Communications, and Applications**, <span style="color:#F29F58;">2024</span>
@@ -120,8 +122,6 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 **International Conference on Learning Representations**, <span style="color:#F29F58;">2024</span>
 
 - <span style="color:#F29F58;">[KDD|Oral]</span> [ExcelFormer: Can a Deep Learning Model be a Sure Bet for Tabular Prediction?](https://arxiv.org/pdf/2301.02819), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Jiahuan Yan$^\*$, Qiyuan Chen, Danny Ziyi Chen, Jian Wu, Jimeng Sun$^\dagger$, **ACM SIGKDD Conference on Knowledge Discovery and Data Mining**, <span style="color:#F29F58;">2024</span>
-
-- <span style="color:#F29F58;">[ICLR]</span> [SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction](https://arxiv.org/pdf/2403.01570), Jiahuan Yan, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Chaowen Hu, Bo Zheng, Yaojun Hu, Jimeng Sun, Jian Wu, **International Conference on Learning Representations**, <span style="color:#F29F58;">2025</span>
 
 - <span style="color:#F29F58;">[AAAI|Oral]</span> [T2G-Former: Organizing tabular features into relation graphs promotes heterogeneous feature interaction](https://arxiv.org/pdf/2211.16887.pdf) [\[**Code**\]](https://github.com/jyansir/t2g-former), Jiahuan Yan$^\*$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, <span style="color:#F29F58;">2023</span>
 
