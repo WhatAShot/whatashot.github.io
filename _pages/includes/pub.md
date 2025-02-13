@@ -28,24 +28,29 @@
   
 - <span style="color:#F29F58;">[MICCAI]</span> [LKM-UNet: Large Kernel Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.07332), Jinhong Wang, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Danny Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2024</span>
 
+<!--
 - <span style="color:#F29F58;">[NCA]</span> [D-Former: A U-shaped dilated Transformer for 3D medical image segmentation](https://arxiv.org/pdf/2201.00462.pdf), Yixuan Wu, Kuanlun Liao, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Jinhong Wang, Honghao Gao, Jian Wu$^\dagger$, **Neural Computing and Applications**, <span style="color:#F29F58;">2022</span>
+-->
 
 - <span style="color:#F29F58;">[MICCAI|Oral]</span> [Doctor Imitator: Hand-Radiography-based Bone Age Assessment by Imitating Scoring Methods](https://arxiv.org/pdf/2102.05424.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2020</span>
 
 - <span style="color:#F29F58;">[BIBM]</span> [Flow-Mixup: Classifying multi-labeled medical images with corrupted labels](https://arxiv.org/pdf/2102.08148.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**, Hongyun Yu, Ruiwei Feng, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Bioinformatics and Biomedicine**, <span style="color:#F29F58;">2020</span>
 
+
 - <span style="color:#F29F58;">[TMI]</span> [Interactive few-shot learning: Limited supervision, better medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9358206), Ruiwei Feng$^\*$, Xiangshang Zheng$^\*$, Tianxiang Gao$^\*$, **<span style="color:#120A8F;">Jintai Chen</span>**, Wenzhe Wang, Danny Z Chen, Jian Wu$^\dagger$, **IEEE Transactions on Medical Imaging**, <span style="color:#F29F58;">2021</span>
 
+<!--
 - <span style="color:#F29F58;">[ACM MM]</span> [GCL: Gradient-Guided Contrastive Learning for Medical Image Segmentation with Multi-Perspective Meta Labels](https://arxiv.org/pdf/2309.08888.pdf), Yixuan Wu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jiahuan Yan, Yiheng Zhu, Danny Chen, Jian Wu$^\dagger$, **ACM International Conference on Multimedia**, <span style="color:#F29F58;">2023</span>
+-->
 
 <!--
 - <span style="color:#F29F58;">[MICCAI]</span> [Multi-view learning with feature level fusion for cervical dysplasia diagnosis](https://link.springer.com/content/pdf/10.1007/978-3-030-32239-7_37.pdf), Tingting Chen, Xinjun Ma, Xuechen Liu, Wenzhe Wang, Ruiwei Feng, **<span style="color:#120A8F;">Jintai Chen</span>**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2019</span>
 
 - <span style="color:#F29F58;">[BIBM]</span> [Multi-rater Prompting for Ambiguous Medical Image Segmentation](https://arxiv.org/pdf/2404.07580), Jinhong Wang, Yi Cheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Hongxia Xu, Danny Chen, Jian Wu$^\dagger$, **International Conference on Bioinformatics and Biomedicine**, <span style="color:#F29F58;">2024</span>
 -->
-
+<!--
 - <span style="color:#F29F58;">[MICCAI]</span> [LSRC: A long-short range context-fusing framework for automatic 3D vertebra localization](https://link.springer.com/content/pdf/10.1007/978-3-030-32226-7_11.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Yanjie Wang$^\*$, Ruoqian Guo$^\*$, Bohan Yu, Tingting Chen, Wenzhe Wang, Ruiwei Feng, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2019</span>
-
+-->
 <!--
 - <span style="color:#F29F58;">[ISBI]</span> [SSN: A stair-shape network for real-time polyp segmentation in colonoscopy images](https://ieeexplore.ieee.org/abstract/document/9098492), Ruiwei Feng, Biwen Lei, Wenzhe Wang, Tingting Chen, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Jian Wu$^\dagger$, **International Symposium on Biomedical Imaging**, <span style="color:#F29F58;">2020</span>
 
