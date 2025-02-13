@@ -58,17 +58,18 @@
 
 - <span style="color:#F29F58;">[JBHI]</span> [A deep learning approach for colonoscopy pathology WSI analysis: Accurate segmentation and classification](https://ieeexplore.ieee.org/abstract/document/9269406), Ruiwei Feng, Xuechen Liu, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Honghao Gao, Jian Wu$^\dagger$, **IEEE Journal of Biomedical and Health Informatics**, <span style="color:#F29F58;">2020</span>
 -->
-
+<!--
 - <span style="color:#F29F58;">[TCBB]</span> [A transfer learning based super-resolution microscopy for biopsy slice images: the joint methods perspective](https://ieeexplore.ieee.org/abstract/document/9082112), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Haochao Ying$^\*$, Xuechen Liu$^\*$, Jingjing Gu, Ruiwei Feng, Tingting Chen, Honghao Gao$^\dagger$, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, <span style="color:#F29F58;">2020</span>
-
+-->
 <!--
 - <span style="color:#F29F58;">[TCBB]</span> [A corresponding region fusion framework for multi-modal cervical lesion detection](https://ieeexplore.ieee.org/abstract/document/9784879), Tingting Chen, Wenhao Zheng, Heping Hu, Chunhua Luo, **<span style="color:#120A8F;">Jintai Chen</span>**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Honghao Gao, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, <span style="color:#F29F58;">2022</span>
 
 - <span style="color:#F29F58;">[Neurocomputing]</span> [A semi-supervised deep convolutional framework for signet ring cell detection](https://www.sciencedirect.com/science/article/pii/S0925231221000941)[\[**Code**\]](https://github.com/ooooverflow/DigestPath<span style="color:#F29F58;">2019</span>), Haochao Ying, Qingyu Song, **<span style="color:#120A8F;">Jintai Chen</span>**, Tingting Liang, Jingjing Gu, Fuzhen Zhuang, Danny Z Chen, Jian Wu$^\dagger$, **Neurocomputing**, <span style="color:#F29F58;">2021</span>
 -->
-
+<!--
 - <span style="color:#F29F58;">[JBHI]</span> [Polygonal Approximation Learning for Convex Object Segmentation in Biomedical Images with Bounding Box Supervision](https://ieeexplore.ieee.org/abstract/document/10354298), [\[**Code**\]](https://github.com/shenmishajing/PAL), 
 Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, Bang Du, Danny Z Chen, Honghao Gao, Jian Wu, Hongxia Xu$^\dagger$, **IEEE Journal of Biomedical and Health Informatics**, <span style="color:#F29F58;">2023</span>
+-->
 
 - <span style="color:#F29F58;">[MICCAI|Oral]</span> [OneSeg: Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation](https://arxiv.org/pdf/2309.13671), Yixuan Wu, Bo Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2022</span>
 
