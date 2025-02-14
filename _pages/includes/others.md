@@ -20,7 +20,7 @@
 - AIAA6101 - Artificial Intelligence Seminar (Spring 2025)
   
 # 🔎  Professional Services
-- Reviewer @ ML/AI/AI4H Conferences: NeurIPS, ICLR, ICML, KDD, AAAI, IJCAI, AISTATS, CVPR, ICCV, ECCV, ACL, EMNLP, MICCAI, ISBI.
+- Reviewer @ ML/AI/AI4H Conferences: NeurIPS, ICLR, ICML, KDD, AAAI, IJCAI, ACM MM, AISTATS, CVPR, ICCV, ECCV, ACL, EMNLP, MICCAI, ISBI.
 - Area Chair/Senior Program Chair: IJCAI;
 - Review for Journals: TPAMI, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics
 - Guest Editor for Journals: JBHI, spj Health Data Science
