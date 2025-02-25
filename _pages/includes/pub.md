@@ -99,7 +99,7 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 - [TrialDura: Hierarchical attention transformer for interpretable clinical trial duration prediction](https://arxiv.org/pdf/2404.13235), Ling Yue, Jonathan Li, Sixue Xing, Md Zabirul Islam, Bolun Xia, **<span style="color:#120A8F;">Jintai Chen</span>**, Tianfan Fu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
 -->
 
-## III. AI for Biomedical Science
+## III. AI for Drug Design
 
 - <span style="color:#F29F58;">[AAAI|Oral]</span> [ProtCLIP: Function-Informed Protein Multi-Modal Learning](https://arxiv.org/pdf/2412.20014), Hanjing Zhou$^\*$, Mingze Yin$^\*$, Wei Wu, Mingyang Li, Kun Fu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, Zheng Wang$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, <span style="color:#F29F58;">2025</span>
 
