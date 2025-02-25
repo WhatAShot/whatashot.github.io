@@ -83,8 +83,8 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 
 - <span style="color:#F29F58;">[ICLR]</span> [Synergy learning with Small Models Promotes LLM zero-shot Medical Tabular Prediction](https://arxiv.org/pdf/2403.01570), Jiahuan Yan, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Chaowen Hu, Bo Zheng, Yaojun Hu, Jimeng Sun, Jian Wu, **International Conference on Learning Representations**, <span style="color:#F29F58;">2025</span>
 
-## II. Clinical Trial Optimization
-
+## II. AI for Drug Development
+### ◦ Protein and Drug Design
 - <span style="color:#F29F58;">[TOMM]</span> [TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](https://arxiv.org/pdf/2404.01273), Yue Wang$^\*$, Tianfan Fu$^\*$, Yinlong Xu, Zihan Ma, Hongxia Xu, Bang Du, Yingzhou Lu, Honghao Gao$^\dagger$, Jian Wu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **ACM Transactions on Multimedia Computing, Communications, and Applications**, <span style="color:#F29F58;">2024</span>
 
 - <span style="color:#F29F58;">[HDS]</span> [Uncertainty Quantification and Interpretability for Clinical Trial Approval Prediction](https://spj.science.org/doi/epdf/10.34133/hds.0126), Yingzhou Lu, Tianyi Chen, Nan Hao, Capucine Van Rechem, **<span style="color:#120A8F;">Jintai Chen</span>**, Tianfan Fu$^\dagger$, **Health Data Science**, <span style="color:#F29F58;">2024</span>
@@ -99,7 +99,7 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 - [TrialDura: Hierarchical attention transformer for interpretable clinical trial duration prediction](https://arxiv.org/pdf/2404.13235), Ling Yue, Jonathan Li, Sixue Xing, Md Zabirul Islam, Bolun Xia, **<span style="color:#120A8F;">Jintai Chen</span>**, Tianfan Fu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
 -->
 
-## III. AI for Drug Design
+### ◦ Clinical Trial Design
 
 - <span style="color:#F29F58;">[AAAI|Oral]</span> [ProtCLIP: Function-Informed Protein Multi-Modal Learning](https://arxiv.org/pdf/2412.20014), Hanjing Zhou$^\*$, Mingze Yin$^\*$, Wei Wu, Mingyang Li, Kun Fu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, Zheng Wang$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, <span style="color:#F29F58;">2025</span>
 
@@ -111,7 +111,7 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 
 - [S$^2$ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning](https://arxiv.org/pdf/2411.15215), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Jialu Wu, Yiheng Zhu, Yuxuan Zhan, Zitai Kong, Hongxia Xu, Chang-Yu Hsieh$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Tingjun Hou$^\dagger$, and Jian Wu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
 
-## IV. General AI Methodology
+## III. General AI Methodology
 
 <!--
 - <span style="color:#F29F58;">[WACV-W]</span> [A survey on multimodal large language models for autonomous driving](https://openaccess.thecvf.com/content/WACV<span style="color:#F29F58;">2024</span>W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_<span style="color:#F29F58;">2024</span>_paper.pdf), Can Cui$^\*$, Yunsheng Ma$^\*$, Xu Cao$^\*$, Wenqian Ye$^\*$, Yang Zhou, Kaizhao Liang, **<span style="color:#120A8F;">Jintai Chen</span>**, Juanwu Lu, Zichong Yang, Kuei-Da Liao, Tianren Gao, Erlong Li, Kun Tang, Zhipeng Cao, Tong Zhou, Ao Liu, Xinrui Yan, Shuqi Mei, Jianguo Cao$^\dagger$, Ziran Wang$^\dagger$, Chao Zheng$^\dagger$, **IEEE/CVF Winter Conference on Applications of Computer Vision**, <span style="color:#F29F58;">2024</span>
