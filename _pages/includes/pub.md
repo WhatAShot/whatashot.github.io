@@ -85,6 +85,15 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 
 ## II. AI for Drug Development
 ### ◦ Protein and Drug Design
+
+- <span style="color:#F29F58;">[AAAI|Oral]</span> [ProtCLIP: Function-Informed Protein Multi-Modal Learning](https://arxiv.org/pdf/2412.20014), Hanjing Zhou$^\*$, Mingze Yin$^\*$, Wei Wu, Mingyang Li, Kun Fu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, Zheng Wang$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, <span style="color:#F29F58;">2025</span>
+
+- <span style="color:#F29F58;">[HDS]</span> [Multi-modal CLIP-informed protein editing](https://spj.science.org/doi/pdf/10.34133/hds.0211), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Yiheng Zhu, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, **Health Data Science**, <span style="color:#F29F58;">2024</span>
+
+- [S$^2$ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning](https://arxiv.org/pdf/2411.15215), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Jialu Wu, Yiheng Zhu, Yuxuan Zhan, Zitai Kong, Hongxia Xu, Chang-Yu Hsieh$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Tingjun Hou$^\dagger$, and Jian Wu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
+
+### ◦ Clinical Trial Design
+
 - <span style="color:#F29F58;">[TOMM]</span> [TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](https://arxiv.org/pdf/2404.01273), Yue Wang$^\*$, Tianfan Fu$^\*$, Yinlong Xu, Zihan Ma, Hongxia Xu, Bang Du, Yingzhou Lu, Honghao Gao$^\dagger$, Jian Wu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **ACM Transactions on Multimedia Computing, Communications, and Applications**, <span style="color:#F29F58;">2024</span>
 
 - <span style="color:#F29F58;">[HDS]</span> [Uncertainty Quantification and Interpretability for Clinical Trial Approval Prediction](https://spj.science.org/doi/epdf/10.34133/hds.0126), Yingzhou Lu, Tianyi Chen, Nan Hao, Capucine Van Rechem, **<span style="color:#120A8F;">Jintai Chen</span>**, Tianfan Fu$^\dagger$, **Health Data Science**, <span style="color:#F29F58;">2024</span>
@@ -94,22 +103,6 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 - <span style="color:#F29F58;">[ACM BCB]</span> [TrialEnroll: Predicting clinical trial enrollment success with deep & cross network and large language models](https://arxiv.org/pdf/2407.13115), Ling Yue, **<span style="color:#120A8F;">Jintai Chen</span>**, Tianfan Fu, **ACM Conference on Bioinformatics, Computational Biology, and Health Informatics**, <span style="color:#F29F58;">2024</span>
 
 - [TrialBench: Multi-modal artificial intelligence-ready clinical trial datasets](https://arxiv.org/pdf/2407.00631), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Yaojun Hu$^\*$, Yue Wang, Yingzhou Lu, Xu Cao, Miao Lin, Hongxia Xu, Jian Wu, Cao Xiao, Jimeng Sun, Lucas Glass, Kexin Huang, Marinka Zitnik, Tianfan Fu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
-
-<!--
-- [TrialDura: Hierarchical attention transformer for interpretable clinical trial duration prediction](https://arxiv.org/pdf/2404.13235), Ling Yue, Jonathan Li, Sixue Xing, Md Zabirul Islam, Bolun Xia, **<span style="color:#120A8F;">Jintai Chen</span>**, Tianfan Fu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
--->
-
-### ◦ Clinical Trial Design
-
-- <span style="color:#F29F58;">[AAAI|Oral]</span> [ProtCLIP: Function-Informed Protein Multi-Modal Learning](https://arxiv.org/pdf/2412.20014), Hanjing Zhou$^\*$, Mingze Yin$^\*$, Wei Wu, Mingyang Li, Kun Fu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, Zheng Wang$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, <span style="color:#F29F58;">2025</span>
-
-- <span style="color:#F29F58;">[HDS]</span> [Multi-modal CLIP-informed protein editing](https://spj.science.org/doi/pdf/10.34133/hds.0211), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Yiheng Zhu, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, **Health Data Science**, <span style="color:#F29F58;">2024</span>
-
-<!--
-- <span style="color:#F29F58;">[ICCAD Workshop]</span> [Quantum-inspired Reinforcement Learning for Synthesizable Drug Design](https://arxiv.org/pdf/2409.09183), Dannong Wang, **<span style="color:#120A8F;">Jintai Chen</span>**, Zhiding Liang, Tianfan Fu, Xiao-Yang Liu, **Quantum Computing Applications and Systems Workshop of ACM/IEEE International Conference on Computer-Aided Design**, <span style="color:#F29F58;">2024</span>
--->
-
-- [S$^2$ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning](https://arxiv.org/pdf/2411.15215), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Jialu Wu, Yiheng Zhu, Yuxuan Zhan, Zitai Kong, Hongxia Xu, Chang-Yu Hsieh$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Tingjun Hou$^\dagger$, and Jian Wu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
 
 ## III. General AI Methodology
 
