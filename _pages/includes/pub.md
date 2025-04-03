@@ -125,7 +125,7 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 - <span style="color:#F29F58;">[WSDM]</span> [Robust training of graph neural networks via noise governance](https://arxiv.org/pdf/2211.06614.pdf), Siyi Qian, Haochao Ying$^\dagger$, Renjun Hu, Jingbo Zhou, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Jian Wu$^\dagger$, **ACM International Conference on Web Search and Data Mining**, <span style="color:#F29F58;">2023</span>
 -->
 
-- [Scalable Autoregressive Monocular Depth Estimation](https://arxiv.org/pdf/2411.11361), Jinhong Wang, Jian Liu, Dongqi Tang, Weiqiang Wang, Wentong Li, Danny Chen, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
+- <span style="color:#F29F58;">[CVPR]</span> [Scalable Autoregressive Monocular Depth Estimation](https://arxiv.org/pdf/2411.11361), Jinhong Wang, Jian Liu, Dongqi Tang, Weiqiang Wang, Wentong Li, Danny Chen, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, Preprint, <span style="color:#F29F58;">2025</span>
 
 - <span style="color:#F29F58;">[ICCV]</span> [Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction](https://arxiv.org/pdf/2307.09004.pdf) [\[**Code**\]](https://github.com/wjh892521292/Ord2Seq), Jinhong Wang$^\*$, Yi Cheng$^\*$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Tingting Chen, Danny Chen, Jian Wu$^\dagger$, **IEEE/CVF International Conference on Computer Vision**, <span style="color:#F29F58;">2023</span>
 
