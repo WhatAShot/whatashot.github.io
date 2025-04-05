@@ -1,4 +1,4 @@
-Hey, I am Jintai Chen, a tenure-track assistant professor at HKUST, guangzhou campus.
+Hey, I'm Jintai Chen, a tenure-track assistant professor at HKUST (Guangzhou), also affiliated with the Clear Water Bay Campus.
 
 Prior to that, I am a postdoctoral researcher at the University of Illinois at Urbana-Champaign, where I collaborated closely with Prof. Jimeng Sun. I obtained my Ph.D. from the College of Computer Science and Technology at Zhejiang University, under the supervision of Prof. Jian Wu. My research interests lie at the intersection of AI and healthcare, with a particular focus on developing generalizable foundation models and generative models to address real-world medical challenges, including clinical trial optimization, biomedical discovery, clinical predictive modeling, and health monitoring.
 
