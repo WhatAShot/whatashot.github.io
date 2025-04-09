@@ -22,7 +22,7 @@
   
 # 🔎  Professional Services
 - Reviewer @ ML/AI/AI4H Conferences: NeurIPS, ICLR, ICML, KDD, AAAI, IJCAI, ACM MM, AISTATS, CVPR, ICCV, ECCV, ACL, EMNLP, MICCAI, ISBI.
-- Area Chair/Senior Program Chair: IJCAI;
+- Area Chair/Senior Program Chair: IJCAI, NeurIPS;
 - Review for Journals: TPAMI, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics
 - Guest Editor for Journals: JBHI, spj Health Data Science
 - Executive Board Member of the Digital Medicine Symposium within the China Computer Federation
@@ -30,8 +30,3 @@
 - Committee Member of the Guangdong Respiratory and Health Association
 - Workshop Organization: ICLR 2025 Workshop on [AI for Children: Healthcare, Psychology, Education (AI4CHL)](https://openreview.net/pdf?id=IFnUxdmf7w) , Corresponding organizer, [[website](https://pediamedai.com/ai4chl/)]
 <!-- MBE, Journal of Medical Imaging and Health Informatics. -->
-
-<!--
-# 🎒 Visiting
-- *2021.06 - 2021.09*, Medical Big Data Center, Guangdong Academy of Medical Sciences, had the honor of working with Prof. Huiying Liang, Shuai Huang, and Dantong Li.
--->
