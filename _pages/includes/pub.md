@@ -90,7 +90,7 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 
 ## AI for Biomedical Science: Towards Drug Design and Therapeutic Science
 
-- <span style="color:#F29F58;">[Nature Scientific Data]</span> [TrialBench: Multi-modal artificial intelligence-ready clinical trial datasets](https://arxiv.org/pdf/2407.00631), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Yaojun Hu$^\*$, Yue Wang, Yingzhou Lu, Xu Cao, Miao Lin, Hongxia Xu, Jian Wu, Cao Xiao, Jimeng Sun, Lucas Glass, Kexin Huang, Marinka Zitnik, Tianfan Fu$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
+- <span style="color:#F29F58;">[Nature Scientific Data]</span> [TrialBench: Multi-modal artificial intelligence-ready clinical trial datasets](https://arxiv.org/pdf/2407.00631), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Yaojun Hu$^\*$, Yue Wang, Yingzhou Lu, Xu Cao, Miao Lin, Hongxia Xu, Jian Wu, Cao Xiao, Jimeng Sun, Lucas Glass, Kexin Huang, Marinka Zitnik, Tianfan Fu$^\dagger$, **Nature Scientific Data**, <span style="color:#F29F58;">2025</span>
 
 - <span style="color:#F29F58;">[AAAI|Oral]</span> [ProtCLIP: Function-Informed Protein Multi-Modal Learning](https://arxiv.org/pdf/2412.20014), Hanjing Zhou$^\*$, Mingze Yin$^\*$, Wei Wu, Mingyang Li, Kun Fu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, Zheng Wang$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, <span style="color:#F29F58;">2025</span>
 
