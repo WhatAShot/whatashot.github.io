@@ -1,7 +1,7 @@
 # 📄 Selected Publications
 <span style="color:RoyalBlue">The full list can be accessed on <a href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank">Google Scholar</a>.</span> <span style="color:RoyalBlue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
-## AI for Medicine: Towards Multimodal and Individualized Diagnosis Support
+## <h1 class="sunshine-highlight">AI for Medicine: Towards Multimodal and Individualized Diagnosis Support</h1>
 
 - <span style="color:#F29F58;">[Nature Com.]</span> [Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts](https://www.nature.com/articles/s41467-024-44930-y), [\[**Code**\]](https://github.com/shuaih720/CHDdECG), 
 **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Shuai Huang$^\*$, Ying Zhang$^\*$, Qing Chang$^\*$, Yixiao Zhang, Dantong Li, Jia Qiu, Lianting Hu, Xiaoting Peng, Yunmei Du, Yunfei Gao, Danny Chen, Abdelouahab Bellou$^\dagger$, Jian Wu$^\dagger$, Huiying Liang$^\dagger$,
