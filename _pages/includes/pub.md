@@ -9,7 +9,7 @@ AI for Medicine: Towards Multimodal and Individualized Diagnosis Support
 **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Shuai Huang$^\*$, Ying Zhang$^\*$, Qing Chang$^\*$, Yixiao Zhang, Dantong Li, Jia Qiu, Lianting Hu, Xiaoting Peng, Yunmei Du, Yunfei Gao, Danny Chen, Abdelouahab Bellou$^\dagger$, Jian Wu$^\dagger$, Huiying Liang$^\dagger$,
 **Nature Communications**, <span style="color:#F29F58;">2024</span>
 
-- <span style="color:#F29F58;">[IJCAI]</span> [Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/<span style="color:#F29F58;">2021</span>/0495.pdf), [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama), 
+- <span style="color:#F29F58;">[IJCAI]</span> [Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf), [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama), 
 **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Xiangshang Zheng$^\*$, Hongyun Yu$^\*$, Danny Z. Chen, Jian Wu$^\dagger$,
 **International Joint Conference on Artificial Intelligence**, <span style="color:#F29F58;">2021</span>
 
