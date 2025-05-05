@@ -1,16 +1,9 @@
 # 📄 Selected Publications
 <span style="color:RoyalBlue">The full list can be accessed on <a href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank">Google Scholar</a>.</span> <span style="color:RoyalBlue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
-<div style="
-  display: inline-block;
-  background-color: #FDCB6E;
-  color: #2D3436;
-  padding: 12px 24px;
-  border-radius: 30px;
-  font-size: 24px;
-  font-weight: bold;
-  text-align: center;
-">AI for Medicine: Towards Multimodal and Individualized Diagnosis Support</div>
+<div style="background:#D4E6F8;color:#2D3436;padding:10px 20px;border-radius:8px;font-size:22px;font-weight:bold;border:1px solid #B8D4F0">
+AI for Medicine: Towards Multimodal and Individualized Diagnosis Support
+</div>
 
 - <span style="color:#F29F58;">[Nature Com.]</span> [Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts](https://www.nature.com/articles/s41467-024-44930-y), [\[**Code**\]](https://github.com/shuaih720/CHDdECG), 
 **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Shuai Huang$^\*$, Ying Zhang$^\*$, Qing Chang$^\*$, Yixiao Zhang, Dantong Li, Jia Qiu, Lianting Hu, Xiaoting Peng, Yunmei Du, Yunfei Gao, Danny Chen, Abdelouahab Bellou$^\dagger$, Jian Wu$^\dagger$, Huiying Liang$^\dagger$,
@@ -96,7 +89,9 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 -->
 - <span style="color:#F29F58;">[ICLR]</span> [Synergy learning with Small Models Promotes LLM zero-shot Medical Tabular Prediction](https://arxiv.org/pdf/2403.01570), Jiahuan Yan, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Chaowen Hu, Bo Zheng, Yaojun Hu, Jimeng Sun, Jian Wu, **International Conference on Learning Representations**, <span style="color:#F29F58;">2025</span>
 
-## AI for Biomedical Science: Towards Drug Design and Therapeutic Science
+<div style="background:#D4E6F8;color:#2D3436;padding:10px 20px;border-radius:8px;font-size:22px;font-weight:bold;border:1px solid #B8D4F0">
+AI for Biomedical Science: Towards Drug Design and Therapeutic Science
+</div>
 
 - <span style="color:#F29F58;">[Nature Scientific Data]</span> [TrialBench: Multi-modal artificial intelligence-ready clinical trial datasets](https://arxiv.org/pdf/2407.00631), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Yaojun Hu$^\*$, Yue Wang, Yingzhou Lu, Xu Cao, Miao Lin, Hongxia Xu, Jian Wu, Cao Xiao, Jimeng Sun, Lucas Glass, Kexin Huang, Marinka Zitnik, Tianfan Fu$^\dagger$, **Nature Scientific Data**, <span style="color:#F29F58;">2025</span>
 
@@ -118,7 +113,9 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 - <span style="color:#F29F58;">[ACM BCB]</span> [TrialEnroll: Predicting clinical trial enrollment success with deep & cross network and large language models](https://arxiv.org/pdf/2407.13115), Ling Yue, **<span style="color:#120A8F;">Jintai Chen</span>**, Tianfan Fu, **ACM Conference on Bioinformatics, Computational Biology, and Health Informatics**, <span style="color:#F29F58;">2024</span>
 -->
 
-## Machine Learning Foundations
+<div style="background:#D4E6F8;color:#2D3436;padding:10px 20px;border-radius:8px;font-size:22px;font-weight:bold;border:1px solid #B8D4F0">
+Machine Learning Foundations
+</div>
 
 <!--
 - <span style="color:#F29F58;">[WACV-W]</span> [A survey on multimodal large language models for autonomous driving](https://openaccess.thecvf.com/content/WACV<span style="color:#F29F58;">2024</span>W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_<span style="color:#F29F58;">2024</span>_paper.pdf), Can Cui$^\*$, Yunsheng Ma$^\*$, Xu Cao$^\*$, Wenqian Ye$^\*$, Yang Zhou, Kaizhao Liang, **<span style="color:#120A8F;">Jintai Chen</span>**, Juanwu Lu, Zichong Yang, Kuei-Da Liao, Tianren Gao, Erlong Li, Kun Tang, Zhipeng Cao, Tong Zhou, Ao Liu, Xinrui Yan, Shuqi Mei, Jianguo Cao$^\dagger$, Ziran Wang$^\dagger$, Chao Zheng$^\dagger$, **IEEE/CVF Winter Conference on Applications of Computer Vision**, <span style="color:#F29F58;">2024</span>
