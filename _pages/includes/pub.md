@@ -43,9 +43,7 @@ AI for Medicine: Towards Multimodal and Individualized Diagnosis Support
 <!--
 - <span style="color:#F29F58;">[TMI]</span> [Interactive few-shot learning: Limited supervision, better medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9358206), Ruiwei Feng$^\*$, Xiangshang Zheng$^\*$, Tianxiang Gao$^\*$, **<span style="color:#120A8F;">Jintai Chen</span>**, Wenzhe Wang, Danny Z Chen, Jian Wu$^\dagger$, **IEEE Transactions on Medical Imaging**, <span style="color:#F29F58;">2021</span>
 -->
-<!--
 - <span style="color:#F29F58;">[ACM MM]</span> [GCL: Gradient-Guided Contrastive Learning for Medical Image Segmentation with Multi-Perspective Meta Labels](https://arxiv.org/pdf/2309.08888.pdf), Yixuan Wu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jiahuan Yan, Yiheng Zhu, Danny Chen, Jian Wu$^\dagger$, **ACM International Conference on Multimedia**, <span style="color:#F29F58;">2023</span>
--->
 
 <!--
 - <span style="color:#F29F58;">[MICCAI]</span> [Multi-view learning with feature level fusion for cervical dysplasia diagnosis](https://link.springer.com/content/pdf/10.1007/978-3-030-32239-7_37.pdf), Tingting Chen, Xinjun Ma, Xuechen Liu, Wenzhe Wang, Ruiwei Feng, **<span style="color:#120A8F;">Jintai Chen</span>**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2019</span>
