@@ -5,11 +5,11 @@
 AI for Medicine: Towards Multimodal and Individualized Diagnosis Support
 </div>
 
-- <span style="color:#F29F58;">[Nature Com.]</span> [Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts](https://www.nature.com/articles/s41467-024-44930-y), [\[**Code**\]](https://github.com/shuaih720/CHDdECG), 
+- <span style="color:#F29F58;">[Nature Com.]</span> [Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts](https://www.nature.com/articles/s41467-024-44930-y) [\[**Code**\]](https://github.com/shuaih720/CHDdECG), 
 **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Shuai Huang$^\*$, Ying Zhang$^\*$, Qing Chang$^\*$, Yixiao Zhang, Dantong Li, Jia Qiu, Lianting Hu, Xiaoting Peng, Yunmei Du, Yunfei Gao, Danny Chen, Abdelouahab Bellou$^\dagger$, Jian Wu$^\dagger$, Huiying Liang$^\dagger$,
 **Nature Communications**, <span style="color:#F29F58;">2024</span>
 
-- <span style="color:#F29F58;">[IJCAI]</span> [Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf), [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama), 
+- <span style="color:#F29F58;">[IJCAI]</span> [Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf) [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama), 
 **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Xiangshang Zheng$^\*$, Hongyun Yu$^\*$, Danny Z. Chen, Jian Wu$^\dagger$,
 **International Joint Conference on Artificial Intelligence**, <span style="color:#F29F58;">2021</span>
 
@@ -113,11 +113,9 @@ AI for Biomedical Science: Towards Drug Design and Therapeutic Science
 Machine Learning Foundations
 </div>
 
-<!--
-- <span style="color:#F29F58;">[WACV-W]</span> [A survey on multimodal large language models for autonomous driving](https://openaccess.thecvf.com/content/WACV<span style="color:#F29F58;">2024</span>W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_<span style="color:#F29F58;">2024</span>_paper.pdf), Can Cui$^\*$, Yunsheng Ma$^\*$, Xu Cao$^\*$, Wenqian Ye$^\*$, Yang Zhou, Kaizhao Liang, **<span style="color:#120A8F;">Jintai Chen</span>**, Juanwu Lu, Zichong Yang, Kuei-Da Liao, Tianren Gao, Erlong Li, Kun Tang, Zhipeng Cao, Tong Zhou, Ao Liu, Xinrui Yan, Shuqi Mei, Jianguo Cao$^\dagger$, Ziran Wang$^\dagger$, Chao Zheng$^\dagger$, **IEEE/CVF Winter Conference on Applications of Computer Vision**, <span style="color:#F29F58;">2024</span>
--->
-
 - <span style="color:#F29F58;">[CVPR]</span> [A Hierarchical Graph Network for 3D Object Detection on Point Clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Biwen Lei$^\*$, Qingyu Song$^\*$, Haochao Ying, Danny Z Chen, Jian Wu$^\dagger$, **IEEE/CVF Conference on Computer Vision and Pattern Recognition**, <span style="color:#F29F58;">2020</span>
+
+- <span style="color:#F29F58;">[ICME|Best Paper Candidate]</span> [Group-On: Boosting one-shot segmentation with supportive query](https://arxiv.org/pdf/2404.11871), Hanjing Zhou$^\*$, Mingze Ying$^\*$, Danny Z. Chen, Jian Wu$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, IEEE International Conference on Multimedia & Expo (ICME), <span style="color:#F29F58;">2025</span>
 
 - <span style="color:#F29F58;">[ICLR|Spotlight]</span> [Making Pre-trained Language Models Great on Tabular Prediction](https://openreview.net/pdf?id=anzIzGZuLi) [\[**Code and Data**\]](https://github.com/jyansir/tp-berta), 
 Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$,
@@ -143,17 +141,13 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 
 - <span style="color:#F29F58;">[KDD|Oral]</span> [Team up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-hybrid MLPs](https://arxiv.org/pdf/2407.09790), Jiahuan Yan, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Qianxing Wang, Danny Chen, Jian Wu, **ACM SIGKDD Conference on Knowledge Discovery and Data Mining**, <span style="color:#F29F58;">2024</span>
 
-<!--
-- <span style="color:#F29F58;">[NAACL]</span> [Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models](https://arxiv.org/pdf/2311.09214), Weize Liu, Guocong Li, Kai Zhang, Bang Du, Qiyuan Chen, Xuming Hu$^\dagger$, Hongxia Xu$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**, Jian Wu, **Nations of the Americas Chapter of the Association for Computational Linguistics**, <span style="color:#F29F58;">2024</span>
--->
-<!--
 - [What is the Visual Cognition Gap between Humans and Multimodal LLMs?](https://arxiv.org/pdf/2406.10424), Xu Cao, Bolin Lai, Wenqian Ye, Yunsheng Ma, Joerg Heintz, **<span style="color:#120A8F;">Jintai Chen</span>**, Jianguo Cao, James M Rehg$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
--->
+
 <!--
 - <span style="color:#F29F58;">[EMNLP]</span> [Unraveling Babel: Exploring Multilingual Activation Patterns of LLMs and Their Applications](https://arxiv.org/pdf/2402.16367v3), Weize Liu, Yinlong Xu, Hongxia Xu$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**, Xuming Hu$^\dagger$, Jian Wu, **Proceedings of the <span style="color:#F29F58;">2024</span> Conference on Empirical Methods in Natural Language Processing**, <span style="color:#F29F58;">2024</span>
--->
-- [Cross-Table Pretraining towards a Universal Function Space for Heterogeneous Tabular Data](https://arxiv.org/pdf/2406.00281), **<span style="color:#120A8F;">Jintai Chen</span>**, Zhen Lin, Qiyuan Chen, Jimeng Sun, Preprint, <span style="color:#F29F58;">2024</span>
 
+- [Cross-Table Pretraining towards a Universal Function Space for Heterogeneous Tabular Data](https://arxiv.org/pdf/2406.00281), **<span style="color:#120A8F;">Jintai Chen</span>**, Zhen Lin, Qiyuan Chen, Jimeng Sun, Preprint, <span style="color:#F29F58;">2024</span>
+-->
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/NC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
