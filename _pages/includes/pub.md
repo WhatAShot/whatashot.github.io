@@ -133,7 +133,7 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 
 - <span style="color:#F29F58;">[CVPR]</span> [Scalable Autoregressive Monocular Depth Estimation](https://arxiv.org/pdf/2411.11361), Jinhong Wang, Jian Liu, Dongqi Tang, Weiqiang Wang, Wentong Li, Danny Chen, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, **IEEE/CVF Conference on Computer Vision and Pattern Recognition**, <span style="color:#F29F58;">2025</span>
 
-- <span style="color:#F29F58;">[ICLR]</span> [TabCaps: A capsule neural network for tabular data classification with BoW Routing](https://openreview.net/pdf?id=OgbtSLESnI)[\[**Code**\]](https://github.com/WhatAShot/TabCaps), **<span style="color:#120A8F;">Jintai Chen</span>**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu$^\dagger$, **International Conference on Learning Representations**, <span style="color:#F29F58;">2023</span>
+- <span style="color:#F29F58;">[ICLR]</span> [TabCaps: A capsule neural network for tabular data classification with BoW Routing](https://openreview.net/pdf?id=OgbtSLESnI) [\[**Code**\]](https://github.com/WhatAShot/TabCaps), **<span style="color:#120A8F;">Jintai Chen</span>**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu$^\dagger$, **International Conference on Learning Representations**, <span style="color:#F29F58;">2023</span>
 
 - <span style="color:#F29F58;">[ICLR]</span> [Cross-layer retrospective retrieving via layer attention](https://openreview.net/pdf?id=pvgEL1yS3Ql), Yanwen Fang, Yuxi Cai, **<span style="color:#120A8F;">Jintai Chen</span>**, Jingyu Zhao, Guangjian Tian, Guodong Li$^\dagger$, **International Conference on Learning Representations**, <span style="color:#F29F58;">2023</span>
 
