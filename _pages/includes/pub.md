@@ -5,7 +5,7 @@
 AI for Medicine: Towards Multimodal and Individualized Diagnosis Support
 </div>
 
-- <span style="color:#F29F58;">[Nature Com.]</span> [Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts](https://www.nature.com/articles/s41467-024-44930-y) [\[**Code**\]](https://github.com/shuaih720/CHDdECG), 
+- <span style="color:#F29F58;">[Nat. Com.]</span> [Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts](https://www.nature.com/articles/s41467-024-44930-y) [\[**Code**\]](https://github.com/shuaih720/CHDdECG), 
 **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Shuai Huang$^\*$, Ying Zhang$^\*$, Qing Chang$^\*$, Yixiao Zhang, Dantong Li, Jia Qiu, Lianting Hu, Xiaoting Peng, Yunmei Du, Yunfei Gao, Danny Chen, Abdelouahab Bellou$^\dagger$, Jian Wu$^\dagger$, Huiying Liang$^\dagger$,
 **Nature Communications**, <span style="color:#F29F58;">2024</span>
 
@@ -14,10 +14,6 @@ AI for Medicine: Towards Multimodal and Individualized Diagnosis Support
 **International Joint Conference on Artificial Intelligence**, <span style="color:#F29F58;">2021</span>
 
 - <span style="color:#F29F58;">[ICML]</span> [ME-GAN: Learning panoptic electrocardio representations for multi-view ECG synthesis conditioned on heart diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying$^\dagger$, Danny Z Chen, Jian Wu, **International Conference on Machine Learning**, <span style="color:#F29F58;">2022</span>
-
-<!--
-- <span style="color:#F29F58;">[TCBB]</span> [Identifying electrocardiogram abnormalities using a handcrafted-rule-enhanced neural network](https://arxiv.org/pdf/2206.10592.pdf), Yuexin Bian, **<span style="color:#120A8F;">Jintai Chen</span>**, Xiaojun Chen, Xiaoxian Yang, Danny Z. Chen, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, <span style="color:#F29F58;">2022</span>
--->
 
 - <span style="color:#F29F58;">[ICCV]</span> [Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction](https://arxiv.org/pdf/2307.09004.pdf) [\[**Code**\]](https://github.com/wjh892521292/Ord2Seq), Jinhong Wang$^\*$, Yi Cheng$^\*$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Tingting Chen, Danny Chen, Jian Wu$^\dagger$, **IEEE/CVF International Conference on Computer Vision**, <span style="color:#F29F58;">2023</span>
 
@@ -51,9 +47,6 @@ AI for Medicine: Towards Multimodal and Individualized Diagnosis Support
 - <span style="color:#F29F58;">[BIBM]</span> [Multi-rater Prompting for Ambiguous Medical Image Segmentation](https://arxiv.org/pdf/2404.07580), Jinhong Wang, Yi Cheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Hongxia Xu, Danny Chen, Jian Wu$^\dagger$, **International Conference on Bioinformatics and Biomedicine**, <span style="color:#F29F58;">2024</span>
 -->
 
-<!--
-- <span style="color:#F29F58;">[MICCAI]</span> [LSRC: A long-short range context-fusing framework for automatic 3D vertebra localization](https://link.springer.com/content/pdf/10.1007/978-3-030-32226-7_11.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Yanjie Wang$^\*$, Ruoqian Guo$^\*$, Bohan Yu, Tingting Chen, Wenzhe Wang, Ruiwei Feng, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2019</span>
--->
 <!--
 - <span style="color:#F29F58;">[ISBI]</span> [SSN: A stair-shape network for real-time polyp segmentation in colonoscopy images](https://ieeexplore.ieee.org/abstract/document/9098492), Ruiwei Feng, Biwen Lei, Wenzhe Wang, Tingting Chen, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Jian Wu$^\dagger$, **International Symposium on Biomedical Imaging**, <span style="color:#F29F58;">2020</span>
 
@@ -115,7 +108,7 @@ Machine Learning Foundations
 
 - <span style="color:#F29F58;">[CVPR]</span> [A Hierarchical Graph Network for 3D Object Detection on Point Clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Biwen Lei$^\*$, Qingyu Song$^\*$, Haochao Ying, Danny Z Chen, Jian Wu$^\dagger$, **IEEE/CVF Conference on Computer Vision and Pattern Recognition**, <span style="color:#F29F58;">2020</span>
 
-- <span style="color:#F29F58;">[ICME|Best Paper Candidate]</span> [Group-On: Boosting one-shot segmentation with supportive query](https://arxiv.org/pdf/2404.11871), Hanjing Zhou$^\*$, Mingze Ying$^\*$, Danny Z. Chen, Jian Wu$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **IEEE International Conference on Multimedia & Expo (ICME)**, <span style="color:#F29F58;">2025</span>
+- <span style="color:#F29F58;">[ICME|Best Paper Candidate]</span> [Group-On: Boosting one-shot segmentation with supportive query](https://arxiv.org/pdf/2404.11871), Hanjing Zhou$^\*$, Mingze Ying$^\*$, Danny Z. Chen, Jian Wu$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **IEEE International Conference on Multimedia \& Expo (ICME)**, <span style="color:#F29F58;">2025</span>
 
 - <span style="color:#F29F58;">[ICLR|Spotlight]</span> [Making Pre-trained Language Models Great on Tabular Prediction](https://openreview.net/pdf?id=anzIzGZuLi) [\[**Code and Data**\]](https://github.com/jyansir/tp-berta), 
 Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$,
@@ -127,10 +120,6 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 
 - <span style="color:#F29F58;">[AAAI]</span> [DANETs: Deep abstract networks for tabular data classification and regression](https://arxiv.org/pdf/2112.02962.pdf) [\[**Code**\]](https://github.com/WhatAShot/DANet), **<span style="color:#120A8F;">Jintai Chen</span>**, Kuanlun Liao, Yao Wan, Danny Ziyi Chen, Jian Wu$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, <span style="color:#F29F58;">2022</span>
 
-<!--
-- <span style="color:#F29F58;">[WSDM]</span> [Robust training of graph neural networks via noise governance](https://arxiv.org/pdf/2211.06614.pdf), Siyi Qian, Haochao Ying$^\dagger$, Renjun Hu, Jingbo Zhou, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Jian Wu$^\dagger$, **ACM International Conference on Web Search and Data Mining**, <span style="color:#F29F58;">2023</span>
--->
-
 - <span style="color:#F29F58;">[CVPR]</span> [Scalable Autoregressive Monocular Depth Estimation](https://arxiv.org/pdf/2411.11361), Jinhong Wang, Jian Liu, Dongqi Tang, Weiqiang Wang, Wentong Li, Danny Chen, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, **IEEE/CVF Conference on Computer Vision and Pattern Recognition**, <span style="color:#F29F58;">2025</span>
 
 - <span style="color:#F29F58;">[ICLR]</span> [TabCaps: A capsule neural network for tabular data classification with BoW Routing](https://openreview.net/pdf?id=OgbtSLESnI) [\[**Code**\]](https://github.com/WhatAShot/TabCaps), **<span style="color:#120A8F;">Jintai Chen</span>**, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu$^\dagger$, **International Conference on Learning Representations**, <span style="color:#F29F58;">2023</span>
@@ -141,101 +130,10 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 
 - <span style="color:#F29F58;">[KDD|Oral]</span> [Team up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-hybrid MLPs](https://arxiv.org/pdf/2407.09790), Jiahuan Yan, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Qianxing Wang, Danny Chen, Jian Wu, **ACM SIGKDD Conference on Knowledge Discovery and Data Mining**, <span style="color:#F29F58;">2024</span>
 
+<!--
 - [What is the Visual Cognition Gap between Humans and Multimodal LLMs?](https://arxiv.org/pdf/2406.10424), Xu Cao, Bolin Lai, Wenqian Ye, Yunsheng Ma, Joerg Heintz, **<span style="color:#120A8F;">Jintai Chen</span>**, Jianguo Cao, James M Rehg$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
 
-<!--
 - <span style="color:#F29F58;">[EMNLP]</span> [Unraveling Babel: Exploring Multilingual Activation Patterns of LLMs and Their Applications](https://arxiv.org/pdf/2402.16367v3), Weize Liu, Yinlong Xu, Hongxia Xu$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**, Xuming Hu$^\dagger$, Jian Wu, **Proceedings of the <span style="color:#F29F58;">2024</span> Conference on Empirical Methods in Natural Language Processing**, <span style="color:#F29F58;">2024</span>
 
 - [Cross-Table Pretraining towards a Universal Function Space for Heterogeneous Tabular Data](https://arxiv.org/pdf/2406.00281), **<span style="color:#120A8F;">Jintai Chen</span>**, Zhen Lin, Qiyuan Chen, Jimeng Sun, Preprint, <span style="color:#F29F58;">2024</span>
--->
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/NC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**TL;DR**: Congenital heart disease is the most common category among congenital abnormalities, with an incidence rate approaching 1$\%$. Previously, ECGs were considered to have limited effectiveness in diagnosing congenital heart disease. AI demonstrated the value of ECGs in diagnosing congenital heart disease, which surpasses our previous cognition. While techniques like echocardiography and cardiac MRI are currently utilized for precise diagnosis, the cost-effectiveness and non-invasiveness of ECGs continue to harbor substantial potential for precise large-scale population screening and benefiting low-resourced regions.
-</div>
-<div markdown="1">
-[Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts](https://www.nature.com/articles/s41467-024-44930-y) [<span style="color:#D70761;">AI4H</span>, <span style="color:RoyalBlue">AI4ECG</span>, <span style="color:orange;">AI4Table</span>] [\[**Code**\]](https://github.com/shuaih720/CHDdECG), 
-**<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Shuai Huang$^\*$, Ying Zhang$^\*$, Qing Chang$^\*$, Yixiao Zhang, Dantong Li, Jia Qiu, Lianting Hu, Xiaoting Peng, Yunmei Du, Yunfei Gao, Danny Chen, Abdelouahab Bellou$^\dagger$, Jian Wu$^\dagger$, Huiying Liang$^\dagger$,
-**Nature Communications**, <span style="color:#F29F58;">2024</span>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI <span style="color:#F29F58;">2021</span></div><img src='images/EP.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- **TL;DR**: Traditional ECG devices can only offer electrocardiograms from a limited number of angles, constrained by electrode positioning. Our Electrocardio Panorama System breaks this barrier, allowing users to effortlessly observe ECG signals from any angle in real-time, based on their queries.
-- **Academic Impact**: The benefits of our work are manifold: (i) panoramic observations of ECG signals; (ii) a unified representation of ECG signals captured by different ECG devices; (iii) Waveform-aligned Mixup for synthesizing new ECG cases (e.g., for data augmentation); (iv) reconstruction of corrupted ECG views; and (v) exploration of ECG theory.
-
- 
-<span style="color:red">(PS: got scores 7, 9, 10 of 10 in the IJCAI double-blind review)</span>
-- **New Data Annotations**: We provided ECG wave segmentation annotations for Tianchi ECG dataset and PTB dataset.
-- **Exposure**: Our work is promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/nUOQjLzE7LPCizVAZJtA6Q), [专知](https://www.zhuanzhi.ai/document/2641de7df0eabfe36f40fd30fa33d848), [澎湃](https://www.thepaper.cn/newsDetail_forward_13432066), [AI研习社](https://www.yanxishe.com/reportDetail/27449).
-</div>
-<div markdown="1">
-[Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/<span style="color:#F29F58;">2021</span>/0495.pdf) [<span style="color:#D70761;">AI4H</span>, <span style="color:RoyalBlue">AI4ECG</span>] [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama), 
-**<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Xiangshang Zheng$^\*$, Hongyun Yu$^\*$, Danny Z. Chen, Jian Wu$^\dagger$,
-**International Joint Conference on Artificial Intelligence (IJCAI)**, <span style="color:#F29F58;">2021</span>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML <span style="color:#F29F58;">2021</span></div><img src='images/ICML21.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**TL;DR**: Neurons in the nervous system transmit signals by releasing different neurotransmitters that match different receptors. Motivated by the concepts of competitive neural networks, prototype learning, hierarchical clustering algorithms, and capsule neural networks, we introduce a novel neural network architecture. This neural network is constructed by neurons capable of generating "transmitters" to send semantic information to other neurons and possessing receptors to receive specific types of "transmitters" from other neurons. By generating "transmitters" to convey semantic information and binding them to specific receptors in the subsequent layer, our approach achieves transparent semantic feature parsing, part-to-whole semantic integration, unsupervised semantics understanding, and object relationship digging.
-- **<span style="color:SeaGreen">On SRL</span>**: This work provides a new framework (works like many parse trees) for effective, effecient, and flexible .
-</div>
-<div markdown="1">
-[A receptor skeleton for capsule neural networks](http://proceedings.mlr.press/v139/chen21x/chen21x.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu$^\dagger$, **International Conference on Machine Learning (ICML)**, <span style="color:#F29F58;">2021</span>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR <span style="color:#F29F58;">2024</span> SpotLight</div><img src='images/iclrtable.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**TL;DR**: Tabular data exhibits diversity in both feature and target definitions. How can we achieve transferability across such heterogeneity? We propose an approach to empower language models as a robust deep tabular prediction model. By training the language model to comprehend precise numeric values, our approach gains the capability to leverage tabular data from other domains to enhance predictions on EHR tables, where data availability is often limited.
-</div>
-<div markdown="1">
-[Making Pre-trained Language Models Great on Tabular Prediction](https://openreview.net/pdf?id=anzIzGZuLi) [<span style="color:orange;">AI4Table</span>] [\[**Code and Data**\]](https://github.com/jyansir/tp-berta), 
-Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$,
-**ICLR (SpotLight)**, <span style="color:#F29F58;">2024</span>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI <span style="color:#F29F58;">2023</span> Oral</div><img src='images/T2G.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**TL;DR**: This study represents a Transformer-based evolution, a continuation of DANETs. It focuses on extracting underlying feature relation graphs and presenting feature interactions. By leveraging this acquired graph topology, T2G-Former demonstrates robust performance while offering a clear and coherent explanation of feature relations.
-**<span style="color:SeaGreen">On SRL</span>**: Tabular data is naturally property aligned, and it is a suitable scenario to explore how to implant a parse tree into a neural network.
-</div>
-<div markdown="1">
-[T2G-Former: Organizing tabular features into relation graphs promotes heterogeneous feature interaction](https://arxiv.org/pdf/2211.16887.pdf) [<span style="color:orange;">AI4Table</span>] [\[**Code**\]](https://github.com/jyansir/t2g-former), Jiahuan Yan$^\*$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Yixuan Wu, Danny Ziyi Chen, Jian Wu$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence (AAAI, Oral)**, <span style="color:#F29F58;">2023</span>
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML <span style="color:#F29F58;">2022</span></div><img src='images/ME-GAN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**TL;DR**: This work is the follow-up of Electrocardio panorama synthesis and practice the same <span style="color:SeaGreen">SRL</span> insights, and it is also the first GAN to synthesize multi-view ECG signals (part representation) by primarily synthesizing the stereo ECG representation (whole representations).
-</div>
-<div markdown="1">
-[ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf) [<span style="color:SeaGreen">SRL (part-whole hierarchy learning)</span>, <span style="color:#D70761;">AI4H</span>], **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying$^\dagger$, Danny Z Chen, Jian Wu, **International Conference on Machine Learning (ICML)**, <span style="color:#F29F58;">2022</span>
-</div>
-</div> 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR <span style="color:#F29F58;">2020</span></div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- This work provides a new efficient location-aware graph convolution for 3D detection in point cloud, and predicts the 3D object centers by voting from various feature levels. It is also observed that our method is more sensitive than the official manual annotations.
-- **<span style="color:SeaGreen">On SRL</span>**: Point cloud is a natural scenario that the object parts and wholes were naturally pose aligned and it is proved to be  to be sufficient to use only **one** scalar feature in the proposed graph convolution for part-whole relation quantization.
-</div>
-<div markdown="1">
- [A hierarchical graph network for 3D object detection on point clouds](https://openaccess.thecvf.com/content_CVPR_<span style="color:#F29F58;">2020</span>/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_<span style="color:#F29F58;">2020</span>_paper.pdf) [, <span style="color:RoyalBlue">CV</span>], **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Biwen Lei$^\*$, Qingyu Song$^\*$, Haochao Ying, Danny Z Chen, Jian Wu$^\dagger$, **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, <span style="color:#F29F58;">2020</span>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI <span style="color:#F29F58;">2020</span> Oral</div><img src='images/baa.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**TL;DR**: This study transforms unstructured hand radiography images into a structured semantics represented as a table /graph, utilizing clinical prior information (the TW3 approach used in clinical practice). We then use a GNN to process such structured data, leading to impressive and interpretable bone age assessments. It's noteworthy that many medical images are semi-structured data, and this paper introduces a potentially interpretable and efficient approach for processing such semi-structure.
-
-</div>
-<div markdown="1">
- [Doctor imitator: Hand-radiography-based bone age assessment by imitating scoring methods](https://arxiv.org/pdf/2102.05424.pdf) [<span style="color:#D70761;">AI4H</span>, <span style="color:#F29F58;">AI4MIA</span>], **<span style="color:#120A8F;">Jintai Chen</span>**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI, Oral)**, <span style="color:#F29F58;">2020</span>
-</div>
-</div>
 -->
