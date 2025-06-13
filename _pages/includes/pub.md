@@ -94,13 +94,12 @@ AI for Biomedical Science: Towards Drug Design and Therapeutic Science
 
 - <span style="color:#F29F58;">[TOMM]</span> [TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](https://arxiv.org/pdf/2404.01273), Yue Wang$^\*$, Tianfan Fu$^\*$, Yinlong Xu, Zihan Ma, Hongxia Xu, Bang Du, Yingzhou Lu, Honghao Gao$^\dagger$, Jian Wu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **ACM Transactions on Multimedia Computing, Communications, and Applications**, <span style="color:#F29F58;">2024</span>
 
-<!--
 - <span style="color:#F29F58;">[HDS]</span> [Uncertainty Quantification and Interpretability for Clinical Trial Approval Prediction](https://spj.science.org/doi/epdf/10.34133/hds.0126), Yingzhou Lu, Tianyi Chen, Nan Hao, Capucine Van Rechem, **<span style="color:#120A8F;">Jintai Chen</span>**, Tianfan Fu$^\dagger$, **Health Data Science**, <span style="color:#F29F58;">2024</span>
 
 - <span style="color:#F29F58;">[ACM BCB]</span> [ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning](https://arxiv.org/abs/2404.14777), Ling Yue, Sixue Xing, **<span style="color:#120A8F;">Jintai Chen</span>**, Tianfan Fu, **ACM Conference on Bioinformatics, Computational Biology, and Health Informatics**, <span style="color:#F29F58;">2024</span>
 
 - <span style="color:#F29F58;">[ACM BCB]</span> [TrialEnroll: Predicting clinical trial enrollment success with deep & cross network and large language models](https://arxiv.org/pdf/2407.13115), Ling Yue, **<span style="color:#120A8F;">Jintai Chen</span>**, Tianfan Fu, **ACM Conference on Bioinformatics, Computational Biology, and Health Informatics**, <span style="color:#F29F58;">2024</span>
--->
+
 
 <div style="background:#D4E6F8;color:#2D3436;padding:10px 20px;border-radius:8px;font-size:22px;font-weight:bold;border:1px solid #B8D4F0">
 Machine Learning Foundations
