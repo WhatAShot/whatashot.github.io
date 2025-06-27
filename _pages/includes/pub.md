@@ -19,10 +19,6 @@ AI for Medicine: Towards Multimodal and Individualized Diagnosis Support
 
 - <span style="color:#F29F58;">[IJCAI]</span> [Personalized Heart Disease Detection via ECG Digital Twin Generation](https://arxiv.org/pdf/2404.11171), Yaojun Hu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Lianting Hu, Dantong Li, Jiahuan Yan, Haochao Ying, Huiying Liang, Jian Wu, **International Joint Conference on Artificial Intelligence**, <span style="color:#F29F58;">2024</span>
 
-<!--
-- [ANYECG: Foundational Models for Electrocardiogram Analysis](https://openreview.net/pdf?id=fO0YO9giQV), Yue Wang$^\*$, Xu Cao$^\*$, Yaojun Hu, Haochao Ying, James Matthew Rehg, Jimeng Sun, Jian Wu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
--->
-
 - <span style="color:#F29F58;">[MICCAI|Oral]</span> [TeleOR: Real-time Telemedicine System for Full-Scene Operating Room](https://arxiv.org/pdf/2407.19763), Yixuan Wu$^\*$, Kaiyuan Hu$^\*$, Qian Shao, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Danny Z. Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2024</span>
   
 - <span style="color:#F29F58;">[MICCAI]</span> [LKM-UNet: Large Kernel Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.07332), Jinhong Wang, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Danny Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2024</span>
@@ -129,10 +125,11 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 
 - <span style="color:#F29F58;">[KDD|Oral]</span> [Team up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-hybrid MLPs](https://arxiv.org/pdf/2407.09790), Jiahuan Yan, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Qianxing Wang, Danny Chen, Jian Wu, **ACM SIGKDD Conference on Knowledge Discovery and Data Mining**, <span style="color:#F29F58;">2024</span>
 
-<!--
-- [What is the Visual Cognition Gap between Humans and Multimodal LLMs?](https://arxiv.org/pdf/2406.10424), Xu Cao, Bolin Lai, Wenqian Ye, Yunsheng Ma, Joerg Heintz, **<span style="color:#120A8F;">Jintai Chen</span>**, Jianguo Cao, James M Rehg$^\dagger$, Preprint, <span style="color:#F29F58;">2024</span>
+- <span style="color:#F29F58;">[ICCV]</span> [OrderChain: A General Prompting Paradigm to Improve Ordinal Understanding Ability of MLLM](https://arxiv.org/pdf/2504.04801), Jinhong Wang$^\*$, Shuo Tong$^\*$, Jian Liu, Dongqi Tang, Weiqiang Wang, Wentong Li, Hongxia Xu, Danny Chen, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, **IEEE/CVF International Conference on Computer Vision**, <span style="color:#F29F58;">2025</span>
 
-- <span style="color:#F29F58;">[EMNLP]</span> [Unraveling Babel: Exploring Multilingual Activation Patterns of LLMs and Their Applications](https://arxiv.org/pdf/2402.16367v3), Weize Liu, Yinlong Xu, Hongxia Xu$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**, Xuming Hu$^\dagger$, Jian Wu, **Proceedings of the <span style="color:#F29F58;">2024</span> Conference on Empirical Methods in Natural Language Processing**, <span style="color:#F29F58;">2024</span>
+- <span style="color:#F29F58;">[ICCV]</span> [PGFormer: Proxy-bridged game transformer for multi-person extremely interactive motion prediction](https://arxiv.org/pdf/2504.04801), Yanwen Fang, Wenqi Jia, Xu Cao, Peng-Tao Jiang, Guodong Li, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **IEEE/CVF International Conference on Computer Vision**, <span style="color:#F29F58;">2025</span>
+
+<!--
 
 - [Cross-Table Pretraining towards a Universal Function Space for Heterogeneous Tabular Data](https://arxiv.org/pdf/2406.00281), **<span style="color:#120A8F;">Jintai Chen</span>**, Zhen Lin, Qiyuan Chen, Jimeng Sun, Preprint, <span style="color:#F29F58;">2024</span>
 -->
