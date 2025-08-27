@@ -24,8 +24,8 @@
 # 🔎  Professional Services
 - Reviewer @ ML/AI/AI4H Conferences: NeurIPS, ICLR, ICML, KDD, AAAI, IJCAI, ACM MM, AISTATS, CVPR, ICCV, ECCV, ACL, EMNLP, MICCAI, ISBI
 - Area Chair/Senior Program Chair: IJCAI, NeurIPS
-- Review for Journals: Nature Communications, TPAMI, JMLR, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics, etc.
-- Guest Editor for Journals: JBHI, spj Health Data Science, Journal of Pharmaceutical Analysis
+- Review for Journals: Nature Communications, TPAMI, JMLR, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics, Journal of Pharmaceutical Analysis, etc.
+- Guest Editor for Journals: JBHI, spj Health Data Science
 - Executive Board Member of the Digital Medicine Symposium within the China Computer Federation
 - Committee Member of the Computer Academy of Guangdong
 - Committee Member of the Guangdong Respiratory and Health Association
