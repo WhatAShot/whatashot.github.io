@@ -1,26 +1,3 @@
-# 💬 Talks
-- *2025.04*, Deep Tabular Learning, @Nanjing University
-- *2024.12*, Advanced Guidelines and Principles for Academic Writing, @International Campus of SCUT
-- *2024.12*, AI for Healthcare: New Perspectives and New Applications, @International Campus of SCUT
-- *2024.11*, From Single-Modality to Multi-Modality Learning: Shaping the Future of Digital Medicine, @ Datathon Challenge, Beijing
-- *2022.11*, How to Excel in AI-for-healthcare Researches, @ Shanghai University
-- *2022.10*, ECG Signal Processing and Synthesis for Computer-Aided Heart Disease Diagnosis, @ Carnegie Mellon University
-- *2022.10*, ECG Synthesis for New View and New Data, @ Shanghai AI Lab 
-- *2022.09*, Part-Hierarchy Learning, @ ByteDance
-- *2022.06*, Supervised Tabular Learning, @ UberAI
-- *2021.10*, Domain Mixup for Distant Transfer Learning, @ Shanghai Jiaotong University
-
-<!--
-# 🏫 Teaching
-- *Fall 2023*, Frontiers of Medical Artificial Intelligence (lecture slice preparation, teaching assistant)
--->
-
-# 🏫 Courses
-- AIAA1010 - Academic Orientation for Al Students (Spring 2025)
-- AIAA6011B - Frontier of "AI for Healthcare" (Spring 2025)
-- AIAA6101 - Artificial Intelligence Seminar (Spring 2025)
-- AIAA3111 - Introduction to Data Mining (Fall 2025)
-
 # 👩🏻‍🎓 Lab Members
 **PhD Students:**
 - Anglin Liu
