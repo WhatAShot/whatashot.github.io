@@ -16,7 +16,7 @@ main:
     url: "/#-talks"
     
   - title: "Courses"
-    url: "/#-talks"
+    url: "/#-courses"
 
   - title: "Lab Members"
     url: "/#lab-members"
@@ -25,7 +25,7 @@ main:
   #   url: "/#-teaching"
   
   - title: "Services"
-    url: "/#-talks"
+    url: "/#-services"
   
   # - title: "Visiting"
   #   url: "/#-visiting"
