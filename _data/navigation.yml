@@ -19,7 +19,7 @@ main:
     url: "/#-courses"
 
   - title: "Lab Members"
-    url: "/#lab-members"
+    url: "/#-lab-members"
     
   # - title: "Teaching"
   #   url: "/#-teaching"
