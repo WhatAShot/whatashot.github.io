@@ -12,7 +12,7 @@
 **Alumni & Former Advisees:**
 - MingChen Cai (Now PhD Student in SCUT)
   
-# 🔎  Professional Services
+# 🔎 Professional Services
 - Reviewer @ ML/AI/AI4H Conferences: NeurIPS, ICLR, ICML, KDD, AAAI, IJCAI, ACM MM, AISTATS, CVPR, ICCV, ECCV, ACL, EMNLP, MICCAI, ISBI
 - Area Chair/Senior Program Chair: IJCAI, NeurIPS
 - Review for Journals: Nature Communications, TPAMI, JMLR, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics, Journal of Pharmaceutical Analysis, etc.
