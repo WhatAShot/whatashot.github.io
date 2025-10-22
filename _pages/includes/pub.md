@@ -85,7 +85,7 @@ AI for Biomedical Science: Towards Drug Design and Therapeutic Science
 
 - <span style="color:#F29F58;">[Nature Scientific Data]</span> [TrialBench: Multi-modal artificial intelligence-ready clinical trial datasets](https://arxiv.org/pdf/2407.00631), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Yaojun Hu$^\*$, Mingchen Cai, Yue Wang, Yingzhou Lu, Xu Cao, Miao Lin, Hongxia Xu, Jian Wu, Cao Xiao, Jimeng Sun, Lucas Glass, Kexin Huang, Marinka Zitnik, Tianfan Fu$^\dagger$, **Nature Scientific Data**, <span style="color:#F29F58;">2025</span>
 
-- <span style="color:#F29F58;">[Preprint]</span> [RareAgent: Self-evolving Reasoning for Drug Repurposing in Rare Diseases](https://arxiv.org/pdf/2510.05764), Lang Qin, Zijian Gan, Xu Cao, Pengcheng Jiang, Yankai Jiang, Jiawei Han, Kaishun Wu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, <span style="color:#F29F58;">2025</span>
+- [RareAgent: Self-evolving Reasoning for Drug Repurposing in Rare Diseases](https://arxiv.org/pdf/2510.05764), Lang Qin, Zijian Gan, Xu Cao, Pengcheng Jiang, Yankai Jiang, Jiawei Han, Kaishun Wu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, <span style="color:#F29F58;">2025</span>
 
 - <span style="color:#F29F58;">[AAAI|Oral]</span> [ProtCLIP: Function-Informed Protein Multi-Modal Learning](https://arxiv.org/pdf/2412.20014), Hanjing Zhou$^\*$, Mingze Yin$^\*$, Wei Wu, Mingyang Li, Kun Fu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, Zheng Wang$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, <span style="color:#F29F58;">2025</span>
 
@@ -105,6 +105,8 @@ AI for Biomedical Science: Towards Drug Design and Therapeutic Science
 <div style="background:#D4E6F8;color:#2D3436;padding:10px 20px;border-radius:8px;font-size:22px;font-weight:bold;border:1px solid #B8D4F0">
 Machine Learning Foundations
 </div>
+
+- [TabR1: Taming GRPO for Tabular Reasoning LLMs](https://arxiv.org/pdf/2510.17385v1), Pengxiang Cai, Zihao Gao, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Preprint, <span style="color:#F29F58;">2025</span>
 
 - <span style="color:#F29F58;">[CVPR]</span> [A Hierarchical Graph Network for 3D Object Detection on Point Clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Biwen Lei$^\*$, Qingyu Song$^\*$, Haochao Ying, Danny Z Chen, Jian Wu$^\dagger$, **IEEE/CVF Conference on Computer Vision and Pattern Recognition**, <span style="color:#F29F58;">2020</span>
 
@@ -134,7 +136,4 @@ Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu$^
 
 - <span style="color:#F29F58;">[ICCV]</span> [PGFormer: Proxy-bridged game transformer for multi-person extremely interactive motion prediction](https://arxiv.org/pdf/2504.04801), Yanwen Fang, Wenqi Jia, Xu Cao, Peng-Tao Jiang, Guodong Li, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **IEEE/CVF International Conference on Computer Vision**, <span style="color:#F29F58;">2025</span>
 
-<!--
-
 - [Cross-Table Pretraining towards a Universal Function Space for Heterogeneous Tabular Data](https://arxiv.org/pdf/2406.00281), **<span style="color:#120A8F;">Jintai Chen</span>**, Zhen Lin, Qiyuan Chen, Jimeng Sun, Preprint, <span style="color:#F29F58;">2024</span>
--->
