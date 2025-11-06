@@ -1,7 +1,9 @@
 # 💬 Talks
-- *2025.04*, Deep Tabular Learning, @Nanjing University
-- *2024.12*, Advanced Guidelines and Principles for Academic Writing, @International Campus of SCUT
-- *2024.12*, AI for Healthcare: New Perspectives and New Applications, @International Campus of SCUT
+- *2025.11*, Breast Cancer Conference, @Hangzhou
+- *2025.11*, Electrocardio Panorama: Next-generation ECG Visualization System, @ Medical Imaging Computing Seminar (MICS)
+- *2025.04*, Deep Tabular Learning, @ Nanjing University
+- *2024.12*, Advanced Guidelines and Principles for Academic Writing, @ International Campus of SCUT
+- *2024.12*, AI for Healthcare: New Perspectives and New Applications, @ International Campus of SCUT
 - *2024.11*, From Single-Modality to Multi-Modality Learning: Shaping the Future of Digital Medicine, @ Datathon Challenge, Beijing
 - *2022.11*, How to Excel in AI-for-healthcare Researches, @ Shanghai University
 - *2022.10*, ECG Signal Processing and Synthesis for Computer-Aided Heart Disease Diagnosis, @ Carnegie Mellon University
