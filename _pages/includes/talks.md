@@ -1,6 +1,7 @@
-# 💬 Talks
-- *2025.11*, From Single-Modal Medical Models to Multi-Modal and Multi-Agent Medical Systems, @ Breast Cancer Conference in Hangzhou
+# 💬 Talks & Tutorials
 - *2025.11*, Electrocardio Panorama: Next-generation ECG Visualization System, @ Medical Imaging Computing Seminar (MICS)
+- *2025.10*, From Single-Modal Medical Models to Multi-Modal and Multi-Agent Medical Systems, @ Breast Cancer Conference in Hangzhou
+- *2025.10*, Large Language Model for Table and Tabular Data, @ CNCC Tutorial on Structure Data
 - *2025.04*, Deep Tabular Learning, @ Nanjing University
 - *2024.12*, Advanced Guidelines and Principles for Academic Writing, @ International Campus of SCUT
 - *2024.12*, AI for Healthcare: New Perspectives and New Applications, @ International Campus of SCUT
