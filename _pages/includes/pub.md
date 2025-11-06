@@ -13,6 +13,8 @@ AI for Medicine: Towards Multimodal and Individualized Diagnosis Support
 **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Xiangshang Zheng$^\*$, Hongyun Yu$^\*$, Danny Z. Chen, Jian Wu$^\dagger$,
 **International Joint Conference on Artificial Intelligence**, <span style="color:#F29F58;">2021</span>
 
+- [NEF-NET v2: Adapting Electrocardio Panorama in the Wild](https://arxiv.org/pdf/2511.02880), Zehui Zhan$^\*$, Yaojun Hu$^\*$, Jiajing Zhan, Wanchen Lian, Wanqing Wu$^\dagger$, Jintai Chen$^\dagger$, **Preprint**, <span style="color:#F29F58;">2025</span>
+
 - <span style="color:#F29F58;">[ICML]</span> [ME-GAN: Learning panoptic electrocardio representations for multi-view ECG synthesis conditioned on heart diseases](https://proceedings.mlr.press/v162/chen22n/chen22n.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Kuanlun Liao$^\*$, Kun Wei, Haochao Ying$^\dagger$, Danny Z Chen, Jian Wu, **International Conference on Machine Learning**, <span style="color:#F29F58;">2022</span>
 
 - <span style="color:#F29F58;">[ICCV]</span> [Ord2Seq: Regarding Ordinal Regression as Label Sequence Prediction](https://arxiv.org/pdf/2307.09004.pdf) [\[**Code**\]](https://github.com/wjh892521292/Ord2Seq), Jinhong Wang$^\*$, Yi Cheng$^\*$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Tingting Chen, Danny Chen, Jian Wu$^\dagger$, **IEEE/CVF International Conference on Computer Vision**, <span style="color:#F29F58;">2023</span>
