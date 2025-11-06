@@ -1,6 +1,6 @@
 # 💬 Talks
 - *2025.11*, Breast Cancer Conference, @Hangzhou
-- *2025.11*, Electrocardio Panorama: Next-generation ECG Visualization System, @ Medical Imaging Computing Seminar (MICS)
+- *2025.11*, Electrocardio Panorama: Next-generation ECG Visualization System, @ Medical Imaging Computing Seminar (MICS)
 - *2025.04*, Deep Tabular Learning, @ Nanjing University
 - *2024.12*, Advanced Guidelines and Principles for Academic Writing, @ International Campus of SCUT
 - *2024.12*, AI for Healthcare: New Perspectives and New Applications, @ International Campus of SCUT
