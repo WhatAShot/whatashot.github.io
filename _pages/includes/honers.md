@@ -1,6 +1,6 @@
 # 🎖 Awards
 - *2025.11*, Awardee of the Youth S&T Talent Support Programme of GDSTA
-- *2025.08*, Nomination Award for the Rising Star of the WAIC Yunfan Awards
+- *2025.08*, Nomination Award for the Brilliant Star of the WAIC Yunfan Awards
 - *2023.04*, Excellent Doctoral Graduates of Zhejiang Province, China (Top 1%)
 - *2023.04*, Excellent Doctoral Graduates of Zhejiang University (Top 1%)
 - *2023.04*, 产学研合作创新成果奖，浙江省产学研合作创新与促进奖
