@@ -1,17 +1,3 @@
-# 👩🏻‍🎓 Lab Members
-**PhD Students:**
-- Anglin Liu
-- Lang Qin
-- Pengxiang Cai
-- Kieren Yu (co-supervised)
-- Yuting Zhang (co-supervised)
-- Yufei Wen (co-supervised)
-- Yuanyuan Fang (co-supervised)
-- Houcheng Su (co-supervised)
-
-**Alumni & Former Advisees:**
-- MingChen Cai (Now PhD Student in SCUT)
-  
 # 🔎 Professional Services
 - Reviewer @ ML/AI/AI4H Conferences: NeurIPS, ICLR, ICML, KDD, AAAI, IJCAI, ACM MM, AISTATS, CVPR, ICCV, ECCV, ACL, EMNLP, MICCAI, ISBI
 - Area Chair/Senior Program Chair: IJCAI, NeurIPS
