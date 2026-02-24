@@ -1,11 +1,12 @@
 # 🎖 Awards
+- *2025.11*, Outstanding Special Tutorial Award (优秀专题论坛), CNCC 2025
 - *2025.11*, Awardee of the Youth S&T Talent Support Programme of GDSTA
 - *2025.08*, Nomination Award for the Brilliant Star of the WAIC Yunfan Awards
 - *2023.04*, Excellent Doctoral Graduates of Zhejiang Province, China (Top 1%)
 - *2023.04*, Excellent Doctoral Graduates of Zhejiang University (Top 1%)
 - *2023.04*, 产学研合作创新成果奖，浙江省产学研合作创新与促进奖
 - *2023.02*, 医学影像智能处理关键技术创新与应用, 产学研合作创新成果二等奖, 中国产学研合作促进会
-- *2023.02*, 科技进步二等奖，中国电子学会
+- *2023.02*, 科技进步二等奖, 中国电子学会
 - *2022.10*, Huawei Fundamental Research Award (Top 3%)
 - *2021.10*, Tencent Doctoral Research Award (Top 1%)
 - *2021.10*, National Scholarship of China (Top 1%)
