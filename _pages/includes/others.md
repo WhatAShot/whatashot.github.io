@@ -6,6 +6,7 @@
 - Executive Board Member of the Digital Medicine Symposium within the China Computer Federation
 - Committee Member of the Computer Academy of Guangdong
 - Committee Member of the Guangdong Respiratory and Health Association
+- Early Career Editorial Board Member of Science Bulletin
 - Workshop Organization:
   
 ◦ ICLR 2025 Workshop on [AI for Children: Healthcare, Psychology, Education (AI4CHL)](https://pediamedai.com/ai4chl/), Corresponding organizer
