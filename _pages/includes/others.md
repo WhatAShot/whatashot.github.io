@@ -14,3 +14,6 @@
 ◦ BIBM 2026 Workshop on [Advancing Data for Better Health: Reliable LLM Application in People-Centric Healthcare (AIMEL)](https://www.aimel.ai/bibm2025workshop/), Co-organizer
 
 ◦ CVPR 2026 Workshop on [Workshop on Computer Vision for Children (CV4CHL)](https://pediamedai.com/cv4chl/), Co-organizer
+
+# 🔗 Some Useful Links
+- [HKUST Brand Materials](https://geco.hkust.edu.hk/brand-materials)
