@@ -15,5 +15,7 @@
 
 ◦ CVPR 2026 Workshop on [Workshop on Computer Vision for Children (CV4CHL)](https://pediamedai.com/cv4chl/), Co-organizer
 
-# 🔗 Some Useful Links
+# 🔗 Useful Resources
 - [HKUST Brand Materials](https://geco.hkust.edu.hk/brand-materials)
+- [*Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded*](https://wp.optics.arizona.edu/kupinski/wp-content/uploads/sites/91/2023/01/Writing_Science_Joshua_Schimel.pdf)
+
