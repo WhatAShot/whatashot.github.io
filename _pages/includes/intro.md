@@ -6,9 +6,9 @@ Prior to that, I am a postdoctoral researcher at the University of Illinois at U
 
 <span style="color:#AA381E">For Ph.D. applications, please fill out [the form](https://www.wjx.top/vm/eCrtUk7.aspx#).</span>
 
-<span style="color:#AA381E">For research assistant applications, please fill out [the form](https://www.wjx.top/vm/tExPMlw.aspx#).</span>
+<span style="color:#AA381E">For research assistant applications, please fill out [the form](https://www.wenjuan.com/s/UZBZJvkjzIN/#).</span>
 
-<span style="color:#AA381E">For postdoc applications, please email me directly at jtchen147[AT]gmail[DOT]com.</span>
+<span style="color:#AA381E">For postdoc applications, please email me directly at jintaiCHEN[AT]hkust-gz[DOT]edu[DOT]cn.</span>
 
 <span style="color:#AA381E">For MPhil students, please contact me after passing the interview with the school's Red Bird MPhil committee. </span>
 
