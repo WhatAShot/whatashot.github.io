@@ -4,7 +4,9 @@ Prior to that, I am a postdoctoral researcher at the University of Illinois at U
 
 <span style="color:#AA381E">I am actively seeking highly motivated Ph.D. students, research assistants, and postdoctoral researchers with strong backgrounds in computer science, statistics, or other related subjects. Proficiency in coding is required.</span>
 
-<span style="color:#AA381E">For Ph.D. applications, please fill out [the form](https://www.wjx.top/vm/h4WVnLv.aspx#).</span>
+<span style="color:#AA381E">For Ph.D. applications (General Track), please fill out [the form](https://www.wjx.top/vm/h4WVnLv.aspx#).</span>
+
+<span style="color:#AA381E">For Ph.D. applications (Special Track: AI for Peptide Drug Design), please fill out [the form](https://www.wjx.top/vm/eHbya3i.aspx#).</span>
 
 <span style="color:#AA381E">For research assistant applications, please fill out [the form](https://www.wenjuan.com/s/UZBZJvkjzIN/#).</span>
 
