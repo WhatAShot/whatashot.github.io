@@ -1,4 +1,5 @@
 # 💬 Talks
+- *2026.06*, Generalist Model for Structured Data: Foundations, Frontiers and Applications, @ International World Wide Web Conference Tutorial
 - *2026.05*, Electrocardio Panorama: Next-generation ECG Visualization System, @ Health Data Science Academic Salon
 - *2026.03*, Towards Building Realiable Medical Agents, @ The 5th Guangdong-Hongkong-Macao Greater Bay Area Brain Science Summit Forum
 - *2025.11*, Electrocardio Panorama: Next-generation ECG Visualization System, @ Medical Imaging Computing Seminar (MICS)
