@@ -76,6 +76,8 @@ AI for Biomedical Science: Towards Drug Design and Therapeutic Science
 
 - [Caduceus: MoE Foundation Models for Unifying Biological and Natural Language], Mingze Yin, Yiheng Zhu, Jialu Wu, Jian Ma, Hanjing Zhou, Mingyang Li, Yuhua Zhou, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **<span style="color:#120A8F;">Tingjun Hou</span>**$^\dagger$, **<span style="color:#120A8F;">Jieping Ye</span>**$^\dagger$, **<span style="color:#120A8F;">Aimin Pan</span>**$^\dagger$, **ACM SIGKDD Conference on Knowledge Discovery and Data Mining**, <span style="color:#F29F58;">2026</span>
 
+- [Can Broad Biomedical Knowledge be Contextualized into Scenario-Grounded Propositions?](https://arxiv.org/pdf/2605.27082), Qingyuan Zeng, Ziyang Chen, Pengxiang Cai, Zixin Guan, Anglin Liu, Lang Qin, Xinyao LAI, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, preprint, <span style="color:#F29F58;">2026</span>
+
 - <span style="color:#F29F58;">[AAAI|Oral]</span> [ProtCLIP: Function-Informed Protein Multi-Modal Learning](https://arxiv.org/pdf/2412.20014), Hanjing Zhou$^\*$, Mingze Yin$^\*$, Wei Wu, Mingyang Li, Kun Fu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, Zheng Wang$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, <span style="color:#F29F58;">2025</span>
 
 - <span style="color:#F29F58;">[SPJ HDS]</span> [Multi-modal CLIP-informed protein editing](https://spj.science.org/doi/pdf/10.34133/hds.0211), Mingze Yin$^\*$, Hanjing Zhou$^\*$, Yiheng Zhu, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, **Health Data Science**, <span style="color:#F29F58;">2024</span>
@@ -89,7 +91,6 @@ AI for Biomedical Science: Towards Drug Design and Therapeutic Science
 - <span style="color:#F29F58;">[ACM BCB]</span> [ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning](https://arxiv.org/abs/2404.14777), Ling Yue, Sixue Xing, **<span style="color:#120A8F;">Jintai Chen</span>**, Tianfan Fu, **ACM Conference on Bioinformatics, Computational Biology, and Health Informatics**, <span style="color:#F29F58;">2024</span>
 
 - <span style="color:#F29F58;">[ACM BCB]</span> [TrialEnroll: Predicting clinical trial enrollment success with deep & cross network and large language models](https://arxiv.org/pdf/2407.13115), Ling Yue, **<span style="color:#120A8F;">Jintai Chen</span>**, Tianfan Fu, **ACM Conference on Bioinformatics, Computational Biology, and Health Informatics**, <span style="color:#F29F58;">2024</span>
-
 
 <div style="background:#D4E6F8;color:#2D3436;padding:10px 20px;border-radius:8px;font-size:22px;font-weight:bold;border:1px solid #B8D4F0">
 Machine Learning Foundations
