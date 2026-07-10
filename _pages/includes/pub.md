@@ -1,4 +1,4 @@
-# 📄 Selected Publications
+# 📄 Some Publications
 <span style="color:RoyalBlue">The full list can be accessed on <a href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank">Google Scholar</a>.</span> <span style="color:RoyalBlue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
 <div style="background:#D4E6F8;color:#2D3436;padding:10px 20px;border-radius:8px;font-size:22px;font-weight:bold;border:1px solid #B8D4F0">
@@ -27,28 +27,11 @@ AI for Medicine: Towards Multimodal and Individualized Diagnosis Support
   
 - <span style="color:#F29F58;">[MICCAI]</span> [LKM-UNet: Large Kernel Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.07332), Jinhong Wang, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Danny Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2024</span>
 
-<!--
-- <span style="color:#F29F58;">[NCA]</span> [D-Former: A U-shaped dilated Transformer for 3D medical image segmentation](https://arxiv.org/pdf/2201.00462.pdf), Yixuan Wu, Kuanlun Liao, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Jinhong Wang, Honghao Gao, Jian Wu$^\dagger$, **Neural Computing and Applications**, <span style="color:#F29F58;">2022</span>
--->
-
 - <span style="color:#F29F58;">[MICCAI|Oral]</span> [Doctor Imitator: Hand-Radiography-based Bone Age Assessment by Imitating Scoring Methods](https://arxiv.org/pdf/2102.05424.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, and Jian Wu, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2020</span>
 
 - <span style="color:#F29F58;">[Info. Fusion]</span> [From screens to scenes: A survey of embodied AI in healthcare](https://arxiv.org/pdf/2501.07468?), Yihao Liu, Xu Cao, Tingting Chen, Yankai Jiang, Junjie You, Minghua Wu, Xiaosong Wang, Mengling Feng, Yaochu Jin, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **Information Fusion**, <span style="color:#F29F58;">2025</span>
 
-<!--
-- <span style="color:#F29F58;">[BIBM]</span> [Flow-Mixup: Classifying multi-labeled medical images with corrupted labels](https://arxiv.org/pdf/2102.08148.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**, Hongyun Yu, Ruiwei Feng, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Bioinformatics and Biomedicine**, <span style="color:#F29F58;">2020</span>
--->
-<!--
-- <span style="color:#F29F58;">[TMI]</span> [Interactive few-shot learning: Limited supervision, better medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9358206), Ruiwei Feng$^\*$, Xiangshang Zheng$^\*$, Tianxiang Gao$^\*$, **<span style="color:#120A8F;">Jintai Chen</span>**, Wenzhe Wang, Danny Z Chen, Jian Wu$^\dagger$, **IEEE Transactions on Medical Imaging**, <span style="color:#F29F58;">2021</span>
--->
-
 - <span style="color:#F29F58;">[ACM MM]</span> [GCL: Gradient-Guided Contrastive Learning for Medical Image Segmentation with Multi-Perspective Meta Labels](https://arxiv.org/pdf/2309.08888.pdf), Yixuan Wu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jiahuan Yan, Yiheng Zhu, Danny Chen, Jian Wu$^\dagger$, **ACM International Conference on Multimedia**, <span style="color:#F29F58;">2023</span>
-
-<!--
-- <span style="color:#F29F58;">[MICCAI]</span> [Multi-view learning with feature level fusion for cervical dysplasia diagnosis](https://link.springer.com/content/pdf/10.1007/978-3-030-32239-7_37.pdf), Tingting Chen, Xinjun Ma, Xuechen Liu, Wenzhe Wang, Ruiwei Feng, **<span style="color:#120A8F;">Jintai Chen</span>**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2019</span>
-
-- <span style="color:#F29F58;">[BIBM]</span> [Multi-rater Prompting for Ambiguous Medical Image Segmentation](https://arxiv.org/pdf/2404.07580), Jinhong Wang, Yi Cheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Hongxia Xu, Danny Chen, Jian Wu$^\dagger$, **International Conference on Bioinformatics and Biomedicine**, <span style="color:#F29F58;">2024</span>
--->
 
 <!--
 - <span style="color:#F29F58;">[ISBI]</span> [SSN: A stair-shape network for real-time polyp segmentation in colonoscopy images](https://ieeexplore.ieee.org/abstract/document/9098492), Ruiwei Feng, Biwen Lei, Wenzhe Wang, Tingting Chen, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Jian Wu$^\dagger$, **International Symposium on Biomedical Imaging**, <span style="color:#F29F58;">2020</span>
@@ -57,9 +40,7 @@ AI for Medicine: Towards Multimodal and Individualized Diagnosis Support
 
 - <span style="color:#F29F58;">[JBHI]</span> [A deep learning approach for colonoscopy pathology WSI analysis: Accurate segmentation and classification](https://ieeexplore.ieee.org/abstract/document/9269406), Ruiwei Feng, Xuechen Liu, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Honghao Gao, Jian Wu$^\dagger$, **IEEE Journal of Biomedical and Health Informatics**, <span style="color:#F29F58;">2020</span>
 -->
-<!--
-- <span style="color:#F29F58;">[TCBB]</span> [A transfer learning based super-resolution microscopy for biopsy slice images: the joint methods perspective](https://ieeexplore.ieee.org/abstract/document/9082112), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Haochao Ying$^\*$, Xuechen Liu$^\*$, Jingjing Gu, Ruiwei Feng, Tingting Chen, Honghao Gao$^\dagger$, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, <span style="color:#F29F58;">2020</span>
--->
+
 <!--
 - <span style="color:#F29F58;">[TCBB]</span> [A corresponding region fusion framework for multi-modal cervical lesion detection](https://ieeexplore.ieee.org/abstract/document/9784879), Tingting Chen, Wenhao Zheng, Heping Hu, Chunhua Luo, **<span style="color:#120A8F;">Jintai Chen</span>**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Honghao Gao, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, <span style="color:#F29F58;">2022</span>
 
@@ -76,11 +57,9 @@ Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Ji
 - <span style="color:#F29F58;">[Info. Fusion]</span> [OmniFuse: A General Modality Fusion Framework for Multi-Modality Learning on Low-quality Medical Data](https://www.sciencedirect.com/science/article/pii/S1566253524006687), Yixuan Wua, <span style="color:#120A8F;">Jintai Chen</span>$^\dagger$, Lianting Hu, Hongxia Xu, Huiying Liang$^\dagger$, Jian Wu$^\dagger$, **Information Fusion**, <span style="color:#F29F58;">2024</span>
 
 <!--
-- <span style="color:#F29F58;">[EMNLP-F]</span> [Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification](https://arxiv.org/pdf/2311.16650.pdf) [\[**Code**\]](https://github.com/jyansir/Text2Tree), Jiahuan Yan, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu$^\dagger$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **Findings of Empirical Methods in Natural Language Processing**, <span style="color:#F29F58;">2023</span>
--->
-<!--
 - <span style="color:#F29F58;">[Info. Fusion]</span> [From Screens to Scenes: A Survey of Embodied AI in Healthcare](https://arxiv.org/pdf/2501.07468), Yihao Liu, Xu Cao, Tingting Chen, Yankai Jiang, Junjie You, Minghua Wu, Xiaosong Wang, Mengling Feng, Yaochu Jin, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **Information Fusion**, <span style="color:#F29F58;">2025</span>
 -->
+
 - <span style="color:#F29F58;">[ICLR]</span> [Synergy learning with Small Models Promotes LLM zero-shot Medical Tabular Prediction](https://arxiv.org/pdf/2403.01570), Jiahuan Yan, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Chaowen Hu, Bo Zheng, Yaojun Hu, Jimeng Sun, Jian Wu, **International Conference on Learning Representations**, <span style="color:#F29F58;">2025</span>
 
 <div style="background:#D4E6F8;color:#2D3436;padding:10px 20px;border-radius:8px;font-size:22px;font-weight:bold;border:1px solid #B8D4F0">
@@ -90,6 +69,8 @@ AI for Biomedical Science: Towards Drug Design and Therapeutic Science
 - <span style="color:#F29F58;">[Nature Scientific Data]</span> [TrialBench: Multi-modal artificial intelligence-ready clinical trial datasets](https://arxiv.org/pdf/2407.00631), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Yaojun Hu$^\*$, Mingchen Cai, Yue Wang, Yingzhou Lu, Xu Cao, Miao Lin, Hongxia Xu, Jian Wu, Cao Xiao, Jimeng Sun, Lucas Glass, Kexin Huang, Marinka Zitnik, Tianfan Fu$^\dagger$, **Nature Scientific Data**, <span style="color:#F29F58;">2025</span>
 
 - [RareAgent: Self-evolving Reasoning for Drug Repurposing in Rare Diseases](https://arxiv.org/pdf/2510.05764), Lang Qin, Zijian Gan, Xu Cao, Pengcheng Jiang, Yankai Jiang, Jiawei Han, Kaishun Wu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, <span style="color:#F29F58;">2025</span>
+
+- [APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization](https://arxiv.org/pdf/2606.12991), Yifan Zhao, Lang Qin, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **ACM SIGKDD Conference on Knowledge Discovery and Data Mining**, <span style="color:#F29F58;">2026</span>
 
 - <span style="color:#F29F58;">[AAAI|Oral]</span> [ProtCLIP: Function-Informed Protein Multi-Modal Learning](https://arxiv.org/pdf/2412.20014), Hanjing Zhou$^\*$, Mingze Yin$^\*$, Wei Wu, Mingyang Li, Kun Fu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, Zheng Wang$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, <span style="color:#F29F58;">2025</span>
 
