@@ -59,7 +59,7 @@ AI for Biomedical Science: Towards Drug Design and Therapeutic Science
 
 - <span style="color:#F29F58;">[npj Drug Dis.]</span> [Quantum-machine-assisted drug discovery](https://www.nature.com/articles/s44386-025-00033-2), Yidong Zhou$^\*$, <span style="color:#120A8F;">Jintai Chen</span>$^\*$, Jinglei Cheng, Xu Cao, Yuanyuan Zhang, Gopal Karemore, Marinka Zitnik, Frederic T. Chong, Junyu Liu$^\dagger$, Tianfan Fu$^\dagger$, Zhiding Liang$^\dagger$, **npj Drug Discovery**, <span style="color:#F29F58;">2026</span>
 
-- Caduceus: MoE Foundation Models for Unifying Biological and Natural Language, Mingze Yin, Yiheng Zhu, Jialu Wu, Jian Ma, Hanjing Zhou, Mingyang Li, Yuhua Zhou, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **<span style="color:#120A8F;">Tingjun Hou</span>**$^\dagger$, **<span style="color:#120A8F;">Jieping Ye</span>**$^\dagger$, **<span style="color:#120A8F;">Aimin Pan</span>**$^\dagger$, **ACM SIGKDD Conference on Knowledge Discovery and Data Mining**, <span style="color:#F29F58;">2026</span>
+- Caduceus: MoE Foundation Models for Unifying Biological and Natural Language, Mingze Yin, Yiheng Zhu, Jialu Wu, Jian Ma, Hanjing Zhou, Mingyang Li, Yuhua Zhou, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Tingjun Hou</span>$^\dagger$, Jieping Ye$^\dagger$, Aimin Pan$^\dagger$, **ACM SIGKDD Conference on Knowledge Discovery and Data Mining**, <span style="color:#F29F58;">2026</span>
 
 - [Can Broad Biomedical Knowledge be Contextualized into Scenario-Grounded Propositions?](https://arxiv.org/pdf/2605.27082), Qingyuan Zeng, Ziyang Chen, Pengxiang Cai, Zixin Guan, Anglin Liu, Lang Qin, Xinyao LAI, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, preprint, <span style="color:#F29F58;">2026</span>
 
