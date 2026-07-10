@@ -72,7 +72,7 @@ AI for Biomedical Science: Towards Drug Design and Therapeutic Science
 
 - [APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization](https://arxiv.org/pdf/2606.12991), Yifan Zhao$^\*$, Lang Qin$^\*$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **ACM SIGKDD Conference on Knowledge Discovery and Data Mining**, <span style="color:#F29F58;">2026</span>
 
-- [Quantum-machine-assisted drug discovery](https://www.nature.com/articles/s44386-025-00033-2), Yidong Zhou$^\*$, Jintai Chen$^\*$, Jinglei Cheng, Xu Cao, Yuanyuan Zhang, Gopal Karemore, Marinka Zitnik, Frederic T. Chong, Junyu Liu$^\dagger$, Tianfan Fu$^\dagger$, Zhiding Liang$^\dagger$, **npj Drug Discovery**, <span style="color:#F29F58;">2026</span> 
+- [Quantum-machine-assisted drug discovery](https://www.nature.com/articles/s44386-025-00033-2), Yidong Zhou$^\*$, <span style="color:#120A8F;">Jintai Chen</span>$^\*$, Jinglei Cheng, Xu Cao, Yuanyuan Zhang, Gopal Karemore, Marinka Zitnik, Frederic T. Chong, Junyu Liu$^\dagger$, Tianfan Fu$^\dagger$, Zhiding Liang$^\dagger$, **npj Drug Discovery**, <span style="color:#F29F58;">2026</span> 
 
 - <span style="color:#F29F58;">[AAAI|Oral]</span> [ProtCLIP: Function-Informed Protein Multi-Modal Learning](https://arxiv.org/pdf/2412.20014), Hanjing Zhou$^\*$, Mingze Yin$^\*$, Wei Wu, Mingyang Li, Kun Fu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Jian Wu$^\dagger$, Zheng Wang$^\dagger$, **AAAI Association for the Advancement of Artificial Intelligence**, <span style="color:#F29F58;">2025</span>
 
