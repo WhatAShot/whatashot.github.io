@@ -2,7 +2,7 @@ Hey, I'm Jintai Chen, a tenure-track assistant professor at HKUST (Guangzhou), a
 
 Prior to that, I am a postdoctoral researcher at the University of Illinois at Urbana-Champaign, where I collaborated closely with Prof. Jimeng Sun. I obtained my Ph.D. from the College of Computer Science and Technology at Zhejiang University, under the supervision of Prof. Jian Wu. My research interests lie at the intersection of AI and healthcare, with a particular focus on developing generalizable foundation models and generative models to address real-world medical challenges, including clinical trial optimization, biomedical discovery, clinical predictive modeling, and health monitoring.
 
-<span style="color:#AA381E">I am actively seeking highly motivated Ph.D. students with robust backgrounds in computer science/AI/ML or closely related disciplines. ⚠️Notably, an authentic passion for scientific research is an indispensable reality of the role, not a boilerplate statement, alongside a high proficiency in programming.⚠️ This call for applications remains open indefinitely.</span>
+<span style="color:#AA381E">I am actively seeking highly motivated Ph.D. students with robust backgrounds in computer science/AI/ML or closely related disciplines. ⚠️Notably, an authentic passion for scientific research is an indispensable reality of the role (this is not a boilerplate statement), alongside a high proficiency in programming.⚠️ This call for applications remains open indefinitely.</span>
 
 <span style="color:#AA381E">For Ph.D. applications (General Track), please fill out [the form](https://www.wjx.top/vm/h4WVnLv.aspx#).</span>
 
