@@ -5,7 +5,7 @@
 AI for Medicine: Towards Multimodal and Individualized Diagnosis Support
 </div>
 
-- <span style="color:#F29F58;">[ICML]</span> [Med-Scout: Curing MLLMs' Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training](https://arxiv.org/abs/2601.23220) [\[**Code**\]](https://github.com/HKUSTGZ-ML4Health-Lab/Med-Scout) [\[**Homepage**\]](https://c0216rc.github.io/Med-Scout/), Anglin Liu, Ruichao Chen, Yi Lu, Hongxia Xu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **International Conference on Machine Learning**, <span style="color:#F29F58;">2026</span>
+- <span style="color:#F29F58;">[ICML]</span> [Med-Scout: Curing MLLMs' Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training](https://arxiv.org/abs/2601.23220) [\[**Code**\]](https://github.com/HKUSTGZ-ML4Health-Lab/Med-Scout) [\[**Project**\]](https://c0216rc.github.io/Med-Scout/), Anglin Liu, Ruichao Chen, Yi Lu, Hongxia Xu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **International Conference on Machine Learning**, <span style="color:#F29F58;">2026</span>
 
 - <span style="color:#F29F58;">[Nat. Com.]</span> [Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts](https://www.nature.com/articles/s41467-024-44930-y) [\[**Code**\]](https://github.com/shuaih720/CHDdECG), 
 **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Shuai Huang$^\*$, Ying Zhang$^\*$, Qing Chang$^\*$, Yixiao Zhang, Dantong Li, Jia Qiu, Lianting Hu, Xiaoting Peng, Yunmei Du, Yunfei Gao, Danny Chen, Abdelouahab Bellou$^\dagger$, Jian Wu$^\dagger$, Huiying Liang$^\dagger$,
@@ -41,24 +41,9 @@ AI for Medicine: Towards Multimodal and Individualized Diagnosis Support
 - <span style="color:#F29F58;">[JBHI]</span> [A deep learning approach for colonoscopy pathology WSI analysis: Accurate segmentation and classification](https://ieeexplore.ieee.org/abstract/document/9269406), Ruiwei Feng, Xuechen Liu, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Z Chen, Honghao Gao, Jian Wu$^\dagger$, **IEEE Journal of Biomedical and Health Informatics**, <span style="color:#F29F58;">2020</span>
 -->
 
-<!--
-- <span style="color:#F29F58;">[TCBB]</span> [A corresponding region fusion framework for multi-modal cervical lesion detection](https://ieeexplore.ieee.org/abstract/document/9784879), Tingting Chen, Wenhao Zheng, Heping Hu, Chunhua Luo, **<span style="color:#120A8F;">Jintai Chen</span>**, Chunnv Yuan, Weiguo Lu, Danny Z Chen, Honghao Gao, Jian Wu$^\dagger$, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**, <span style="color:#F29F58;">2022</span>
-
-- <span style="color:#F29F58;">[Neurocomputing]</span> [A semi-supervised deep convolutional framework for signet ring cell detection](https://www.sciencedirect.com/science/article/pii/S0925231221000941)[\[**Code**\]](https://github.com/ooooverflow/DigestPath<span style="color:#F29F58;">2019</span>), Haochao Ying, Qingyu Song, **<span style="color:#120A8F;">Jintai Chen</span>**, Tingting Liang, Jingjing Gu, Fuzhen Zhuang, Danny Z Chen, Jian Wu$^\dagger$, **Neurocomputing**, <span style="color:#F29F58;">2021</span>
--->
-<!--
-- <span style="color:#F29F58;">[JBHI]</span> [Polygonal Approximation Learning for Convex Object Segmentation in Biomedical Images with Bounding Box Supervision](https://ieeexplore.ieee.org/abstract/document/10354298), [\[**Code**\]](https://github.com/shenmishajing/PAL), 
-Wenhao Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Kai Zhang, Jiahuan Yan, Jinhong Wang, Yi Cheng, Bang Du, Danny Z Chen, Honghao Gao, Jian Wu, Hongxia Xu$^\dagger$, **IEEE Journal of Biomedical and Health Informatics**, <span style="color:#F29F58;">2023</span>
--->
-<!--
-- <span style="color:#F29F58;">[MICCAI|Oral]</span> [OneSeg: Self-learning and One-shot Learning based Single-slice Annotation for 3D Medical Image Segmentation](https://arxiv.org/pdf/2309.13671), Yixuan Wu, Bo Zheng, **<span style="color:#120A8F;">Jintai Chen</span>**, Danny Chen, and Jian Wu$^\dagger$, **International Conference on Medical Image Computing and Computer-Assisted Intervention**, <span style="color:#F29F58;">2022</span>
--->
-
 - <span style="color:#F29F58;">[Info. Fusion]</span> [OmniFuse: A General Modality Fusion Framework for Multi-Modality Learning on Low-quality Medical Data](https://www.sciencedirect.com/science/article/pii/S1566253524006687), Yixuan Wua, <span style="color:#120A8F;">Jintai Chen</span>$^\dagger$, Lianting Hu, Hongxia Xu, Huiying Liang$^\dagger$, Jian Wu$^\dagger$, **Information Fusion**, <span style="color:#F29F58;">2024</span>
 
-<!--
 - <span style="color:#F29F58;">[Info. Fusion]</span> [From Screens to Scenes: A Survey of Embodied AI in Healthcare](https://arxiv.org/pdf/2501.07468), Yihao Liu, Xu Cao, Tingting Chen, Yankai Jiang, Junjie You, Minghua Wu, Xiaosong Wang, Mengling Feng, Yaochu Jin, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **Information Fusion**, <span style="color:#F29F58;">2025</span>
--->
 
 - <span style="color:#F29F58;">[ICLR]</span> [Synergy learning with Small Models Promotes LLM zero-shot Medical Tabular Prediction](https://arxiv.org/pdf/2403.01570), Jiahuan Yan, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Chaowen Hu, Bo Zheng, Yaojun Hu, Jimeng Sun, Jian Wu, **International Conference on Learning Representations**, <span style="color:#F29F58;">2025</span>
 
@@ -70,7 +55,7 @@ AI for Biomedical Science: Towards Drug Design and Therapeutic Science
 
 - [RareAgent: Self-evolving Reasoning for Drug Repurposing in Rare Diseases](https://arxiv.org/pdf/2510.05764), Lang Qin, Zijian Gan, Xu Cao, Pengcheng Jiang, Yankai Jiang, Jiawei Han, Kaishun Wu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, <span style="color:#F29F58;">2025</span>
 
-- <span style="color:#F29F58;">[ACM KDD]</span> [APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization](https://arxiv.org/pdf/2606.12991), Yifan Zhao$^\*$, Lang Qin$^\*$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **ACM SIGKDD Conference on Knowledge Discovery and Data Mining**, <span style="color:#F29F58;">2026</span>
+- <span style="color:#F29F58;">[ACM KDD]</span> [APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization](https://arxiv.org/pdf/2606.12991) [\[**Code**\]](https://github.com/HKUSTGZ-ML4Health-Lab/APCyc) [\[**Project**\]](https://hkustgz-ml4health-lab.github.io/APCyc/), Yifan Zhao$^\*$, Lang Qin$^\*$, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **ACM SIGKDD Conference on Knowledge Discovery and Data Mining**, <span style="color:#F29F58;">2026</span>
 
 - <span style="color:#F29F58;">[npj Drug Dis.]</span> [Quantum-machine-assisted drug discovery](https://www.nature.com/articles/s44386-025-00033-2), Yidong Zhou$^\*$, <span style="color:#120A8F;">Jintai Chen</span>$^\*$, Jinglei Cheng, Xu Cao, Yuanyuan Zhang, Gopal Karemore, Marinka Zitnik, Frederic T. Chong, Junyu Liu$^\dagger$, Tianfan Fu$^\dagger$, Zhiding Liang$^\dagger$, **npj Drug Discovery**, <span style="color:#F29F58;">2026</span>
 
