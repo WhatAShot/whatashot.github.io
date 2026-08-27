@@ -15,6 +15,14 @@
 
 ◦ CVPR 2026 Workshop on [Workshop on Computer Vision for Children (CV4CHL)](https://pediamedai.com/cv4chl/), Co-organizer
 
+- Tutorial Organization and Talk:
+
+◦ CNCC 2025 Tutorial on [Tabular Data Foundation Models: A New Paradigm of General Intelligence for Structured Data](https://www.ccf.org.cn/Media_list/cncc/2025-08-14/847589.shtml)
+
+◦ WWW 2026 Tutorial on [Generalist Model for Structured Data: Foundations, Frontiers and Applications](https://dl.acm.org/doi/pdf/10.1145/3774905.3793922)
+
+◦ KDD 2026 Tutorial on [Toward Generalist Models for Structured Data: Fundamentals, Emerging Trends and Applications](https://slies.github.io/kdd-2026-structured-data/)
+
 # 🔗 Useful Resources
 - [HKUST Brand Materials](https://geco.hkust.edu.hk/brand-materials)
 - [*Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded*](https://wp.optics.arizona.edu/kupinski/wp-content/uploads/sites/91/2023/01/Writing_Science_Joshua_Schimel.pdf)
