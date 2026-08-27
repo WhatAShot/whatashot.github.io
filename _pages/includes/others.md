@@ -3,7 +3,8 @@
 - Area Chair/Senior Program Chair: IJCAI, NeurIPS, AAAI
 - Review for Journals: Nature Human Behaviour, Nature Communications, TPAMI, JMLR, Science Bulletin, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics, Journal of Pharmaceutical Analysis, spj Research, spj Health Data Science, PLOS Digital Health, etc.
 - Guest Editor for Journals: JBHI, spj Health Data Science
-- Executive Board Member of the Digital Medicine Symposium within the China Computer Federation
+- Executive Board Member of the Digital Medicine Symposium within the China Computer Federation (CCF)
+- Executive Board Member of the CCF Expert Committee on Big Data
 - Committee Member of the Computer Academy of Guangdong
 - Committee Member of the Guangdong Respiratory and Health Association
 - Early Career Editorial Board Member of Science Bulletin
