@@ -5,11 +5,11 @@
 AI for Medicine: Towards Multimodal and Individualized Diagnosis Support
 </div>
 
-- <span style="color:#F29F58;">[ICML]</span> [Med-Scout: Curing MLLMs' Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training](https://arxiv.org/abs/2601.23220) [\[**Code**\]](https://github.com/HKUSTGZ-ML4Health-Lab/Med-Scout) [\[**Project**\]](https://c0216rc.github.io/Med-Scout/), Anglin Liu, Ruichao Chen, Yi Lu, Hongxia Xu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **International Conference on Machine Learning**, <span style="color:#F29F58;">2026</span>
-
 - <span style="color:#F29F58;">[Nat. Com.]</span> [Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts](https://www.nature.com/articles/s41467-024-44930-y) [\[**Code**\]](https://github.com/shuaih720/CHDdECG), 
 **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Shuai Huang$^\*$, Ying Zhang$^\*$, Qing Chang$^\*$, Yixiao Zhang, Dantong Li, Jia Qiu, Lianting Hu, Xiaoting Peng, Yunmei Du, Yunfei Gao, Danny Chen, Abdelouahab Bellou$^\dagger$, Jian Wu$^\dagger$, Huiying Liang$^\dagger$,
 **Nature Communications**, <span style="color:#F29F58;">2024</span>
+
+- <span style="color:#F29F58;">[ICML]</span> [Med-Scout: Curing MLLMs' Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training](https://arxiv.org/abs/2601.23220) [\[**Code**\]](https://github.com/HKUSTGZ-ML4Health-Lab/Med-Scout) [\[**Project**\]](https://c0216rc.github.io/Med-Scout/), Anglin Liu, Ruichao Chen, Yi Lu, Hongxia Xu, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **International Conference on Machine Learning**, <span style="color:#F29F58;">2026</span>
 
 - <span style="color:#F29F58;">[IJCAI]</span> [Electrocardio panorama: Synthesizing new ECG views with self-supervision](https://www.ijcai.org/proceedings/2021/0495.pdf) [\[**Code and Data**\]](https://github.com/WhatAShot/Electrocardio-Panorama), 
 **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Xiangshang Zheng$^\*$, Hongyun Yu$^\*$, Danny Z. Chen, Jian Wu$^\dagger$,
