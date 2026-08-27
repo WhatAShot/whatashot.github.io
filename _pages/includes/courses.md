@@ -4,3 +4,4 @@
 - AIAA6101 - Artificial Intelligence Seminar (Spring 2025)
 - AIAA3111 - Introduction to Data Mining (Fall 2025)
 - AIAA2205 - Introduction to Artificial Intelligence (Spring 2026, Fall 2026)
+- UCUG1002 - Artificial Intelligence General Education (Fall 2026)
