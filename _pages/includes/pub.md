@@ -81,7 +81,7 @@ AI for Biomedical Science: Towards Drug Design and Therapeutic Science
 Machine Learning Foundations
 </div>
 
-- [TabR1: Taming GRPO for Tabular Reasoning LLMs](https://arxiv.org/pdf/2510.17385v1), Pengxiang Cai, Zihao Gao, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, Preprint, <span style="color:#F29F58;">2025</span>
+- <span style="color:#F29F58;">[NeurIPS]</span>[TabR1: Taming GRPO for Tabular Reasoning LLMs](https://arxiv.org/pdf/2510.17385v1), Pengxiang Cai, Zihao Gao, **<span style="color:#120A8F;">Jintai Chen</span>**$^\dagger$, **Annual Conference on Neural Information Processing Systems**, <span style="color:#F29F58;">2026</span>
 
 - <span style="color:#F29F58;">[CVPR]</span> [A Hierarchical Graph Network for 3D Object Detection on Point Clouds](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf), **<span style="color:#120A8F;">Jintai Chen</span>**$^\*$, Biwen Lei$^\*$, Qingyu Song$^\*$, Haochao Ying, Danny Z Chen, Jian Wu$^\dagger$, **IEEE/CVF Conference on Computer Vision and Pattern Recognition**, <span style="color:#F29F58;">2020</span>
 
