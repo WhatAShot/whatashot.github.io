@@ -316,3 +316,128 @@ body{
 @media(max-width:768px){
   .profile-tech-frame{width:220px;margin-top:.5rem}
 }
+
+/* Refinement v3 — hierarchy, density, consistent navigation */
+.site-nav .navbar-item.is-active,
+.site-nav .navbar-link.is-active{
+  background:var(--primary-dark)!important;
+  color:#fff!important;
+}
+.site-nav .navbar-item.is-active:hover{
+  background:var(--primary-dark)!important;
+  color:#fff!important;
+}
+
+/* Smaller, tighter opening */
+.profile-hero .hero-body{
+  padding:1.65rem 1.5rem 1.75rem!important;
+}
+.hero-title{
+  font-size:2.45rem!important;
+  margin-bottom:.55rem!important;
+}
+.hero-subtitle{
+  font-size:1.05rem!important;
+  margin-bottom:.45rem!important;
+}
+.hero-copy{
+  font-size:.95rem!important;
+  line-height:1.42!important;
+}
+.hero-kicker{
+  font-size:.72rem!important;
+  margin-bottom:.4rem!important;
+}
+.profile-tech-frame{
+  width:min(100%,205px)!important;
+  padding:.48rem!important;
+}
+.profile-tech-caption{
+  font-size:.58rem!important;
+  margin-top:.4rem!important;
+}
+.profile-tech-caption small{
+  font-size:.55rem!important;
+}
+.hero-orbit-a{width:230px!important;height:230px!important;top:-120px!important}
+.hero-orbit-b{width:145px!important;height:145px!important;bottom:-90px!important}
+
+/* Research introduction is context, not a fourth direction */
+.research-intro-block{
+  padding:.2rem 0 .9rem;
+  margin-bottom:.85rem;
+  border-bottom:1px solid var(--line);
+}
+.research-intro-block .title{
+  color:var(--primary-dark);
+  font-size:1.4rem!important;
+}
+.research-intro-block p{
+  max-width:760px;
+  color:var(--muted);
+  font-size:.96rem;
+  line-height:1.5;
+}
+.research-stack{gap:.7rem!important}
+.research-box{
+  padding:1.05rem 1.2rem!important;
+}
+.research-box .title{
+  font-size:1.38rem!important;
+}
+.research-box p{
+  font-size:.91rem;
+  line-height:1.43;
+}
+.research-box .research-tags{
+  margin-top:.55rem!important;
+}
+.biomedical-box{
+  margin-top:.85rem!important;
+  padding:1.1rem 1.2rem!important;
+}
+.biomedical-box .title{
+  color:var(--primary-dark);
+  font-size:1.35rem!important;
+}
+
+/* Quick links mimic the compact old sidebar rather than a large card */
+.quick-links-compact{
+  display:flex;
+  gap:.8rem;
+  flex-wrap:wrap;
+  align-items:center;
+  padding:.55rem 0;
+  border-top:1px solid var(--line);
+  border-bottom:1px solid var(--line);
+  font-size:.8rem;
+}
+.quick-links-compact a{
+  font-weight:600;
+  white-space:nowrap;
+}
+.quick-links-compact a+a:before{
+  content:"·";
+  color:#a4adb2;
+  margin-right:.8rem;
+}
+
+/* Footer counter */
+.visitor-count{
+  font-size:.78rem;
+  color:#6b7981;
+}
+.visitor-count strong{
+  color:var(--primary);
+}
+
+/* Selected publications should stay compact */
+.pub-roles{display:none!important}
+
+@media(max-width:768px){
+  .profile-hero .hero-body{padding:1.35rem 1.1rem 1.45rem!important}
+  .hero-title{font-size:2rem!important}
+  .profile-tech-frame{width:165px!important}
+  .quick-links-compact{gap:.55rem}
+  .quick-links-compact a+a:before{margin-right:.55rem}
+}
