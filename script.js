@@ -1,31 +1,37 @@
-const config = window.RESEARCH_CONFIG;
+const config = window.RESEARCH_CONFIG || {aiMethods:[], biomedicalAreas:[]};
 
-function renderResearch() {
-  if (!config) return;
-
-  const methodGrid = document.getElementById("method-grid");
-  methodGrid.innerHTML = config.aiMethods.map((method, index) => `
-    <article class="pillar-row">
-      <div class="pillar-index">${String(index + 1).padStart(2, "0")}</div>
-      <div class="pillar-main">
-        <h3>${method.title}</h3>
-        <p>${method.summary}</p>
+const colorClasses = ["multimodal","generative","tabular"];
+const research = document.getElementById("research");
+if (research) {
+  research.innerHTML = config.aiMethods.map((m,i)=>`
+    <section class="research-box ${colorClasses[i] || "multimodal"}">
+      <h3 class="title is-4">${m.title}</h3>
+      <p>${m.summary}</p>
+      <div class="tags research-tags">
+        ${(m.tags || []).map(t=>`<span class="tag">${t}</span>`).join("")}
       </div>
-      <div class="pillar-tags">
-        ${(method.tags || []).map(tag => `<span>${tag}</span>`).join("")}
-      </div>
-    </article>
-  `).join("");
-
-  const pipeline = document.getElementById("pipeline");
-  pipeline.innerHTML = config.biomedicalAreas.map((area, index) => `
-    <article class="biomedical-item">
-      <span class="biomedical-index">${String(index + 1).padStart(2, "0")}</span>
-      <h3>${area.title}</h3>
-      <p>${area.subtitle}</p>
-    </article>
-  `).join("");
+    </section>`
+  ).join("");
 }
 
-renderResearch();
-document.getElementById("year").textContent = new Date().getFullYear();
+const biomedical = document.getElementById("biomedical-grid");
+if (biomedical) {
+  biomedical.innerHTML = config.biomedicalAreas.map(a=>`
+    <div class="column">
+      <div class="bio-item">
+        <h3>${a.title}</h3>
+        <p>${a.subtitle}</p>
+      </div>
+    </div>`
+  ).join("");
+}
+
+document.querySelectorAll(".navbar-burger").forEach(el=>{
+  el.addEventListener("click", ()=>{
+    const target=document.getElementById(el.dataset.target);
+    el.classList.toggle("is-active");
+    target?.classList.toggle("is-active");
+  });
+});
+const year=document.getElementById("year");
+if(year) year.textContent=new Date().getFullYear();
