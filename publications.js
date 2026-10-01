@@ -14,8 +14,28 @@ function renderFilters(){
   }));
 }
 
-function authorHtml(authors){
-  return authors.replace(/Jintai Chen/g, "<strong>Jintai Chen</strong>");
+function roleSet(arr){ return new Set(arr || []); }
+
+function authorHtml(pub){
+  const first = roleSet(pub.firstAuthors);
+  const corr = roleSet(pub.correspondingAuthors);
+  return pub.authors.split(", ").map(name => {
+    const marks = `${first.has(name) ? "†" : ""}${corr.has(name) ? "*" : ""}`;
+    const label = `${name}${marks ? `<sup>${marks}</sup>` : ""}`;
+    return name === "Jintai Chen" ? `<strong>${label}</strong>` : label;
+  }).join(", ");
+}
+
+function roleLine(pub){
+  const first = pub.firstAuthors || [];
+  const corr = pub.correspondingAuthors || [];
+  const firstLabel = first.length > 1 ? "First / co-first" : "First author";
+  const corrText = corr.length ? corr.join(", ") : "Not explicitly recorded in current source";
+  return `
+    <div class="pub-roles">
+      <span><b>${firstLabel}:</b> ${first.join(", ") || "—"}</span>
+      <span><b>Corresponding:</b> ${corrText}</span>
+    </div>`;
 }
 
 function renderPubs(){
@@ -32,7 +52,8 @@ function renderPubs(){
         <div class="pub-main">
           <div class="pub-topline"><span class="venue-badge">${p.badge || p.venue}</span></div>
           <h2>${p.title}</h2>
-          <p class="pub-authors">${authorHtml(p.authors)}</p>
+          <p class="pub-authors">${authorHtml(p)}</p>
+          ${roleLine(p)}
           <div class="pub-meta">
             <span>${p.venue}</span>
             <div class="pub-tags">${(p.tags||[]).map(t => `<span>${t}</span>`).join("")}</div>
