@@ -17,23 +17,23 @@ function renderFilters(){
 function roleSet(arr){ return new Set(arr || []); }
 
 function authorHtml(pub){
-  const first = roleSet(pub.firstAuthors);
+  const coFirst = roleSet(pub.coFirstAuthors);
   const corr = roleSet(pub.correspondingAuthors);
   return pub.authors.split(", ").map(name => {
-    const marks = `${first.has(name) ? "†" : ""}${corr.has(name) ? "*" : ""}`;
+    const marks = `${coFirst.has(name) ? "†" : ""}${corr.has(name) ? "*" : ""}`;
     const label = `${name}${marks ? `<sup>${marks}</sup>` : ""}`;
     return name === "Jintai Chen" ? `<strong>${label}</strong>` : label;
   }).join(", ");
 }
 
 function roleLine(pub){
-  const first = pub.firstAuthors || [];
+  const coFirst = pub.coFirstAuthors || [];
   const corr = pub.correspondingAuthors || [];
-  const firstLabel = first.length > 1 ? "First / co-first" : "First author";
+  const firstLabel = "Co-first";
   const corrText = corr.length ? corr.join(", ") : "Not explicitly recorded in current source";
   return `
     <div class="pub-roles">
-      <span><b>${firstLabel}:</b> ${first.join(", ") || "—"}</span>
+      <span><b>${firstLabel}:</b> ${coFirst.join(", ") || "—"}</span>
       <span><b>Corresponding:</b> ${corrText}</span>
     </div>`;
 }
