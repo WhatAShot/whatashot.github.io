@@ -18,12 +18,12 @@ if (research) {
 
 const biomedical = document.getElementById("biomedical-grid");
 if (biomedical) {
-  biomedical.innerHTML = config.biomedicalAreas.map(a=>`
-    <div class="column">
-      <div class="bio-item">
-        <h3>${zh && a.titleZh ? a.titleZh : a.title}</h3>
-        <p>${zh && a.subtitleZh ? a.subtitleZh : a.subtitle}</p>
-      </div>
+  biomedical.innerHTML = config.biomedicalAreas.map((a,i)=>`
+    <div class="application-node">
+      <span class="application-dot" aria-hidden="true"></span>
+      <div class="application-index">0${i+1}</div>
+      <h3>${zh && a.titleZh ? a.titleZh : a.title}</h3>
+      <p>${zh && a.subtitleZh ? a.subtitleZh : a.subtitle}</p>
     </div>`
   ).join("");
 }
