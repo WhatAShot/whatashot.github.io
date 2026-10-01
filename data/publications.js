@@ -63,8 +63,7 @@ window.PUBLICATIONS = [
       "Multimodal AI",
       "Drug Design"
     ],
-    "priority": 85,
-    "code": "https://github.com/zju-ai4s/Caduceus"
+    "priority": 85
   },
   {
     "year": 2026,
@@ -398,7 +397,7 @@ window.PUBLICATIONS = [
     "code": "https://github.com/KDurant-123/ProtET"
   },
   {
-    "year": 2024,
+    "year": 2025,
     "venue": "spj Research",
     "badge": "spj Research",
     "title": "S²ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning",
