@@ -960,38 +960,3 @@ body{
     line-height:1.32!important;
   }
 }
-
-
-/* ML4Health Lab branding */
-.lab-branding{
-  margin-top:.72rem;
-  padding-top:.7rem;
-  border-top:1px solid var(--line);
-  text-align:center;
-}
-.lab-branding a{
-  display:inline-block;
-  line-height:0;
-}
-.lab-branding img{
-  display:block;
-  width:150px;
-  max-width:58%;
-  height:auto;
-  margin:0 auto;
-  opacity:.9;
-  transition:opacity .15s ease;
-}
-.lab-branding a:hover img{
-  opacity:1;
-}
-@media(max-width:768px){
-  .lab-branding{
-    margin-top:.65rem;
-    padding-top:.62rem;
-  }
-  .lab-branding img{
-    width:132px;
-    max-width:52%;
-  }
-}
