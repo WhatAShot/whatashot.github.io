@@ -1,32 +1,47 @@
-const details = {
-  multimodal: {
-    kicker: "Multimodal AI",
-    title: "From fixed modalities to pan-modal intelligence.",
-    text: "We study models that reason across heterogeneous observations and remain useful as the available modalities, sensors, and views change.",
-    tags: ["ECG / EEG", "Medical imaging", "Protein multimodality", "MLLMs"]
-  },
-  generative: {
-    kicker: "Generative AI",
-    title: "Generation as a tool for design, simulation, and personalization.",
-    text: "We develop generative systems for therapeutic design, physiological synthesis, patient-specific digital twins, and clinically grounded simulation.",
-    tags: ["Peptide design", "Molecular generation", "Digital twins", "Simulation"]
-  },
-  tabular: {
-    kicker: "Tabular AI",
-    title: "General-purpose intelligence for structured data.",
-    text: "We build neural architectures, pretraining paradigms, and reasoning models for tables and tabular data, from general benchmarks to clinical decisions.",
-    tags: ["ExcelFormer", "TabR1", "Pretraining", "Clinical prediction"]
-  }
-};
-document.querySelectorAll(".research-card").forEach(card => {
-  card.addEventListener("click", () => {
-    document.querySelectorAll(".research-card").forEach(c => c.classList.remove("active"));
-    card.classList.add("active");
-    const d = details[card.dataset.method];
-    document.getElementById("detail-kicker").textContent = d.kicker;
-    document.getElementById("detail-title").textContent = d.title;
-    document.getElementById("detail-text").textContent = d.text;
+const config = window.RESEARCH_CONFIG;
+
+function renderResearch() {
+  if (!config) return;
+
+  const methodGrid = document.getElementById("method-grid");
+  methodGrid.innerHTML = config.aiMethods.map((method, index) => `
+    <button class="research-card ${index === 0 ? "active" : ""}" data-method="${method.id}">
+      <span class="card-index">${String(index + 1).padStart(2, "0")}</span>
+      <h3>${method.title}</h3>
+      <p>${method.summary}</p>
+    </button>
+  `).join("");
+
+  const pipeline = document.getElementById("pipeline");
+  pipeline.innerHTML = config.biomedicalAreas.map((area, index) => {
+    const stage = `
+      <div class="stage">
+        <span>${String(index + 1).padStart(2, "0")}</span>
+        <strong>${area.title}</strong>
+        <small>${area.subtitle}</small>
+      </div>`;
+    return index < config.biomedicalAreas.length - 1 ? stage + '<div class="arrow">→</div>' : stage;
+  }).join("");
+
+  function showMethod(id) {
+    const d = config.aiMethods.find(x => x.id === id);
+    if (!d) return;
+    document.getElementById("detail-kicker").textContent = d.title;
+    document.getElementById("detail-title").textContent = d.detailTitle;
+    document.getElementById("detail-text").textContent = d.detailText;
     document.getElementById("detail-tags").innerHTML = d.tags.map(x => `<span>${x}</span>`).join("");
+  }
+
+  document.querySelectorAll(".research-card").forEach(card => {
+    card.addEventListener("click", () => {
+      document.querySelectorAll(".research-card").forEach(c => c.classList.remove("active"));
+      card.classList.add("active");
+      showMethod(card.dataset.method);
+    });
   });
-});
+
+  if (config.aiMethods.length) showMethod(config.aiMethods[0].id);
+}
+
+renderResearch();
 document.getElementById("year").textContent = new Date().getFullYear();
