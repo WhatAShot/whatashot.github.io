@@ -28,6 +28,15 @@ window.RESEARCH_CONFIG = {
       summaryZh: "面向结构化数据的学习与推理，从深度表格预测到数据智能体。",
       tags: ["Deep tabular prediction", "Data agent"],
       tagsZh: ["深度表格预测", "数据智能体"]
+    },
+    {
+      id: "algorithms",
+      title: "Learning Algorithms",
+      titleZh: "学习算法",
+      summary: "General learning methods for representation, optimization, reasoning, and robust prediction across tasks.",
+      summaryZh: "面向多类任务的通用学习方法，涵盖表征、优化、推理与鲁棒预测。",
+      tags: ["Representation learning", "Optimization", "Reinforcement learning", "Robust prediction"],
+      tagsZh: ["表征学习", "优化", "强化学习", "鲁棒预测"]
     }
   ],
 
