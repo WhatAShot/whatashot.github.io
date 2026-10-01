@@ -1,7 +1,10 @@
 window.ACADEMIC = {
   honors: [
+    ["2026", "Selected for the Guangdong Provincial Young Talent Program"],
+    ["2026", "Member, Expert Reviewer Pool for Guangdong Provincial Talent Programs"],
     ["2026.06", "Best Paper Award, CHIL 2026"],
     ["2026.05", "ICML 2025 Silver Reviewer"],
+    ["2025", "Member, Expert Pool of the Digital Guangdong Development Expert Committee"],
     ["2025.11", "Outstanding Special Tutorial Award, CNCC 2025"],
     ["2025.11", "Awardee of the Youth S&T Talent Support Programme of GDSTA"],
     ["2025.08", "Nomination Award for the Brilliant Star of the WAIC Yunfan Awards"],
@@ -20,8 +23,11 @@ window.ACADEMIC = {
     ["2015.10", "National Scholarship (Top 1%)"]
   ],
   honorsZh: [
+    ["2026", "广东省青年人才项目入选者"],
+    ["2026", "广东省人才项目评委专家库专家"],
     ["2026.06", "CHIL 2026 最佳论文奖"],
     ["2026.05", "ICML 2025 银牌审稿人"],
+    ["2025", "数字广东建设专家委员会专家库专家"],
     ["2025.11", "CNCC 2025 优秀专题论坛奖"],
     ["2025.11", "广东省科协青年科技人才培育计划入选者"],
     ["2025.08", "WAIC 2025 云帆奖·璀璨明星提名"],
@@ -101,7 +107,7 @@ window.ACADEMIC = {
     "Area Chair/Senior Program Chair: IJCAI, NeurIPS, AAAI",
     "Review for Journals: Nature Human Behaviour, Nature Communications, TPAMI, JMLR, Science Bulletin, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics, Journal of Pharmaceutical Analysis, spj Research, spj Health Data Science, PLOS Digital Health, etc.",
     "Guest Editor for Journals: JBHI, spj Health Data Science",
-    "Executive Board Member of the Digital Medicine Symposium within the China Computer Federation (CCF)",
+    "Executive Committee Member, CCF Technical Committee on Digital Medicine",
     "Executive Board Member of the CCF Expert Committee on Big Data",
     "Committee Member of the Computer Academy of Guangdong",
     "Committee Member of the Guangdong Respiratory and Health Association",
@@ -118,7 +124,7 @@ window.ACADEMIC = {
     "领域主席 / 高级程序委员会成员：IJCAI、NeurIPS、AAAI",
     "期刊审稿人：Nature Human Behaviour、Nature Communications、TPAMI、JMLR、Science Bulletin、TNNLS、TCBB、JBHI、Frontiers in Public Health、JBSM、TCDS、Frontiers in Genetics、Journal of Pharmaceutical Analysis、spj Research、spj Health Data Science、PLOS Digital Health 等",
     "期刊客座编辑：JBHI、spj Health Data Science",
-    "中国计算机学会（CCF）数字医学研讨会执行委员",
+    "中国计算机学会（CCF）数字医学分会执行委员",
     "中国计算机学会（CCF）大数据专家委员会执行委员",
     "广东省计算机学会委员",
     "广东省呼吸与健康学会委员",

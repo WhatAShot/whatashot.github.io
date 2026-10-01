@@ -8,15 +8,17 @@ window.PUBLICATIONS = [
     "year": 2026,
     "venue": "NeurIPS",
     "badge": "NeurIPS",
-    "title": "TabR1: Taming GRPO for Tabular Reasoning LLMs",
-    "authors": "Pengxiang Cai, Zihao Gao, Jintai Chen",
+    "title": "Strengthening LLMs for Tabular Prediction with Structural Priors",
+    "authors": "Pengxiang Cai, Zihao Gao, Wanchen Lian, Guocong Li, Jintai Chen",
     "coFirstAuthors": [],
     "correspondingAuthors": [
       "Jintai Chen"
     ],
     "paper": "https://arxiv.org/pdf/2510.17385v5",
     "tags": [
-      "Tabular AI"
+      "Tabular AI",
+      "Multimodal AI",
+      "Learning Algorithms"
     ],
     "priority": 90
   },
@@ -109,7 +111,7 @@ window.PUBLICATIONS = [
     "year": 2026,
     "venue": "CHIL",
     "badge": "CHIL · Best Paper",
-    "title": "Video-based Disease Progression Simulation",
+    "title": "Video-Based Disease Progression Simulation",
     "authors": "Xu Cao, Kaizhao Liang, Kuei-Da Liao, Tianren Gao, Zhiguang Ding, Jianguo Cao, Zheng Chen, Jintai Chen, James M Rehg, Jimeng Sun",
     "coFirstAuthors": [],
     "correspondingAuthors": [],
@@ -118,13 +120,14 @@ window.PUBLICATIONS = [
       "Generative AI",
       "Clinical Decision Support"
     ],
-    "priority": 80
+    "priority": 80,
+    "code": "https://github.com/PediaMedAI/PIE"
   },
   {
     "year": 2026,
     "venue": "npj Drug Discovery",
     "badge": "npj Drug Discovery",
-    "title": "Quantum-machine-assisted drug discovery",
+    "title": "Quantum-Machine-Assisted Drug Discovery",
     "authors": "Yidong Zhou, Jintai Chen, Jinglei Cheng, Xu Cao, Yuanyuan Zhang, Gopal Karemore, Marinka Zitnik, Frederic T. Chong, Junyu Liu, Tianfan Fu, Zhiding Liang",
     "coFirstAuthors": [
       "Yidong Zhou",
@@ -146,7 +149,7 @@ window.PUBLICATIONS = [
     "year": 2025,
     "venue": "Nature Scientific Data",
     "badge": "Nature Scientific Data",
-    "title": "TrialBench: Multi-modal artificial intelligence-ready clinical trial datasets",
+    "title": "TrialBench: Multi-Modal Artificial Intelligence-Ready Clinical Trial Datasets",
     "authors": "Jintai Chen, Yaojun Hu, Mingchen Cai, Yue Wang, Yingzhou Lu, Xu Cao, Miao Lin, Hongxia Xu, Jian Wu, Cao Xiao, Jimeng Sun, Lucas Glass, Kexin Huang, Marinka Zitnik, Tianfan Fu",
     "coFirstAuthors": [
       "Jintai Chen",
@@ -199,7 +202,8 @@ window.PUBLICATIONS = [
     "paper": "https://arxiv.org/pdf/2411.11361",
     "tags": [
       "Generative AI",
-      "Learning Algorithms"
+      "Learning Algorithms",
+      "Multimodal AI"
     ],
     "code": "https://github.com/wjh892521292/DAR",
     "homepage": "https://depth-ar.github.io/"
@@ -208,7 +212,7 @@ window.PUBLICATIONS = [
     "year": 2025,
     "venue": "ICLR",
     "badge": "ICLR",
-    "title": "Small Models are LLM Knowledge Triggers for Medical Tabular Prediction",
+    "title": "Small Models Are LLM Knowledge Triggers for Medical Tabular Prediction",
     "authors": "Jiahuan Yan, Jintai Chen, Chaowen Hu, Bo Zheng, Yaojun Hu, Jimeng Sun, Jian Wu",
     "coFirstAuthors": [],
     "correspondingAuthors": [
@@ -217,7 +221,8 @@ window.PUBLICATIONS = [
     "paper": "https://arxiv.org/pdf/2403.01570",
     "tags": [
       "Tabular AI",
-      "Clinical Decision Support"
+      "Clinical Decision Support",
+      "Learning Algorithms"
     ],
     "code": "https://github.com/jyansir/sersal"
   },
@@ -225,7 +230,7 @@ window.PUBLICATIONS = [
     "year": 2025,
     "venue": "Information Fusion",
     "badge": "Information Fusion",
-    "title": "OmniFuse: A General Modality Fusion Framework for Multi-Modality Learning on Low-quality Medical Data",
+    "title": "OmniFuse: A General Modality Fusion Framework for Multi-Modality Learning on Low-Quality Medical Data",
     "authors": "Yixuan Wu, Jintai Chen, Lianting Hu, Hongxia Xu, Huiying Liang, Jian Wu",
     "coFirstAuthors": [],
     "correspondingAuthors": [
@@ -267,7 +272,7 @@ window.PUBLICATIONS = [
     "year": 2025,
     "venue": "ICME",
     "badge": "ICME · Best Paper Nominee",
-    "title": "Group-On: Boosting one-shot segmentation with supportive query",
+    "title": "Group-On: Boosting One-Shot Segmentation with Supportive Query",
     "authors": "Hanjing Zhou, Mingze Yin, Danny Z. Chen, Jian Wu, Jintai Chen",
     "coFirstAuthors": [
       "Hanjing Zhou",
@@ -287,7 +292,7 @@ window.PUBLICATIONS = [
     "year": 2024,
     "venue": "Nature Communications",
     "badge": "Nature Communications",
-    "title": "Congenital heart disease detection by pediatric electrocardiogram based deep learning integrated with human concepts",
+    "title": "Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts",
     "authors": "Jintai Chen, Shuai Huang, Ying Zhang, Qing Chang, Dantong Li, Jia Qiu, Lianting Hu, Xiaoting Peng, Yunmei Du, Yunfei Gao, Danny Z. Chen, Abdelouahab Bellou, Jian Wu, Huiying Liang",
     "coFirstAuthors": [
       "Jintai Chen",
@@ -305,13 +310,16 @@ window.PUBLICATIONS = [
     "tags": [
       "Learning Algorithms",
       "Clinical Decision Support"
-    ]
+    ],
+    "data": "https://github.com/shuaih720/CHDdECG/tree/main/Test%20data",
+    "dataLabel": "Minimal Dataset",
+    "dataLabelZh": "最小数据集"
   },
   {
     "year": 2024,
     "venue": "KDD",
     "badge": "KDD · Oral",
-    "title": "ExcelFormer: Can a Deep Learning Model be a Sure Bet for Tabular Prediction?",
+    "title": "ExcelFormer: Can a Deep Learning Model Be a Sure Bet for Tabular Prediction?",
     "authors": "Jintai Chen, Jiahuan Yan, Qiyuan Chen, Danny Ziyi Chen, Jian Wu, Jimeng Sun",
     "coFirstAuthors": [
       "Jintai Chen",
@@ -322,7 +330,8 @@ window.PUBLICATIONS = [
     ],
     "paper": "https://arxiv.org/pdf/2301.02819",
     "tags": [
-      "Tabular AI"
+      "Tabular AI",
+      "Learning Algorithms"
     ],
     "code": "https://github.com/WhatAShot/ExcelFormer"
   },
@@ -330,7 +339,7 @@ window.PUBLICATIONS = [
     "year": 2024,
     "venue": "KDD",
     "badge": "KDD · Oral",
-    "title": "Team up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-hybrid MLPs",
+    "title": "Team Up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-Hybrid MLPs",
     "authors": "Jiahuan Yan, Jintai Chen, Qianxing Wang, Danny Chen, Jian Wu",
     "coFirstAuthors": [],
     "correspondingAuthors": [
@@ -338,7 +347,8 @@ window.PUBLICATIONS = [
     ],
     "paper": "https://arxiv.org/pdf/2407.09790",
     "tags": [
-      "Tabular AI"
+      "Tabular AI",
+      "Learning Algorithms"
     ],
     "code": "https://github.com/jyansir/tmlp"
   },
@@ -346,7 +356,7 @@ window.PUBLICATIONS = [
     "year": 2024,
     "venue": "ICLR",
     "badge": "ICLR · Spotlight",
-    "title": "Making Pre-trained Language Models Great on Tabular Prediction",
+    "title": "Making Pre-Trained Language Models Great on Tabular Prediction",
     "authors": "Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu, Jintai Chen",
     "coFirstAuthors": [],
     "correspondingAuthors": [
@@ -356,7 +366,8 @@ window.PUBLICATIONS = [
     "paper": "https://openreview.net/pdf?id=anzIzGZuLi",
     "code": "https://github.com/jyansir/tp-berta",
     "tags": [
-      "Tabular AI"
+      "Tabular AI",
+      "Learning Algorithms"
     ]
   },
   {
@@ -381,7 +392,7 @@ window.PUBLICATIONS = [
     "year": 2024,
     "venue": "spj Health Data Science",
     "badge": "spj Health Data Science",
-    "title": "Multi-modal CLIP-informed protein editing",
+    "title": "Multi-Modal CLIP-Informed Protein Editing",
     "authors": "Mingze Yin, Hanjing Zhou, Yiheng Zhu, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou, Jintai Chen, Jian Wu",
     "coFirstAuthors": [],
     "correspondingAuthors": [
@@ -400,7 +411,7 @@ window.PUBLICATIONS = [
     "year": 2025,
     "venue": "spj Research",
     "badge": "spj Research",
-    "title": "S²ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning",
+    "title": "S²ALM: Sequence-Structure Pre-Trained Large Language Model for Comprehensive Antibody Representation Learning",
     "authors": "Mingze Yin, Hanjing Zhou, Jialu Wu, Yiheng Zhu, Yuxuan Zhan, Zitai Kong, Hongxia Xu, Chang-Yu Hsieh, Jintai Chen, Tingjun Hou, Jian Wu",
     "coFirstAuthors": [],
     "correspondingAuthors": [
@@ -439,7 +450,7 @@ window.PUBLICATIONS = [
     "year": 2024,
     "venue": "ACM BCB",
     "badge": "ACM BCB",
-    "title": "ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning",
+    "title": "ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-Based Reasoning",
     "authors": "Ling Yue, Sixue Xing, Jintai Chen, Tianfan Fu",
     "coFirstAuthors": [],
     "correspondingAuthors": [],
@@ -454,14 +465,15 @@ window.PUBLICATIONS = [
     "year": 2024,
     "venue": "ACM BCB",
     "badge": "ACM BCB",
-    "title": "TrialEnroll: Predicting clinical trial enrollment success with deep & cross network and large language models",
+    "title": "TrialEnroll: Predicting Clinical Trial Enrollment Success with Deep & Cross Network and Large Language Models",
     "authors": "Ling Yue, Jintai Chen, Tianfan Fu",
     "coFirstAuthors": [],
     "correspondingAuthors": [],
     "paper": "https://arxiv.org/pdf/2407.13115",
     "tags": [
       "Tabular AI",
-      "Clinical Trial Optimization"
+      "Clinical Trial Optimization",
+      "Learning Algorithms"
     ],
     "code": "https://github.com/lingyue404/TrialEnroll"
   },
@@ -469,7 +481,7 @@ window.PUBLICATIONS = [
     "year": 2023,
     "venue": "ICLR",
     "badge": "ICLR",
-    "title": "TabCaps: A capsule neural network for tabular data classification with BoW Routing",
+    "title": "TabCaps: A Capsule Neural Network for Tabular Data Classification with BoW Routing",
     "authors": "Jintai Chen, Kuanlun Liao, Yanwen Fang, Danny Ziyi Chen, Jian Wu",
     "coFirstAuthors": [],
     "correspondingAuthors": [
@@ -478,14 +490,15 @@ window.PUBLICATIONS = [
     "paper": "https://openreview.net/pdf?id=OgbtSLESnI",
     "code": "https://github.com/WhatAShot/TabCaps",
     "tags": [
-      "Tabular AI"
+      "Tabular AI",
+      "Learning Algorithms"
     ]
   },
   {
     "year": 2023,
     "venue": "AAAI",
     "badge": "AAAI · Oral",
-    "title": "T2G-Former: Organizing tabular features into relation graphs promotes heterogeneous feature interaction",
+    "title": "T2G-Former: Organizing Tabular Features into Relation Graphs Promotes Heterogeneous Feature Interaction",
     "authors": "Jiahuan Yan, Jintai Chen, Yixuan Wu, Danny Ziyi Chen, Jian Wu",
     "coFirstAuthors": [
       "Jiahuan Yan",
@@ -497,7 +510,8 @@ window.PUBLICATIONS = [
     "paper": "https://arxiv.org/pdf/2211.16887.pdf",
     "code": "https://github.com/jyansir/t2g-former",
     "tags": [
-      "Tabular AI"
+      "Tabular AI",
+      "Learning Algorithms"
     ]
   },
   {
@@ -524,7 +538,7 @@ window.PUBLICATIONS = [
     "year": 2022,
     "venue": "ICML",
     "badge": "ICML",
-    "title": "ME-GAN: Learning panoptic electrocardio representations for multi-view ECG synthesis conditioned on heart diseases",
+    "title": "ME-GAN: Learning Panoptic Electrocardio Representations for Multi-View ECG Synthesis Conditioned on Heart Diseases",
     "authors": "Jintai Chen, Kuanlun Liao, Kun Wei, Haochao Ying, Danny Z. Chen, Jian Wu",
     "coFirstAuthors": [
       "Jintai Chen",
@@ -543,7 +557,7 @@ window.PUBLICATIONS = [
     "year": 2022,
     "venue": "AAAI",
     "badge": "AAAI",
-    "title": "DANETs: Deep abstract networks for tabular data classification and regression",
+    "title": "DANETs: Deep Abstract Networks for Tabular Data Classification and Regression",
     "authors": "Jintai Chen, Kuanlun Liao, Yao Wan, Danny Ziyi Chen, Jian Wu",
     "coFirstAuthors": [],
     "correspondingAuthors": [
@@ -552,14 +566,15 @@ window.PUBLICATIONS = [
     "paper": "https://arxiv.org/pdf/2112.02962.pdf",
     "code": "https://github.com/WhatAShot/DANet",
     "tags": [
-      "Tabular AI"
+      "Tabular AI",
+      "Learning Algorithms"
     ]
   },
   {
     "year": 2021,
     "venue": "IJCAI",
     "badge": "IJCAI",
-    "title": "Electrocardio panorama: Synthesizing new ECG views with self-supervision",
+    "title": "Electrocardio Panorama: Synthesizing New ECG Views with Self-Supervision",
     "authors": "Jintai Chen, Xiangshang Zheng, Hongyun Yu, Danny Z. Chen, Jian Wu",
     "coFirstAuthors": [
       "Jintai Chen",
@@ -581,7 +596,7 @@ window.PUBLICATIONS = [
     "year": 2021,
     "venue": "ICML",
     "badge": "ICML",
-    "title": "A receptor skeleton for capsule neural networks",
+    "title": "A Receptor Skeleton for Capsule Neural Networks",
     "authors": "Jintai Chen, Hongyun Yu, Chengde Qian, Danny Z. Chen, Jian Wu",
     "coFirstAuthors": [],
     "correspondingAuthors": [
@@ -677,14 +692,15 @@ window.PUBLICATIONS = [
     "paper": "https://openaccess.thecvf.com/content/ICCV2025/papers/Fang_Proxy-Bridged_Game_Transformer_for_Interactive_Extreme_Motion_Prediction_ICCV_2025_paper.pdf",
     "code": "https://github.com/joyfang1106/pgformer",
     "tags": [
-      "Learning Algorithms"
+      "Learning Algorithms",
+      "Multimodal AI"
     ]
   },
   {
     "year": 2024,
     "venue": "MICCAI",
     "badge": "MICCAI · Oral",
-    "title": "TeleOR: Real-time Telemedicine System for Full-Scene Operating Room",
+    "title": "TeleOR: Real-Time Telemedicine System for Full-Scene Operating Room",
     "authors": "Yixuan Wu, Kaiyuan Hu, Qian Shao, Jintai Chen, Danny Z. Chen, Jian Wu",
     "coFirstAuthors": [
       "Yixuan Wu",
@@ -704,7 +720,7 @@ window.PUBLICATIONS = [
     "year": 2020,
     "venue": "MICCAI",
     "badge": "MICCAI · Oral",
-    "title": "Doctor Imitator: Hand-Radiography-based Bone Age Assessment by Imitating Scoring Methods",
+    "title": "Doctor Imitator: Hand-Radiography-Based Bone Age Assessment by Imitating Scoring Methods",
     "authors": "Jintai Chen, Bohan Yu, Biwen Lei, Ruiwei Feng, Danny Z. Chen, Jian Wu",
     "coFirstAuthors": [
       "Jintai Chen",
@@ -724,7 +740,7 @@ window.PUBLICATIONS = [
     "year": 2020,
     "venue": "BIBM",
     "badge": "BIBM",
-    "title": "Flow-Mixup: Classifying Multi-labeled Medical Images with Corrupted Labels",
+    "title": "Flow-Mixup: Classifying Multi-Labeled Medical Images with Corrupted Labels",
     "authors": "Jintai Chen, Hongyun Yu, Ruiwei Feng, Danny Z. Chen, Jian Wu",
     "coFirstAuthors": [],
     "correspondingAuthors": [
@@ -762,7 +778,7 @@ window.PUBLICATIONS = [
     "year": 2026,
     "venue": "Preprint",
     "badge": "Preprint",
-    "title": "Can Broad Biomedical Knowledge be Contextualized into Scenario-Grounded Propositions?",
+    "title": "Can Broad Biomedical Knowledge Be Contextualized into Scenario-Grounded Propositions?",
     "authors": "Qingyuan Zeng, Ziyang Chen, Pengxiang Cai, Zixin Guan, Anglin Liu, Lang Qin, Xinyao Lai, Jintai Chen",
     "coFirstAuthors": [],
     "correspondingAuthors": [
@@ -784,8 +800,10 @@ window.PUBLICATIONS = [
     "correspondingAuthors": [],
     "paper": "https://arxiv.org/pdf/2406.00281",
     "tags": [
-      "Tabular AI"
-    ]
+      "Tabular AI",
+      "Learning Algorithms"
+    ],
+    "code": "https://github.com/WhatAShot/XFormer"
   },
   {
     "year": 2026,
@@ -809,8 +827,8 @@ window.PUBLICATIONS = [
   },
   {
     "year": 2026,
-    "venue": "EMNLP",
-    "badge": "EMNLP",
+    "venue": "Findings of EMNLP",
+    "badge": "EMNLP · Findings",
     "title": "ClinicalReTrial: Clinical Trial Redesign with Self-Evolving Agents",
     "authors": "Sixue Xing, Kerui Wu, Xuanye Xia, Haoyu He, Meng Jiang, Jintai Chen, Tianfan Fu",
     "coFirstAuthors": [],
@@ -818,7 +836,7 @@ window.PUBLICATIONS = [
       "Tianfan Fu"
     ],
     "paper": "https://arxiv.org/pdf/2601.00290",
-    "code": "https://github.com/xingsixue123/ClinicalFailureReasonReTrial",
+    "code": "https://github.com/xingsixue123/ClinicalRetrial",
     "tags": [
       "Learning Algorithms",
       "Clinical Trial Optimization"
@@ -837,14 +855,13 @@ window.PUBLICATIONS = [
     ],
     "paper": "https://repository.hkust.edu.hk/ir/Record/1783.1-168759",
     "tags": [
-      "Generative AI",
       "Clinical Decision Support"
     ]
   },
   {
     "year": 2026,
-    "venue": "ACM MM",
-    "badge": "ACM MM",
+    "venue": "ACM MM Grand Challenge Track",
+    "badge": "ACM MM · Grand Challenge Track",
     "title": "EEGBind: Detecting Source-Level Interictal Epileptiform Discharges via EEG-Centric Multimodal Binding",
     "authors": "Muchen Li, Anglin Liu, Xuetian Gao, Ruijian Xu, Jintai Chen",
     "coFirstAuthors": [],
@@ -857,7 +874,8 @@ window.PUBLICATIONS = [
       "Multimodal AI",
       "Learning Algorithms",
       "Clinical Decision Support"
-    ]
+    ],
+    "badgeZh": "ACM MM · Grand Challenge Track"
   },
   {
     "year": 2026,
@@ -890,7 +908,7 @@ window.PUBLICATIONS = [
     "correspondingAuthors": [],
     "paper": "https://arxiv.org/pdf/2609.31167",
     "tags": [
-      "Multimodal AI",
+      "Learning Algorithms",
       "Clinical Decision Support"
     ]
   },
@@ -944,7 +962,8 @@ window.PUBLICATIONS = [
     "code": "https://github.com/Dreamer1209/PHASEKDD",
     "tags": [
       "Learning Algorithms",
-      "Clinical Decision Support"
+      "Clinical Decision Support",
+      "Generative AI"
     ]
   }
 ];

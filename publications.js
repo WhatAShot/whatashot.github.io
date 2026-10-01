@@ -45,7 +45,7 @@ function renderPubs(){
       p.homepage&&`<a href="${p.homepage}" target="_blank">${ui("Homepage","主页")} ↗</a>`,
       codeDataSame&&`<a href="${p.code}" target="_blank">${ui("Code & Data","代码与数据")} ↗</a>`,
       !codeDataSame&&p.code&&`<a href="${p.code}" target="_blank">${ui("Code","代码")} ↗</a>`,
-      !codeDataSame&&p.data&&`<a href="${p.data}" target="_blank">${ui("Data","数据")} ↗</a>`,
+      !codeDataSame&&p.data&&`<a href="${p.data}" target="_blank">${ui(p.dataLabel||"Data",p.dataLabelZh||"数据")} ↗</a>`,
       p.pythonPackage&&`<a href="${p.pythonPackage}" target="_blank">${ui("Python Package","Python 包")} ↗</a>`,
       p.rPackage&&`<a href="${p.rPackage}" target="_blank">${ui("R Package","R 包")} ↗</a>`
     ].filter(Boolean).join("");
