@@ -42,8 +42,7 @@ function renderPubs(){
     const links=[
       p.paper&&`<a href="${p.paper}" target="_blank">${isPdf?ui("PDF","PDF"):ui("Paper","论文")} ↗</a>`,
       p.homepage&&`<a href="${p.homepage}" target="_blank">${ui("Homepage","主页")} ↗</a>`,
-      p.code&&`<a href="${p.code}" target="_blank">${ui("Code","代码")} ↗</a>`,
-      p.project&&`<a href="${p.project}" target="_blank">${ui("Project","项目")} ↗</a>`
+      p.code&&`<a href="${p.code}" target="_blank">${ui("Code","代码")} ↗</a>`
     ].filter(Boolean).join("");
     const badge=uiLang==="zh"?(p.badgeZh||(((p.badge||p.venue)==="Preprint")?"预印本":(p.badge||p.venue))):(p.badge||p.venue);
     return `
