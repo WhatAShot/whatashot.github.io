@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Jintai Chen — Artificial Intelligence for Health and Science" />
+  <title>Jintai Chen | AI for Health & Science</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Manrope:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="brand" href="#top">Jintai Chen</a>
+      <nav class="nav" aria-label="Primary">
+        <a href="#research">Research</a>
+        <a href="#selected-work">Selected Work</a>
+        <a href="#about">About</a>
+        <a href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank" rel="noreferrer">Scholar ↗</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero shell">
+      <div class="hero-copy">
+        <p class="eyebrow">Assistant Professor · HKUST(GZ)</p>
+        <h1>Artificial intelligence for <span>health</span> and <span>science</span>.</h1>
+        <p class="hero-lede">
+          I develop AI methods across multimodal intelligence, generative modeling, and tabular learning,
+          and use them to advance drug design, clinical trials, diagnosis, treatment, and clinical world models.
+        </p>
+        <div class="hero-links">
+          <a class="button primary" href="#research">Explore research</a>
+          <a class="button ghost" href="mailto:jintaiCHEN@hkust-gz.edu.cn">Email</a>
+          <a class="button ghost" href="https://github.com/WhatAShot" target="_blank" rel="noreferrer">GitHub ↗</a>
+        </div>
+        <div class="hero-meta">
+          <span>AI Thrust · Information Hub</span>
+          <span>Hong Kong University of Science and Technology (Guangzhou)</span>
+        </div>
+      </div>
+
+      <div class="hero-visual" aria-label="Portrait of Jintai Chen">
+        <div class="portrait-frame">
+          <img src="assets/images/profile.png" alt="Jintai Chen" />
+        </div>
+        <div class="visual-note">
+          <span class="dot"></span>
+          <span>AI methods × biomedical translation</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="signal-strip">
+      <div class="shell signal-grid">
+        <div><strong>AI</strong><span>Multimodal · Generative · Tabular</span></div>
+        <div><strong>Science</strong><span>Drug design · Clinical trials</span></div>
+        <div><strong>Medicine</strong><span>Diagnosis · Treatment · World models</span></div>
+      </div>
+    </section>
+
+    <section id="research" class="section shell">
+      <div class="section-heading">
+        <p class="eyebrow">Research architecture</p>
+        <h2>One AI identity, across the biomedical pipeline.</h2>
+        <p>
+          My work is organized by a small set of reusable AI capabilities, then translated across the path
+          from therapeutic discovery to clinical care.
+        </p>
+      </div>
+
+      <div class="research-map">
+        <div class="map-label">AI capabilities</div>
+        <div class="method-grid">
+          <button class="research-card active" data-method="multimodal">
+            <span class="card-index">01</span>
+            <h3>Multimodal AI</h3>
+            <p>Learning across heterogeneous physiological, imaging, language, molecular, and structured signals.</p>
+          </button>
+          <button class="research-card" data-method="generative">
+            <span class="card-index">02</span>
+            <h3>Generative AI</h3>
+            <p>Generative models for data synthesis, molecular and peptide design, digital twins, and simulation.</p>
+          </button>
+          <button class="research-card" data-method="tabular">
+            <span class="card-index">03</span>
+            <h3>Tabular AI</h3>
+            <p>Foundation and reasoning models for structured data, clinical prediction, and decision support.</p>
+          </button>
+        </div>
+
+        <div class="translation">
+          <div class="map-label">Biomedical translation</div>
+          <div class="pipeline">
+            <div class="stage">
+              <span>01</span>
+              <strong>Drug Design</strong>
+              <small>generation · interaction · affinity</small>
+            </div>
+            <div class="arrow">→</div>
+            <div class="stage">
+              <span>02</span>
+              <strong>Clinical Trials</strong>
+              <small>design · enrollment · prediction</small>
+            </div>
+            <div class="arrow">→</div>
+            <div class="stage">
+              <span>03</span>
+              <strong>Diagnosis & Treatment</strong>
+              <small>multimodal reasoning · personalized care</small>
+            </div>
+          </div>
+        </div>
+
+        <div class="world-model-layer">
+          <div>
+            <p class="eyebrow">Cross-cutting systems</p>
+            <h3>Digital Twins & Clinical World Models</h3>
+          </div>
+          <p>
+            Patient-specific representations that simulate trajectories, interventions, and future outcomes,
+            linking clinical trials with real-world diagnosis and treatment.
+          </p>
+        </div>
+
+        <div class="method-detail" id="method-detail">
+          <div class="detail-copy">
+            <span class="eyebrow" id="detail-kicker">Multimodal AI</span>
+            <h3 id="detail-title">From fixed modalities to pan-modal intelligence.</h3>
+            <p id="detail-text">We study models that reason across heterogeneous observations and remain useful as the available modalities, sensors, and views change.</p>
+          </div>
+          <div class="detail-tags" id="detail-tags">
+            <span>ECG / EEG</span><span>Medical imaging</span><span>Protein multimodality</span><span>MLLMs</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="selected-work" class="section section-tint">
+      <div class="shell">
+        <div class="section-heading row-heading">
+          <div>
+            <p class="eyebrow">Selected research</p>
+            <h2>A few projects that define the trajectory.</h2>
+          </div>
+          <a class="text-link" href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank" rel="noreferrer">Full publication list ↗</a>
+        </div>
+
+        <div class="work-grid">
+          <article class="work-card work-card-wide">
+            <div class="work-image"><img src="assets/images/chd.png" alt="Pediatric ECG research figure" /></div>
+            <div class="work-copy">
+              <span class="work-tag">Multimodal medicine · Nature Communications</span>
+              <h3>Concept-informed pediatric ECG intelligence</h3>
+              <p>Deep learning for congenital heart disease detection, integrating human concepts and multicenter pediatric ECG data.</p>
+              <a href="https://www.nature.com/articles/s41467-024-44930-y" target="_blank" rel="noreferrer">Paper ↗</a>
+            </div>
+          </article>
+
+          <article class="work-card">
+            <div class="work-image work-image-short"><img src="assets/images/electrocardio-panorama.jpg" alt="Electrocardio Panorama" /></div>
+            <div class="work-copy">
+              <span class="work-tag">Multimodal AI · IJCAI / ICML / ICLR</span>
+              <h3>Electrocardio Panorama</h3>
+              <p>Learning to synthesize and reason over ECG beyond fixed lead configurations and views.</p>
+            </div>
+          </article>
+
+          <article class="work-card">
+            <div class="work-image work-image-short"><img src="assets/images/tabular.png" alt="Tabular learning research" /></div>
+            <div class="work-copy">
+              <span class="work-tag">Tabular AI · ICLR / KDD / NeurIPS</span>
+              <h3>Generalist models for structured data</h3>
+              <p>Deep tabular architectures, pretraining, LLM reasoning, and hybrid learning for structured prediction.</p>
+            </div>
+          </article>
+
+          <article class="work-card work-card-dark">
+            <div class="work-copy">
+              <span class="work-tag">Generative AI · Drug design</span>
+              <h3>From molecular generation to interaction modeling</h3>
+              <p>AI for peptides, proteins, therapeutics, and the interactions that determine whether designed entities work.</p>
+              <div class="mini-list"><span>APCyc</span><span>ProtCLIP</span><span>Caduceus</span></div>
+            </div>
+          </article>
+
+          <article class="work-card work-card-dark">
+            <div class="work-copy">
+              <span class="work-tag">Clinical trials · World models</span>
+              <h3>AI for the transition from discovery to care</h3>
+              <p>Trial-ready datasets, enrollment and outcome prediction, digital twins, and agentic systems for clinical research.</p>
+              <div class="mini-list"><span>TrialBench</span><span>TWIN-GPT</span><span>ClinicalAgent</span></div>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="section shell about-grid">
+      <div>
+        <p class="eyebrow">About</p>
+        <h2>AI researcher working across methods, science, and medicine.</h2>
+      </div>
+      <div class="about-copy">
+        <p>
+          I am a tenure-track Assistant Professor at HKUST(GZ), affiliated with HKUST, and PI of the ML4H Lab.
+          Before joining HKUST(GZ), I was a postdoctoral researcher in Computer Science at UIUC.
+        </p>
+        <p>
+          I received my PhD in Computer Science and Technology from Zhejiang University. My broader goal is to build
+          AI systems that remain technically ambitious while being useful in real scientific and clinical settings.
+        </p>
+        <div class="about-links">
+          <a href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank" rel="noreferrer">Google Scholar ↗</a>
+          <a href="https://orcid.org/0000-0002-3199-2597" target="_blank" rel="noreferrer">ORCID ↗</a>
+          <a href="mailto:jintaiCHEN@hkust-gz.edu.cn">Email ↗</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section shell join">
+      <div>
+        <p class="eyebrow">Join & collaborate</p>
+        <h2>Students, collaborators, and industry partners are welcome.</h2>
+      </div>
+      <div>
+        <p>
+          I am interested in collaborations spanning multimodal AI, generative AI, structured data, drug design,
+          clinical trials, and clinically grounded AI systems.
+        </p>
+        <a class="button primary" href="mailto:jintaiCHEN@hkust-gz.edu.cn">Get in touch</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell footer-inner">
+      <span>© <span id="year"></span> Jintai Chen</span>
+      <span>Built for GitHub Pages</span>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
