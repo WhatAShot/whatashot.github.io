@@ -37,32 +37,25 @@ const year=document.getElementById("year");
 if(year) year.textContent=new Date().getFullYear();
 
 
-/* Preserve the historical visitor count from the original whatashot.github.io homepage. */
-const LEGACY_SITE_PV_BASELINE = 1057151;
+/* Reveal the visitor counter only after Busuanzi returns the live site PV. */
+const visitorContainer = document.getElementById("busuanzi_container_site_pv");
 const rawSitePv = document.getElementById("busuanzi_value_site_pv");
 const totalSitePv = document.getElementById("visitor_total_site_pv");
-if (rawSitePv && totalSitePv) {
-  const previewHosts = new Set(["raw.githack.com", "localhost", "127.0.0.1"]);
-  const hostname = window.location.hostname.toLowerCase();
 
-  const syncVisitorCount = () => {
+if (visitorContainer && rawSitePv && totalSitePv) {
+  const revealVisitorCount = () => {
     const raw = Number.parseInt((rawSitePv.textContent || "").replace(/,/g, ""), 10);
-    let total = LEGACY_SITE_PV_BASELINE;
+    if (!Number.isFinite(raw) || raw <= 0) return false;
 
-    if (Number.isFinite(raw) && raw > 0) {
-      if (hostname === "whatashot.github.io") {
-        // Busuanzi site_pv is host-based, so the official host already includes legacy traffic.
-        total = Math.max(raw, LEGACY_SITE_PV_BASELINE);
-      } else if (!previewHosts.has(hostname)) {
-        // If the site later moves to a new production domain, carry the legacy baseline forward.
-        total = LEGACY_SITE_PV_BASELINE + raw;
-      }
-    }
-
-    totalSitePv.textContent = total.toLocaleString("en-US");
+    totalSitePv.textContent = raw.toLocaleString("en-US");
+    visitorContainer.classList.remove("visitor-count-loading");
+    return true;
   };
 
-  syncVisitorCount();
-  const visitorTimer = window.setInterval(syncVisitorCount, 250);
-  window.setTimeout(() => window.clearInterval(visitorTimer), 10000);
+  if (!revealVisitorCount()) {
+    const observer = new MutationObserver(() => {
+      if (revealVisitorCount()) observer.disconnect();
+    });
+    observer.observe(rawSitePv, { childList: true, subtree: true, characterData: true });
+  }
 }
