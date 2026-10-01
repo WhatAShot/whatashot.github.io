@@ -97,7 +97,7 @@ window.PUBLICATIONS = [
       "Clinical Decision Support"
     ],
     "code": "https://github.com/HKUSTGZ-ML4Health-Lab/NEFNET-v2",
-    "data": "https://github.com/HKUSTGZ-ML4Health-Lab/NEFNET-v2"
+    "data": "https://huggingface.co/datasets/whynotJunger/Panobench"
   },
   {
     "year": 2026,
