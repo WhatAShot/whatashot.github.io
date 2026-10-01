@@ -219,7 +219,7 @@ window.PUBLICATIONS = [
     year: 2024, venue: "ACM BCB", badge: "ACM BCB",
     title: "TrialEnroll: Predicting clinical trial enrollment success with deep & cross network and large language models",
     authors: "Ling Yue, Jintai Chen, Tianfan Fu",
-    firstAuthors: ["Ling Yue","Sixue Xing"],
+    firstAuthors: ["Ling Yue"],
     correspondingAuthors: [],
     paper: "https://arxiv.org/pdf/2407.13115",
     tags: ["Tabular AI", "Clinical Trials"]
