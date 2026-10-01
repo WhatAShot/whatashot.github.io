@@ -830,3 +830,9 @@ body{
     padding:1.1rem 1.05rem 1.8rem!important;
   }
 }
+
+
+/* Avoid flashing a stale or empty visitor count before Busuanzi responds. */
+.visitor-count-loading{
+  visibility:hidden;
+}
