@@ -30,7 +30,7 @@
         <h1>Artificial intelligence for <span>health</span> and <span>science</span>.</h1>
         <p class="hero-lede">
           I develop AI methods across multimodal intelligence, generative modeling, and tabular learning,
-          and use them to advance drug design, clinical trials, diagnosis, treatment, and clinical world models.
+          and use them to advance drug design, clinical trials, diagnosis, and treatment.
         </p>
         <div class="hero-links">
           <a class="button primary" href="#research">Explore research</a>
@@ -58,7 +58,7 @@
       <div class="shell signal-grid">
         <div><strong>AI</strong><span>Multimodal · Generative · Tabular</span></div>
         <div><strong>Science</strong><span>Drug design · Clinical trials</span></div>
-        <div><strong>Medicine</strong><span>Diagnosis · Treatment · World models</span></div>
+        <div><strong>Medicine</strong><span>Diagnosis · Treatment</span></div>
       </div>
     </section>
 
@@ -74,67 +74,20 @@
 
       <div class="research-map">
         <div class="map-label">AI capabilities</div>
-        <div class="method-grid">
-          <button class="research-card active" data-method="multimodal">
-            <span class="card-index">01</span>
-            <h3>Multimodal AI</h3>
-            <p>Learning across heterogeneous physiological, imaging, language, molecular, and structured signals.</p>
-          </button>
-          <button class="research-card" data-method="generative">
-            <span class="card-index">02</span>
-            <h3>Generative AI</h3>
-            <p>Generative models for data synthesis, molecular and peptide design, digital twins, and simulation.</p>
-          </button>
-          <button class="research-card" data-method="tabular">
-            <span class="card-index">03</span>
-            <h3>Tabular AI</h3>
-            <p>Foundation and reasoning models for structured data, clinical prediction, and decision support.</p>
-          </button>
-        </div>
+        <div class="method-grid" id="method-grid"></div>
 
         <div class="translation">
           <div class="map-label">Biomedical translation</div>
-          <div class="pipeline">
-            <div class="stage">
-              <span>01</span>
-              <strong>Drug Design</strong>
-              <small>generation · interaction · affinity</small>
-            </div>
-            <div class="arrow">→</div>
-            <div class="stage">
-              <span>02</span>
-              <strong>Clinical Trials</strong>
-              <small>design · enrollment · prediction</small>
-            </div>
-            <div class="arrow">→</div>
-            <div class="stage">
-              <span>03</span>
-              <strong>Diagnosis & Treatment</strong>
-              <small>multimodal reasoning · personalized care</small>
-            </div>
-          </div>
-        </div>
-
-        <div class="world-model-layer">
-          <div>
-            <p class="eyebrow">Cross-cutting systems</p>
-            <h3>Digital Twins & Clinical World Models</h3>
-          </div>
-          <p>
-            Patient-specific representations that simulate trajectories, interventions, and future outcomes,
-            linking clinical trials with real-world diagnosis and treatment.
-          </p>
+          <div class="pipeline" id="pipeline"></div>
         </div>
 
         <div class="method-detail" id="method-detail">
           <div class="detail-copy">
-            <span class="eyebrow" id="detail-kicker">Multimodal AI</span>
-            <h3 id="detail-title">From fixed modalities to pan-modal intelligence.</h3>
-            <p id="detail-text">We study models that reason across heterogeneous observations and remain useful as the available modalities, sensors, and views change.</p>
+            <span class="eyebrow" id="detail-kicker"></span>
+            <h3 id="detail-title"></h3>
+            <p id="detail-text"></p>
           </div>
-          <div class="detail-tags" id="detail-tags">
-            <span>ECG / EEG</span><span>Medical imaging</span><span>Protein multimodality</span><span>MLLMs</span>
-          </div>
+          <div class="detail-tags" id="detail-tags"></div>
         </div>
       </div>
     </section>
@@ -189,10 +142,10 @@
 
           <article class="work-card work-card-dark">
             <div class="work-copy">
-              <span class="work-tag">Clinical trials · World models</span>
+              <span class="work-tag">Clinical trials · Clinical AI</span>
               <h3>AI for the transition from discovery to care</h3>
-              <p>Trial-ready datasets, enrollment and outcome prediction, digital twins, and agentic systems for clinical research.</p>
-              <div class="mini-list"><span>TrialBench</span><span>TWIN-GPT</span><span>ClinicalAgent</span></div>
+              <p>Trial-ready datasets, enrollment and outcome prediction, and agentic systems for clinical research.</p>
+              <div class="mini-list"><span>TrialBench</span><span>ClinicalAgent</span><span>TrialEnroll</span></div>
             </div>
           </article>
         </div>
@@ -243,6 +196,7 @@
     </div>
   </footer>
 
+  <script src="data/research.js"></script>
   <script src="script.js"></script>
 </body>
 </html>
