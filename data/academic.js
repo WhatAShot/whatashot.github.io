@@ -1,7 +1,6 @@
 window.ACADEMIC = {
   honors: [
     ["2026", "Selected for the Guangdong Provincial Young Talent Program"],
-    ["2026", "Member, Expert Reviewer Pool for Guangdong Provincial Talent Programs"],
     ["2026.06", "Best Paper Award, CHIL 2026"],
     ["2026.05", "ICML 2025 Silver Reviewer"],
     ["2025", "Member, Expert Pool of the Digital Guangdong Development Expert Committee"],
@@ -24,7 +23,6 @@ window.ACADEMIC = {
   ],
   honorsZh: [
     ["2026", "广东省青年人才项目入选者"],
-    ["2026", "广东省人才项目评委专家库专家"],
     ["2026.06", "CHIL 2026 最佳论文奖"],
     ["2026.05", "ICML 2025 银牌审稿人"],
     ["2025", "数字广东建设专家委员会专家库专家"],
