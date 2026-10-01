@@ -16,12 +16,10 @@ function authorHtml(p){
     const core=name==="Jintai Chen"?`<strong>${name}</strong>`:name;
     return `${core}${mark?`<sup>${mark}</sup>`:""}`;
   }).join(", ");
-}
+} 
 function renderPubs(){
   const rows=current==="All"?pubs:pubs.filter(p=>(p.tags||[]).includes(current));
   list.innerHTML=rows.map(p=>{
-    const co=(p.coFirstAuthors||[]).join(", ");
-    const corr=(p.correspondingAuthors||[]).join(", ");
     const links=[
       p.paper&&`<a href="${p.paper}" target="_blank">Paper ↗</a>`,
       p.code&&`<a href="${p.code}" target="_blank">Code ↗</a>`,
@@ -33,10 +31,6 @@ function renderPubs(){
         <div>
           <div class="pub-title">${p.title}</div>
           <div class="pub-authors">${authorHtml(p)}</div>
-          <div class="pub-roles">
-            ${co?`<span><strong>Co-first:</strong> ${co}</span>`:""}
-            ${corr?`<span><strong>Corresponding:</strong> ${corr}</span>`:""}
-          </div>
           <div class="pub-bottom">
             <div><span class="tag venue-tag">${p.badge||p.venue}</span></div>
             <div class="pub-tags">${(p.tags||[]).map(t=>`<span class="tag">${t}</span>`).join("")}</div>
