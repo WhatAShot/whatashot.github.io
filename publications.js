@@ -1,68 +1,51 @@
-const pubs = (window.PUBLICATIONS || []).slice().sort((a,b) => b.year - a.year || a.title.localeCompare(b.title));
-const allTags = ["All", ...Array.from(new Set(pubs.flatMap(p => p.tags || [])))];
-let current = "All";
-
-const filterBar = document.getElementById("filter-bar");
-const list = document.getElementById("publication-list");
+const pubs=(window.PUBLICATIONS||[]).slice().sort((a,b)=>b.year-a.year||a.title.localeCompare(b.title));
+const allTags=["All",...Array.from(new Set(pubs.flatMap(p=>p.tags||[])))];
+let current="All";
+const filterBar=document.getElementById("filter-bar");
+const list=document.getElementById("publication-list");
 
 function renderFilters(){
-  filterBar.innerHTML = allTags.map(tag => `<button class="filter-pill ${tag===current ? "active":""}" data-tag="${tag}">${tag}</button>`).join("");
-  filterBar.querySelectorAll("button").forEach(btn => btn.addEventListener("click", () => {
-    current = btn.dataset.tag;
-    renderFilters();
-    renderPubs();
-  }));
+  filterBar.innerHTML=allTags.map(t=>`<button class="button ${t===current?"is-selected":""}" data-tag="${t}">${t}</button>`).join("");
+  filterBar.querySelectorAll("button").forEach(b=>b.onclick=()=>{current=b.dataset.tag;renderFilters();renderPubs();});
 }
-
-function roleSet(arr){ return new Set(arr || []); }
-
-function authorHtml(pub){
-  const coFirst = roleSet(pub.coFirstAuthors);
-  const corr = roleSet(pub.correspondingAuthors);
-  return pub.authors.split(", ").map(name => {
-    const marks = `${coFirst.has(name) ? "†" : ""}${corr.has(name) ? "*" : ""}`;
-    const label = `${name}${marks ? `<sup>${marks}</sup>` : ""}`;
-    return name === "Jintai Chen" ? `<strong>${label}</strong>` : label;
+function authorHtml(p){
+  const cf=new Set(p.coFirstAuthors||[]);
+  const ca=new Set(p.correspondingAuthors||[]);
+  return p.authors.split(", ").map(name=>{
+    const mark=`${cf.has(name)?"†":""}${ca.has(name)?"*":""}`;
+    const core=name==="Jintai Chen"?`<strong>${name}</strong>`:name;
+    return `${core}${mark?`<sup>${mark}</sup>`:""}`;
   }).join(", ");
 }
-
-function roleLine(pub){
-  const coFirst = pub.coFirstAuthors || [];
-  const corr = pub.correspondingAuthors || [];
-  const firstLabel = "Co-first";
-  const corrText = corr.length ? corr.join(", ") : "Not explicitly recorded in current source";
-  return `
-    <div class="pub-roles">
-      <span><b>${firstLabel}:</b> ${coFirst.join(", ") || "—"}</span>
-      <span><b>Corresponding:</b> ${corrText}</span>
-    </div>`;
-}
-
 function renderPubs(){
-  const filtered = current === "All" ? pubs : pubs.filter(p => (p.tags || []).includes(current));
-  list.innerHTML = filtered.map(p => {
-    const links = [
-      p.paper ? `<a href="${p.paper}" target="_blank" rel="noreferrer">Paper ↗</a>` : "",
-      p.code ? `<a href="${p.code}" target="_blank" rel="noreferrer">Code ↗</a>` : "",
-      p.project ? `<a href="${p.project}" target="_blank" rel="noreferrer">Project ↗</a>` : ""
+  const rows=current==="All"?pubs:pubs.filter(p=>(p.tags||[]).includes(current));
+  list.innerHTML=rows.map(p=>{
+    const co=(p.coFirstAuthors||[]).join(", ");
+    const corr=(p.correspondingAuthors||[]).join(", ");
+    const links=[
+      p.paper&&`<a href="${p.paper}" target="_blank">Paper ↗</a>`,
+      p.code&&`<a href="${p.code}" target="_blank">Code ↗</a>`,
+      p.project&&`<a href="${p.project}" target="_blank">Project ↗</a>`
     ].filter(Boolean).join("");
     return `
-      <article class="publication-item">
+      <article class="pub-item">
         <div class="pub-year">${p.year}</div>
-        <div class="pub-main">
-          <div class="pub-topline"><span class="venue-badge">${p.badge || p.venue}</span></div>
-          <h2>${p.title}</h2>
-          <p class="pub-authors">${authorHtml(p)}</p>
-          ${roleLine(p)}
-          <div class="pub-meta">
-            <span>${p.venue}</span>
-            <div class="pub-tags">${(p.tags||[]).map(t => `<span>${t}</span>`).join("")}</div>
+        <div>
+          <div class="pub-title">${p.title}</div>
+          <div class="pub-authors">${authorHtml(p)}</div>
+          <div class="pub-roles">
+            ${co?`<span><strong>Co-first:</strong> ${co}</span>`:""}
+            ${corr?`<span><strong>Corresponding:</strong> ${corr}</span>`:""}
+          </div>
+          <div class="pub-bottom">
+            <div><span class="tag venue-tag">${p.badge||p.venue}</span></div>
+            <div class="pub-tags">${(p.tags||[]).map(t=>`<span class="tag">${t}</span>`).join("")}</div>
           </div>
           <div class="pub-links">${links}</div>
         </div>
       </article>`;
   }).join("");
 }
-renderFilters();
-renderPubs();
-document.getElementById("year").textContent = new Date().getFullYear();
+renderFilters();renderPubs();
+document.querySelectorAll(".navbar-burger").forEach(el=>el.onclick=()=>{el.classList.toggle("is-active");document.getElementById(el.dataset.target)?.classList.toggle("is-active")});
+document.getElementById("year").textContent=new Date().getFullYear();
