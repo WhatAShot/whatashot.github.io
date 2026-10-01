@@ -31,7 +31,7 @@ function authorHtml(p){
   const ca=new Set(p.correspondingAuthors||[]);
   return p.authors.split(", ").map(name=>{
     const mark=`${cf.has(name)?"†":""}${ca.has(name)?"*":""}`;
-    const core=name==="Jintai Chen"?`<strong>${name}</strong>`:name;
+    const core=(name==="Jintai Chen"||name==="陈晋泰")?`<strong>${name}</strong>`:name;
     return `${core}${mark?`<sup>${mark}</sup>`:""}`;
   }).join(", ");
 }
@@ -45,7 +45,7 @@ function renderPubs(){
       p.code&&`<a href="${p.code}" target="_blank">${ui("Code","代码")} ↗</a>`,
       p.project&&`<a href="${p.project}" target="_blank">${ui("Project","项目")} ↗</a>`
     ].filter(Boolean).join("");
-    const badge=(uiLang==="zh" && (p.badge||p.venue)==="Preprint")?"预印本":(p.badge||p.venue);
+    const badge=uiLang==="zh"?(p.badgeZh||(((p.badge||p.venue)==="Preprint")?"预印本":(p.badge||p.venue))):(p.badge||p.venue);
     return `
       <article class="pub-item">
         <div class="pub-year">${p.year}</div>
