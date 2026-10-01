@@ -576,3 +576,78 @@ body{
 .research-box.algorithms{
   background:linear-gradient(135deg,#7a4a35,#9b6845);
 }
+
+/* Visual hierarchy refinement: methods > applications > recruiting */
+.biomedical-box{
+  position:relative;
+  overflow:hidden;
+  margin-top:1rem!important;
+  padding:1.15rem 1.25rem 1.2rem!important;
+  background:linear-gradient(135deg,#fbf6f8 0%,#f5f8fa 58%,#f1f7f8 100%)!important;
+  border:1px solid #d9c8d0!important;
+  border-top:4px solid var(--primary)!important;
+  border-radius:5px!important;
+  box-shadow:0 4px 14px rgba(62,38,50,.07)!important;
+}
+.biomedical-box:after{
+  content:"";
+  position:absolute;
+  width:120px;
+  height:120px;
+  right:-55px;
+  top:-55px;
+  border:1px solid rgba(123,36,67,.10);
+  border-radius:50%;
+  box-shadow:0 0 0 18px rgba(49,95,155,.025);
+  pointer-events:none;
+}
+.biomedical-box .title{
+  color:var(--primary-dark)!important;
+  font-size:1.48rem!important;
+  margin-bottom:.28rem!important;
+}
+.biomedical-box > p{
+  color:#4e5961;
+  font-weight:600;
+  font-size:.88rem;
+  letter-spacing:.01em;
+  margin-bottom:.85rem!important;
+}
+.biomedical-box .bio-item{
+  background:rgba(255,255,255,.66)!important;
+  border:1px solid #e4e8ea;
+  border-left:4px solid var(--science-gold);
+  padding:.82rem .9rem;
+}
+.biomedical-box .bio-item h3{
+  color:#303942;
+  font-weight:700;
+}
+.biomedical-box .bio-item p{
+  color:#68747b;
+}
+
+/* Recruiting should read as a secondary information panel, not a primary visual block */
+.join-box{
+  background:linear-gradient(145deg,#eef5f8,#f4f7f8)!important;
+  border:1px solid #d3e1e6!important;
+  border-left:4px solid #73aeb9!important;
+  box-shadow:none!important;
+  color:var(--ink)!important;
+}
+.join-box .title{
+  color:#315c67!important;
+}
+.join-copy,
+.join-copy.has-text-white,
+.join-copy p{
+  color:#45565f!important;
+}
+.join-copy strong{
+  color:#2f4f59!important;
+}
+.join-copy a{
+  color:#246b91!important;
+  text-decoration:underline;
+  text-underline-offset:2px;
+}
