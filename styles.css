@@ -109,3 +109,125 @@ a:hover{color:#174d6a}
   .pub-bottom{display:block}
   .pub-tags{margin-top:.35rem}
 }
+
+/* Visual refinement v2: compact academic + scientific technology feel */
+:root{
+  --primary:#7b2443;
+  --primary-dark:#4f1630;
+  --primary-deep:#351021;
+  --science-blue:#315f9b;
+  --science-cyan:#278696;
+  --science-violet:#67579b;
+  --science-gold:#b98944;
+  --ink:#26313a;
+  --muted:#5f6d75;
+  --line:#d9e0e4;
+  --soft:#f5f7f8;
+}
+body{
+  font-family:"Source Sans 3",system-ui,sans-serif;
+  color:var(--ink);
+  background:#fff;
+}
+.title,.subtitle,.brand-name,.navbar-item strong{
+  font-family:"Alegreya",Georgia,serif;
+}
+.site-nav{
+  background:var(--primary)!important;
+  box-shadow:0 2px 0 rgba(44,13,29,.12);
+}
+.profile-hero{
+  position:relative;
+  overflow:hidden;
+  background:
+    radial-gradient(circle at 78% 24%,rgba(71,156,177,.26),transparent 28%),
+    linear-gradient(120deg,var(--primary-deep),var(--primary) 58%,#294d70)!important;
+}
+.hero-grid-pattern{
+  position:absolute;inset:0;pointer-events:none;opacity:.16;
+  background-image:
+    linear-gradient(rgba(255,255,255,.12) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(255,255,255,.12) 1px,transparent 1px);
+  background-size:34px 34px;
+  mask-image:linear-gradient(90deg,transparent 0%,black 45%,black 100%);
+}
+.profile-hero .hero-body{position:relative;z-index:2;padding:2.45rem 1.5rem 2.55rem}
+.hero-title{font-size:2.9rem!important;max-width:720px;text-shadow:0 2px 18px rgba(0,0,0,.14)}
+.hero-subtitle{font-family:"Source Sans 3",system-ui,sans-serif!important;font-size:1.18rem!important;letter-spacing:.025em}
+.hero-copy{font-size:1rem;line-height:1.5;max-width:680px}
+.science-collage{
+  position:relative;
+  display:grid;
+  grid-template-columns:1.18fr .82fr;
+  grid-template-rows:1fr 1fr;
+  gap:.55rem;
+  min-height:270px;
+  padding:.55rem;
+  background:rgba(255,255,255,.12);
+  border:1px solid rgba(255,255,255,.32);
+  box-shadow:0 18px 50px rgba(21,7,16,.28);
+  backdrop-filter:blur(4px);
+}
+.science-panel{
+  overflow:hidden;
+  background:#fff;
+  border:1px solid rgba(255,255,255,.45);
+  min-height:0;
+}
+.science-panel img{width:100%;height:100%;object-fit:cover}
+.panel-a{grid-row:1/3}
+.panel-b,.panel-c{min-height:122px}
+.collage-label{
+  position:absolute;left:.9rem;bottom:.9rem;
+  background:rgba(26,19,28,.84);color:#fff;
+  font-size:.65rem;letter-spacing:.14em;font-weight:700;
+  padding:.38rem .55rem;
+}
+.vision-box{
+  background:linear-gradient(135deg,var(--primary),#93435d)!important;
+}
+.research-box.multimodal{background:linear-gradient(135deg,#244f86,var(--science-blue))}
+.research-box.generative{background:linear-gradient(135deg,#1d6f7e,var(--science-cyan))}
+.research-box.tabular{background:linear-gradient(135deg,#51447d,var(--science-violet))}
+.research-box{
+  position:relative;
+  overflow:hidden;
+  border:1px solid rgba(17,34,47,.08);
+}
+.research-box:after{
+  content:"";position:absolute;width:150px;height:150px;right:-65px;top:-65px;
+  border-radius:50%;border:1px solid rgba(255,255,255,.18);
+  box-shadow:0 0 0 18px rgba(255,255,255,.035),0 0 0 40px rgba(255,255,255,.02);
+}
+.research-box .title{font-size:1.55rem!important}
+.bio-item{
+  border-left:4px solid var(--science-gold);
+  background:linear-gradient(180deg,#f9fafb,#f2f5f6);
+}
+.sidebar-title{border-bottom-color:var(--primary)}
+.news-card{
+  border-left:3px solid var(--primary);
+  transition:transform .15s ease,box-shadow .15s ease;
+}
+.news-card:hover{transform:translateY(-1px);box-shadow:0 4px 14px rgba(31,55,67,.13)}
+.news-date{color:var(--primary)}
+.join-box{
+  background:linear-gradient(145deg,#2f5e91,#284a75)!important;
+  border-left:4px solid #73c1cc;
+}
+.join-copy{font-size:.82rem;line-height:1.42}
+.join-copy p{margin-bottom:.7rem}
+.join-copy a{color:#fff;text-decoration:underline;text-underline-offset:2px}
+.quick-box .title{color:var(--primary-dark)}
+.section-title-row{border-bottom-color:var(--primary)}
+.project-meta{color:var(--primary)}
+.project-thumb{border:1px solid #d7dfe3}
+.pub-year{color:var(--primary)}
+.venue-tag{background:#f1e5ea!important;color:var(--primary-dark)!important}
+.filter-row .button.is-selected{background:var(--primary);border-color:var(--primary)}
+.academic-card .title{border-bottom-color:var(--primary)}
+.academic-date{color:var(--primary)}
+@media(max-width:768px){
+  .science-collage{min-height:230px;margin-top:.5rem}
+  .hero-title{font-size:2.3rem!important}
+}
