@@ -17,7 +17,7 @@ window.RESEARCH_CONFIG = {
       titleZh: "生成式 AI",
       summary: "Generative models for data synthesis, molecular and peptide design, and digital twins.",
       summaryZh: "面向数据合成、分子与多肽设计以及数字孪生的生成式模型。",
-      tags: ["Peptide design", "Molecular generation", "Physiological synthesis", "Digital twin"],
+      tags: ["Peptide Design", "Molecular Generation", "Physiological Synthesis", "Digital Twin"],
       tagsZh: ["多肽设计", "分子生成", "生理信号生成", "数字孪生"]
     },
     {
@@ -26,7 +26,7 @@ window.RESEARCH_CONFIG = {
       titleZh: "表格数据 AI",
       summary: "Learning and reasoning for structured data, from deep tabular prediction to data agents.",
       summaryZh: "面向结构化数据的学习与推理，从深度表格预测到数据智能体。",
-      tags: ["Deep tabular prediction", "Data agent"],
+      tags: ["Deep Tabular Prediction", "Data Agent"],
       tagsZh: ["深度表格预测", "数据智能体"]
     }
   ],
@@ -35,19 +35,19 @@ window.RESEARCH_CONFIG = {
     {
       title: "Drug Design",
       titleZh: "药物设计",
-      subtitle: "generation · interaction · affinity · screening",
+      subtitle: "Generation · Interaction · Affinity · Screening",
       subtitleZh: "生成 · 相互作用 · 亲和力 · 筛选"
     },
     {
       title: "Clinical Trial Optimization",
       titleZh: "临床试验优化",
-      subtitle: "design · enrollment · outcome prediction",
+      subtitle: "Design · Enrollment · Outcome Prediction",
       subtitleZh: "设计 · 入组 · 结局预测"
     },
     {
       title: "Clinical Decision Support",
       titleZh: "临床决策支持",
-      subtitle: "diagnosis · prognosis · treatment",
+      subtitle: "Diagnosis · Prognosis · Treatment",
       subtitleZh: "诊断 · 预后 · 治疗"
     }
   ]
