@@ -2,7 +2,7 @@ const config = window.RESEARCH_CONFIG || {aiMethods:[], biomedicalAreas:[]};
 const pageLang = window.PAGE_LANG || new URLSearchParams(window.location.search).get("lang") || "en";
 const zh = pageLang === "zh";
 
-const colorClasses = ["multimodal","generative","tabular"];
+const colorClasses = ["multimodal","generative","tabular","algorithms"];
 const research = document.getElementById("research");
 if (research) {
   research.innerHTML = config.aiMethods.map((m,i)=>`
