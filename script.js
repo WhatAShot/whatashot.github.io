@@ -18,9 +18,8 @@ if (research) {
 
 const biomedical = document.getElementById("biomedical-grid");
 if (biomedical) {
-  biomedical.innerHTML = config.biomedicalAreas.map((a,i)=>`
-    <div class="application-node">
-      <span class="application-dot" aria-hidden="true"></span>
+  biomedical.innerHTML = config.biomedicalAreas.map(a=>`
+    <div class="application-item">
       <h3>${zh && a.titleZh ? a.titleZh : a.title}</h3>
       <p>${zh && a.subtitleZh ? a.subtitleZh : a.subtitle}</p>
     </div>`
