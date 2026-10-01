@@ -1040,3 +1040,25 @@ body{
     border-top:1px solid rgba(78,92,106,.16);
   }
 }
+
+/* Subtle orbit accent for AI for Healthcare & Science */
+.biomedical-box::after{
+  content:""!important;
+  display:block!important;
+  position:absolute!important;
+  width:118px;
+  height:118px;
+  right:-44px;
+  top:-48px;
+  border:1px solid rgba(49,95,155,.14);
+  border-radius:50%;
+  box-shadow:
+    0 0 0 16px rgba(39,134,150,.028),
+    0 0 0 34px rgba(103,87,155,.018);
+  pointer-events:none;
+  z-index:0;
+}
+.biomedical-box > *{
+  position:relative;
+  z-index:1;
+}
