@@ -39,10 +39,13 @@ function renderPubs(){
   const rows=current===allKey?pubs:pubs.filter(p=>(p.tags||[]).includes(current));
   list.innerHTML=rows.map(p=>{
     const isPdf=/\/pdf\/|\.pdf(?:$|\?)/i.test(p.paper||"");
+    const codeDataSame=p.code&&p.data&&p.code===p.data;
     const links=[
       p.paper&&`<a href="${p.paper}" target="_blank">${isPdf?ui("PDF","PDF"):ui("Paper","论文")} ↗</a>`,
       p.homepage&&`<a href="${p.homepage}" target="_blank">${ui("Homepage","主页")} ↗</a>`,
-      p.code&&`<a href="${p.code}" target="_blank">${ui("Code","代码")} ↗</a>`
+      codeDataSame&&`<a href="${p.code}" target="_blank">${ui("Code & Data","代码与数据")} ↗</a>`,
+      !codeDataSame&&p.code&&`<a href="${p.code}" target="_blank">${ui("Code","代码")} ↗</a>`,
+      !codeDataSame&&p.data&&`<a href="${p.data}" target="_blank">${ui("Data","数据")} ↗</a>`
     ].filter(Boolean).join("");
     const badge=uiLang==="zh"?(p.badgeZh||(((p.badge||p.venue)==="Preprint")?"预印本":(p.badge||p.venue))):(p.badge||p.venue);
     return `
