@@ -24,7 +24,7 @@
       <div class="navbar-start">
         <a class="navbar-item" href="#about"><strong>About</strong></a>
         <a class="navbar-item" href="#research"><strong>Research</strong></a>
-        <a class="navbar-item" href="publications.html"><strong>Publications</strong></a>
+        <a class="navbar-item" href="publications.html"><strong>Selected Publications</strong></a>
         <a class="navbar-item" href="academic.html"><strong>Academic</strong></a>
         <a class="navbar-item" href="#join"><strong>Join Us</strong></a>
       </div>
@@ -43,7 +43,7 @@
   <div class="hero-body">
     <div class="container">
       <div class="columns is-vcentered is-variable is-6 hero-columns">
-        <div class="column is-8">
+        <div class="column is-9">
           <p class="hero-kicker">Assistant Professor · AI Thrust · HKUST(GZ)</p>
           <h1 class="title is-1 hero-title">Artificial Intelligence for Health and Science</h1>
           <p class="subtitle is-4 hero-subtitle">Multimodal AI · Generative AI · Tabular AI</p>
@@ -57,7 +57,7 @@
             <a class="button is-outlined is-light" href="mailto:jintaiCHEN@hkust-gz.edu.cn">Email</a>
           </div>
         </div>
-        <div class="column is-4">
+        <div class="column is-3">
           <div class="profile-tech-frame">
             <figure class="profile-photo">
               <img src="assets/images/profile.png" alt="Jintai Chen">
@@ -78,25 +78,20 @@
   <div class="container">
     <div class="columns is-variable is-5">
       <div class="column is-8">
-        <div class="box vision-box">
-          <h2 class="title is-4 has-text-white mb-3">Machine Learning Foundations and Biomedical Intelligence</h2>
-          <p class="has-text-white has-text-weight-semibold mb-3">
-            My research develops AI systems that learn from heterogeneous data, generate useful scientific objects and hypotheses,
-            and reason over structured evidence.
+        <section class="research-intro-block">
+          <h2 class="title is-4 mb-2">Research</h2>
+          <p>
+            I develop reusable AI methods for heterogeneous data, generation, and structured reasoning,
+            and translate them from therapeutic discovery and clinical development to diagnosis and treatment.
           </p>
-          <p class="has-text-white">
-            The goal is to connect methodological advances in artificial intelligence with real biomedical problems—
-            from therapeutic discovery and clinical development to diagnosis and treatment.
-          </p>
-        </div>
+        </section>
 
         <div id="research" class="research-stack"></div>
 
         <div class="box biomedical-box">
-          <h2 class="title is-4 mb-3">Biomedical Focus</h2>
+          <h2 class="title is-4 mb-2">AI Across Discovery and Care</h2>
           <p class="mb-4">
-            Rather than treating each disease or modality as a separate research identity, I organize biomedical work
-            along a translational continuum.
+            These AI methods are developed and evaluated across a connected application pipeline.
           </p>
           <div id="biomedical-grid" class="columns is-variable is-3 biomedical-grid"></div>
         </div>
@@ -150,13 +145,11 @@
           </div>
         </div>
 
-        <div class="box quick-box mt-5">
-          <h2 class="title is-5">Quick Links</h2>
-          <div class="content quick-links">
-            <p><a href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank" rel="noreferrer">Google Scholar ↗</a></p>
-            <p><a href="https://github.com/HKUSTGZ-ML4Health-Lab" target="_blank" rel="noreferrer">GitHub ↗</a></p>
-            <p><a href="academic.html">Full Academic Record →</a></p>
-          </div>
+        <div class="quick-links-compact mt-5" aria-label="Quick links">
+          <a href="mailto:jintaiCHEN@hkust-gz.edu.cn">Email</a>
+          <a href="https://www.linkedin.com/in/jintai-chen-3a09921b0" target="_blank" rel="noreferrer">LinkedIn</a>
+          <a href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank" rel="noreferrer">Google Scholar</a>
+          <a href="https://github.com/HKUSTGZ-ML4Health-Lab" target="_blank" rel="noreferrer">GitHub</a>
         </div>
       </aside>
     </div>
@@ -167,12 +160,17 @@
 <footer class="footer compact-footer">
   <div class="container">
     <div class="level is-mobile">
-      <div class="level-left"><p>© <span id="year"></span> Jintai Chen</p></div>
-      <div class="level-right"><p>HKUST(GZ)</p></div>
+      <div class="level-left"><p>© <span id="year"></span> Jintai Chen · HKUST(GZ)</p></div>
+      <div class="level-right">
+        <p id="busuanzi_container_site_pv" class="visitor-count">
+          This homepage is visited <strong id="busuanzi_value_site_pv"></strong> times
+        </p>
+      </div>
     </div>
   </div>
 </footer>
 
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <script src="data/research.js"></script>
 <script src="script.js"></script>
 </body>
