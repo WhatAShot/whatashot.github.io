@@ -153,3 +153,65 @@ footer{border-top:1px solid var(--line);padding:26px 0;color:#73776f;font-size:1
   .method-grid-v2 .research-card h3{margin-top:20px}
   .pub-roles{grid-template-columns:1fr}
 }
+
+/* Editorial homepage v3 — inspired by research storytelling, not dashboard UI */
+.research-editorial{padding-top:132px}
+.research-intro{display:grid;grid-template-columns:.62fr 1.38fr;gap:72px;padding-bottom:54px;border-bottom:1px solid var(--line)}
+.research-intro>.eyebrow{padding-top:8px}
+.research-intro h2{font-family:"Manrope",sans-serif;font-size:clamp(42px,5.4vw,66px);line-height:1.02;letter-spacing:-.055em;margin:0;max-width:900px}
+.research-intro-copy{grid-column:2;font-size:19px;color:var(--muted);max-width:720px;margin:0}
+.research-pillars{border-top:0}
+.pillar-row{display:grid;grid-template-columns:80px minmax(0,1.2fr) minmax(260px,.8fr);gap:34px;align-items:start;padding:38px 0;border-bottom:1px solid var(--line)}
+.pillar-index{font-size:12px;color:#9a9e97;padding-top:8px}
+.pillar-main h3{font-family:"Manrope";font-size:clamp(30px,3.3vw,44px);line-height:1.05;letter-spacing:-.045em;margin:0 0 12px}
+.pillar-main p{font-size:17px;color:var(--muted);margin:0;max-width:690px}
+.pillar-tags{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end;padding-top:4px}
+.pillar-tags span{font-size:12px;border:1px solid var(--line);padding:7px 10px;border-radius:999px;background:rgba(255,255,255,.35);color:#59605a}
+.biomedical-arc{margin-top:72px;padding-top:28px;border-top:1px solid var(--ink)}
+.biomedical-arc-head{display:grid;grid-template-columns:.62fr 1.38fr;gap:72px;margin-bottom:26px}
+.biomedical-arc-head .eyebrow{margin:0}
+.biomedical-arc-head>p:last-child{margin:0;color:var(--muted);max-width:700px}
+.biomedical-arc-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-top:1px solid var(--line)}
+.biomedical-item{padding:28px 28px 12px 0;border-right:1px solid var(--line);min-height:150px}
+.biomedical-item:nth-child(2){padding-left:28px}
+.biomedical-item:nth-child(3){padding-left:28px;border-right:0}
+.biomedical-index{font-size:11px;color:#9b9f98}
+.biomedical-item h3{font-family:"Manrope";font-size:25px;letter-spacing:-.035em;margin:24px 0 5px}
+.biomedical-item p{margin:0;font-size:13px;color:var(--muted)}
+.selected-editorial{padding-top:126px}
+.editorial-heading{display:grid;grid-template-columns:1fr auto;gap:30px;align-items:end;max-width:none}
+.feature-story{display:grid;grid-template-columns:1.18fr .82fr;background:var(--paper);border-top:1px solid var(--ink);border-bottom:1px solid var(--line);min-height:480px}
+.feature-image{min-height:480px;overflow:hidden;background:#e6e3dc}
+.feature-image img{width:100%;height:100%;object-fit:cover}
+.feature-copy{padding:56px 44px;display:flex;flex-direction:column;justify-content:center}
+.feature-kicker{font-size:11px;text-transform:uppercase;letter-spacing:.11em;color:var(--accent);font-weight:600}
+.feature-copy h3{font-family:"Manrope";font-size:clamp(34px,4vw,50px);line-height:1.02;letter-spacing:-.05em;margin:20px 0 18px}
+.feature-copy p{font-size:17px;color:var(--muted);margin:0;max-width:520px}
+.feature-links{display:flex;gap:18px;margin-top:28px}.feature-links a{font-size:13px;font-weight:600;color:var(--accent)}
+.feature-list{border-top:1px solid var(--line)}
+.feature-row{display:grid;grid-template-columns:64px 1.05fr 1.15fr auto;gap:28px;align-items:start;padding:30px 0;border-bottom:1px solid var(--line)}
+.feature-row-index{font-size:11px;color:#999e96;padding-top:5px}
+.feature-row-title h3{font-family:"Manrope";font-size:24px;letter-spacing:-.035em;line-height:1.1;margin:8px 0 0}
+.feature-row>p{font-size:14px;color:var(--muted);margin:2px 0 0}
+.feature-row>a{font-size:13px;color:var(--accent);font-weight:600;padding-top:4px}
+@media(max-width:900px){
+  .research-intro,.biomedical-arc-head{grid-template-columns:1fr;gap:16px}
+  .research-intro-copy{grid-column:auto}
+  .pillar-row{grid-template-columns:46px 1fr}
+  .pillar-tags{grid-column:2;justify-content:flex-start}
+  .biomedical-arc-grid{grid-template-columns:1fr}
+  .biomedical-item,.biomedical-item:nth-child(2),.biomedical-item:nth-child(3){padding:24px 0;border-right:0;border-bottom:1px solid var(--line);min-height:auto}
+  .feature-story{grid-template-columns:1fr}.feature-image{min-height:360px}.feature-copy{padding:38px 28px}
+  .feature-row{grid-template-columns:46px 1fr}.feature-row>p,.feature-row>a{grid-column:2}
+}
+@media(max-width:620px){
+  .research-editorial{padding-top:86px}
+  .research-intro h2{font-size:40px}
+  .pillar-row{padding:28px 0}
+  .pillar-main h3{font-size:31px}
+  .pillar-main p{font-size:16px}
+  .selected-editorial{padding-top:84px}
+  .editorial-heading{grid-template-columns:1fr}
+  .feature-image{min-height:260px}
+  .feature-copy h3{font-size:34px}
+}
