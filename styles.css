@@ -281,23 +281,6 @@ body{
   object-fit:cover;
   object-position:center;
 }
-.profile-tech-caption{
-  display:flex;
-  justify-content:space-between;
-  gap:.75rem;
-  align-items:center;
-  margin-top:.55rem;
-  color:#fff;
-  font-size:.67rem;
-  letter-spacing:.08em;
-}
-.profile-tech-caption span{font-weight:700}
-.profile-tech-caption small{
-  color:rgba(255,255,255,.76);
-  font-size:.62rem;
-  letter-spacing:.03em;
-  text-align:right;
-}
 .hero-orbit{
   position:absolute;
   border:1px solid rgba(118,202,215,.18);
@@ -355,9 +338,6 @@ body{
 .profile-tech-caption{
   font-size:.58rem!important;
   margin-top:.4rem!important;
-}
-.profile-tech-caption small{
-  font-size:.55rem!important;
 }
 .hero-orbit-a{width:230px!important;height:230px!important;top:-120px!important}
 .hero-orbit-b{width:145px!important;height:145px!important;bottom:-90px!important}
@@ -480,14 +460,6 @@ body{
 }
 
 /* Positioning refinement: concise hero + clean research heading */
-.profile-tech-caption.single-line{
-  display:block!important;
-  text-align:center;
-  margin-top:.42rem!important;
-  font-size:.62rem!important;
-  letter-spacing:.14em!important;
-  white-space:nowrap;
-}
 .compact-heading-only{
   padding:0 0 .5rem!important;
   margin-bottom:.7rem!important;
@@ -772,12 +744,7 @@ body{
     width:145px!important;
     margin-top:.15rem!important;
   }
-  .profile-tech-caption.single-line{
-    font-size:.54rem!important;
-    letter-spacing:.12em!important;
-  }
-
-  /* Footer: avoid Bulma's mobile level squeezing the copyright into a narrow column. */
+/* Footer: avoid Bulma's mobile level squeezing the copyright into a narrow column. */
   .compact-footer{
     padding:.95rem 1.1rem!important;
   }
@@ -903,11 +870,6 @@ body{
     bottom:-8px;
     width:44px;
     height:44px;
-  }
-  .profile-tech-caption.single-line{
-    font-size:.5rem!important;
-    letter-spacing:.105em!important;
-    margin-top:.32rem!important;
   }
 }
 
