@@ -2,6 +2,7 @@
 // Add/edit records here; the publications page renders automatically.
 // † = co-first author; * = corresponding author.
 // Homepage = dedicated project website (not publisher/arXiv/conference landing page).
+// priority = manual ordering within the same year (higher appears first).
 window.PUBLICATIONS = [
   {
     "year": 2026,
@@ -16,7 +17,8 @@ window.PUBLICATIONS = [
     "paper": "https://arxiv.org/pdf/2510.17385v1",
     "tags": [
       "Tabular AI"
-    ]
+    ],
+    "priority": 90
   },
   {
     "year": 2026,
@@ -37,7 +39,8 @@ window.PUBLICATIONS = [
       "Generative AI",
       "Drug Design"
     ],
-    "homepage": "https://hkustgz-ml4health-lab.github.io/APCyc/"
+    "homepage": "https://hkustgz-ml4health-lab.github.io/APCyc/",
+    "priority": 70
   },
   {
     "year": 2026,
@@ -59,7 +62,8 @@ window.PUBLICATIONS = [
     "tags": [
       "Multimodal AI",
       "Drug Design"
-    ]
+    ],
+    "priority": 85
   },
   {
     "year": 2026,
@@ -78,7 +82,8 @@ window.PUBLICATIONS = [
       "Learning Algorithms",
       "Clinical Decision Support"
     ],
-    "homepage": "https://c0216rc.github.io/Med-Scout/"
+    "homepage": "https://c0216rc.github.io/Med-Scout/",
+    "priority": 100
   },
   {
     "year": 2026,
@@ -97,7 +102,8 @@ window.PUBLICATIONS = [
       "Clinical Decision Support"
     ],
     "code": "https://github.com/HKUSTGZ-ML4Health-Lab/NEFNET-v2",
-    "data": "https://huggingface.co/datasets/whynotJunger/Panobench"
+    "data": "https://huggingface.co/datasets/whynotJunger/Panobench",
+    "priority": 95
   },
   {
     "year": 2026,
@@ -111,7 +117,8 @@ window.PUBLICATIONS = [
     "tags": [
       "Generative AI",
       "Clinical Decision Support"
-    ]
+    ],
+    "priority": 80
   },
   {
     "year": 2026,
@@ -132,7 +139,8 @@ window.PUBLICATIONS = [
     "tags": [
       "Learning Algorithms",
       "Drug Design"
-    ]
+    ],
+    "priority": 75
   },
   {
     "year": 2025,
