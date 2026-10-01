@@ -14,7 +14,7 @@ window.PUBLICATIONS = [
     "correspondingAuthors": [
       "Jintai Chen"
     ],
-    "paper": "https://arxiv.org/pdf/2510.17385v1",
+    "paper": "https://arxiv.org/pdf/2510.17385v5",
     "tags": [
       "Tabular AI"
     ],
@@ -63,7 +63,8 @@ window.PUBLICATIONS = [
       "Multimodal AI",
       "Drug Design"
     ],
-    "priority": 85
+    "priority": 85,
+    "code": "https://github.com/zju-ai4s/Caduceus"
   },
   {
     "year": 2026,
@@ -161,7 +162,11 @@ window.PUBLICATIONS = [
       "Multimodal AI",
       "Clinical Trial Optimization"
     ],
-    "homepage": "https://huyjj.github.io/Trialbench/"
+    "homepage": "https://huyjj.github.io/Trialbench/",
+    "code": "https://github.com/ML2Health/ML2ClinicalTrials/tree/main/Trialbench",
+    "data": "https://zenodo.org/records/15455785",
+    "pythonPackage": "https://pypi.org/project/trialbench/",
+    "rPackage": "https://github.com/ML2Health/ML2ClinicalTrials/tree/main/Trialbench/packages/r.trialbench"
   },
   {
     "year": 2025,
@@ -178,7 +183,8 @@ window.PUBLICATIONS = [
     "tags": [
       "Multimodal AI",
       "Learning Algorithms"
-    ]
+    ],
+    "code": "https://github.com/aTongs1/OrderChain"
   },
   {
     "year": 2025,
@@ -195,7 +201,9 @@ window.PUBLICATIONS = [
     "tags": [
       "Generative AI",
       "Learning Algorithms"
-    ]
+    ],
+    "code": "https://github.com/wjh892521292/DAR",
+    "homepage": "https://depth-ar.github.io/"
   },
   {
     "year": 2025,
@@ -211,12 +219,13 @@ window.PUBLICATIONS = [
     "tags": [
       "Tabular AI",
       "Clinical Decision Support"
-    ]
+    ],
+    "code": "https://github.com/jyansir/sersal"
   },
   {
     "year": 2025,
     "venue": "Information Fusion",
-    "badge": "Info. Fusion",
+    "badge": "Information Fusion",
     "title": "OmniFuse: A General Modality Fusion Framework for Multi-Modality Learning on Low-quality Medical Data",
     "authors": "Yixuan Wu, Jintai Chen, Lianting Hu, Hongxia Xu, Huiying Liang, Jian Wu",
     "coFirstAuthors": [],
@@ -252,7 +261,8 @@ window.PUBLICATIONS = [
     "tags": [
       "Multimodal AI",
       "Drug Design"
-    ]
+    ],
+    "code": "https://github.com/diaoshaoyou/ProtCLIP"
   },
   {
     "year": 2025,
@@ -271,7 +281,8 @@ window.PUBLICATIONS = [
     "paper": "https://arxiv.org/pdf/2404.11871",
     "tags": [
       "Learning Algorithms"
-    ]
+    ],
+    "code": "https://github.com/diaoshaoyou/Group-On"
   },
   {
     "year": 2024,
@@ -313,7 +324,8 @@ window.PUBLICATIONS = [
     "paper": "https://arxiv.org/pdf/2301.02819",
     "tags": [
       "Tabular AI"
-    ]
+    ],
+    "code": "https://github.com/WhatAShot/ExcelFormer"
   },
   {
     "year": 2024,
@@ -328,7 +340,8 @@ window.PUBLICATIONS = [
     "paper": "https://arxiv.org/pdf/2407.09790",
     "tags": [
       "Tabular AI"
-    ]
+    ],
+    "code": "https://github.com/jyansir/tmlp"
   },
   {
     "year": 2024,
@@ -361,7 +374,9 @@ window.PUBLICATIONS = [
     "tags": [
       "Generative AI",
       "Clinical Decision Support"
-    ]
+    ],
+    "code": "https://github.com/huyjj/LAVQ-Editor",
+    "data": "https://github.com/huyjj/LAVQ-Editor"
   },
   {
     "year": 2024,
@@ -379,7 +394,8 @@ window.PUBLICATIONS = [
     "tags": [
       "Multimodal AI",
       "Drug Design"
-    ]
+    ],
+    "code": "https://github.com/KDurant-123/ProtET"
   },
   {
     "year": 2024,
@@ -432,7 +448,8 @@ window.PUBLICATIONS = [
     "tags": [
       "Generative AI",
       "Clinical Trial Optimization"
-    ]
+    ],
+    "code": "https://github.com/lingyue404/clinical-agent"
   },
   {
     "year": 2024,
@@ -446,7 +463,8 @@ window.PUBLICATIONS = [
     "tags": [
       "Tabular AI",
       "Clinical Trial Optimization"
-    ]
+    ],
+    "code": "https://github.com/lingyue404/TrialEnroll"
   },
   {
     "year": 2023,
@@ -631,7 +649,7 @@ window.PUBLICATIONS = [
   {
     "year": 2025,
     "venue": "Information Fusion",
-    "badge": "Info. Fusion",
+    "badge": "Information Fusion",
     "title": "From Screens to Scenes: A Survey of Embodied AI in Healthcare",
     "authors": "Yihao Liu, Xu Cao, Tingting Chen, Yankai Jiang, Junjie You, Minghua Wu, Xiaosong Wang, Mengling Feng, Yaochu Jin, Jintai Chen",
     "coFirstAuthors": [],
@@ -792,10 +810,10 @@ window.PUBLICATIONS = [
   },
   {
     "year": 2026,
-    "venue": "EMNLP",
-    "badge": "EMNLP · Oral",
+    "venue": "EMNLP Findings",
+    "badge": "EMNLP · Findings",
     "title": "ClinicalReTrial: Clinical Trial Redesign with Self-Evolving Agents",
-    "authors": "Sixue Xing, Kerui Wu, Xuanye Xia, Meng Jiang, Jintai Chen, Tianfan Fu",
+    "authors": "Sixue Xing, Kerui Wu, Xuanye Xia, Haoyu He, Meng Jiang, Jintai Chen, Tianfan Fu",
     "coFirstAuthors": [],
     "correspondingAuthors": [
       "Tianfan Fu"
@@ -809,8 +827,8 @@ window.PUBLICATIONS = [
   },
   {
     "year": 2025,
-    "venue": "Journal of Clinical Electrocardiology",
-    "badge": "J. Clin. Electrocardiol. · Invited Article",
+    "venue": "《临床心电学杂志》",
+    "badge": "《临床心电学杂志》· 特约专稿",
     "badgeZh": "《临床心电学杂志》· 特约专稿",
     "title": "基于人工智能的心电全景图：思想、方法与应用前瞻",
     "authors": "詹泽汇, 陈涵, 陈晋泰",
@@ -873,7 +891,7 @@ window.PUBLICATIONS = [
     "correspondingAuthors": [],
     "paper": "https://arxiv.org/pdf/2609.31167",
     "tags": [
-      "Learning Algorithms",
+      "Multimodal AI",
       "Clinical Decision Support"
     ]
   },
@@ -902,7 +920,10 @@ window.PUBLICATIONS = [
     "title": "RetinexDA: Progressive Disentanglement Domain Adaptation for Unsupervised Cross-Modality Medical Image Segmentation",
     "authors": "Yixuan Wu, Mingze Yin, Zitai Kong, Jintai Chen, Jian Wu, Honghao Gao, Hongxia Xu",
     "coFirstAuthors": [],
-    "correspondingAuthors": [],
+    "correspondingAuthors": [
+      "Honghao Gao",
+      "Hongxia Xu"
+    ],
     "paper": "https://doi.org/10.1109/JBHI.2026.3687961",
     "tags": [
       "Multimodal AI",
