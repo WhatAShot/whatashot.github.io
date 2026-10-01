@@ -25,7 +25,7 @@ function renderPubs(){
   const rows=current===allKey?pubs:pubs.filter(p=>(p.tags||[]).includes(current));
   list.innerHTML=rows.map(p=>{
     const links=[
-      p.paper&&`<a href="${p.paper}" target="_blank">PDF ↗</a>`,
+      p.paper&&`<a href="${p.paper}" target="_blank">${(/\/pdf\/|\.pdf(?:$|\?)/i.test(p.paper))?"PDF":"Paper"} ↗</a>`,
       p.homepage&&`<a href="${p.homepage}" target="_blank">Homepage ↗</a>`,
       p.code&&`<a href="${p.code}" target="_blank">Code ↗</a>`,
       p.project&&`<a href="${p.project}" target="_blank">Project ↗</a>`
