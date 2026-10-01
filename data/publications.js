@@ -763,7 +763,7 @@ window.PUBLICATIONS = [
     "year": 2026,
     "venue": "Preprint",
     "badge": "Preprint",
-    "title": "Coupled Graph--Policy Distillation for Personalized Medication Safety in Older Adults with Multimorbidity",
+    "title": "Coupled Graph-Policy Distillation for Personalized Medication Safety in Older Adults with Multimorbidity",
     "authors": "Zihan Wang, Anglin Liu, Rongyi Wang, Dantong Li, Yi Lu, Siqing Yuan, Hongxia Xu, Zhongtian Long, Jintai Chen",
     "coFirstAuthors": [
       "Zihan Wang",
@@ -820,7 +820,9 @@ window.PUBLICATIONS = [
     "title": "EEGBind: Detecting Source-Level Interictal Epileptiform Discharges via EEG-Centric Multimodal Binding",
     "authors": "Muchen Li, Anglin Liu, Xuetian Gao, Ruijian Xu, Jintai Chen",
     "coFirstAuthors": [],
-    "correspondingAuthors": [],
+    "correspondingAuthors": [
+      "Jintai Chen"
+    ],
     "paper": "https://arxiv.org/pdf/2609.09728",
     "code": "https://github.com/HKUSTGZ-ML4Health-Lab/NeuroMM2026_IED_Detection",
     "tags": [
@@ -893,6 +895,23 @@ window.PUBLICATIONS = [
     "paper": "https://doi.org/10.1109/JBHI.2026.3687961",
     "tags": [
       "Multimodal AI",
+      "Learning Algorithms",
+      "Clinical Decision Support"
+    ]
+  },
+  {
+    "year": 2026,
+    "venue": "KDD",
+    "badge": "KDD",
+    "title": "PHASE: Physiology-Aware Hyperspectral Reconstruction via Object-to-Human Domain Adaptation",
+    "authors": "Yufei Wen, Shuxing Zhong, Jingdan Kang, Yuting Zhang, Jintai Chen, Kaishun Wu",
+    "coFirstAuthors": [],
+    "correspondingAuthors": [
+      "Kaishun Wu"
+    ],
+    "paper": "https://arxiv.org/pdf/2511.13020",
+    "code": "https://github.com/Dreamer1209/PHASEKDD",
+    "tags": [
       "Learning Algorithms",
       "Clinical Decision Support"
     ]
