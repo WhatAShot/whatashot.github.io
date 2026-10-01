@@ -571,3 +571,8 @@ body{
     width:37.5%!important;
   }
 }
+
+/* Fourth research direction */
+.research-box.algorithms{
+  background:linear-gradient(135deg,#7a4a35,#9b6845);
+}
