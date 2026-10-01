@@ -441,3 +441,61 @@ body{
   .quick-links-compact{gap:.55rem}
   .quick-links-compact a+a:before{margin-right:.55rem}
 }
+
+/* Compact language switch and unified resource block */
+.language-switch{align-items:center}
+.language-switch .lang-link{
+  min-width:2.25rem;
+  justify-content:center;
+  font-family:"Source Sans 3",system-ui,sans-serif!important;
+  font-size:.78rem;
+  font-weight:700;
+  letter-spacing:.08em;
+  color:rgba(255,255,255,.74)!important;
+  background:transparent!important;
+}
+.language-switch .lang-link:hover,
+.language-switch .lang-link.is-current-language{
+  color:#fff!important;
+  background:rgba(0,0,0,.12)!important;
+}
+.resource-box{
+  border-radius:4px!important;
+  border:1px solid var(--line);
+  box-shadow:none!important;
+  padding:.8rem .9rem!important;
+}
+.resource-box .title{
+  font-size:.95rem!important;
+  color:var(--primary-dark);
+  border-bottom:1px solid var(--line);
+  padding-bottom:.35rem;
+  margin-bottom:.45rem!important;
+}
+.resource-links{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.3rem .75rem;
+  font-size:.76rem;
+  line-height:1.4;
+}
+.resource-links a{
+  white-space:nowrap;
+}
+.resource-links a+a:before{
+  content:"·";
+  color:#a5adb2;
+  margin-right:.75rem;
+}
+@media(max-width:768px){
+  .language-switch{
+    display:flex!important;
+    padding:.25rem .5rem;
+  }
+  .language-switch .navbar-item{
+    display:inline-flex!important;
+    padding:.4rem .6rem!important;
+  }
+  .resource-links{gap:.28rem .55rem}
+  .resource-links a+a:before{margin-right:.55rem}
+}
