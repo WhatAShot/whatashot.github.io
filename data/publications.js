@@ -26,7 +26,7 @@ window.PUBLICATIONS = [
     year: 2026, venue: "KDD", badge: "KDD",
     title: "Caduceus: MoE Foundation Models for Unifying Biological and Natural Language",
     authors: "Mingze Yin, Yiheng Zhu, Jialu Wu, Jian Ma, Hanjing Zhou, Mingyang Li, Yuhua Zhou, Jintai Chen, Tingjun Hou, Jieping Ye, Aimin Pan",
-    coFirstAuthors: [],
+    coFirstAuthors: ["Mingze Yin","Yiheng Zhu"],
     correspondingAuthors: ["Jintai Chen","Tingjun Hou","Jieping Ye","Aimin Pan"],
     paper: "https://dl.acm.org/doi/10.1145/3770855.3818885",
     tags: ["Multimodal AI", "Drug Design"]
