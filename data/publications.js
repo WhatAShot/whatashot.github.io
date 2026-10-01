@@ -95,7 +95,9 @@ window.PUBLICATIONS = [
     "tags": [
       "Generative AI",
       "Clinical Decision Support"
-    ]
+    ],
+    "code": "https://github.com/HKUSTGZ-ML4Health-Lab/NEFNET-v2",
+    "data": "https://github.com/HKUSTGZ-ML4Health-Lab/NEFNET-v2"
   },
   {
     "year": 2026,
@@ -547,7 +549,8 @@ window.PUBLICATIONS = [
     "tags": [
       "Generative AI",
       "Clinical Decision Support"
-    ]
+    ],
+    "data": "https://github.com/WhatAShot/Electrocardio-Panorama"
   },
   {
     "year": 2021,
