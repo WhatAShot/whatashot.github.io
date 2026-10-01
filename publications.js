@@ -1,4 +1,4 @@
-const pubs=(window.PUBLICATIONS||[]).slice().sort((a,b)=>b.year-a.year||a.title.localeCompare(b.title));
+const pubs=(window.PUBLICATIONS||[]).slice().sort((a,b)=>b.year-a.year||(b.priority||0)-(a.priority||0)||a.title.localeCompare(b.title));
 const allKey="All";
 const preferredTags=["Multimodal AI","Generative AI","Tabular AI","Learning Algorithms","Drug Design","Clinical Trial Optimization","Clinical Decision Support"];
 const observedTags=Array.from(new Set(pubs.flatMap(p=>p.tags||[])));
