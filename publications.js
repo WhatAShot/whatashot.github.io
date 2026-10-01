@@ -1,6 +1,8 @@
 const pubs=(window.PUBLICATIONS||[]).slice().sort((a,b)=>b.year-a.year||a.title.localeCompare(b.title));
 const allKey="All";
-const allTags=[allKey,...Array.from(new Set(pubs.flatMap(p=>p.tags||[])))];
+const preferredTags=["Multimodal AI","Generative AI","Tabular AI","Learning Algorithms","Drug Design","Clinical Trial Optimization","Clinical Decision Support"];
+const observedTags=Array.from(new Set(pubs.flatMap(p=>p.tags||[])));
+const allTags=[allKey,...preferredTags.filter(t=>observedTags.includes(t)),...observedTags.filter(t=>!preferredTags.includes(t))];
 let current=allKey;
 const uiLang=window.PAGE_LANG||"en";
 const filterBar=document.getElementById("filter-bar");
@@ -23,7 +25,8 @@ function renderPubs(){
   const rows=current===allKey?pubs:pubs.filter(p=>(p.tags||[]).includes(current));
   list.innerHTML=rows.map(p=>{
     const links=[
-      p.paper&&`<a href="${p.paper}" target="_blank">Paper ↗</a>`,
+      p.paper&&`<a href="${p.paper}" target="_blank">PDF ↗</a>`,
+      p.homepage&&`<a href="${p.homepage}" target="_blank">Homepage ↗</a>`,
       p.code&&`<a href="${p.code}" target="_blank">Code ↗</a>`,
       p.project&&`<a href="${p.project}" target="_blank">Project ↗</a>`
     ].filter(Boolean).join("");
