@@ -697,27 +697,6 @@ window.PUBLICATIONS = [
     ]
   },
   {
-    "year": 2019,
-    "venue": "MICCAI",
-    "badge": "MICCAI",
-    "title": "LSRC: A Long-Short Range Context-Fusing Framework for Automatic 3D Vertebra Localization",
-    "authors": "Jintai Chen, Yanjie Wang, Ruoqian Guo, Bohan Yu, Tingting Chen, Wenzhe Wang, Ruiwei Feng, Danny Z. Chen, Jian Wu",
-    "coFirstAuthors": [
-      "Jintai Chen",
-      "Yanjie Wang",
-      "Ruoqian Guo"
-    ],
-    "correspondingAuthors": [
-      "Jian Wu"
-    ],
-    "paper": "https://link.springer.com/content/pdf/10.1007/978-3-030-32226-7_11.pdf",
-    "homepage": "https://link.springer.com/chapter/10.1007/978-3-030-32226-7_11",
-    "tags": [
-      "Learning Algorithms",
-      "Clinical Decision Support"
-    ]
-  },
-  {
     "year": 2020,
     "venue": "BIBM",
     "badge": "BIBM",
@@ -755,23 +734,6 @@ window.PUBLICATIONS = [
       "Multimodal AI",
       "Learning Algorithms",
       "Clinical Decision Support"
-    ]
-  },
-  {
-    "year": 2025,
-    "venue": "Preprint",
-    "badge": "Preprint",
-    "title": "RareAgent: Self-Evolving Reasoning for Drug Repurposing in Rare Diseases",
-    "authors": "Lang Qin, Zijian Gan, Xu Cao, Pengcheng Jiang, Yankai Jiang, Jiawei Han, Kaishun Wu, Jintai Chen",
-    "coFirstAuthors": [],
-    "correspondingAuthors": [
-      "Jintai Chen"
-    ],
-    "paper": "https://arxiv.org/pdf/2510.05764",
-    "homepage": "https://arxiv.org/abs/2510.05764",
-    "tags": [
-      "Learning Algorithms",
-      "Drug Design"
     ]
   },
   {
@@ -842,6 +804,24 @@ window.PUBLICATIONS = [
     "tags": [
       "Learning Algorithms",
       "Clinical Trial Optimization"
+    ]
+  },
+  {
+    "year": 2025,
+    "venue": "Journal of Clinical Electrocardiology",
+    "badge": "J. Clin. Electrocardiol. · Invited Article",
+    "badgeZh": "《临床心电学杂志》· 特约专稿",
+    "title": "基于人工智能的心电全景图：思想、方法与应用前瞻",
+    "authors": "詹泽汇, 陈涵, 陈晋泰",
+    "coFirstAuthors": [],
+    "correspondingAuthors": [
+      "陈晋泰"
+    ],
+    "paper": "https://repository.hkust.edu.hk/ir/Record/1783.1-168759",
+    "homepage": "https://researchportal.hkust.edu.hk/en/publications/%E5%9F%BA%E4%BA%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%BF%83%E7%94%B5%E5%85%A8%E6%99%AF%E5%9B%BE-%E6%80%9D%E6%83%B3%E6%96%B9%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E5%89%8D%E7%9E%BB/",
+    "tags": [
+      "Generative AI",
+      "Clinical Decision Support"
     ]
   }
 ];
