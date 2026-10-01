@@ -1,11 +1,13 @@
 const pubs=(window.PUBLICATIONS||[]).slice().sort((a,b)=>b.year-a.year||a.title.localeCompare(b.title));
-const allTags=["All",...Array.from(new Set(pubs.flatMap(p=>p.tags||[])))];
-let current="All";
+const allKey="All";
+const allTags=[allKey,...Array.from(new Set(pubs.flatMap(p=>p.tags||[])))];
+let current=allKey;
+const uiLang=window.PAGE_LANG||"en";
 const filterBar=document.getElementById("filter-bar");
 const list=document.getElementById("publication-list");
 
 function renderFilters(){
-  filterBar.innerHTML=allTags.map(t=>`<button class="button ${t===current?"is-selected":""}" data-tag="${t}">${t}</button>`).join("");
+  filterBar.innerHTML=allTags.map(t=>`<button class="button ${t===current?"is-selected":""}" data-tag="${t}">${t===allKey&&uiLang==="zh"?"全部":t}</button>`).join("");
   filterBar.querySelectorAll("button").forEach(b=>b.onclick=()=>{current=b.dataset.tag;renderFilters();renderPubs();});
 }
 function authorHtml(p){
@@ -18,7 +20,7 @@ function authorHtml(p){
   }).join(", ");
 } 
 function renderPubs(){
-  const rows=current==="All"?pubs:pubs.filter(p=>(p.tags||[]).includes(current));
+  const rows=current===allKey?pubs:pubs.filter(p=>(p.tags||[]).includes(current));
   list.innerHTML=rows.map(p=>{
     const links=[
       p.paper&&`<a href="${p.paper}" target="_blank">Paper ↗</a>`,
