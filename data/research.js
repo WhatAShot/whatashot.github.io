@@ -6,10 +6,10 @@ window.RESEARCH_CONFIG = {
       id: "multimodal",
       title: "Multimodal AI",
       titleZh: "多模态 AI",
-      summary: "Learning across heterogeneous physiological, imaging, language, molecular, and structured signals.",
-      summaryZh: "面向生理信号、医学影像、语言、分子与结构化数据等异质信息的统一学习。",
-      tags: ["ECG / EEG", "Medical imaging", "Protein multimodality", "MLLMs"],
-      tagsZh: ["ECG / EEG", "医学影像", "蛋白多模态", "MLLMs"]
+      summary: "Learning across biosignals, medical imaging, biological sequences, language, and other heterogeneous modalities.",
+      summaryZh: "面向生物信号、医学影像、生物序列、语言等异质模态的统一学习。",
+      tags: ["Biosignals", "Medical Imaging", "Biological Sequences & Language", "MLLMs"],
+      tagsZh: ["生物信号", "医学影像", "生物序列与语言", "MLLMs"]
     },
     {
       id: "generative",
