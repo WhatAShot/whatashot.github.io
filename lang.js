@@ -23,7 +23,7 @@
   if(lang==="zh"){
     if(path.endsWith("publications.html")) document.title="代表性论文 | Jintai Chen";
     else if(path.endsWith("academic.html")) document.title="学术经历 | Jintai Chen";
-    else document.title="Jintai Chen | 面向医疗与科学的人工智能";
+    else document.title="陈晋泰 Jintai Chen | 香港科技大学（广州）";
   }
 
   // Keep the selected language when navigating among local pages.

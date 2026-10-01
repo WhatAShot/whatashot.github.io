@@ -827,9 +827,9 @@ body{
   .hero-copy{
     grid-column:1 / -1;
   }
-  .hero-kicker{grid-row:1}
-  .hero-title{grid-row:2}
-  .hero-subtitle{grid-row:3}
+  .hero-title{grid-row:1}
+  .hero-subtitle{grid-row:2}
+  .hero-kicker{grid-row:3}
   .hero-copy{grid-row:4}
 
   /* CTA + portrait form one visual unit at the bottom of the hero. */
