@@ -812,5 +812,89 @@ window.PUBLICATIONS = [
       "Generative AI",
       "Clinical Decision Support"
     ]
+  },
+  {
+    "year": 2026,
+    "venue": "ACM MM",
+    "badge": "ACM MM",
+    "title": "EEGBind: Detecting Source-Level Interictal Epileptiform Discharges via EEG-Centric Multimodal Binding",
+    "authors": "Muchen Li, Anglin Liu, Xuetian Gao, Ruijian Xu, Jintai Chen",
+    "coFirstAuthors": [],
+    "correspondingAuthors": [],
+    "paper": "https://arxiv.org/pdf/2609.09728",
+    "code": "https://github.com/HKUSTGZ-ML4Health-Lab/NeuroMM2026_IED_Detection",
+    "tags": [
+      "Multimodal AI",
+      "Learning Algorithms",
+      "Clinical Decision Support"
+    ]
+  },
+  {
+    "year": 2026,
+    "venue": "CVPR",
+    "badge": "CVPR",
+    "title": "MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis",
+    "authors": "Yuting Zhang, Kaishen Yuan, Hao Lu, Yutao Yue, Jintai Chen, Kaishun Wu",
+    "coFirstAuthors": [
+      "Yuting Zhang",
+      "Kaishen Yuan"
+    ],
+    "correspondingAuthors": [
+      "Kaishun Wu"
+    ],
+    "paper": "https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_MedTVT-R1_A_Multimodal_LLM_Empowering_Medical_Reasoning_and_Diagnosis_CVPR_2026_paper.pdf",
+    "code": "https://github.com/keke-nice/MedTVT-R1",
+    "tags": [
+      "Multimodal AI",
+      "Learning Algorithms",
+      "Clinical Decision Support"
+    ]
+  },
+  {
+    "year": 2026,
+    "venue": "Preprint",
+    "badge": "Preprint",
+    "title": "Neural State Prediction: Obstructing Shortcut Learning in EEG Foundation Models",
+    "authors": "Kieren Yu, Ziyang Liu, Chang Huang, Jintai Chen, Kaishun Wu",
+    "coFirstAuthors": [],
+    "correspondingAuthors": [],
+    "paper": "https://arxiv.org/pdf/2609.31167",
+    "tags": [
+      "Learning Algorithms",
+      "Clinical Decision Support"
+    ]
+  },
+  {
+    "year": 2026,
+    "venue": "Preprint",
+    "badge": "Preprint",
+    "title": "JustLLMGRPO: Radiographic Control for Chest X-Ray Generation",
+    "authors": "Pengxiang Cai, Xiaohan Li, Anglin Liu, Qingyuan Zeng, Zexun Li, Jintai Chen",
+    "coFirstAuthors": [],
+    "correspondingAuthors": [
+      "Jintai Chen"
+    ],
+    "paper": "https://arxiv.org/pdf/2608.08046",
+    "code": "https://github.com/pxcai/JustLLMGRPO",
+    "tags": [
+      "Generative AI",
+      "Learning Algorithms",
+      "Clinical Decision Support"
+    ]
+  },
+  {
+    "year": 2026,
+    "venue": "IEEE Journal of Biomedical and Health Informatics",
+    "badge": "IEEE JBHI",
+    "title": "RetinexDA: Progressive Disentanglement Domain Adaptation for Unsupervised Cross-Modality Medical Image Segmentation",
+    "authors": "Yixuan Wu, Mingze Yin, Zitai Kong, Jintai Chen, Jian Wu, Honghao Gao, Hongxia Xu",
+    "coFirstAuthors": [],
+    "correspondingAuthors": [],
+    "paper": "https://doi.org/10.1109/JBHI.2026.3687961",
+    "tags": [
+      "Multimodal AI",
+      "Learning Algorithms",
+      "Clinical Decision Support"
+    ]
   }
 ];
