@@ -923,3 +923,40 @@ body{
     width:min(100%,138px);
   }
 }
+
+
+/* Mobile application card — stack cleanly instead of squeezing three desktop columns */
+@media(max-width:768px){
+  .biomedical-box{
+    padding:1rem 1.05rem 1.02rem!important;
+  }
+  .biomedical-box .title{
+    margin-bottom:.72rem!important;
+    font-size:1.28rem!important;
+  }
+  .application-rail{
+    display:grid!important;
+    grid-template-columns:1fr!important;
+    gap:.68rem!important;
+  }
+  .application-item,
+  .application-item:first-child,
+  .application-item:last-child{
+    padding:0!important;
+    border:0!important;
+  }
+  .application-item + .application-item{
+    border-left:0!important;
+    border-top:0!important;
+  }
+  .application-item h3{
+    margin:0 0 .12rem!important;
+    font-size:.94rem!important;
+    line-height:1.22!important;
+    white-space:nowrap;
+  }
+  .application-item p{
+    font-size:.76rem!important;
+    line-height:1.32!important;
+  }
+}
