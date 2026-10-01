@@ -8,8 +8,22 @@ const uiLang=window.PAGE_LANG||"en";
 const filterBar=document.getElementById("filter-bar");
 const list=document.getElementById("publication-list");
 
+const zhLabel={
+  "All":"全部",
+  "Multimodal AI":"多模态 AI",
+  "Generative AI":"生成式 AI",
+  "Tabular AI":"表格数据 AI",
+  "Learning Algorithms":"学习算法",
+  "Drug Design":"药物设计",
+  "Clinical Trial Optimization":"临床试验优化",
+  "Clinical Decision Support":"临床决策支持",
+  "Preprint":"预印本"
+};
+const ui=(en,zh)=>uiLang==="zh"?zh:en;
+const displayLabel=x=>uiLang==="zh"?(zhLabel[x]||x):x;
+
 function renderFilters(){
-  filterBar.innerHTML=allTags.map(t=>`<button class="button ${t===current?"is-selected":""}" data-tag="${t}">${t===allKey&&uiLang==="zh"?"全部":t}</button>`).join("");
+  filterBar.innerHTML=allTags.map(t=>`<button class="button ${t===current?"is-selected":""}" data-tag="${t}">${displayLabel(t)}</button>`).join("");
   filterBar.querySelectorAll("button").forEach(b=>b.onclick=()=>{current=b.dataset.tag;renderFilters();renderPubs();});
 }
 function authorHtml(p){
@@ -20,16 +34,18 @@ function authorHtml(p){
     const core=name==="Jintai Chen"?`<strong>${name}</strong>`:name;
     return `${core}${mark?`<sup>${mark}</sup>`:""}`;
   }).join(", ");
-} 
+}
 function renderPubs(){
   const rows=current===allKey?pubs:pubs.filter(p=>(p.tags||[]).includes(current));
   list.innerHTML=rows.map(p=>{
+    const isPdf=/\/pdf\/|\.pdf(?:$|\?)/i.test(p.paper||"");
     const links=[
-      p.paper&&`<a href="${p.paper}" target="_blank">${(/\/pdf\/|\.pdf(?:$|\?)/i.test(p.paper))?"PDF":"Paper"} ↗</a>`,
-      p.homepage&&`<a href="${p.homepage}" target="_blank">Homepage ↗</a>`,
-      p.code&&`<a href="${p.code}" target="_blank">Code ↗</a>`,
-      p.project&&`<a href="${p.project}" target="_blank">Project ↗</a>`
+      p.paper&&`<a href="${p.paper}" target="_blank">${isPdf?ui("PDF","PDF"):ui("Paper","论文")} ↗</a>`,
+      p.homepage&&`<a href="${p.homepage}" target="_blank">${ui("Homepage","主页")} ↗</a>`,
+      p.code&&`<a href="${p.code}" target="_blank">${ui("Code","代码")} ↗</a>`,
+      p.project&&`<a href="${p.project}" target="_blank">${ui("Project","项目")} ↗</a>`
     ].filter(Boolean).join("");
+    const badge=(uiLang==="zh" && (p.badge||p.venue)==="Preprint")?"预印本":(p.badge||p.venue);
     return `
       <article class="pub-item">
         <div class="pub-year">${p.year}</div>
@@ -37,8 +53,8 @@ function renderPubs(){
           <div class="pub-title">${p.title}</div>
           <div class="pub-authors">${authorHtml(p)}</div>
           <div class="pub-bottom">
-            <div><span class="tag venue-tag">${p.badge||p.venue}</span></div>
-            <div class="pub-tags">${(p.tags||[]).map(t=>`<span class="tag">${t}</span>`).join("")}</div>
+            <div><span class="tag venue-tag">${badge}</span></div>
+            <div class="pub-tags">${(p.tags||[]).map(t=>`<span class="tag">${displayLabel(t)}</span>`).join("")}</div>
           </div>
           <div class="pub-links">${links}</div>
         </div>
