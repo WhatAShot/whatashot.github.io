@@ -16,14 +16,14 @@ window.ACADEMIC = {
     ["2021.10", "National Scholarship of China (Top 1%)"],
     ["2020.10", "Outstanding Doctoral Student Award (Top 3%)"],
     ["2019.10", "Doctoral Freshman Research Award (Top 3%)"],
-    ["2016.10", "Chinese Bank Scholarship (Undergraduate) (Top 1%)"],
-    ["2015.10", "National Scholarship (Undergraduate) (Top 1%)"]
+    ["2016.10", "Chinese Bank Scholarship (Top 1%)"],
+    ["2015.10", "National Scholarship (Top 1%)"]
   ],
   honorsZh: [
     ["2026.06", "CHIL 2026 最佳论文奖"],
     ["2026.05", "ICML 2025 银牌审稿人"],
     ["2025.11", "CNCC 2025 优秀专题论坛奖"],
-    ["2025.11", "GDSTA 青年科技人才培育计划入选者"],
+    ["2025.11", "广东省科协青年科技人才培育计划入选者"],
     ["2025.08", "WAIC 2025 云帆奖·璀璨明星提名"],
     ["2025.06", "ICME 2025 最佳论文奖提名（通讯作者）"],
     ["2023.04", "浙江省优秀博士毕业生（Top 1%）"],
@@ -36,8 +36,8 @@ window.ACADEMIC = {
     ["2021.10", "国家奖学金（Top 1%）"],
     ["2020.10", "优秀博士生奖（Top 3%）"],
     ["2019.10", "博士新生科研奖（Top 3%）"],
-    ["2016.10", "中国银行奖学金（本科，Top 1%）"],
-    ["2015.10", "国家奖学金（本科，Top 1%）"]
+    ["2016.10", "中国银行奖学金（Top 1%）"],
+    ["2015.10", "国家奖学金（Top 1%）"]
   ],
 
   teaching: [
@@ -78,9 +78,9 @@ window.ACADEMIC = {
   ],
   talksZh: [
     ["2026.06", "结构化数据通才模型：基础、前沿与应用", "国际万维网大会（WWW）Tutorial"],
-    ["2026.05", "Electrocardio Panorama：下一代心电可视化系统", "Health Data Science 学术沙龙"],
+    ["2026.05", "心电全景图：下一代心电可视化系统", "Health Data Science 学术沙龙"],
     ["2026.03", "迈向可靠的医疗智能体", "第五届粤港澳大湾区脑科学高峰论坛"],
-    ["2025.11", "Electrocardio Panorama：下一代心电可视化系统", "医学影像计算研讨会（MICS）"],
+    ["2025.11", "心电全景图：下一代心电可视化系统", "医学影像计算研讨会（MICS）"],
     ["2025.10", "从单模态医疗模型到多模态与多智能体医疗系统", "杭州乳腺癌大会"],
     ["2025.10", "面向表格与结构化数据的大语言模型", "CNCC 结构化数据 Tutorial"],
     ["2025.05", "人工智能增强心电图与心血管疾病监测", "第 25 届中国心律学会学术年会"],
