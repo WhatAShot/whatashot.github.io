@@ -35,8 +35,8 @@ window.RESEARCH_CONFIG = {
     {
       title: "Drug Design",
       titleZh: "药物设计",
-      subtitle: "generation · interaction · affinity",
-      subtitleZh: "生成 · 相互作用 · 亲和力"
+      subtitle: "generation · interaction · affinity · screening",
+      subtitleZh: "生成 · 相互作用 · 亲和力 · 筛选"
     },
     {
       title: "Clinical Trial Optimization",
