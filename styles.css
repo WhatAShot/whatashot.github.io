@@ -499,3 +499,22 @@ body{
   .resource-links{gap:.28rem .55rem}
   .resource-links a+a:before{margin-right:.55rem}
 }
+
+/* Positioning refinement: concise hero + clean research heading */
+.profile-tech-caption.single-line{
+  display:block!important;
+  text-align:center;
+  margin-top:.42rem!important;
+  font-size:.62rem!important;
+  letter-spacing:.14em!important;
+  white-space:nowrap;
+}
+.compact-heading-only{
+  padding:0 0 .5rem!important;
+  margin-bottom:.7rem!important;
+  border-bottom:2px solid var(--primary)!important;
+}
+.compact-heading-only .title{
+  margin:0!important;
+  font-size:1.32rem!important;
+}
