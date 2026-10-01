@@ -1,6 +1,7 @@
 // Selected publication records for the website.
 // Add/edit records here; the publications page renders automatically.
 // † = co-first author; * = corresponding author.
+// Homepage = dedicated project website (not publisher/arXiv/conference landing page).
 window.PUBLICATIONS = [
   {
     "year": 2026,
@@ -32,11 +33,11 @@ window.PUBLICATIONS = [
     ],
     "paper": "https://arxiv.org/pdf/2606.12991",
     "code": "https://github.com/HKUSTGZ-ML4Health-Lab/APCyc",
-    "project": "https://hkustgz-ml4health-lab.github.io/APCyc/",
     "tags": [
       "Generative AI",
       "Drug Design"
-    ]
+    ],
+    "homepage": "https://hkustgz-ml4health-lab.github.io/APCyc/"
   },
   {
     "year": 2026,
@@ -72,12 +73,12 @@ window.PUBLICATIONS = [
     ],
     "paper": "https://arxiv.org/abs/2601.23220",
     "code": "https://github.com/HKUSTGZ-ML4Health-Lab/Med-Scout",
-    "project": "https://c0216rc.github.io/Med-Scout/",
     "tags": [
       "Multimodal AI",
       "Learning Algorithms",
       "Clinical Decision Support"
-    ]
+    ],
+    "homepage": "https://c0216rc.github.io/Med-Scout/"
   },
   {
     "year": 2026,
@@ -113,7 +114,7 @@ window.PUBLICATIONS = [
   {
     "year": 2026,
     "venue": "npj Drug Discovery",
-    "badge": "npj Drug Dis.",
+    "badge": "npj Drug Discovery",
     "title": "Quantum-machine-assisted drug discovery",
     "authors": "Yidong Zhou, Jintai Chen, Jinglei Cheng, Xu Cao, Yuanyuan Zhang, Gopal Karemore, Marinka Zitnik, Frederic T. Chong, Junyu Liu, Tianfan Fu, Zhiding Liang",
     "coFirstAuthors": [
@@ -133,8 +134,8 @@ window.PUBLICATIONS = [
   },
   {
     "year": 2025,
-    "venue": "Scientific Data",
-    "badge": "Scientific Data",
+    "venue": "Nature Scientific Data",
+    "badge": "Nature Scientific Data",
     "title": "TrialBench: Multi-modal artificial intelligence-ready clinical trial datasets",
     "authors": "Jintai Chen, Yaojun Hu, Mingchen Cai, Yue Wang, Yingzhou Lu, Xu Cao, Miao Lin, Hongxia Xu, Jian Wu, Cao Xiao, Jimeng Sun, Lucas Glass, Kexin Huang, Marinka Zitnik, Tianfan Fu",
     "coFirstAuthors": [
@@ -149,7 +150,8 @@ window.PUBLICATIONS = [
     "tags": [
       "Multimodal AI",
       "Clinical Trial Optimization"
-    ]
+    ],
+    "homepage": "https://huyjj.github.io/Trialbench/"
   },
   {
     "year": 2025,
@@ -353,8 +355,8 @@ window.PUBLICATIONS = [
   },
   {
     "year": 2024,
-    "venue": "Health Data Science",
-    "badge": "HDS",
+    "venue": "spj Health Data Science",
+    "badge": "spj Health Data Science",
     "title": "Multi-modal CLIP-informed protein editing",
     "authors": "Mingze Yin, Hanjing Zhou, Yiheng Zhu, Miao Lin, Yixuan Wu, Jialu Wu, Hongxia Xu, Chang-Yu Hsieh, Tingjun Hou, Jintai Chen, Jian Wu",
     "coFirstAuthors": [],
@@ -371,8 +373,8 @@ window.PUBLICATIONS = [
   },
   {
     "year": 2024,
-    "venue": "Research",
-    "badge": "Research",
+    "venue": "spj Research",
+    "badge": "spj Research",
     "title": "S²ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning",
     "authors": "Mingze Yin, Hanjing Zhou, Jialu Wu, Yiheng Zhu, Yuxuan Zhan, Zitai Kong, Hongxia Xu, Chang-Yu Hsieh, Jintai Chen, Tingjun Hou, Jian Wu",
     "coFirstAuthors": [],
@@ -593,7 +595,6 @@ window.PUBLICATIONS = [
       "Jian Wu"
     ],
     "paper": "https://arxiv.org/pdf/2309.08888",
-    "homepage": "https://dl.acm.org/doi/10.1145/3581783.3612113",
     "tags": [
       "Learning Algorithms",
       "Clinical Decision Support"
@@ -610,7 +611,6 @@ window.PUBLICATIONS = [
       "Jintai Chen"
     ],
     "paper": "https://arxiv.org/pdf/2403.07332",
-    "homepage": "https://papers.miccai.org/miccai-2024/467-Paper0286.html",
     "code": "https://github.com/wjh892521292/LKM-UNet",
     "tags": [
       "Learning Algorithms",
@@ -628,7 +628,6 @@ window.PUBLICATIONS = [
       "Jintai Chen"
     ],
     "paper": "https://arxiv.org/pdf/2501.07468",
-    "homepage": "https://www.sciencedirect.com/science/article/pii/S156625352500106X",
     "tags": [
       "Multimodal AI",
       "Clinical Decision Support"
@@ -648,7 +647,6 @@ window.PUBLICATIONS = [
       "Jintai Chen"
     ],
     "paper": "https://openaccess.thecvf.com/content/ICCV2025/papers/Fang_Proxy-Bridged_Game_Transformer_for_Interactive_Extreme_Motion_Prediction_ICCV_2025_paper.pdf",
-    "homepage": "https://openaccess.thecvf.com/content/ICCV2025/html/Fang_Proxy-Bridged_Game_Transformer_for_Interactive_Extreme_Motion_Prediction_ICCV_2025_paper.html",
     "code": "https://github.com/joyfang1106/pgformer",
     "tags": [
       "Learning Algorithms"
@@ -669,7 +667,6 @@ window.PUBLICATIONS = [
       "Jian Wu"
     ],
     "paper": "https://papers.miccai.org/miccai-2024/paper/0757_paper.pdf",
-    "homepage": "https://papers.miccai.org/miccai-2024/764-Paper0757.html",
     "tags": [
       "Learning Algorithms",
       "Clinical Decision Support"
@@ -690,7 +687,6 @@ window.PUBLICATIONS = [
       "Jian Wu"
     ],
     "paper": "https://arxiv.org/pdf/2102.05424",
-    "homepage": "https://arxiv.org/abs/2102.05424",
     "tags": [
       "Learning Algorithms",
       "Clinical Decision Support"
@@ -707,7 +703,6 @@ window.PUBLICATIONS = [
       "Jian Wu"
     ],
     "paper": "https://arxiv.org/pdf/2102.08148",
-    "homepage": "https://arxiv.org/abs/2102.08148",
     "tags": [
       "Learning Algorithms",
       "Clinical Decision Support"
@@ -728,7 +723,6 @@ window.PUBLICATIONS = [
       "Jintai Chen"
     ],
     "paper": "https://arxiv.org/pdf/2511.19046",
-    "homepage": "https://arxiv.org/abs/2511.19046",
     "code": "https://github.com/Joey-S-Liu/MedSAM3",
     "tags": [
       "Multimodal AI",
@@ -747,7 +741,6 @@ window.PUBLICATIONS = [
       "Jintai Chen"
     ],
     "paper": "https://arxiv.org/pdf/2605.27082",
-    "homepage": "https://arxiv.org/abs/2605.27082",
     "tags": [
       "Learning Algorithms",
       "Clinical Trial Optimization"
@@ -762,7 +755,6 @@ window.PUBLICATIONS = [
     "coFirstAuthors": [],
     "correspondingAuthors": [],
     "paper": "https://arxiv.org/pdf/2406.00281",
-    "homepage": "https://arxiv.org/abs/2406.00281",
     "tags": [
       "Tabular AI"
     ]
@@ -781,7 +773,6 @@ window.PUBLICATIONS = [
       "Jintai Chen"
     ],
     "paper": "https://arxiv.org/pdf/2608.09443",
-    "homepage": "https://arxiv.org/abs/2608.09443",
     "code": "https://github.com/HKUSTGZ-ML4Health-Lab/ATLAS",
     "tags": [
       "Learning Algorithms",
@@ -799,7 +790,6 @@ window.PUBLICATIONS = [
       "Tianfan Fu"
     ],
     "paper": "https://arxiv.org/pdf/2601.00290",
-    "homepage": "https://arxiv.org/abs/2601.00290",
     "code": "https://github.com/xingsixue123/ClinicalFailureReasonReTrial",
     "tags": [
       "Learning Algorithms",
@@ -818,7 +808,6 @@ window.PUBLICATIONS = [
       "陈晋泰"
     ],
     "paper": "https://repository.hkust.edu.hk/ir/Record/1783.1-168759",
-    "homepage": "https://researchportal.hkust.edu.hk/en/publications/%E5%9F%BA%E4%BA%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%BF%83%E7%94%B5%E5%85%A8%E6%99%AF%E5%9B%BE-%E6%80%9D%E6%83%B3%E6%96%B9%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E5%89%8D%E7%9E%BB/",
     "tags": [
       "Generative AI",
       "Clinical Decision Support"
