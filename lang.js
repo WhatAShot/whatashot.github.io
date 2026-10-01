@@ -14,6 +14,18 @@
     el.classList.toggle("is-current-language", el.dataset.langOption === lang);
   });
 
+  const vp=document.querySelector('[data-lang-fragment="visitor-prefix"]');
+  const vs=document.querySelector('[data-lang-fragment="visitor-suffix"]');
+  if(vp) vp.textContent=lang==="zh"?"本站累计访问 ":"This homepage is visited ";
+  if(vs) vs.textContent=lang==="zh"?" 次":" times";
+
+  const path=window.location.pathname;
+  if(lang==="zh"){
+    if(path.endsWith("publications.html")) document.title="代表性论文 | Jintai Chen";
+    else if(path.endsWith("academic.html")) document.title="学术经历 | Jintai Chen";
+    else document.title="Jintai Chen | 面向医疗与科学的人工智能";
+  }
+
   // Keep the selected language when navigating among local pages.
   document.querySelectorAll('a[href]').forEach(a => {
     const href = a.getAttribute("href");
