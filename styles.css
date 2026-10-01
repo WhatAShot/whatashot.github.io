@@ -966,3 +966,77 @@ body{
     border-top:1px solid #dfe3e6;
   }
 }
+
+/* Application layer v6 — visually integrated with the three research cards */
+.biomedical-box{
+  position:relative!important;
+  overflow:hidden!important;
+  margin-top:.9rem!important;
+  padding:1.02rem 1.18rem 1.08rem!important;
+  background:
+    linear-gradient(120deg,
+      rgba(49,95,155,.075) 0%,
+      rgba(39,134,150,.055) 48%,
+      rgba(103,87,155,.07) 100%)!important;
+  border:1px solid rgba(65,78,96,.12)!important;
+  border-radius:5px!important;
+  box-shadow:none!important;
+}
+.biomedical-box:before{
+  content:"";
+  position:absolute;
+  left:0;
+  right:0;
+  top:0;
+  width:auto;
+  height:3px;
+  background:linear-gradient(
+    90deg,
+    #315f9b 0%,
+    #315f9b 31%,
+    #278696 34%,
+    #278696 65%,
+    #67579b 68%,
+    #67579b 100%
+  );
+}
+.biomedical-box .title{
+  margin:0 0 .72rem!important;
+  color:#3f3340!important;
+  font-size:1.34rem!important;
+  line-height:1.16!important;
+}
+.application-rail{
+  display:grid!important;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:0!important;
+  margin:0!important;
+  padding:0!important;
+}
+.application-item{
+  padding:.12rem 1rem .06rem 1rem;
+}
+.application-item:first-child{padding-left:.08rem}
+.application-item:last-child{padding-right:.08rem}
+.application-item + .application-item{
+  border-left:1px solid rgba(78,92,106,.16);
+}
+.application-item h3{
+  margin:0 0 .2rem!important;
+  color:#3a3340!important;
+  font-size:.98rem!important;
+  font-weight:700;
+  line-height:1.22;
+}
+.application-item p{
+  margin:0!important;
+  color:#66727a!important;
+  font-size:.77rem!important;
+  line-height:1.36!important;
+}
+@media(max-width:768px){
+  .application-item + .application-item{
+    border-left:0!important;
+    border-top:1px solid rgba(78,92,106,.16);
+  }
+}
