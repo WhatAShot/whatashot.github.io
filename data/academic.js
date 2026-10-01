@@ -45,20 +45,20 @@ window.ACADEMIC = {
   ],
 
   teaching: [
-    ["2026", "AIAA2205 — Introduction to Artificial Intelligence", "Spring 2026, Fall 2026"],
-    ["2026", "UCUG1002 — Artificial Intelligence General Education", "Fall 2026"],
-    ["2025", "AIAA3111 — Introduction to Data Mining", "Fall 2025"],
-    ["2025", "AIAA6011B — Frontier of AI for Healthcare", "Spring 2025"],
-    ["2025", "AIAA6101 — Artificial Intelligence Seminar", "Spring 2025"],
-    ["2025", "AIAA1010 — Academic Orientation for AI Students", "Spring 2025"]
+    ["AIAA1010 — Academic Orientation for AI Students","Spring 2025"],
+    ["AIAA2205 — Introduction to Artificial Intelligence","Spring 2026, Fall 2026"],
+    ["AIAA3111 — Introduction to Data Mining","Fall 2025"],
+    ["AIAA6011B — Frontier of AI for Healthcare","Spring 2025, Spring 2027 (scheduled)"],
+    ["AIAA6101 — Artificial Intelligence Seminar","Spring 2025"],
+    ["UCUG1002 — Artificial Intelligence General Education","Fall 2026"]
   ],
   teachingZh: [
-    ["2026", "AIAA2205 — 人工智能导论", "2026 春、2026 秋"],
-    ["2026", "UCUG1002 — 人工智能通识教育", "2026 秋"],
-    ["2025", "AIAA3111 — 数据挖掘导论", "2025 秋"],
-    ["2025", "AIAA6011B — AI for Healthcare 前沿", "2025 春"],
-    ["2025", "AIAA6101 — 人工智能研讨课", "2025 春"],
-    ["2025", "AIAA1010 — 人工智能专业学术导论", "2025 春"]
+    ["AIAA1010 — 人工智能专业学术导论","2025 春"],
+    ["AIAA2205 — 人工智能导论","2026 春、2026 秋"],
+    ["AIAA3111 — 数据挖掘导论","2025 秋"],
+    ["AIAA6011B — AI for Healthcare 前沿","2025 春、2027 春（计划开课）"],
+    ["AIAA6101 — 人工智能研讨课","2025 春"],
+    ["UCUG1002 — 人工智能通识教育","2026 秋"]
   ],
 
   talks: [
