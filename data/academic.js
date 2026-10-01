@@ -2,7 +2,7 @@ window.ACADEMIC = {
   honors: [
     ["2026.06", "Best Paper Award, CHIL 2026"],
     ["2026.05", "ICML 2025 Silver Reviewer"],
-    ["2025.11", "Outstanding Special Tutorial Award (优秀专题论坛), CNCC 2025"],
+    ["2025.11", "Outstanding Special Tutorial Award, CNCC 2025"],
     ["2025.11", "Awardee of the Youth S&T Talent Support Programme of GDSTA"],
     ["2025.08", "Nomination Award for the Brilliant Star of the WAIC Yunfan Awards"],
     ["2025.06", "Best Paper Finalist (Corresponding Author), ICME 2025"],
@@ -19,6 +19,27 @@ window.ACADEMIC = {
     ["2016.10", "Chinese Bank Scholarship (Undergraduate) (Top 1%)"],
     ["2015.10", "National Scholarship (Undergraduate) (Top 1%)"]
   ],
+  honorsZh: [
+    ["2026.06", "CHIL 2026 最佳论文奖"],
+    ["2026.05", "ICML 2025 银牌审稿人"],
+    ["2025.11", "CNCC 2025 优秀专题论坛奖"],
+    ["2025.11", "GDSTA 青年科技人才培育计划入选者"],
+    ["2025.08", "WAIC 2025 云帆奖·璀璨明星提名"],
+    ["2025.06", "ICME 2025 最佳论文奖提名（通讯作者）"],
+    ["2023.04", "浙江省优秀博士毕业生（Top 1%）"],
+    ["2023.04", "浙江大学优秀博士毕业生（Top 1%）"],
+    ["2023.04", "产学研合作创新成果奖，浙江省产学研合作创新与促进奖"],
+    ["2023.02", "医学影像智能处理关键技术创新与应用，产学研合作创新成果二等奖，中国产学研合作促进会"],
+    ["2023.02", "科技进步二等奖，中国电子学会"],
+    ["2022.10", "华为基础研究奖（Top 3%）"],
+    ["2021.10", "腾讯博士生科研奖（Top 1%）"],
+    ["2021.10", "国家奖学金（Top 1%）"],
+    ["2020.10", "优秀博士生奖（Top 3%）"],
+    ["2019.10", "博士新生科研奖（Top 3%）"],
+    ["2016.10", "中国银行奖学金（本科，Top 1%）"],
+    ["2015.10", "国家奖学金（本科，Top 1%）"]
+  ],
+
   teaching: [
     ["2026", "AIAA2205 — Introduction to Artificial Intelligence", "Spring 2026, Fall 2026"],
     ["2026", "UCUG1002 — Artificial Intelligence General Education", "Fall 2026"],
@@ -27,6 +48,15 @@ window.ACADEMIC = {
     ["2025", "AIAA6101 — Artificial Intelligence Seminar", "Spring 2025"],
     ["2025", "AIAA1010 — Academic Orientation for AI Students", "Spring 2025"]
   ],
+  teachingZh: [
+    ["2026", "AIAA2205 — 人工智能导论", "2026 春、2026 秋"],
+    ["2026", "UCUG1002 — 人工智能通识教育", "2026 秋"],
+    ["2025", "AIAA3111 — 数据挖掘导论", "2025 秋"],
+    ["2025", "AIAA6011B — AI for Healthcare 前沿", "2025 春"],
+    ["2025", "AIAA6101 — 人工智能研讨课", "2025 春"],
+    ["2025", "AIAA1010 — 人工智能专业学术导论", "2025 春"]
+  ],
+
   talks: [
     ["2026.06", "Generalist Model for Structured Data: Foundations, Frontiers and Applications", "International World Wide Web Conference Tutorial"],
     ["2026.05", "Electrocardio Panorama: Next-generation ECG Visualization System", "Health Data Science Academic Salon"],
@@ -46,6 +76,26 @@ window.ACADEMIC = {
     ["2022.06", "Supervised Tabular Learning", "UberAI"],
     ["2021.10", "Domain Mixup for Distant Transfer Learning", "Shanghai Jiaotong University"]
   ],
+  talksZh: [
+    ["2026.06", "结构化数据通才模型：基础、前沿与应用", "国际万维网大会（WWW）Tutorial"],
+    ["2026.05", "Electrocardio Panorama：下一代心电可视化系统", "Health Data Science 学术沙龙"],
+    ["2026.03", "迈向可靠的医疗智能体", "第五届粤港澳大湾区脑科学高峰论坛"],
+    ["2025.11", "Electrocardio Panorama：下一代心电可视化系统", "医学影像计算研讨会（MICS）"],
+    ["2025.10", "从单模态医疗模型到多模态与多智能体医疗系统", "杭州乳腺癌大会"],
+    ["2025.10", "面向表格与结构化数据的大语言模型", "CNCC 结构化数据 Tutorial"],
+    ["2025.05", "人工智能增强心电图与心血管疾病监测", "第 25 届中国心律学会学术年会"],
+    ["2025.04", "深度表格学习", "南京大学"],
+    ["2024.12", "学术写作进阶指南与原则", "华南理工大学国际校区"],
+    ["2024.12", "AI for Healthcare：新视角与新应用", "华南理工大学国际校区"],
+    ["2024.11", "从单模态到多模态学习：塑造数字医疗的未来", "北京 Datathon Challenge"],
+    ["2022.11", "如何做好 AI for Healthcare 研究", "上海大学"],
+    ["2022.10", "面向计算机辅助心脏病诊断的 ECG 信号处理与生成", "卡内基梅隆大学"],
+    ["2022.10", "面向新视角与新数据的 ECG 生成", "上海人工智能实验室"],
+    ["2022.09", "Part-Hierarchy Learning", "字节跳动"],
+    ["2022.06", "监督式表格学习", "UberAI"],
+    ["2021.10", "面向远距离迁移学习的 Domain Mixup", "上海交通大学"]
+  ],
+
   services: [
     "Reviewer @ ML/AI/AI4H Conferences: NeurIPS, ICLR, ICML, KDD, AAAI, IJCAI, ACM MM, AISTATS, CVPR, ICCV, ECCV, ACL, EMNLP, MICCAI, ISBI",
     "Area Chair/Senior Program Chair: IJCAI, NeurIPS, AAAI",
@@ -62,5 +112,22 @@ window.ACADEMIC = {
     "Tutorial Organization and Talk: CNCC 2025 Tutorial on Tabular Data Foundation Models: A New Paradigm of General Intelligence for Structured Data",
     "Tutorial Organization and Talk: WWW 2026 Tutorial on Generalist Model for Structured Data: Foundations, Frontiers and Applications",
     "Tutorial Organization and Talk: KDD 2026 Tutorial on Toward Generalist Models for Structured Data: Fundamentals, Emerging Trends and Applications"
+  ],
+  servicesZh: [
+    "ML/AI/AI4H 会议审稿人：NeurIPS、ICLR、ICML、KDD、AAAI、IJCAI、ACM MM、AISTATS、CVPR、ICCV、ECCV、ACL、EMNLP、MICCAI、ISBI",
+    "领域主席 / 高级程序委员会成员：IJCAI、NeurIPS、AAAI",
+    "期刊审稿人：Nature Human Behaviour、Nature Communications、TPAMI、JMLR、Science Bulletin、TNNLS、TCBB、JBHI、Frontiers in Public Health、JBSM、TCDS、Frontiers in Genetics、Journal of Pharmaceutical Analysis、spj Research、spj Health Data Science、PLOS Digital Health 等",
+    "期刊客座编辑：JBHI、spj Health Data Science",
+    "中国计算机学会（CCF）数字医学研讨会执行委员",
+    "中国计算机学会（CCF）大数据专家委员会执行委员",
+    "广东省计算机学会委员",
+    "广东省呼吸与健康学会委员",
+    "Science Bulletin 青年编委",
+    "Workshop 组织：ICLR 2025 Workshop on AI for Children: Healthcare, Psychology, Education（AI4CHL），Corresponding Chair",
+    "Workshop 组织：BIBM 2026 Workshop on Advancing Data for Better Health: Reliable LLM Application in People-Centric Healthcare（AIMEL），Co-organizer",
+    "Workshop 组织：CVPR 2026 Workshop on Computer Vision for Children（CV4CHL），Co-organizer",
+    "Tutorial 组织与报告：CNCC 2025《Tabular Data Foundation Models: A New Paradigm of General Intelligence for Structured Data》",
+    "Tutorial 组织与报告：WWW 2026《Generalist Model for Structured Data: Foundations, Frontiers and Applications》",
+    "Tutorial 组织与报告：KDD 2026《Toward Generalist Models for Structured Data: Fundamentals, Emerging Trends and Applications》"
   ]
 };
