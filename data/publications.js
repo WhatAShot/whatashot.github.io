@@ -40,7 +40,7 @@ window.PUBLICATIONS = [
     paper: "https://arxiv.org/abs/2601.23220",
     code: "https://github.com/HKUSTGZ-ML4Health-Lab/Med-Scout",
     project: "https://c0216rc.github.io/Med-Scout/",
-    tags: ["Multimodal AI", "Diagnosis & Treatment"]
+    tags: ["Multimodal AI", "Clinical Decision Support"]
   },
   {
     year: 2026, venue: "ICLR", badge: "ICLR",
@@ -49,7 +49,16 @@ window.PUBLICATIONS = [
     coFirstAuthors: [],
     correspondingAuthors: ["Wanqing Wu","Jintai Chen"],
     paper: "https://arxiv.org/pdf/2511.02880",
-    tags: ["Multimodal AI", "Diagnosis & Treatment"]
+    tags: ["Multimodal AI", "Generative AI", "Clinical Decision Support"]
+  },
+  {
+    year: 2026, venue: "CHIL", badge: "CHIL · Best Paper",
+    title: "Video-based Disease Progression Simulation",
+    authors: "Xu Cao, Kaizhao Liang, Kuei-Da Liao, Tianren Gao, Zhiguang Ding, Jianguo Cao, Zheng Chen, Jintai Chen, James M Rehg, Jimeng Sun",
+    coFirstAuthors: [],
+    correspondingAuthors: [],
+    paper: "https://proceedings.mlr.press/v333/cao26a.html",
+    tags: ["Generative AI", "Clinical Decision Support"]
   },
   {
     year: 2026, venue: "npj Drug Discovery", badge: "npj Drug Dis.",
@@ -67,7 +76,7 @@ window.PUBLICATIONS = [
     coFirstAuthors: ["Jintai Chen","Yaojun Hu"],
     correspondingAuthors: ["Jintai Chen","Tianfan Fu"],
     paper: "https://arxiv.org/pdf/2407.00631",
-    tags: ["Multimodal AI", "Clinical Trials"]
+    tags: ["Multimodal AI", "Clinical Trial Optimization"]
   },
   {
     year: 2025, venue: "ICCV", badge: "ICCV",
@@ -103,7 +112,7 @@ window.PUBLICATIONS = [
     coFirstAuthors: [],
     correspondingAuthors: ["Jintai Chen"],
     paper: "https://arxiv.org/pdf/2403.01570",
-    tags: ["Tabular AI", "Diagnosis & Treatment"]
+    tags: ["Tabular AI", "Clinical Decision Support"]
   },
   {
     year: 2025, venue: "Information Fusion", badge: "Info. Fusion",
@@ -112,7 +121,7 @@ window.PUBLICATIONS = [
     coFirstAuthors: [],
     correspondingAuthors: ["Jintai Chen","Huiying Liang","Jian Wu"],
     paper: "https://www.sciencedirect.com/science/article/pii/S1566253524006687",
-    tags: ["Multimodal AI", "Diagnosis & Treatment"]
+    tags: ["Multimodal AI", "Clinical Decision Support"]
   },
   {
     year: 2025, venue: "AAAI", badge: "AAAI · Oral",
@@ -140,7 +149,7 @@ window.PUBLICATIONS = [
     correspondingAuthors: ["Abdelouahab Bellou","Jian Wu","Huiying Liang"],
     paper: "https://www.nature.com/articles/s41467-024-44930-y",
     code: "https://github.com/shuaih720/CHDdECG",
-    tags: ["Multimodal AI", "Diagnosis & Treatment"]
+    tags: ["Multimodal AI", "Clinical Decision Support"]
   },
   {
     year: 2024, venue: "KDD", badge: "KDD · Oral",
@@ -177,7 +186,7 @@ window.PUBLICATIONS = [
     coFirstAuthors: [],
     correspondingAuthors: ["Jintai Chen"],
     paper: "https://arxiv.org/pdf/2404.11171",
-    tags: ["Generative AI", "Diagnosis & Treatment"]
+    tags: ["Generative AI", "Clinical Decision Support"]
   },
   {
     year: 2024, venue: "Health Data Science", badge: "HDS",
@@ -204,7 +213,7 @@ window.PUBLICATIONS = [
     coFirstAuthors: ["Yue Wang","Tianfan Fu"],
     correspondingAuthors: ["Honghao Gao","Jintai Chen"],
     paper: "https://arxiv.org/pdf/2404.01273",
-    tags: ["Generative AI", "Clinical Trials"]
+    tags: ["Generative AI", "Clinical Trial Optimization"]
   },
   {
     year: 2024, venue: "ACM BCB", badge: "ACM BCB",
@@ -213,7 +222,7 @@ window.PUBLICATIONS = [
     coFirstAuthors: [],
     correspondingAuthors: [],
     paper: "https://arxiv.org/abs/2404.14777",
-    tags: ["Clinical Trials"]
+    tags: ["Clinical Trial Optimization"]
   },
   {
     year: 2024, venue: "ACM BCB", badge: "ACM BCB",
@@ -222,7 +231,7 @@ window.PUBLICATIONS = [
     coFirstAuthors: [],
     correspondingAuthors: [],
     paper: "https://arxiv.org/pdf/2407.13115",
-    tags: ["Tabular AI", "Clinical Trials"]
+    tags: ["Tabular AI", "Clinical Trial Optimization"]
   },
   {
     year: 2023, venue: "ICLR", badge: "ICLR",
@@ -252,7 +261,7 @@ window.PUBLICATIONS = [
     correspondingAuthors: ["Jintai Chen","Jian Wu"],
     paper: "https://arxiv.org/pdf/2307.09004.pdf",
     code: "https://github.com/wjh892521292/Ord2Seq",
-    tags: ["Generative AI"]
+    tags: ["Machine Learning"]
   },
   {
     year: 2022, venue: "ICML", badge: "ICML",
@@ -261,7 +270,7 @@ window.PUBLICATIONS = [
     coFirstAuthors: ["Jintai Chen","Kuanlun Liao"],
     correspondingAuthors: ["Haochao Ying"],
     paper: "https://proceedings.mlr.press/v162/chen22n/chen22n.pdf",
-    tags: ["Generative AI", "Multimodal AI", "Diagnosis & Treatment"]
+    tags: ["Generative AI", "Multimodal AI", "Clinical Decision Support"]
   },
   {
     year: 2022, venue: "AAAI", badge: "AAAI",
@@ -281,7 +290,7 @@ window.PUBLICATIONS = [
     correspondingAuthors: ["Jian Wu"],
     paper: "https://www.ijcai.org/proceedings/2021/0495.pdf",
     code: "https://github.com/WhatAShot/Electrocardio-Panorama",
-    tags: ["Generative AI", "Multimodal AI", "Diagnosis & Treatment"]
+    tags: ["Generative AI", "Multimodal AI", "Clinical Decision Support"]
   },
   {
     year: 2021, venue: "ICML", badge: "ICML",
