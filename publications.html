@@ -1,44 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Publications | Jintai Chen</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Manrope:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<header class="site-header">
-  <div class="shell header-inner">
-    <a class="brand" href="index.html">Jintai Chen</a>
-    <nav class="nav" aria-label="Primary">
-      <a href="index.html#research">Research</a>
-      <a href="publications.html">Publications</a>
-      <a href="academic.html">Academic</a>
-      <a href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank" rel="noreferrer">Scholar ↗</a>
-    </nav>
+<nav class="navbar is-primary site-nav" role="navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item brand-name" href="index.html"><strong>Jintai Chen</strong></a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="mainNav">
+        <span></span><span></span><span></span>
+      </a>
+    </div>
+    <div id="mainNav" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="index.html#about"><strong>About</strong></a>
+        <a class="navbar-item" href="index.html#research"><strong>Research</strong></a>
+        <a class="navbar-item is-active" href="publications.html"><strong>Publications</strong></a>
+        <a class="navbar-item" href="academic.html"><strong>Teaching & Service</strong></a>
+      </div>
+      <div class="navbar-end">
+        <a class="navbar-item" href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank">Scholar ↗</a>
+      </div>
+    </div>
   </div>
-</header>
-<main>
-  <section class="page-hero shell">
-    <p class="eyebrow">Publications</p>
-    <h1>Research across AI, medicine, and therapeutic science.</h1>
-    <p>Filter by research tag. Author roles are shown explicitly: † first/co-first author, * corresponding author. We do not infer corresponding authorship from author order.</p>
-  </section>
+</nav>
 
-  <section class="shell publication-section">
-    <div class="filter-bar" id="filter-bar"></div>
-    <div class="publication-list" id="publication-list"></div>
-  </section>
-</main>
-<footer>
-  <div class="shell footer-inner">
-    <span>© <span id="year"></span> Jintai Chen</span>
-    <a href="index.html">Back to homepage</a>
+<section class="page-head">
+  <div class="container">
+    <h1 class="title is-3">Publications</h1>
+    <p>
+      Selected and recent work across multimodal AI, generative AI, tabular AI, drug design,
+      clinical trials, and diagnosis & treatment.
+    </p>
   </div>
+</section>
+
+<main class="page-section">
+  <div class="container">
+    <div class="pub-legend">
+      <strong>Author contribution:</strong> † co-first author; * corresponding author.
+      Corresponding authorship is recorded explicitly and is not inferred from author order.
+    </div>
+    <div id="filter-bar" class="filter-row"></div>
+    <div id="publication-list"></div>
+  </div>
+</main>
+
+<footer class="footer compact-footer">
+  <div class="container"><div class="level is-mobile"><div class="level-left">© <span id="year"></span>&nbsp;Jintai Chen</div><div class="level-right"><a href="index.html">Home</a></div></div></div>
 </footer>
+
 <script src="data/publications.js"></script>
 <script src="publications.js"></script>
 </body>
