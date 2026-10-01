@@ -1,59 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Academic | Jintai Chen</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Manrope:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Teaching & Service | Jintai Chen</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<header class="site-header">
-  <div class="shell header-inner">
-    <a class="brand" href="index.html">Jintai Chen</a>
-    <nav class="nav" aria-label="Primary">
-      <a href="index.html#research">Research</a>
-      <a href="publications.html">Publications</a>
-      <a href="academic.html">Academic</a>
-      <a href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank" rel="noreferrer">Scholar ↗</a>
-    </nav>
+<nav class="navbar is-primary site-nav" role="navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item brand-name" href="index.html"><strong>Jintai Chen</strong></a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="mainNav"><span></span><span></span><span></span></a>
+    </div>
+    <div id="mainNav" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="index.html#about"><strong>About</strong></a>
+        <a class="navbar-item" href="index.html#research"><strong>Research</strong></a>
+        <a class="navbar-item" href="publications.html"><strong>Publications</strong></a>
+        <a class="navbar-item is-active" href="academic.html"><strong>Teaching & Service</strong></a>
+      </div>
+    </div>
   </div>
-</header>
-<main>
-  <section class="page-hero shell">
-    <p class="eyebrow">Academic</p>
-    <h1>Teaching, honors, talks, and professional service.</h1>
-    <p>Supporting material that complements the research narrative without crowding the homepage.</p>
-  </section>
+</nav>
 
-  <section class="shell academic-grid">
-    <section class="academic-block">
-      <p class="eyebrow">Honors</p>
-      <div id="honors"></div>
-    </section>
-    <section class="academic-block">
-      <p class="eyebrow">Teaching</p>
-      <div id="teaching"></div>
-    </section>
-    <section class="academic-block academic-wide">
-      <p class="eyebrow">Selected talks</p>
-      <div id="talks"></div>
-    </section>
-    <section class="academic-block academic-wide">
-      <p class="eyebrow">Professional service</p>
-      <div id="services"></div>
-    </section>
-  </section>
-</main>
-<footer>
-  <div class="shell footer-inner">
-    <span>© <span id="year"></span> Jintai Chen</span>
-    <a href="index.html">Back to homepage</a>
+<section class="page-head"><div class="container"><h1 class="title is-3">Teaching, Honors & Service</h1><p>Selected academic activities and professional service.</p></div></section>
+
+<main class="page-section">
+  <div class="container academic-grid">
+    <section class="academic-card"><h2 class="title is-5">Honors</h2><div id="honors"></div></section>
+    <section class="academic-card"><h2 class="title is-5">Teaching</h2><div id="teaching"></div></section>
+    <section class="academic-card is-wide"><h2 class="title is-5">Selected Talks</h2><div id="talks"></div></section>
+    <section class="academic-card is-wide"><h2 class="title is-5">Professional Service</h2><div id="services"></div></section>
   </div>
-</footer>
-<script src="data/academic.js"></script>
-<script src="academic.js"></script>
-</body>
-</html>
+</main>
+
+<footer class="footer compact-footer"><div class="container"><div class="level is-mobile"><div class="level-left">© <span id="year"></span>&nbsp;Jintai Chen</div><div class="level-right"><a href="index.html">Home</a></div></div></div></footer>
+<script src="data/academic.js"></script><script src="academic.js"></script>
+</body></html>
