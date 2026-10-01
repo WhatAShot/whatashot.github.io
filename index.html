@@ -1,206 +1,212 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Jintai Chen — Artificial Intelligence for Health and Science" />
-  <title>Jintai Chen | AI for Health & Science</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Manrope:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Jintai Chen — Artificial Intelligence for Health and Science">
+  <title>Jintai Chen | Artificial Intelligence for Health & Science</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <header class="site-header">
-    <div class="shell header-inner">
-      <a class="brand" href="#top">Jintai Chen</a>
-      <nav class="nav" aria-label="Primary">
-        <a href="#research">Research</a>
-        <a href="publications.html">Publications</a>
-        <a href="academic.html">Academic</a>
-        <a href="#about">About</a>
-        <a href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank" rel="noreferrer">Scholar ↗</a>
-      </nav>
+<nav class="navbar is-primary site-nav" role="navigation" aria-label="main navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item brand-name" href="index.html"><strong>Jintai Chen</strong></a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="mainNav">
+        <span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span>
+      </a>
     </div>
-  </header>
-
-  <main id="top">
-    <section class="hero shell">
-      <div class="hero-copy">
-        <p class="eyebrow">Assistant Professor · HKUST(GZ)</p>
-        <h1>Artificial intelligence for <span>health</span> and <span>science</span>.</h1>
-        <p class="hero-lede">
-          I develop AI methods across multimodal intelligence, generative modeling, and tabular learning,
-          and use them to advance drug design, clinical trials, diagnosis, and treatment.
-        </p>
-        <div class="hero-links">
-          <a class="button primary" href="#research">Explore research</a>
-          <a class="button ghost" href="mailto:jintaiCHEN@hkust-gz.edu.cn">Email</a>
-          <a class="button ghost" href="https://github.com/WhatAShot" target="_blank" rel="noreferrer">GitHub ↗</a>
-        </div>
-        <div class="hero-meta">
-          <span>AI Thrust · Information Hub</span>
-          <span>Hong Kong University of Science and Technology (Guangzhou)</span>
-        </div>
+    <div id="mainNav" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="#about"><strong>About</strong></a>
+        <a class="navbar-item" href="#research"><strong>Research</strong></a>
+        <a class="navbar-item" href="publications.html"><strong>Publications</strong></a>
+        <a class="navbar-item" href="academic.html"><strong>Teaching & Service</strong></a>
+        <a class="navbar-item" href="#join"><strong>Join Us</strong></a>
       </div>
-
-      <div class="hero-visual" aria-label="Portrait of Jintai Chen">
-        <div class="portrait-frame">
-          <img src="assets/images/profile.png" alt="Jintai Chen" />
-        </div>
-        <div class="visual-note">
-          <span class="dot"></span>
-          <span>AI methods × biomedical translation</span>
-        </div>
+      <div class="navbar-end">
+        <a class="navbar-item" href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank" rel="noreferrer">Scholar ↗</a>
+        <a class="navbar-item" href="https://github.com/WhatAShot" target="_blank" rel="noreferrer">GitHub ↗</a>
       </div>
-    </section>
-
-    <section class="signal-strip">
-      <div class="shell signal-grid">
-        <div><strong>AI</strong><span>Multimodal · Generative · Tabular</span></div>
-        <div><strong>Science</strong><span>Drug design · Clinical trials</span></div>
-        <div><strong>Medicine</strong><span>Diagnosis · Treatment</span></div>
-      </div>
-    </section>
-
-    <section id="research" class="section shell research-editorial">
-      <div class="research-intro">
-        <p class="eyebrow">Research</p>
-        <h2>Building AI systems that move from methods to biomedical discovery and clinical impact.</h2>
-        <p class="research-intro-copy">
-          My work develops reusable artificial intelligence methods, then studies how they can support
-          therapeutic discovery, clinical trials, diagnosis, and treatment.
-        </p>
-      </div>
-
-      <div class="research-pillars" id="method-grid"></div>
-
-      <div class="biomedical-arc">
-        <div class="biomedical-arc-head">
-          <p class="eyebrow">Biomedical focus</p>
-          <p>Applications are organized along a translational continuum rather than as separate research identities.</p>
-        </div>
-        <div class="biomedical-arc-grid" id="pipeline"></div>
-      </div>
-    </section>
-
-    <section id="selected-work" class="section section-tint selected-editorial">
-      <div class="shell">
-        <div class="section-heading editorial-heading">
-          <div>
-            <p class="eyebrow">Selected research</p>
-            <h2>Research stories, not a publication wall.</h2>
-          </div>
-          <a class="text-link" href="publications.html">All publications →</a>
-        </div>
-
-        <article class="feature-story feature-story-lead">
-          <div class="feature-image">
-            <img src="assets/images/chd.png" alt="Pediatric ECG research figure" />
-          </div>
-          <div class="feature-copy">
-            <span class="feature-kicker">Clinical AI · Nature Communications</span>
-            <h3>Concept-informed pediatric ECG intelligence</h3>
-            <p>
-              A multicenter deep-learning system for congenital heart disease detection that integrates
-              human concepts with large-scale pediatric ECG data.
-            </p>
-            <div class="feature-links">
-              <a href="https://www.nature.com/articles/s41467-024-44930-y" target="_blank" rel="noreferrer">Paper ↗</a>
-              <a href="https://github.com/shuaih720/CHDdECG" target="_blank" rel="noreferrer">Code ↗</a>
-            </div>
-          </div>
-        </article>
-
-        <div class="feature-list">
-          <article class="feature-row">
-            <div class="feature-row-index">01</div>
-            <div class="feature-row-title">
-              <span class="feature-kicker">Multimodal AI</span>
-              <h3>Electrocardio Panorama</h3>
-            </div>
-            <p>From fixed ECG leads toward flexible, synthesized, and panoptic cardiac representations.</p>
-            <a href="https://github.com/WhatAShot/Electrocardio-Panorama" target="_blank" rel="noreferrer">Project ↗</a>
-          </article>
-
-          <article class="feature-row">
-            <div class="feature-row-index">02</div>
-            <div class="feature-row-title">
-              <span class="feature-kicker">Tabular AI</span>
-              <h3>Generalist models for structured data</h3>
-            </div>
-            <p>Architectures, pretraining, hybrid models, and reasoning systems for tabular prediction.</p>
-            <a href="publications.html">Papers →</a>
-          </article>
-
-          <article class="feature-row">
-            <div class="feature-row-index">03</div>
-            <div class="feature-row-title">
-              <span class="feature-kicker">Generative AI · Drug Design</span>
-              <h3>Therapeutic generation and interaction</h3>
-            </div>
-            <p>Generative and multimodal learning for peptides, proteins, antibodies, and therapeutic design.</p>
-            <a href="publications.html">Papers →</a>
-          </article>
-
-          <article class="feature-row">
-            <div class="feature-row-index">04</div>
-            <div class="feature-row-title">
-              <span class="feature-kicker">Clinical Trials</span>
-              <h3>AI across the clinical development pipeline</h3>
-            </div>
-            <p>Datasets, predictive models, and agentic systems for trial design, enrollment, and reasoning.</p>
-            <a href="publications.html">Papers →</a>
-          </article>
-        </div>
-      </div>
-    </section>
-
-    <section id="about" class="section shell about-grid">
-      <div>
-        <p class="eyebrow">About</p>
-        <h2>AI researcher working across methods, science, and medicine.</h2>
-      </div>
-      <div class="about-copy">
-        <p>
-          I am a tenure-track Assistant Professor at HKUST(GZ), affiliated with HKUST, and PI of the ML4H Lab.
-          Before joining HKUST(GZ), I was a postdoctoral researcher in Computer Science at UIUC.
-        </p>
-        <p>
-          I received my PhD in Computer Science and Technology from Zhejiang University. My broader goal is to build
-          AI systems that remain technically ambitious while being useful in real scientific and clinical settings.
-        </p>
-        <div class="about-links">
-          <a href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank" rel="noreferrer">Google Scholar ↗</a>
-          <a href="https://orcid.org/0000-0002-3199-2597" target="_blank" rel="noreferrer">ORCID ↗</a>
-          <a href="mailto:jintaiCHEN@hkust-gz.edu.cn">Email ↗</a>
-        </div>
-      </div>
-    </section>
-
-    <section class="section shell join">
-      <div>
-        <p class="eyebrow">Join & collaborate</p>
-        <h2>Students, collaborators, and industry partners are welcome.</h2>
-      </div>
-      <div>
-        <p>
-          I am interested in collaborations spanning multimodal AI, generative AI, structured data, drug design,
-          clinical trials, and clinically grounded AI systems.
-        </p>
-        <a class="button primary" href="mailto:jintaiCHEN@hkust-gz.edu.cn">Get in touch</a>
-      </div>
-    </section>
-  </main>
-
-  <footer>
-    <div class="shell footer-inner">
-      <span>© <span id="year"></span> Jintai Chen</span>
-      <span>Built for GitHub Pages</span>
     </div>
-  </footer>
+  </div>
+</nav>
 
-  <script src="data/research.js"></script>
-  <script src="script.js"></script>
+<section class="hero is-primary profile-hero">
+  <div class="hero-body">
+    <div class="container">
+      <div class="columns is-vcentered is-variable is-6">
+        <div class="column is-8">
+          <p class="hero-kicker">Assistant Professor · AI Thrust · HKUST(GZ)</p>
+          <h1 class="title is-1 hero-title">Artificial Intelligence for Health and Science</h1>
+          <p class="subtitle is-4 hero-subtitle">
+            Multimodal AI · Generative AI · Tabular AI
+          </p>
+          <p class="hero-copy">
+            I develop general-purpose AI methods and translate them across drug design,
+            clinical trials, and clinical diagnosis & treatment.
+          </p>
+          <div class="buttons mt-5">
+            <a class="button is-light" href="#research"><strong>Research</strong></a>
+            <a class="button is-outlined is-light" href="publications.html">Publications</a>
+            <a class="button is-outlined is-light" href="mailto:jintaiCHEN@hkust-gz.edu.cn">Email</a>
+          </div>
+        </div>
+        <div class="column is-4 has-text-centered">
+          <figure class="image profile-image-wrap">
+            <img src="assets/images/profile.png" alt="Jintai Chen">
+          </figure>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<main>
+<section id="about" class="section compact-section">
+  <div class="container">
+    <div class="columns is-variable is-5">
+      <div class="column is-8">
+        <div class="box vision-box">
+          <h2 class="title is-4 has-text-white mb-3">Machine Learning Foundations and Biomedical Intelligence</h2>
+          <p class="has-text-white has-text-weight-semibold mb-3">
+            My research develops AI systems that learn from heterogeneous data, generate useful scientific objects and hypotheses,
+            and reason over structured evidence.
+          </p>
+          <p class="has-text-white">
+            The goal is to connect methodological advances in artificial intelligence with real biomedical problems—
+            from therapeutic discovery and clinical development to diagnosis and treatment.
+          </p>
+        </div>
+
+        <div id="research" class="research-stack"></div>
+
+        <div class="box biomedical-box">
+          <h2 class="title is-4 mb-3">Biomedical Focus</h2>
+          <p class="mb-4">
+            Rather than treating each disease or modality as a separate research identity, I organize biomedical work
+            along a translational continuum.
+          </p>
+          <div id="biomedical-grid" class="columns is-variable is-3 biomedical-grid"></div>
+        </div>
+
+        <div class="section-title-row">
+          <h2 class="title is-4 mb-0">Selected Research</h2>
+          <a href="publications.html">All publications →</a>
+        </div>
+
+        <div class="selected-projects">
+          <article class="project-media">
+            <figure class="project-thumb">
+              <img src="assets/images/chd.png" alt="Congenital heart disease ECG project">
+            </figure>
+            <div class="project-body">
+              <p class="project-meta">Nature Communications · Clinical AI</p>
+              <h3 class="title is-5 mb-2">Concept-informed pediatric ECG intelligence</h3>
+              <p>Multicenter deep learning for congenital heart disease detection using pediatric ECGs and human concepts.</p>
+              <p class="mt-2"><a href="https://www.nature.com/articles/s41467-024-44930-y" target="_blank" rel="noreferrer">Paper ↗</a></p>
+            </div>
+          </article>
+
+          <article class="project-media">
+            <figure class="project-thumb">
+              <img src="assets/images/electrocardio-panorama.jpg" alt="Electrocardio Panorama">
+            </figure>
+            <div class="project-body">
+              <p class="project-meta">IJCAI · ICML · ICLR · Multimodal / Generative AI</p>
+              <h3 class="title is-5 mb-2">Electrocardio Panorama</h3>
+              <p>From fixed ECG leads toward flexible synthesis and panoptic cardiac representations.</p>
+              <p class="mt-2"><a href="https://github.com/WhatAShot/Electrocardio-Panorama" target="_blank" rel="noreferrer">Project ↗</a></p>
+            </div>
+          </article>
+
+          <article class="project-media">
+            <figure class="project-thumb">
+              <img src="assets/images/tabular.png" alt="Tabular learning research">
+            </figure>
+            <div class="project-body">
+              <p class="project-meta">ICLR · KDD · NeurIPS · Tabular AI</p>
+              <h3 class="title is-5 mb-2">Generalist models for structured data</h3>
+              <p>Deep architectures, pretraining, hybrid learning, and LLM reasoning for tabular prediction.</p>
+              <p class="mt-2"><a href="publications.html">Papers →</a></p>
+            </div>
+          </article>
+        </div>
+      </div>
+
+      <aside class="column is-4">
+        <h2 class="title is-4 sidebar-title">Latest News</h2>
+        <div class="news-list">
+          <article class="card news-card">
+            <div class="card-content">
+              <p class="news-date">2026</p>
+              <p><strong>TabR1</strong> accepted at NeurIPS 2026.</p>
+            </div>
+          </article>
+          <article class="card news-card">
+            <div class="card-content">
+              <p class="news-date">2026</p>
+              <p><strong>APCyc</strong> and <strong>Caduceus</strong> accepted at KDD 2026.</p>
+            </div>
+          </article>
+          <article class="card news-card">
+            <div class="card-content">
+              <p class="news-date">2026</p>
+              <p><strong>Med-Scout</strong> accepted at ICML 2026.</p>
+            </div>
+          </article>
+          <article class="card news-card">
+            <div class="card-content">
+              <p class="news-date">2026</p>
+              <p><strong>NEF-NET v2</strong> accepted at ICLR 2026.</p>
+            </div>
+          </article>
+        </div>
+
+        <div id="join" class="notification join-box mt-5">
+          <h2 class="title is-5 has-text-white">Join Us</h2>
+          <p class="has-text-white mb-3">
+            We welcome motivated PhD students, postdocs, research assistants, and collaborators.
+          </p>
+          <a class="button is-small is-light" href="mailto:jintaiCHEN@hkust-gz.edu.cn"><strong>Contact me</strong></a>
+        </div>
+
+        <div class="box quick-box mt-5">
+          <h2 class="title is-5">Quick Links</h2>
+          <div class="content quick-links">
+            <p><a href="https://scholar.google.com/citations?user=ZiY3xYEAAAAJ" target="_blank" rel="noreferrer">Google Scholar ↗</a></p>
+            <p><a href="https://github.com/WhatAShot" target="_blank" rel="noreferrer">GitHub ↗</a></p>
+            <p><a href="https://orcid.org/0000-0002-3199-2597" target="_blank" rel="noreferrer">ORCID ↗</a></p>
+            <p><a href="academic.html">Teaching & Service →</a></p>
+          </div>
+        </div>
+
+        <div class="box quick-box mt-5">
+          <h2 class="title is-5">Selected Honors</h2>
+          <div class="content small-content">
+            <p><strong>2026</strong> · CHIL Best Paper Award</p>
+            <p><strong>2026</strong> · ICML Silver Reviewer</p>
+            <p><strong>2025</strong> · GDSTA Youth S&T Talent Support Programme</p>
+            <p><strong>2023</strong> · Excellent Doctoral Graduate of Zhejiang Province</p>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer class="footer compact-footer">
+  <div class="container">
+    <div class="level is-mobile">
+      <div class="level-left"><p>© <span id="year"></span> Jintai Chen</p></div>
+      <div class="level-right"><p>HKUST(GZ)</p></div>
+    </div>
+  </div>
+</footer>
+
+<script src="data/research.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
