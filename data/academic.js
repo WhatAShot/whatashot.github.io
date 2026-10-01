@@ -1,6 +1,6 @@
 window.ACADEMIC = {
   honors: [
-    ["2026", "Selected for the Guangdong Provincial Young Talent Program"],
+    ["2026", "Selected for a Guangdong Provincial Young Talent Program"],
     ["2026.06", "Best Paper Award, CHIL 2026"],
     ["2026.05", "ICML 2025 Silver Reviewer"],
     ["2025", "Member, Expert Pool of the Digital Guangdong Development Expert Committee"],
