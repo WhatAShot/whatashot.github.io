@@ -9,7 +9,7 @@ window.RESEARCH_CONFIG = {
       summary: "Learning across biosignals, medical imaging, biological sequences, language, and other heterogeneous modalities.",
       summaryZh: "面向生物信号、医学影像、生物序列、语言等异质模态的统一学习。",
       tags: ["Biosignals", "Medical Imaging", "Biological Sequences & Language", "MLLMs"],
-      tagsZh: ["生物信号", "医学影像", "生物序列与语言", "MLLMs"]
+      tagsZh: ["生物信号", "医学影像", "生物序列与语言", "多模态大模型"]
     },
     {
       id: "generative",
@@ -39,16 +39,16 @@ window.RESEARCH_CONFIG = {
       subtitleZh: "生成 · 相互作用 · 亲和力"
     },
     {
-      title: "Clinical Trials",
-      titleZh: "临床试验",
-      subtitle: "design · enrollment · prediction",
-      subtitleZh: "设计 · 入组 · 预测"
+      title: "Clinical Trial Optimization",
+      titleZh: "临床试验优化",
+      subtitle: "design · enrollment · outcome prediction",
+      subtitleZh: "设计 · 入组 · 结局预测"
     },
     {
-      title: "Diagnosis & Treatment",
-      titleZh: "临床诊断与治疗",
-      subtitle: "multimodal reasoning · personalized care",
-      subtitleZh: "多模态推理 · 个体化诊疗"
+      title: "Clinical Decision Support",
+      titleZh: "临床决策支持",
+      subtitle: "diagnosis · prognosis · treatment",
+      subtitleZh: "诊断 · 预后 · 治疗"
     }
   ]
 };
