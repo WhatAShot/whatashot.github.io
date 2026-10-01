@@ -104,7 +104,7 @@ window.ACADEMIC = {
 
   services: [
     "Reviewer @ ML/AI/AI4H Conferences: NeurIPS, ICLR, ICML, KDD, AAAI, IJCAI, ACM MM, AISTATS, CVPR, ICCV, ECCV, ACL, EMNLP, MICCAI, ISBI",
-    "Area Chair/Senior Program Chair: IJCAI, NeurIPS, AAAI",
+    "Area Chair/Senior Program Chair: IJCAI, NeurIPS, ICLR, AAAI",
     "Review for Journals: Nature Human Behaviour, Nature Communications, TPAMI, JMLR, Science Bulletin, TNNLS, TCBB, JBHI, Frontiers in Public Health, JBSM, TCDS, Frontiers in Genetics, Journal of Pharmaceutical Analysis, spj Research, spj Health Data Science, PLOS Digital Health, etc.",
     "Guest Editor for Journals: JBHI, spj Health Data Science",
     "Executive Committee Member, CCF Technical Committee on Digital Medicine",
@@ -121,7 +121,7 @@ window.ACADEMIC = {
   ],
   servicesZh: [
     "ML/AI/AI4H 会议审稿人：NeurIPS、ICLR、ICML、KDD、AAAI、IJCAI、ACM MM、AISTATS、CVPR、ICCV、ECCV、ACL、EMNLP、MICCAI、ISBI",
-    "领域主席 / 高级程序委员会成员：IJCAI、NeurIPS、AAAI",
+    "领域主席 / 高级程序委员会成员：IJCAI、NeurIPS、ICLR、AAAI",
     "期刊审稿人：Nature Human Behaviour、Nature Communications、TPAMI、JMLR、Science Bulletin、TNNLS、TCBB、JBHI、Frontiers in Public Health、JBSM、TCDS、Frontiers in Genetics、Journal of Pharmaceutical Analysis、spj Research、spj Health Data Science、PLOS Digital Health 等",
     "期刊客座编辑：JBHI、spj Health Data Science",
     "中国计算机学会（CCF）数字医学分会执行委员",
