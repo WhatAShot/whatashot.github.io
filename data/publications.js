@@ -317,6 +317,7 @@ window.PUBLICATIONS = [
     coFirstAuthors: ["Jiahe Chen","Qian Shao"],
     correspondingAuthors: ["Jian Wu","Hongxia Xu"],
     paper: "https://arxiv.org/pdf/2606.26973",
+    homepage: "https://arxiv.org/abs/2606.26973",
     code: "https://github.com/JiaheChen2002/GGR",
     tags: ["Learning Algorithms"]
   },
@@ -327,6 +328,7 @@ window.PUBLICATIONS = [
     coFirstAuthors: [],
     correspondingAuthors: ["Jintai Chen","Jian Wu"],
     paper: "https://arxiv.org/pdf/2309.08888",
+    homepage: "https://dl.acm.org/doi/10.1145/3581783.3612113",
     tags: ["Learning Algorithms", "Clinical Decision Support"]
   },
   {
@@ -336,6 +338,7 @@ window.PUBLICATIONS = [
     coFirstAuthors: [],
     correspondingAuthors: ["Jintai Chen"],
     paper: "https://arxiv.org/pdf/2403.07332",
+    homepage: "https://papers.miccai.org/miccai-2024/467-Paper0286.html",
     code: "https://github.com/wjh892521292/LKM-UNet",
     tags: ["Learning Algorithms", "Clinical Decision Support"]
   },
@@ -346,6 +349,7 @@ window.PUBLICATIONS = [
     coFirstAuthors: [],
     correspondingAuthors: ["Jintai Chen"],
     paper: "https://arxiv.org/pdf/2501.07468",
+    homepage: "https://www.sciencedirect.com/science/article/pii/S156625352500106X",
     tags: ["Multimodal AI", "Clinical Decision Support"]
   }
 ];
