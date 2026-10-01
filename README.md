@@ -1,43 +1,34 @@
-# Jintai Chen — Homepage Redesign
+# Jintai Chen — Academic Homepage
 
-This repository is the isolated workspace for the new academic homepage.
+Production source for Jintai Chen's academic homepage.
 
-## Positioning
+## Site structure
 
-**One identity:** Artificial Intelligence for Health & Science
+- `index.html` — homepage, research overview, news, recruiting, and links
+- `publications.html` — selected publications with research/application filters
+- `academic.html` — honors, teaching, talks, and professional service
+- `data/research.js` — homepage research taxonomy
+- `data/publications.js` — publication records
+- `data/academic.js` — academic records
+- `lang.js` — English / Chinese switching
+- `styles.css` — shared visual system
 
-### AI capabilities
-- Multimodal AI
-- Generative AI
-- Tabular / Structured-data AI
+## Publication conventions
 
-### Biomedical problem space
-- Drug Design
-- Clinical Trials
-- Clinical Diagnosis & Treatment
+- `†` = co-first author
+- `*` = corresponding author
+- `Homepage` is reserved for a dedicated project website, not an arXiv, publisher, conference, or institutional landing page.
 
-The design principle is to present the work as AI research first, while making the biomedical value chain immediately legible.
+## Visitor counter
 
-## Editable research tags
+The original homepage at `whatashot.github.io` used Busuanzi site PV statistics. Its verified legacy count at migration was **1,057,151**.
 
-Homepage research tags are intentionally separated from the page markup.
+The new homepage preserves that history:
+- on `whatashot.github.io`, the live Busuanzi site count is used without double-counting the legacy baseline;
+- on a future new production domain, the legacy baseline can be carried forward.
 
-Edit:
+## Deployment
 
-`data/research.js`
+`main` is the production branch. The site is plain static HTML/CSS/JavaScript and is intended to be served from the repository root with GitHub Pages.
 
-to add, remove, rename, or reorder:
-- AI method tags
-- biomedical application tags
-- descriptions and detail keywords
-
-No HTML or CSS changes are required for ordinary taxonomy edits.
-
-## Current design hypothesis
-
-The homepage visualizes a two-layer research architecture:
-
-1. **AI methods:** multimodal, generative, and tabular intelligence.
-2. **Biomedical translation:** drug design → clinical trials → diagnosis & treatment.
-
-The site remains static and deployable with GitHub Pages.
+For ordinary content updates, edit the files under `data/`; page markup generally does not need to change.
