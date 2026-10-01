@@ -787,3 +787,110 @@ body{
     gap:.18rem;
   }
 }
+
+/* Application layer v4 — lightweight research pathway, not nested UI cards */
+.biomedical-box{
+  position:relative!important;
+  overflow:visible!important;
+  margin-top:1.05rem!important;
+  padding:1rem 1.05rem 1.05rem!important;
+  background:#fcfbfc!important;
+  border:1px solid #e2dde0!important;
+  border-radius:4px!important;
+  box-shadow:none!important;
+}
+.biomedical-box:before{
+  content:"";
+  position:absolute;
+  left:-1px;
+  right:-1px;
+  top:-1px;
+  height:3px;
+  border-radius:4px 4px 0 0;
+  background:linear-gradient(90deg,var(--primary) 0%,#5d456d 48%,var(--science-blue) 100%);
+}
+.biomedical-box:after{display:none!important}
+.biomedical-box .title{
+  margin:0!important;
+  color:var(--primary-dark)!important;
+  font-size:1.42rem!important;
+}
+.application-rail{
+  position:relative;
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:1.25rem;
+  margin-top:.85rem;
+  padding-top:1.05rem;
+}
+.application-rail:before{
+  content:"";
+  position:absolute;
+  left:.25rem;
+  right:.25rem;
+  top:.42rem;
+  height:1px;
+  background:linear-gradient(90deg,rgba(123,36,67,.52),rgba(103,87,155,.34),rgba(49,95,155,.48));
+}
+.application-node{
+  position:relative;
+  padding:.18rem .25rem 0 0;
+}
+.application-dot{
+  position:absolute;
+  width:9px;
+  height:9px;
+  left:0;
+  top:-1.08rem;
+  border-radius:50%;
+  background:#fcfbfc;
+  border:2px solid var(--primary);
+  box-shadow:0 0 0 3px #f4ecef;
+}
+.application-node:nth-child(2) .application-dot{
+  border-color:#67579b;
+  box-shadow:0 0 0 3px #f0eef6;
+}
+.application-node:nth-child(3) .application-dot{
+  border-color:var(--science-blue);
+  box-shadow:0 0 0 3px #edf2f8;
+}
+.application-node h3{
+  margin:0 0 .18rem!important;
+  color:#382933!important;
+  font-size:.96rem!important;
+  font-weight:700;
+  line-height:1.22;
+}
+.application-node p{
+  margin:0!important;
+  color:#68747c!important;
+  font-size:.76rem!important;
+  line-height:1.38!important;
+}
+@media(max-width:768px){
+  .application-rail{
+    grid-template-columns:1fr;
+    gap:.7rem;
+    padding-top:0;
+    padding-left:1rem;
+  }
+  .application-rail:before{
+    left:.2rem;
+    right:auto;
+    top:.25rem;
+    bottom:.2rem;
+    width:1px;
+    height:auto;
+    background:linear-gradient(180deg,rgba(123,36,67,.48),rgba(49,95,155,.38));
+  }
+  .application-node{
+    padding:.08rem 0 .55rem .5rem;
+  }
+  .application-dot,
+  .application-node:nth-child(2) .application-dot,
+  .application-node:nth-child(3) .application-dot{
+    left:-1.18rem;
+    top:.34rem;
+  }
+}
