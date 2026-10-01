@@ -809,8 +809,8 @@ window.PUBLICATIONS = [
   },
   {
     "year": 2026,
-    "venue": "EMNLP Findings",
-    "badge": "EMNLP · Findings",
+    "venue": "EMNLP",
+    "badge": "EMNLP",
     "title": "ClinicalReTrial: Clinical Trial Redesign with Self-Evolving Agents",
     "authors": "Sixue Xing, Kerui Wu, Xuanye Xia, Haoyu He, Meng Jiang, Jintai Chen, Tianfan Fu",
     "coFirstAuthors": [],
