@@ -6,8 +6,8 @@ window.RESEARCH_CONFIG = {
       id: "multimodal",
       title: "Multimodal AI",
       titleZh: "多模态 AI",
-      summary: "Unifying signals, images, and language to learn transferable representations and support clinical reasoning.",
-      summaryZh: "融合信号、图像与语言，学习可迁移的表征，支持临床推理。",
+      summary: "Unifying signals, images, biological language, and natural language to uncover intrinsic structure through shared representations and advance clinical reasoning.",
+      summaryZh: "融合生理信号、医学影像、生物语言与自然语言，以共享表征揭示内在结构，推动临床推理。",
       tags: ["Biosignals", "Medical Imaging", "Biological Sequences & Language", "MLLMs"],
       tagsZh: ["生物信号", "医学影像", "生物序列与语言", "多模态大模型"]
     },
