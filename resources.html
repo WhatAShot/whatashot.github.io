@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="https://whatashot.github.io/resources.html">
+  <title>Resources | Jintai Chen</title>
+  <meta name="description" content="Research packages, ECG datasets and annotations: TrialBench, Panobench and Electrocardio Panorama.">
+  <link rel="stylesheet" href="resources.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Alegreya:wght@500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<nav class="navbar is-primary site-nav" role="navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item brand-name" href="index.html"><strong>Jintai Chen</strong></a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="mainNav"><span></span><span></span><span></span></a>
+    </div>
+    <div id="mainNav" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="index.html#research-section"><strong data-en="Research" data-zh="研究">Research</strong></a>
+        <a class="navbar-item" href="publications.html"><strong data-en="Selected Publications" data-zh="代表性论文">Selected Publications</strong></a>
+        <a class="navbar-item is-active" href="resources.html"><strong data-en="Resources" data-zh="资源">Resources</strong></a>
+        <a class="navbar-item" href="academic.html"><strong data-en="Academic" data-zh="学术经历">Academic</strong></a>
+        <a class="navbar-item" href="index.html#join"><strong data-en="Join Us" data-zh="加入我们">Join Us</strong></a>
+      </div>
+      <div class="navbar-end language-switch">
+        <a class="navbar-item lang-link" href="?lang=en" data-lang-option="en">EN</a>
+        <a class="navbar-item lang-link" href="?lang=zh" data-lang-option="zh">CN</a>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<section class="page-head"><div class="container"><h1 class="title is-3" data-en="Resources" data-zh="资源">Resources</h1></div></section>
+
+<main class="page-section">
+  <div class="container software-content">
+<p class="resources-summary" data-en="Research packages, original datasets, and reusable annotations." data-zh="研究软件包、原创数据集与可复用标注。">Research packages, original datasets, and reusable annotations.</p>
+<nav class="resource-section-nav" aria-label="Resource sections"><a href="#packages" data-en="Packages" data-zh="软件包">Packages</a><a href="#datasets-heading" data-en="Datasets & Annotations" data-zh="数据集与标注">Datasets &amp; Annotations</a></nav>
+<section id="packages" aria-labelledby="packages-heading">
+<h2 id="packages-heading" class="title is-4 resources-section-title" data-en="Packages" data-zh="软件包">Packages</h2>
+    <section class="software-intro" aria-labelledby="trialbench-heading">
+      <p class="software-eyebrow" data-en="Clinical Trial Research" data-zh="临床试验研究">Clinical Trial Research</p>
+      <h2 id="trialbench-heading" class="title is-3">TrialBench</h2>
+      <p data-en="AI-ready clinical trial datasets, accessible through Python and R. TrialBench supports research on trial outcomes, duration, patient dropout, adverse events, mortality, failure reasons, eligibility criteria, and drug dosing." data-zh="通过 Python 和 R 获取面向人工智能研究的临床试验数据集。TrialBench 支持试验结局、持续时间、患者退出、不良事件、死亡率、失败原因、入排标准及药物剂量等研究任务。">AI-ready clinical trial datasets, accessible through Python and R. TrialBench supports research on trial outcomes, duration, patient dropout, adverse events, mortality, failure reasons, eligibility criteria, and drug dosing.</p>
+      <div class="software-links">
+        <a href="https://huyjj.github.io/Trialbench/" target="_blank" rel="noopener noreferrer" data-en="Project Website ↗" data-zh="项目主页 ↗">Project Website ↗</a>
+        <a href="https://github.com/ML2Health/ML2ClinicalTrials/tree/main/Trialbench" target="_blank" rel="noopener noreferrer" data-en="Source Code ↗" data-zh="源代码 ↗">Source Code ↗</a>
+        <a href="https://zenodo.org/records/15455785" target="_blank" rel="noopener noreferrer" data-en="Datasets ↗" data-zh="数据集 ↗">Datasets ↗</a>
+      </div>
+    </section>
+    <div class="software-packages">
+      <article class="software-card">
+        <span class="tag">Python</span>
+        <h3 class="title is-4" data-en="TrialBench for Python" data-zh="TrialBench Python 包">TrialBench for Python</h3>
+        <p data-en="Download and load clinical trial datasets for machine learning workflows in Python." data-zh="在 Python 中下载和加载临床试验数据集，用于机器学习研究。">Download and load clinical trial datasets for machine learning workflows in Python.</p>
+        <p class="package-stat"><strong>46</strong> <span data-en="PyPI downloads in the last 30 days" data-zh="近 30 天 PyPI 下载次数">PyPI downloads in the last 30 days</span></p>
+<p class="software-note"><span data-en="Snapshot: 2 October 2026 · Download events, not unique users." data-zh="统计快照：2026 年 10 月 2 日 · 下载次数，不代表独立用户数。">Snapshot: 2 October 2026 · Download events, not unique users.</span> <a href="https://pypistats.org/api/packages/trialbench/recent" target="_blank" rel="noopener noreferrer" data-en="Source: PyPI Stats ↗" data-zh="来源：PyPI Stats ↗">Source: PyPI Stats ↗</a></p>
+        <h4 data-en="Install with pip" data-zh="通过 pip 安装">Install with pip</h4>
+        <pre><code>pip install trialbench</code></pre>
+        <p class="software-note" data-en="See the package documentation for data setup and usage examples." data-zh="数据配置与使用示例请参阅软件包文档。">See the package documentation for data setup and usage examples.</p>
+        <div class="software-links">
+          <a class="button is-primary" href="https://pypi.org/project/trialbench/" target="_blank" rel="noopener noreferrer" data-en="Python Package ↗" data-zh="Python 包 ↗">Python Package ↗</a>
+          <a href="https://pypi.org/project/trialbench/#description" target="_blank" rel="noopener noreferrer" data-en="Documentation ↗" data-zh="使用文档 ↗">Documentation ↗</a>
+        </div>
+      </article>
+      <article class="software-card">
+        <span class="tag">R</span>
+        <h3 class="title is-4" data-en="TrialBench for R" data-zh="TrialBench R 包">TrialBench for R</h3>
+        <p data-en="Access TrialBench from R through its reticulate-based interface to the Python package." data-zh="通过基于 reticulate 的 R 接口调用 TrialBench Python 包。">Access TrialBench from R through its reticulate-based interface to the Python package.</p>
+        <h4 data-en="Installation" data-zh="安装方式">Installation</h4>
+        <p data-en="Download the R package and follow the installation guide to configure reticulate, the Python environment, and the required data files." data-zh="下载 R 包，并按照安装指南配置 reticulate、Python 环境及所需数据文件。">Download the R package and follow the installation guide to configure reticulate, the Python environment, and the required data files.</p>
+        <div class="software-links">
+          <a class="button is-primary" href="https://github.com/ML2Health/ML2ClinicalTrials/raw/refs/heads/main/Trialbench/packages/r.trialbench_0.0.0.9000.tar.gz" data-en="Download R Package ↗" data-zh="下载 R 包 ↗">Download R Package ↗</a>
+          <a href="https://github.com/ML2Health/ML2ClinicalTrials/tree/main/Trialbench/packages/r.trialbench" target="_blank" rel="noopener noreferrer" data-en="Installation Guide ↗" data-zh="安装指南 ↗">Installation Guide ↗</a>
+        </div>
+      </article>
+    </div>
+</section>
+
+<section class="dataset-section" aria-labelledby="datasets-heading">
+<h2 id="datasets-heading" class="title is-4" data-en="Datasets &amp; Annotations" data-zh="数据集与标注">Datasets &amp; Annotations</h2>
+<article class="dataset-card">
+<div class="dataset-top"><h3 class="title is-3">Panobench</h3><span class="tag">NEF-NET v2 · ICLR 2026</span></div>
+<p class="dataset-lead" data-en="Dense ECG viewpoints with explicit spatial geometry." data-zh="带有明确空间几何标注的密集视角心电数据。">Dense ECG viewpoints with explicit spatial geometry.</p>
+<div class="dataset-metrics">
+<span data-en="48 views" data-zh="48 个视角">48 views</span><span data-en="4,470 recordings" data-zh="4,470 条记录">4,470 recordings</span><span data-en="10 seconds each" data-zh="每条 10 秒">10 seconds each</span><span data-en="CT-derived angles" data-zh="CT 推导角度">CT-derived angles</span>
+</div>
+<p data-en="Six limb leads and 42 precordial leads provide much denser spatial coverage than a standard 12-lead ECG. Each viewpoint is annotated with CT-derived spherical coordinates (θ, φ), linking the recorded waveform to its observation direction." data-zh="6 个肢体导联与 42 个胸前导联，提供比标准 12 导联更密集的空间覆盖。每个视角均标注 CT 推导的球坐标（θ、φ），将实测波形与观察方向关联起来。">Six limb leads and 42 precordial leads provide much denser spatial coverage than a standard 12-lead ECG. Each viewpoint is annotated with CT-derived spherical coordinates (θ, φ), linking the recorded waveform to its observation direction.</p>
+<p class="dataset-value" data-en="This pairing makes Panobench a benchmark for geometry-aware ECG modeling, sparse-to-dense reconstruction, and synthesis at held-out viewpoints: predictions can be compared with recorded signals at the target views." data-zh="波形与几何信息的配对，使 Panobench 可用于几何感知心电建模、稀疏到密集视角重建及未见视角合成，并可用目标视角的实测信号检验生成结果。">This pairing makes Panobench a benchmark for geometry-aware ECG modeling, sparse-to-dense reconstruction, and synthesis at held-out viewpoints: predictions can be compared with recorded signals at the target views.</p>
+<p class="resource-note" data-en="Release size follows the public dataset card." data-zh="数据规模以公开发布的数据卡为准。">Release size follows the public dataset card.</p>
+<div class="resource-links-row">
+<a href="https://huggingface.co/datasets/whynotJunger/Panobench" target="_blank" rel="noopener noreferrer" data-en="Dataset &amp; Download ↗" data-zh="数据集与下载 ↗">Dataset &amp; Download ↗</a>
+<a href="https://github.com/HKUSTGZ-ML4Health-Lab/NEFNET-v2" target="_blank" rel="noopener noreferrer" data-en="Code ↗" data-zh="代码 ↗">Code ↗</a>
+<a href="https://openreview.net/forum?id=JzZhhhxniR" target="_blank" rel="noopener noreferrer" data-en="Paper ↗" data-zh="论文 ↗">Paper ↗</a>
+</div></article>
+<article class="dataset-card">
+<div class="dataset-top"><h3 class="title is-3">Electrocardio Panorama</h3><span class="tag">IJCAI 2021</span></div>
+<p class="dataset-lead" data-en="Lead geometry and waveform annotations for continuous-view ECG research." data-zh="用于连续视角心电研究的导联几何与波形标注。">Lead geometry and waveform annotations for continuous-view ECG research.</p>
+<div class="dataset-metrics">
+<span data-en="12-lead reference angles" data-zh="12 导联参考角度">12-lead reference angles</span><span data-en="30 CT scans" data-zh="30 份 CT 测量">30 CT scans</span><span data-en="Cycle &amp; deflection labels" data-zh="心动周期与波形分段标签">Cycle &amp; deflection labels</span>
+</div>
+<p data-en="The paper quantifies standard 12-lead viewpoints using average angles measured from 30 body CT scans, and releases cardiac-cycle and waveform-deflection annotations for Tianchi ECG and PTB. The repository includes lead-angle mappings, annotation tools, and the Nef-Net implementation." data-zh="论文基于 30 份人体 CT 测量，量化标准 12 导联的平均视角，并为天池 ECG 与 PTB 数据提供心动周期和波形分段标注。仓库包含导联角度映射、标注工具和 Nef-Net 实现。">The paper quantifies standard 12-lead viewpoints using average angles measured from 30 body CT scans, and releases cardiac-cycle and waveform-deflection annotations for Tianchi ECG and PTB. The repository includes lead-angle mappings, annotation tools, and the Nef-Net implementation.</p>
+<p class="dataset-value" data-en="The distinctive contribution is reusable spatial and temporal supervision: lead identity becomes an explicit viewing direction, while waveform segments support structured modeling of each heartbeat." data-zh="其独特价值在于可复用的空间与时间监督信息：将导联身份转化为明确的观察方向，并通过波形分段支持对每个心动周期进行结构化建模。">The distinctive contribution is reusable spatial and temporal supervision: lead identity becomes an explicit viewing direction, while waveform segments support structured modeling of each heartbeat.</p>
+<p class="resource-note" data-en="The angles are shared lead-level geometric priors, not individually measured positions for every participant. Original ECG signals are obtained from their source datasets." data-zh="这些角度是导联层面的共享几何先验，并非对每位受试者独立测量的位置。原始心电信号需从对应源数据集获取。">The angles are shared lead-level geometric priors, not individually measured positions for every participant. Original ECG signals are obtained from their source datasets.</p>
+<div class="resource-links-row">
+<a href="https://github.com/WhatAShot/Electrocardio-Panorama" target="_blank" rel="noopener noreferrer" data-en="Annotations, Tools &amp; Code ↗" data-zh="标注、工具与代码 ↗">Annotations, Tools &amp; Code ↗</a>
+<a href="https://github.com/WhatAShot/Electrocardio-Panorama/blob/main/codes/dataset/tianchi.py" target="_blank" rel="noopener noreferrer" data-en="Lead-Angle Mapping ↗" data-zh="导联角度映射 ↗">Lead-Angle Mapping ↗</a>
+<a href="https://www.ijcai.org/proceedings/2021/0495.pdf" target="_blank" rel="noopener noreferrer" data-en="Paper ↗" data-zh="论文 ↗">Paper ↗</a>
+</div></article>
+</section>
+  </div>
+</main>
+
+<footer class="footer compact-footer"><div class="container"><div class="level is-mobile simple-footer-level"><div class="level-left"><span class="copyright-line">© <span id="year"></span>&nbsp;Jintai Chen</span></div><div class="level-right"><a href="index.html" data-en="Home" data-zh="首页">Home</a></div></div></div></footer>
+<script src="lang.js"></script><script src="resources.js"></script>
+</body></html>
