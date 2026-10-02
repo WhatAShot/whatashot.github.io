@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="canonical" href="https://whatashot.github.io/resources.html">
   <title>Resources | Jintai Chen</title>
-  <meta name="description" content="Research packages, ECG datasets and annotations: TrialBench, Panobench and Electrocardio Panorama.">
+  <meta name="description" content="Research resources from TrialBench and the Electrocardio Panorama series.">
   <link rel="stylesheet" href="resources.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -81,23 +81,11 @@
     </div>
 </section>
 
-<div class="dataset-section">
+<section class="dataset-section" aria-labelledby="panorama-heading">
+<h2 id="panorama-heading" class="title is-3">Electrocardio Panorama</h2>
+<p class="resources-summary" data-en="A research series on continuous-view ECG reconstruction, with two complementary data resources: the original Nef-Net release and Panobench from NEF-NET v2." data-zh="面向连续视角心电重建的研究系列，包含两项互补的数据资源：初代 Nef-Net 数据与标注，以及 NEF-NET v2 的 Panobench 数据集。">A research series on continuous-view ECG reconstruction, with two complementary data resources: the original Nef-Net release and Panobench from NEF-NET v2.</p>
 <article class="dataset-card">
-<div class="dataset-top"><h2 class="title is-3">Panobench</h2><span class="tag">NEF-NET v2 · ICLR 2026</span></div>
-<p class="dataset-lead" data-en="Dense ECG viewpoints with explicit spatial geometry." data-zh="带有明确空间几何标注的密集视角心电数据。">Dense ECG viewpoints with explicit spatial geometry.</p>
-<div class="dataset-metrics">
-<span data-en="48 views" data-zh="48 个视角">48 views</span><span data-en="4,470 recordings" data-zh="4,470 条记录">4,470 recordings</span><span data-en="10 seconds each" data-zh="每条 10 秒">10 seconds each</span><span data-en="CT-derived angles" data-zh="CT 推导角度">CT-derived angles</span>
-</div>
-<p data-en="Six limb leads and 42 precordial leads provide much denser spatial coverage than a standard 12-lead ECG. Each viewpoint is annotated with CT-derived spherical coordinates (θ, φ), linking the recorded waveform to its observation direction." data-zh="6 个肢体导联与 42 个胸前导联，提供比标准 12 导联更密集的空间覆盖。每个视角均标注 CT 推导的球坐标（θ、φ），将实测波形与观察方向关联起来。">Six limb leads and 42 precordial leads provide much denser spatial coverage than a standard 12-lead ECG. Each viewpoint is annotated with CT-derived spherical coordinates (θ, φ), linking the recorded waveform to its observation direction.</p>
-<p class="dataset-value" data-en="This pairing makes Panobench a benchmark for geometry-aware ECG modeling, sparse-to-dense reconstruction, and synthesis at held-out viewpoints: predictions can be compared with recorded signals at the target views." data-zh="波形与几何信息的配对，使 Panobench 可用于几何感知心电建模、稀疏到密集视角重建及未见视角合成，并可用目标视角的实测信号检验生成结果。">This pairing makes Panobench a benchmark for geometry-aware ECG modeling, sparse-to-dense reconstruction, and synthesis at held-out viewpoints: predictions can be compared with recorded signals at the target views.</p>
-<p class="resource-note" data-en="Release size follows the public dataset card." data-zh="数据规模以公开发布的数据卡为准。">Release size follows the public dataset card.</p>
-<div class="resource-links-row">
-<a href="https://huggingface.co/datasets/whynotJunger/Panobench" target="_blank" rel="noopener noreferrer" data-en="Dataset &amp; Download ↗" data-zh="数据集与下载 ↗">Dataset &amp; Download ↗</a>
-<a href="https://github.com/HKUSTGZ-ML4Health-Lab/NEFNET-v2" target="_blank" rel="noopener noreferrer" data-en="Code ↗" data-zh="代码 ↗">Code ↗</a>
-<a href="https://openreview.net/forum?id=JzZhhhxniR" target="_blank" rel="noopener noreferrer" data-en="Paper ↗" data-zh="论文 ↗">Paper ↗</a>
-</div></article>
-<article class="dataset-card">
-<div class="dataset-top"><h2 class="title is-3">Electrocardio Panorama</h2><span class="tag">IJCAI 2021</span></div>
+<div class="dataset-top"><h3 class="title is-4" data-en="Original Release · Nef-Net" data-zh="初代数据资源 · Nef-Net">Original Release · Nef-Net</h3><span class="tag">IJCAI 2021</span></div>
 <p class="dataset-lead" data-en="Lead geometry and waveform annotations for continuous-view ECG research." data-zh="用于连续视角心电研究的导联几何与波形标注。">Lead geometry and waveform annotations for continuous-view ECG research.</p>
 <div class="dataset-metrics">
 <span data-en="12-lead reference angles" data-zh="12 导联参考角度">12-lead reference angles</span><span data-en="30 CT scans" data-zh="30 份 CT 测量">30 CT scans</span><span data-en="Cycle &amp; deflection labels" data-zh="心动周期与波形分段标签">Cycle &amp; deflection labels</span>
@@ -110,7 +98,21 @@
 <a href="https://github.com/WhatAShot/Electrocardio-Panorama/blob/main/codes/dataset/tianchi.py" target="_blank" rel="noopener noreferrer" data-en="Lead-Angle Mapping ↗" data-zh="导联角度映射 ↗">Lead-Angle Mapping ↗</a>
 <a href="https://www.ijcai.org/proceedings/2021/0495.pdf" target="_blank" rel="noopener noreferrer" data-en="Paper ↗" data-zh="论文 ↗">Paper ↗</a>
 </div></article>
+<article class="dataset-card">
+<div class="dataset-top"><h3 class="title is-4">Panobench · NEF-NET v2</h3><span class="tag">ICLR 2026</span></div>
+<p class="dataset-lead" data-en="Dense ECG viewpoints with explicit spatial geometry." data-zh="带有明确空间几何标注的密集视角心电数据。">Dense ECG viewpoints with explicit spatial geometry.</p>
+<div class="dataset-metrics">
+<span data-en="48 views" data-zh="48 个视角">48 views</span><span data-en="4,470 recordings" data-zh="4,470 条记录">4,470 recordings</span><span data-en="10 seconds each" data-zh="每条 10 秒">10 seconds each</span><span data-en="CT-derived angles" data-zh="CT 推导角度">CT-derived angles</span>
 </div>
+<p data-en="Six limb leads and 42 precordial leads provide much denser spatial coverage than a standard 12-lead ECG. Each viewpoint is annotated with CT-derived spherical coordinates (θ, φ), linking the recorded waveform to its observation direction." data-zh="6 个肢体导联与 42 个胸前导联，提供比标准 12 导联更密集的空间覆盖。每个视角均标注 CT 推导的球坐标（θ、φ），将实测波形与观察方向关联起来。">Six limb leads and 42 precordial leads provide much denser spatial coverage than a standard 12-lead ECG. Each viewpoint is annotated with CT-derived spherical coordinates (θ, φ), linking the recorded waveform to its observation direction.</p>
+<p class="dataset-value" data-en="This pairing makes Panobench a benchmark for geometry-aware ECG modeling, sparse-to-dense reconstruction, and synthesis at held-out viewpoints: predictions can be compared with recorded signals at the target views." data-zh="波形与几何信息的配对，使 Panobench 可用于几何感知心电建模、稀疏到密集视角重建及未见视角合成，并可用目标视角的实测信号检验生成结果。">This pairing makes Panobench a benchmark for geometry-aware ECG modeling, sparse-to-dense reconstruction, and synthesis at held-out viewpoints: predictions can be compared with recorded signals at the target views.</p>
+<p class="resource-note" data-en="Release size follows the public dataset card." data-zh="数据规模以公开发布的数据卡为准。">Release size follows the public dataset card.</p>
+<div class="resource-links-row">
+<a href="https://huggingface.co/datasets/whynotJunger/Panobench" target="_blank" rel="noopener noreferrer" data-en="Dataset &amp; Download ↗" data-zh="数据集与下载 ↗">Dataset &amp; Download ↗</a>
+<a href="https://github.com/HKUSTGZ-ML4Health-Lab/NEFNET-v2" target="_blank" rel="noopener noreferrer" data-en="Code ↗" data-zh="代码 ↗">Code ↗</a>
+<a href="https://openreview.net/forum?id=JzZhhhxniR" target="_blank" rel="noopener noreferrer" data-en="Paper ↗" data-zh="论文 ↗">Paper ↗</a>
+</div></article>
+</section>
   </div>
 </main>
 
