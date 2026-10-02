@@ -6,8 +6,8 @@ window.RESEARCH_CONFIG = {
       id: "multimodal",
       title: "Multimodal AI",
       titleZh: "多模态 AI",
-      summary: "Learning across biosignals, medical imaging, biological sequences, language, and other heterogeneous modalities.",
-      summaryZh: "面向生物信号、医学影像、生物序列、语言等异质模态的统一学习。",
+      summary: "Unifying signals, images, and language to learn transferable representations and support clinical reasoning.",
+      summaryZh: "融合信号、图像与语言，学习可迁移的表征，支持临床推理。",
       tags: ["Biosignals", "Medical Imaging", "Biological Sequences & Language", "MLLMs"],
       tagsZh: ["生物信号", "医学影像", "生物序列与语言", "多模态大模型"]
     },
@@ -15,8 +15,8 @@ window.RESEARCH_CONFIG = {
       id: "generative",
       title: "Generative AI",
       titleZh: "生成式 AI",
-      summary: "Generative models for data synthesis, molecular and peptide design, and digital twins.",
-      summaryZh: "面向数据合成、分子与多肽设计以及数字孪生的生成式模型。",
+      summary: "Developing controllable generative models to design functional molecules and create digital twins of biological systems.",
+      summaryZh: "开发可控生成模型，设计功能性分子，并构建生物系统的数字孪生。",
       tags: ["Peptide Design", "Molecular Generation", "Physiological Synthesis", "Digital Twin"],
       tagsZh: ["多肽设计", "分子生成", "生理信号生成", "数字孪生"]
     },
@@ -24,8 +24,8 @@ window.RESEARCH_CONFIG = {
       id: "tabular",
       title: "Tabular AI",
       titleZh: "表格数据 AI",
-      summary: "Learning and reasoning for structured data, from deep tabular prediction to data agents.",
-      summaryZh: "面向结构化数据的学习与推理，从深度表格预测到数据智能体。",
+      summary: "Learning and reasoning across heterogeneous tables to build foundation models and agents for decision-making under uncertainty.",
+      summaryZh: "开展跨异质表格的学习与推理，构建基础模型与面向不确定性决策的智能体。",
       tags: ["Deep Tabular Prediction", "Data Agent"],
       tagsZh: ["深度表格预测", "数据智能体"]
     }
