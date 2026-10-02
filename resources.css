@@ -28,3 +28,9 @@
 .package-stat{margin-top:1rem;margin-bottom:.3rem}
 .package-stat strong{font-size:1.5rem;color:var(--primary)}
 @media(max-width:768px){.dataset-card{padding:1.1rem}.dataset-top .title{font-size:1.4rem!important}.resource-section-nav{gap:1rem;font-size:.9rem}}
+
+.resource-citation{margin-top:1.4rem;font-size:.9rem}
+.resource-citation>p{color:var(--muted);margin-bottom:.4rem}
+.resource-citation summary{cursor:pointer;color:var(--primary);font-weight:600}
+.resource-citation pre{margin-top:.6rem;padding:1rem;background:var(--soft);white-space:pre-wrap;overflow-wrap:anywhere;font-size:.8rem}
+.citation-copy{margin-top:.7rem}
