@@ -6,6 +6,29 @@
 window.PUBLICATIONS = [
   {
     "year": 2026,
+    "venue": "EMNLP",
+    "badge": "EMNLP",
+    "title": "Func-R1: Incentivizing Mathematical Function Reasoning in Multimodal Large Language Models",
+    "authors": "Mingze Yin, Xiaohan Wang, Dian Li, Haichao Yao, Yilin Zhao, Youjun Chen, Gang Liu, Jintai Chen, Yiheng Zhu, Chang-Yu Hsieh, Aimin Pan",
+    "coFirstAuthors": [
+      "Mingze Yin",
+      "Xiaohan Wang"
+    ],
+    "correspondingAuthors": [
+      "Dian Li",
+      "Yiheng Zhu",
+      "Chang-Yu Hsieh",
+      "Aimin Pan"
+    ],
+    "paper": "https://arxiv.org/pdf/2609.14779",
+    "tags": [
+      "Multimodal AI",
+      "Learning Algorithms"
+    ],
+    "priority": 88
+  },
+  {
+    "year": 2026,
     "venue": "NeurIPS",
     "badge": "NeurIPS",
     "title": "Strengthening LLMs for Tabular Prediction with Structural Priors",
