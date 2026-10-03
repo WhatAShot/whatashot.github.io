@@ -6,8 +6,8 @@
 window.PUBLICATIONS = [
   {
     "year": 2026,
-    "venue": "EMNLP",
-    "badge": "EMNLP",
+    "venue": "Findings of EMNLP",
+    "badge": "EMNLP · Findings",
     "title": "Func-R1: Incentivizing Mathematical Function Reasoning in Multimodal Large Language Models",
     "authors": "Mingze Yin, Xiaohan Wang, Dian Li, Haichao Yao, Yilin Zhao, Youjun Chen, Gang Liu, Jintai Chen, Yiheng Zhu, Chang-Yu Hsieh, Aimin Pan",
     "coFirstAuthors": [
