@@ -81,12 +81,12 @@ window.ACADEMIC = {
     ["2021.10", "Domain Mixup for Distant Transfer Learning", "Shanghai Jiaotong University"]
   ],
   talksZh: [
-    ["2026.06", "结构化数据通才模型：基础、前沿与应用", "国际万维网大会（WWW）Tutorial"],
+    ["2026.06", "结构化数据通才模型：基础、前沿与应用", "国际万维网大会（WWW）专题讲座"],
     ["2026.05", "心电全景图：下一代心电可视化系统", "Health Data Science 学术沙龙"],
     ["2026.03", "迈向可靠的医疗智能体", "第五届粤港澳大湾区脑科学高峰论坛"],
     ["2025.11", "心电全景图：下一代心电可视化系统", "医学影像计算研讨会（MICS）"],
     ["2025.10", "从单模态医疗模型到多模态与多智能体医疗系统", "杭州乳腺癌大会"],
-    ["2025.10", "面向表格与结构化数据的大语言模型", "CNCC 结构化数据 Tutorial"],
+    ["2025.10", "面向表格与结构化数据的大语言模型", "CNCC 结构化数据专题论坛"],
     ["2025.05", "人工智能增强心电图与心血管疾病监测", "第 25 届中国心律学会学术年会"],
     ["2025.04", "深度表格学习", "南京大学"],
     ["2024.12", "学术写作进阶指南与原则", "华南理工大学国际校区"],
@@ -127,11 +127,11 @@ window.ACADEMIC = {
     "广东省计算机学会委员",
     "广东省呼吸与健康学会委员",
     "Science Bulletin 青年编委",
-    "Workshop 组织：ICLR 2025 Workshop on AI for Children: Healthcare, Psychology, Education（AI4CHL），Corresponding Chair",
-    "Workshop 组织：BIBM 2026 Workshop on Advancing Data for Better Health: Reliable LLM Application in People-Centric Healthcare（AIMEL），Co-organizer",
-    "Workshop 组织：CVPR 2026 Workshop on Computer Vision for Children（CV4CHL），Co-organizer",
-    "Tutorial 组织与报告：CNCC 2025《Tabular Data Foundation Models: A New Paradigm of General Intelligence for Structured Data》",
-    "Tutorial 组织与报告：WWW 2026《Generalist Model for Structured Data: Foundations, Frontiers and Applications》",
-    "Tutorial 组织与报告：KDD 2026《Toward Generalist Models for Structured Data: Fundamentals, Emerging Trends and Applications》"
+    "研讨会组织：ICLR 2025 儿童人工智能：医疗、心理与教育研讨会（AI4CHL），联络主席",
+    "研讨会组织：BIBM 2026 数据驱动健康：以人为本的医疗中可靠的大语言模型应用研讨会（AIMEL），共同组织者",
+    "研讨会组织：CVPR 2026 面向儿童的计算机视觉研讨会（CV4CHL），共同组织者",
+    "专题论坛组织与报告：CNCC 2025《表格数据基础模型：结构化数据通用智能新范式》",
+    "专题讲座组织与报告：WWW 2026《结构化数据通才模型：基础、前沿与应用》",
+    "专题讲座组织与报告：KDD 2026《迈向结构化数据通才模型：基础、新兴趋势与应用》"
   ]
 };
