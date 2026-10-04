@@ -26,8 +26,8 @@ window.RESEARCH_CONFIG = {
       titleZh: "表格数据 AI",
       summary: "Learning and reasoning across heterogeneous tables to build foundation models and agents for decision-making under uncertainty.",
       summaryZh: "开展跨异质表格的学习与推理，构建基础模型与面向不确定性决策的智能体。",
-      tags: ["Deep Tabular Prediction", "Data Agent"],
-      tagsZh: ["深度表格预测", "数据智能体"]
+      tags: ["Deep Tabular Prediction", "Data Agent", "Large Tabular Model"],
+      tagsZh: ["深度表格预测", "数据智能体", "表格大模型"]
     }
   ],
 
