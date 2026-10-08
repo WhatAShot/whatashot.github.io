@@ -1,6 +1,6 @@
 window.ACADEMIC = {
   honors: [
-    ["2026.10","<a href=\"https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9\" target=\"_blank\" rel=\"noreferrer\">Stanford/Elsevier World's Top 2% Scientists, 2026 (Single-Year Impact)</a>"],
+    ["2026.10","Stanford/Elsevier World's Top 2% Scientists, 2026 (Single-Year Impact)"],
     ["2026", "Selected for a Guangdong Provincial Young Talent Program"],
     ["2026.06", "Best Paper Award, CHIL 2026"],
     ["2026.05", "ICML 2025 Silver Reviewer"],
@@ -23,7 +23,7 @@ window.ACADEMIC = {
     ["2015.10", "National Scholarship (Top 1%)"]
   ],
   honorsZh: [
-    ["2026.10","<a href=\"https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9\" target=\"_blank\" rel=\"noreferrer\">2026 斯坦福/Elsevier 全球前2%科学家（单年度影响力）</a>"],
+    ["2026.10","2026 斯坦福/Elsevier 全球前2%科学家（单年度影响力）"],
     ["2026", "广东省青年人才项目入选者"],
     ["2026.06", "CHIL 2026 最佳论文奖"],
     ["2026.05", "ICML 2025 银牌审稿人"],
