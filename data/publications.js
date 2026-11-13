@@ -37,7 +37,7 @@ window.PUBLICATIONS = [
     "correspondingAuthors": [
       "Jintai Chen"
     ],
-    "paper": "https://arxiv.org/pdf/2510.17385v5",
+    "paper": "https://openreview.net/pdf?id=pTunYUdPGz",
     "tags": [
       "Tabular AI",
       "Multimodal AI",
