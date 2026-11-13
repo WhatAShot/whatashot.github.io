@@ -43,6 +43,7 @@ function renderPubs(){
     const links=[
       p.paper&&`<a href="${p.paper}" target="_blank">${isPdf?ui("PDF","PDF"):ui("Paper","论文")} ↗</a>`,
       p.homepage&&`<a href="${p.homepage}" target="_blank">${ui("Homepage","主页")} ↗</a>`,
+      p.model&&`<a href="${p.model}" target="_blank">${ui("Model","模型")} ↗</a>`,
       codeDataSame&&`<a href="${p.code}" target="_blank">${ui("Code & Data","代码与数据")} ↗</a>`,
       !codeDataSame&&p.code&&`<a href="${p.code}" target="_blank">${ui("Code","代码")} ↗</a>`,
       !codeDataSame&&p.data&&`<a href="${p.data}" target="_blank">${ui(p.dataLabel||"Data",p.dataLabelZh||"数据")} ↗</a>`,
