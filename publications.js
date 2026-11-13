@@ -38,7 +38,7 @@ function authorHtml(p){
 function renderPubs(){
   const rows=current===allKey?pubs:pubs.filter(p=>(p.tags||[]).includes(current));
   list.innerHTML=rows.map(p=>{
-    const isPdf=/\/pdf\/|\.pdf(?:$|\?)/i.test(p.paper||"");
+    const isPdf=/\/pdf(?=[/?#]|$)|\.pdf(?:$|\?)/i.test(p.paper||"");
     const codeDataSame=p.code&&p.data&&p.code===p.data;
     const links=[
       p.paper&&`<a href="${p.paper}" target="_blank">${isPdf?ui("PDF","PDF"):ui("Paper","论文")} ↗</a>`,
