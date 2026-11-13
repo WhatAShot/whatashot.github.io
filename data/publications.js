@@ -31,16 +31,19 @@ window.PUBLICATIONS = [
     "year": 2026,
     "venue": "NeurIPS",
     "badge": "NeurIPS",
-    "title": "Strengthening LLMs for Tabular Prediction with Structural Priors",
+    "title": "TabXLLM: Unlocking Zero- and Few-Shot Tabular Prediction in LLMs via Structural-Prior Reinforcement Learning",
     "authors": "Pengxiang Cai, Zihao Gao, Wanchen Lian, Guocong Li, Jintai Chen",
     "coFirstAuthors": [],
     "correspondingAuthors": [
       "Jintai Chen"
     ],
     "paper": "https://openreview.net/pdf?id=pTunYUdPGz",
+    "homepage": "https://hkustgz-ml4health-lab.github.io/TabXLLM/",
+    "code": "https://github.com/HKUSTGZ-ML4Health-Lab/TabXLLM",
+    "model": "https://huggingface.co/conanca1/TabXLLM-8B",
+    "data": "https://huggingface.co/datasets/conanca1/TabXLLM",
     "tags": [
       "Tabular AI",
-      "Multimodal AI",
       "Learning Algorithms"
     ],
     "priority": 90
