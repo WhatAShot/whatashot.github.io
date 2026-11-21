@@ -316,6 +316,20 @@ window.PUBLICATIONS = [
   },
   {
     "year": 2024,
+    "venue": "Preprint",
+    "badge": "Preprint",
+    "title": "Quantum-inspired Reinforcement Learning for Synthesizable Drug Design",
+    "authors": "Dannong Wang, Jintai Chen, Yingzhou Lu, Minjie Shen, Lulu Chen, Zhiding Liang, Tianfan Fu, Xiao-Yang Liu",
+    "coFirstAuthors": [],
+    "correspondingAuthors": [],
+    "paper": "https://arxiv.org/abs/2409.09183",
+    "tags": [
+      "Learning Algorithms",
+      "Drug Design"
+    ]
+  },
+  {
+    "year": 2024,
     "venue": "Nature Communications",
     "badge": "Nature Communications",
     "title": "Congenital Heart Disease Detection by Pediatric Electrocardiogram Based Deep Learning Integrated with Human Concepts",
