@@ -25,9 +25,9 @@ window.PUBLICATIONS = [
       "venue": "Findings of EMNLP",
       "badge": "EMNLP · Findings",
       "title": "Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification",
-      "authors": "Jiahuan Yan, Haojun Gao, Zhang Kai, Weize Liu, Danny Chen, Jian Wu, Jintai Chen",
+      "authors": "Jiahuan Yan, Haojun Gao, Kai Zhang, Weize Liu, Danny Chen, Jian Wu, Jintai Chen",
       "coFirstAuthors": [],
-      "correspondingAuthors": [],
+      "correspondingAuthors": ["Jian Wu","Jintai Chen"],
       "paper": "https://aclanthology.org/2023.findings-emnlp.517/",
       "code": "https://github.com/jyansir/Text2Tree",
       "tags": [
@@ -79,7 +79,7 @@ window.PUBLICATIONS = [
       "title": "Curriculum Reinforcement Learning Can Incentivize Reasoning Capacity in LLMs Beyond the Base Model",
       "authors": "Pengxiang Cai, Tianchen Fang, Xiaohan Li, Qingyuan Zeng, Guocong Li, Jintai Chen",
       "coFirstAuthors": [],
-      "correspondingAuthors": [],
+      "correspondingAuthors": ["Jintai Chen"],
       "paper": "https://arxiv.org/abs/2606.22317",
       "tags": [
         "Learning Algorithms"
