@@ -99,7 +99,9 @@ window.PUBLICATIONS = [
       "title": "Don't Retrain, Just Reuse: Recovering Dual-Target Molecules from Single-Target Diffusion Models",
       "authors": "Qingyuan Zeng, Pengxiang Cai, Zixin Guan, Ziyang Chen, Anglin Liu, Lang Qin, Xinyao Lai, Jintai Chen",
       "coFirstAuthors": [],
-      "correspondingAuthors": [],
+      "correspondingAuthors": [
+        "Jintai Chen"
+      ],
       "paper": "https://arxiv.org/abs/2605.25681",
       "tags": [
         "Generative AI",
