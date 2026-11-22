@@ -11,7 +11,9 @@ window.PUBLICATIONS = [
       "title": "Ophiuchus: Incentivizing Tool-augmented “Think with Images” for Joint Medical Segmentation, Understanding and Reasoning",
       "authors": "Yankai Jiang, Yujie Zhang, Peng Zhang, Wenjie Li, Yichen Li, Jintai Chen, Xiaoming Shi, Shihui Zhen",
       "coFirstAuthors": [],
-      "correspondingAuthors": [],
+      "correspondingAuthors": [
+        "Shihui Zhen"
+      ],
       "paper": "https://proceedings.mlr.press/v306/jiang26bd.html",
       "code": "https://github.com/SII-zyj/Ophiuchus",
       "tags": [
