@@ -27,7 +27,10 @@ window.PUBLICATIONS = [
       "title": "Text2Tree: Aligning Text Representation to the Label Tree Hierarchy for Imbalanced Medical Classification",
       "authors": "Jiahuan Yan, Haojun Gao, Kai Zhang, Weize Liu, Danny Chen, Jian Wu, Jintai Chen",
       "coFirstAuthors": [],
-      "correspondingAuthors": ["Jian Wu","Jintai Chen"],
+      "correspondingAuthors": [
+        "Jian Wu",
+        "Jintai Chen"
+      ],
       "paper": "https://aclanthology.org/2023.findings-emnlp.517/",
       "code": "https://github.com/jyansir/Text2Tree",
       "tags": [
@@ -65,7 +68,9 @@ window.PUBLICATIONS = [
       "title": "PATH: Next-Interval Prediction via Autoregressive Tree Hierarchy on Tabular Data",
       "authors": "Pengxiang Cai, Wanchen Lian, Chenyang Liu, Xiaohan Li, Qingyuan Zeng, Jinhong Wang, Jintai Chen",
       "coFirstAuthors": [],
-      "correspondingAuthors": [],
+      "correspondingAuthors": [
+        "Jintai Chen"
+      ],
       "paper": "https://arxiv.org/abs/2608.08078",
       "tags": [
         "Tabular AI",
@@ -79,7 +84,9 @@ window.PUBLICATIONS = [
       "title": "Curriculum Reinforcement Learning Can Incentivize Reasoning Capacity in LLMs Beyond the Base Model",
       "authors": "Pengxiang Cai, Tianchen Fang, Xiaohan Li, Qingyuan Zeng, Guocong Li, Jintai Chen",
       "coFirstAuthors": [],
-      "correspondingAuthors": ["Jintai Chen"],
+      "correspondingAuthors": [
+        "Jintai Chen"
+      ],
       "paper": "https://arxiv.org/abs/2606.22317",
       "tags": [
         "Learning Algorithms"
