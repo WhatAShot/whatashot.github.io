@@ -14,13 +14,13 @@ window.ACADEMIC = {
     ["2023.04", "Collaborative Innovation Achievement Award, Zhejiang Industry–University–Research Collaboration Innovation and Promotion Awards"],
     ["2023.02", "Second Prize, Collaborative Innovation Achievement Award, China Industry–University–Research Institute Collaboration Association (Project: Key Technological Innovations and Applications in Intelligent Medical Image Processing)"],
     ["2023.02", "Second Prize, Science and Technology Progress Award, Chinese Institute of Electronics"],
-    ["2022.10", "Huawei Fundamental Research Award (Top 3%)"],
-    ["2021.10", "Tencent Doctoral Research Award (Top 1%)"],
+    ["2022.10", "Huawei Fundamental Research Scholarship (Top 3%)"],
+    ["2021.10", "Tencent Doctoral Research Scholarship (Top 1%)"],
     ["2021.10", "National Scholarship of China (Top 1%)"],
     ["2020.10", "Outstanding Doctoral Student Award (Top 3%)"],
     ["2019.10", "Doctoral Freshman Research Award (Top 3%)"],
     ["2016.10", "Chinese Bank Scholarship (Top 1%)"],
-    ["2015.10", "National Scholarship (Top 1%)"]
+    ["2015.10", "National Scholarship of China (Top 1%)"]
   ],
   honorsZh: [
     ["2026.10","2026 斯坦福/Elsevier 全球前2%科学家（单年度影响力）"],
